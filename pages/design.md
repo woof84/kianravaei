@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
+title: "List of works"
 subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
