@@ -1,22 +1,15 @@
 - title: "Home"
   url: "/"
-  side: left
-  class: icon-home
+  side: right
 
 - title: "Works"
   url: "/works/"
-  side: left
+  side: right
 
 - title: "Performances"
   url: "/performances/"
-  side: left
+  side: right
 
 - title: "Contact"
   url: "/contact/"
-  side: left
-  
-- name: Soundcloud
-  url: http://soundcloud.com/kianravaei
-  class: icon-soundcloud
-  title: ""
   side: right
