@@ -17,7 +17,7 @@ slogan: 'Composer'
 description: 'Official site of composer Kian Ravaei. Biography, list of works, recordings, upcoming performances, press and more.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>© 2020 by Kian Ravaei. All Rights Reserved.</p>'
+credits: 
 
 # Main author of the website
 # See > authors.yml

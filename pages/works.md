@@ -8,8 +8,8 @@ header: no
 permalink: "/works/"
 ---
 
-{% for post in site.categories.works %}
-<div class="panel radius b20">
-    <p style="text-align:left;"><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span style="float:right;"> {{ post.year_composed }}/For {{ post.instrumentation }}</span></p>
-</div>
+<ul class="side-nav">
+    {% for post in site.categories.works %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong><br><span style="color: #000000;">{{ post.year_composed }}/For {{ post.instrumentation }}</span></a></li>
 {% endfor %}
+</ul>
