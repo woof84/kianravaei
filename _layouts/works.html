@@ -65,14 +65,20 @@ format: works
             <div class="panel radius">
                 <h3>Categories</h3>
                 {% assign already_printed = "" | split: "" %}
-                <ul class="no-bullet">
+                {% assign sorted_post = "" | split: "" %}
                 {% for post in site.categories.works %}
                 {% unless already_printed contains post.category_music %}
-                <li><a href="{{ site.url }}{{ site.baseurl }}/works-{{ post.category_music | replace: " ", "-" | downcase}}/">{{ post.category_music }}</a></li>
+                {%- assign sorted_post = sorted_post | push: post.category_music %}
                 {%- assign already_printed = already_printed | push: post.category_music %}
                 {% endunless %}
                 {% endfor %}
+                {%- assign sorted_post = sorted_post | sort: title %}
+                <ul class="no-bullet">
+                {% for category in sorted_post %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | downcase}}/">{{ category }}</a></li>
+                {% endfor %}
                 </ul>
+                
             </div>
         </aside>
     </div><!-- /.medium-4.columns -->

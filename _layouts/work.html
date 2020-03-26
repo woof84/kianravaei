@@ -61,49 +61,30 @@ format: work
             <div class="panel radius">
                 <h3>Details</h3>
                 {% if page.instrumentation %}
-                <p>For {{ page.instrumentation }}<br>
+                <ul class="no-bullet">
+                    <li>For {{ page.instrumentation }}</li>
                     {% endif %}
                     {% if page.category_music %}
-                    <strong>Category:</strong> {{ page.category_music }}<br>
+                    <li><strong>Category:</strong> {{ page.category_music }}</li>
                     {% endif %}
                     {% if page.year_composed %}
-                    <strong>Year Composed:</strong> {{ page.year_composed }}<br>
+                    <li><strong>Year Composed:</strong> {{ page.year_composed }}</li>
                     {% endif %}
                     {% if page.duration %}
-                    <strong>Duration: </strong>{{ page.duration }}<br>
+                    <li><strong>Duration: </strong>{{ page.duration }}</li>
                     {% endif %}
                     {% if page.orchestration %}
-                    <strong>Orchestration:</strong> {{ page.orchestration }}<br>
+                    <li><strong>Orchestration:</strong> {{ page.orchestration }}</li>
                     {% endif %}
                     {% if page.text_writer %}
-                    <strong>Text Writer:</strong> {{ page.text_writer }}<br>
+                    <li><strong>Text Writer:</strong> {{ page.text_writer }}</li>
                     {% endif %}
                     {% if page.language %}
-                    <strong>Language:</strong> {{ page.language }}</p>
-                {% endif %}
+                    <li><strong>Language:</strong> {{ page.language }}</li>
+                    {% endif %}
+                </ul>
             </div>
-
-            {% if page.performances %}
-            <div class="panel radius">
-                <h3>Performances</h3>
-                {% for item in page.performances %}
-                <p><strong>{{ item.performance_date }}</strong><br>
-                    {% if item.performance_title %}
-                    {{ item.performance_title }}<br>
-                    {% endif %}
-                    {% if item.venue %}
-                    {{ item.venue }}<br>
-                    {% endif %}
-                    {% if item.city_state %}
-                    {{ item.city_state }}<br>
-                    {% endif %}
-                    {% if item.performers %}
-                    {{ item.performers }}</p>
-                {% endif %}
-                {% endfor %}
-            </div>
-            {% endif %}
-
+            
             {% if page.awards %}
             <div class="panel radius">
                 <h3>Awards</h3>
@@ -115,6 +96,29 @@ format: work
                     {% if item.award_rank %}<br>
                     <i>{{ item.award_rank }}</i></span>
                     {% endif %}
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if page.performances %}
+            <div class="panel radius">
+                <h3>Performances</h3>
+                {% for item in page.performances %}
+                <ul class="no-bullet">
+                    <li><strong>{{ item.performance_date }}</strong></li>
+                    {% if item.performance_title %}
+                    <li>{{ item.performance_title }}</li>
+                    {% endif %}
+                    {% if item.venue %}
+                    <li>{{ item.venue }}</li>
+                    {% endif %}
+                    {% if item.city_state %}
+                    <li>{{ item.city_state }}</li>
+                    {% endif %}
+                    {% if item.performers %}
+                    <li>{{ item.performers }}</li>
+                    {% endif %}
+                    </ul>
                 {% endfor %}
             </div>
             {% endif %}
