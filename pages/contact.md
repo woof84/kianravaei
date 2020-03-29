@@ -5,7 +5,7 @@ header: no
 permalink: "/contact/"
 ---
 
-<p class="teaser">For all inquiries, please fill out the contact form or send an email to <b><nobr>kianravaei</nobr> [at] ucla [dot] edu</b>.</p>
+<p class="teaser" style="-moz-hyphens: none; -ms-hyphens: none; -webkit-hyphens: none; hyphens:none;">For all inquiries, please fill out the contact form or send an email to <b>kianravaei [at] ucla [dot] edu</b>.</p>
 
 <form method="POST"
   action="https://api.slapform.com/kianravaei@ucla.edu">

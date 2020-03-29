@@ -597,7 +597,13 @@ slapform.submit({
   console.log('This always runs!', response);
 });
 
-nobr  {  white-space: nowrap;  hyphens: none;  }
+.nobr  {  
+    white-space: nowrap;  
+    -moz-hyphens:none;
+    -ms-hyphens:none;
+    -webkit-hyphens: none;
+    hyphens: none;
+}
 
 #masthead-with-text {
     text-align: center;
