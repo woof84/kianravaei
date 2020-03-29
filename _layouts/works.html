@@ -75,7 +75,7 @@ format: works
                 {%- assign sorted_post = sorted_post | sort: title %}
                 <ul class="no-bullet">
                 {% for category in sorted_post %}
-                    <li><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | downcase}}/">{{ category }}</a></li>
+                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}
                 </ul>
                 
