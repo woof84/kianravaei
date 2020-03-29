@@ -13,7 +13,7 @@ homepage: true
 
 <div class="row t60">
     <div class="large-12 columns">
-        <p style="font-size: 20px;">Born (1999) and raised in Los Angeles, composer <strong>Kian Ravaei</strong> has written for a variety of ensembles ranging from chamber to choral to orchestral. His recent work aims to shed light upon political events past and present, addressing topics such as national identity, migration, and commercialism. <a href="{{ site.url }}{{ site.baseurl }}/works/">Full Bio ></a></p>
+        <p style="font-size: 20px;">Born (1999) and raised in Los Angeles, composer <strong>Kian Ravaei</strong> has written for a variety of ensembles ranging from chamber to choral to orchestral. His recent work aims to shed light upon political events past and present, addressing topics such as national identity, migration, and commercialism. <a href="{{ site.url }}{{ site.baseurl }}/about/">Full Bio ></a></p>
 	</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <div class="row">
