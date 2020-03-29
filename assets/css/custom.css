@@ -15,6 +15,12 @@ body {
     background: rgba(228,228,228,0.5);
 }
 
+.panel.radius2 {
+    border-radius: 20px;
+    background: rgba(228,228,228,0.5);
+    border-color: #000000;
+}
+
 .top-bar-section ul li {
     background: #fdfdfd
 }
@@ -590,3 +596,31 @@ slapform.submit({
 .always(function (response) { // This function runs regardless of success or error
   console.log('This always runs!', response);
 });
+
+nobr  {  white-space: nowrap;  hyphens: none;  }
+
+#masthead-with-text {
+    text-align: center;
+    font-size: rem-calc(54);
+    font-family: $header-font-family;
+    color: #fff;
+    text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.custom-site-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 641px) {
+  .custom-site-title {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .custom-site-title {
+    font-size: 60px;
+  }
+}
+

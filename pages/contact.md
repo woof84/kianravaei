@@ -9,12 +9,12 @@ permalink: "/contact/"
 
 <form method="POST"
   action="https://api.slapform.com/kianravaei@ucla.edu">
-  <p style="line-height: 20%;"><strong>Name</strong></p>
+  <p><strong>Name</strong></p>
   <input type="text" name="name">
-  <p style="line-height: 20%;"><strong>Email</strong></p>
+  <p><strong>Email</strong></p>
   <input type="email" name="email">
   <input type="text" name="slap_honey" type="hidden">
-  <p style="line-height: 20%;"><strong>Message</strong></p>
+  <p><strong>Message</strong></p>
   <textarea type="text" name="message"></textarea>
   <button type="submit">Submit</button>
 </form>

@@ -35,7 +35,7 @@ performances:
     performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
 header: no
 ---
-<div class="row t30">
+<div class="row">
 	<div class="large-5 columns">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
