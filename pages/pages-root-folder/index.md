@@ -2,26 +2,14 @@
 layout: default
 header: no
 permalink: /index.html
+header:
+    image_fullwidth: kian_homepage.jpg
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 homepage: true
 ---
-
-
-<div id="masthead-with-text" style="background: rgba(17,38,91,0.5);">
-	<div class="row">
-		<div class="large-12 columns">
-            <header>
-            <div itemprop="name" class="text-center t1" style="background: rgba(214,221,232); border-radius: 20px;">
-					<h1 class="custom-site-title">KIAN RAVAEI</h1>
-                    <p style="letter-spacing: 2px; font-weight: bold; font-family: 'Ariel', sans-serif; text-shadow: 0 1px 2px rgba(0,0,0,.4); color: black">[<a href="https://en.wikipedia.org/wiki/Voiceless_velar_stop" target="_blank">k</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Voiced_palatal_approximant" target="_blank">j</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_nasals" target="_blank">n</a> <a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps" target="_blank">&#638;</a><a href="https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel" target="_blank">&#230;</a><a href="https://en.wikipedia.org/wiki/Voiced_labiodental_fricative" target="_blank">v</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a>]<br>&nbsp;</p>
-            </div>
-        </header>
-		</div><!-- /.small-12.columns -->
-	</div><!-- /.row -->
-</div><!-- /#masthead -->
 
 <div class="row t60">
     <div class="large-12 columns">
