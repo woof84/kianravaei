@@ -7,6 +7,7 @@ performances:
     performance_title: The Book of Etiquette
     venue: N.E.O. Voice Festival
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
+    url: http://www.neovoicefestival.com/
   - performance_date: 5 MAR 2020
     performance_title: Marvels of Creatures and Strange Things Existing (excerpts) - Reading
     venue: UCLA
@@ -50,7 +51,7 @@ header: no
                 <ul class="no-bullet">
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% if item.performance_title %}
-                    <li>{{ item.performance_title }}</li>
+                    <li>{% for work in site.works %}{% if item.performance_title contains work.title %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endif %}{% endfor %}{{ item.performance_title }}{% for work in site.works %}{% if item.performance_title contains work.title %}</a>{% endif %}{% endfor %}</li>
                     {% endif %}
                     {% if item.venue %}
                     <li>{{ item.venue }}</li>
@@ -60,6 +61,9 @@ header: no
                     {% endif %}
                     {% if item.performers %}
                     <li>{{ item.performers }}</li>
+                    {% endif %}
+                    {% if item.url %}
+                    <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
                     {% endif %}
                 </ul>
                 {% endif %}
@@ -81,7 +85,7 @@ header: no
                 <ul class="no-bullet">
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% if item.performance_title %}
-                    <li>{{ item.performance_title }}</li>
+                    <li>{% for work in site.works %}{% if item.performance_title contains work.title %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endif %}{% endfor %}{{ item.performance_title }}{% for work in site.works %}{% if item.performance_title contains work.title %}</a>{% endif %}{% endfor %}</li>
                     {% endif %}
                     {% if item.venue %}
                     <li>{{ item.venue }}</li>
@@ -91,6 +95,9 @@ header: no
                     {% endif %}
                     {% if item.performers %}
                     <li>{{ item.performers }}</li>
+                    {% endif %}
+                    {% if item.url %}
+                    <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
                     {% endif %}
                 </ul>
                 {% endif %}

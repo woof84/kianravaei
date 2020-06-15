@@ -21,7 +21,11 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
-
+{% if page.homepage == true %}
+    <script>
+    $.backstretch("{{ site.urlimg }}kian_homepage2_dark.jpeg", {fade: 700});
+</script>
+{% endif %}
 
 {% if site.google_analytics_tracking_id %}
 <script>

@@ -672,3 +672,21 @@ h6 {
 }
 
 
+/*Footer colors*/
+
+#footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: #7E7E7E;
+    color: #fff
+}
+
+#footer a {
+    color: #AFD1E5;
+}
+
+a {
+    color: #334D5C;
+    text-decoration: none;
+    line-height: inherit
+}

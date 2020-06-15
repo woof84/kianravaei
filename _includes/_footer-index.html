@@ -1,0 +1,90 @@
+<footer id="footer-content" class="bg-grau">
+
+    <!--delete comments on right for larger footer-->
+
+
+    <div id="footer">
+        <div class="row">
+            <div class="medium-6 large-5 columns">
+                <h5 class="shadow-black">About</h5>
+
+                <p class="shadow-black">
+                    Kian Ravaei (b. 1999) is a Los Angeles-based composer.
+                    <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a>
+                </p>
+            </div><!-- /.large-6.columns -->
+
+            <!--Featured Works-->
+
+            <div class="small-6 medium-3 large-3 large-offset-1 columns">
+                <h5 class="shadow-black">Featured Works</h5>
+
+                <ul class="no-bullet shadow-black">
+                    {% for item in page.featured-works %}
+                    {% for work in site.works %}
+                    {% if work.title == item.featured-work %}
+                    <li>
+                        <a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a> for {{work.instrumentation}}
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endfor %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/works/" style="float:right;">{{ site.data.language.more }}</a></li>
+                </ul>
+            </div><!-- /.large-4.columns -->
+
+            <!--Performances-->
+
+            <div class="small-6 medium-3 large-3 columns">
+                <h5 class="shadow-black">Performances</h5>
+
+                <ul class="no-bullet shadow-black">
+                    {% for page in site.pages %}
+                    {% if page.title == "Performances" %}
+                    {% for item in page.performances limit: 1 %}
+
+                    
+                    <li><strong>{{ item.performance_date }}</strong></li>
+                    {% if item.performance_title %}
+                    <li>{% for work in site.works %}{% if item.performance_title contains work.title %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endif %}{% endfor %}{{ item.performance_title }}{% for work in site.works %}{% if item.performance_title contains work.title %}</a>{% endif %}{% endfor %}</li>
+                    {% endif %}
+                    {% if item.venue %}
+                    <li>{{ item.venue }}</li>
+                    {% endif %}
+                    {% if item.city_state %}
+                    <li>{{ item.city_state }}</li>
+                    {% endif %}
+                    {% if item.performers %}
+                    <li>{{ item.performers }}</li>
+                    {% endif %}
+                    {% if item.url %}
+                    <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                    {% endfor %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/performances/" style="float:right;">{{ site.data.language.more }}</a></li>
+                </ul>
+            </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+    </div><!-- /#footer -->
+
+    <!--Subfooter-->
+
+    <div id="subfooter">
+        <nav class="row">
+            <section id="subfooter-left" class="small-12 medium-6 columns credits">
+                <p>© {{ 'now' | date: "%Y" }} by Kian Ravaei. All Rights Reserved.</p>
+            </section>
+
+            <section id="subfooter-right" class="small-12 medium-6 columns">
+                <ul class="inline-list social-icons">
+                    {% for social_item in site.data.socialmedia %}
+                    <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+                    {% endfor %}
+                </ul>
+            </section>
+        </nav>
+    </div><!-- /#subfooter -->
+</footer>
