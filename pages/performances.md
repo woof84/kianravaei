@@ -50,8 +50,16 @@ header: no
                 <hr>
                 <ul class="no-bullet">
                     <li><strong>{{ item.performance_date }}</strong></li>
-                    {% if item.performance_title %}
-                    <li>{% for work in site.works %}{% if item.performance_title contains work.title %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endif %}{% endfor %}{{ item.performance_title }}{% for work in site.works %}{% if item.performance_title contains work.title %}</a>{% endif %}{% endfor %}</li>
+                    {% for work in site.works %}
+                    {% if item.performance_title contains work.title %}
+                    {% capture not-title %}
+                    {{ item.performance_title | remove: work.title }}
+                    {% endcapture %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if not-title == NULL %}
+                    <li>{{ item.performance_title }}</li>
                     {% endif %}
                     {% if item.venue %}
                     <li>{{ item.venue }}</li>
@@ -84,8 +92,16 @@ header: no
                 <hr>
                 <ul class="no-bullet">
                     <li><strong>{{ item.performance_date }}</strong></li>
-                    {% if item.performance_title %}
-                    <li>{% for work in site.works %}{% if item.performance_title contains work.title %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endif %}{% endfor %}{{ item.performance_title }}{% for work in site.works %}{% if item.performance_title contains work.title %}</a>{% endif %}{% endfor %}</li>
+                    {% for work in site.works %}
+                    {% if item.performance_title contains work.title %}
+                    {% capture not-title %}
+                    {{ item.performance_title | remove: work.title }}
+                    {% endcapture %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if not-title == NULL %}
+                    <li>{{ item.performance_title }}</li>
                     {% endif %}
                     {% if item.venue %}
                     <li>{{ item.venue }}</li>
