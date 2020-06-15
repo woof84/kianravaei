@@ -1,4 +1,4 @@
-{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL and page.header.image_fullwidth == NULL %}
+{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL and page.header.image_fullwidth == NULL and layout.header.image_fullwidth_staff == NULL %}
 
 <div id="masthead-no-image-header">
 	<div class="row">
@@ -66,10 +66,10 @@
 {% include _breadcrumb.html %}
 {% endif %}
 
-{% elsif page.header.image_fullwidth_staff %}
+{% elsif layout.header.image_fullwidth_staff %}
 
 <div id="masthead-staff">
-	<div class="row">
+	<div class="row" style="margin-top:10px;">
 		<div class="small-12 columns">
 <!--
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">

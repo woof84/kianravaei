@@ -4,6 +4,7 @@ title: "The Book of Etiquette"
 instrumentation: soprano &amp; piano
 year_composed: 2020
 category_music: Voice &amp; Instrument
+duration: 4'
 header: no
 ---
 

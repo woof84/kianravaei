@@ -6,7 +6,7 @@
         height: 300px;
     }
     #masthead-staff {
-        height: 300px;
+        height: 100px;
     }
 }
 
@@ -18,7 +18,7 @@
         height: 450px;
     }
     #masthead-staff {
-        height: 450px;
+        height: 100px;
     }
 }
 
@@ -27,7 +27,7 @@
 
 @media #{$large-only} {
     #masthead {
-        height: 300px;
+        height: 600px;
     }
     #masthead-staff {
         height: 150px;
@@ -40,7 +40,7 @@
 
 @media #{$xlarge-up} {
     #masthead {
-        height: 300px;
+        height: 600px;
     }
     #masthead-staff {
         height: 150px;

@@ -15,9 +15,9 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
-{% if page.header.image_fullwidth_staff %}
+{% if layout.header.image_fullwidth_staff %}
 <script>
-    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
+    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ layout.header.image_fullwidth_staff }}", {fade: 700});
 </script>
 {% endif %}
 

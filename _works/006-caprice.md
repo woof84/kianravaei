@@ -5,7 +5,7 @@ instrumentation: violin &amp; cello
 year_composed: 2020
 category_music: Chamber Music
 duration: 4'
-orchestration: vn. &amp; vlc.
+orchestration: vln. &amp; vlc.
 header: no
 ---
 

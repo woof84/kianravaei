@@ -47,7 +47,7 @@ homepage: true
         <p style="text-align: right">&nbsp;<br><a href="{{ site.url }}{{ site.baseurl }}/performances/">All Performances ></a></p>
     </div>
     <div class="medium-6 columns medium-pull-6">
-        <h2 style="text-align: center">Recent Works</h2>
+        <h2 style="text-align: center">Featured Works</h2>
         <ul class="side-nav">
         {% for post in site.works limit: 3 %}
         <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong><br><span style="color: #000000;">{{ post.year_composed }}/For {{ post.instrumentation }}</span></a></li>
