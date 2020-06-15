@@ -4,7 +4,8 @@ sidebar: right
 show_meta: false
 title: "Works"
 subheadline: All
-header: no
+header:
+    image_fullwidth: Kian_Header_idea_5.png
 permalink: "/works/"
 ---
 

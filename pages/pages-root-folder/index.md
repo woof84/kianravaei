@@ -1,9 +1,8 @@
 ---
 layout: default
-header: no
 permalink: /index.html
 header:
-    image_fullwidth: Kian_Header_idea_3.png
+    image_fullwidth: Kian_Header_idea_6.png
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
