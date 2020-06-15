@@ -27,11 +27,13 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+
 {% if page.title == "Performances" %}
     <script>
-    $.backstretch("{{ site.urlimg }}gif-test.gif", {fade: 700});
+    $("#masthead-performances").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
 </script>
 {% endif %}
+
 
 {% if site.google_analytics_tracking_id %}
 <script>

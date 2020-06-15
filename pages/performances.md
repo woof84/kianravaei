@@ -33,7 +33,8 @@ performances:
     venue: Montecito Music Festival
     city_state: Los Angeles, CA
     performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
-header: no
+header:
+    image_fullwidth_staff: gif-test.gif
 ---
 <div class="row">
 	<div class="large-5 columns">
