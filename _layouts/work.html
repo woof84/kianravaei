@@ -58,6 +58,9 @@ header:
                 {% if page.language %}
                 <li><strong>Language:</strong> {{ page.language }}</li>
                 {% endif %}
+                {% if page.score_url %}
+                <li><a href="{{ page.score_url }}" target="_blank">View Score ›</a></li>
+                {% endif %}
             </ul>
         </div>
 
@@ -69,7 +72,13 @@ header:
             {% for item in page.awards %}
             <span><strong>{{ item.award_year }}</strong>
                 {% if item.award_title %}<br>
+                {% if item.award_url %}
+                <a href="{{ item.award_url }}" target="_blank">
+                {% endif %}
                 {{ item.award_title }}
+                {% if item.award_url %}
+                </a>
+                {% endif %}
                 {% endif %}
                 {% if item.award_rank %}<br>
                 <i>{{ item.award_rank }}</i></span>

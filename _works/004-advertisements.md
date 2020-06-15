@@ -5,8 +5,14 @@ instrumentation: baritone &amp; guitar
 category_music: Voice &amp; Instrument
 year_composed: 2020
 duration: 7'
-orchestration: awegage
+orchestration: bar &amp; gtr
 language: English
+score_url: https://escholarship.org/uc/item/22d189td
+awards:
+    - award_year: 2020
+    - award_title: UCLA Library Prize for Undergraduate Research
+    - award_rank: Best Project on Music After 1900
+    - award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
 header: no
 ---
 
@@ -19,3 +25,7 @@ They appear on television or a billboard for a few weeks and then disappear fore
 Music has a unique power of coloring words, bringing out innuendoes that may not have been noticed otherwise. I tried to leverage this power to reveal the macabre, irony, and pathos inherent in advertisements.
 
 This song cycle, written for guitarist Eliot Fisk and baritone Daniel Bayot, sets five early American print advertisements found in nationally disseminated magazines and local newspapers. Fear-mongering, hypocrisy, and tactics of manipulation are made audible through music that ranges from disturbing to ludicrous. (The fifth and final movement, however, offers a rare moment of sincerity.)
+
+<div class="center">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fuclalibrary%2Fvideos%2F866026133918646%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>

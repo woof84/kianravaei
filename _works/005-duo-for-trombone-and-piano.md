@@ -5,6 +5,7 @@ instrumentation: trombone &amp; piano
 year_composed: 2020
 category_music: Chamber Music
 duration: 5'
+orchestration: tbn/pf
 header: no
 ---
 

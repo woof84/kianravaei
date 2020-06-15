@@ -5,6 +5,7 @@ instrumentation: soprano &amp; piano
 year_composed: 2020
 category_music: Voice &amp; Instrument
 duration: 4'
+orchestration: sop &amp; pf
 header: no
 ---
 
