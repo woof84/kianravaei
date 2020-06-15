@@ -25,8 +25,8 @@ homepage: true
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
+                <hr>
                 <ul class="no-bullet">
-                    <li>&nbsp;</li>
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% if item.performance_title %}
                     <li>{{ item.performance_title }}</li>
@@ -41,7 +41,6 @@ homepage: true
                     <li>{{ item.performers }}</li>
                     {% endif %}
                 </ul>
-                <ul class="side-nav"><li class="divider"></li></ul>
                 {% endif %}
                 {% endfor %}
                     {% endif %}
@@ -51,7 +50,7 @@ homepage: true
     <div class="medium-6 columns medium-pull-6">
         <h2 style="text-align: center">Recent Works</h2>
         <ul class="side-nav">
-        {% for post in site.categories.works limit: 3 %}
+        {% for post in site.works limit: 3 %}
         <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong><br><span style="color: #000000;">{{ post.year_composed }}/For {{ post.instrumentation }}</span></a></li>
         {% endfor %}
         </ul>

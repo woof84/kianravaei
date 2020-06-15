@@ -3,9 +3,9 @@ layout: works
 sidebar: right
 show_meta: false
 title: "Works"
-subheadline: Chamber Music
+subheadline: Voice &amp; Instrument
 header: no
-permalink: "/works-chamber-music/"
+permalink: "/works-voice-and-instrument/"
 ---
 
 {% include _works-list.html %}

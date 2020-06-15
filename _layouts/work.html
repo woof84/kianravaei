@@ -2,128 +2,113 @@
 layout: default
 format: work
 ---
+
+<!--Title-->
 <div class="row t30">
     <div class="medium-8 columns medium-push-4">
-        <article itemscope itemtype="http://schema.org/Article">
-            <header>
-                <!--{% if page.image.title %}
-				<figure>
-					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
-
-					{% if page.image.caption_url and page.image.caption %}
-					<figcaption class="text-right">
-						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
-					</figcaption>
-					{% elsif page.image.caption %}
-					<figcaption class="text-right">
-						{{ page.image.caption }}
-					</figcaption>
-					{% endif %}
-				</figure>
-				{% endif %}-->
-
-                <div itemprop="name">
-                    <h1>{{ page.title }}</h1>
-                    {% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-                </div>
-            </header>
-
-
-            {% if page.teaser %}
-            <p class="teaser" itemprop="description">
-                {{ page.teaser }}
-            </p>
-            {% endif %}
-
-            <div itemprop="articleSection">
-                {{ content }}
+        <header>
+            <div itemprop="name">
+                <h1>{{ page.title }}</h1>
+                {% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
             </div>
-            
-            {% for item in page.soundcloud %}
-            {% if item.url %}
-            <iframe width="100%" height="200" scrolling="no" frameborder="no" src="{{ item.url }}"></iframe>
-            {% endif %}
-            {% endfor %}
-            
-            {% if page.show_meta == true %}
-            {% include _meta_information.html %}
-            {% endif %}
+        </header>
 
-            {% if page.comments == true %}
-            {% include _comments.html %}
-            {% endif %}
-        </article>
+<!--Text content-->
+        <div>
+            {{ content }}
+        </div>
+
+        <!--Soundcloud-->
+
+        {% for item in page.soundcloud %}
+        {% if item.url %}
+        <iframe width="100%" height="200" scrolling="no" frameborder="no" src="{{ item.url }}"></iframe>
+        {% endif %}
+        {% endfor %}
+
     </div><!-- /.medium-8.columns -->
 
 
+    <!--Details-->
+
     <div class="medium-4 columns medium-pull-8">
-        <aside>
-            <div class="panel radius">
-                <h3>Details</h3>
-                {% if page.instrumentation %}
-                <ul class="no-bullet">
-                    <li>For {{ page.instrumentation }}</li>
-                    {% endif %}
-                    {% if page.category_music %}
-                    <li><strong>Category:</strong> {{ page.category_music }}</li>
-                    {% endif %}
-                    {% if page.year_composed %}
-                    <li><strong>Year Composed:</strong> {{ page.year_composed }}</li>
-                    {% endif %}
-                    {% if page.duration %}
-                    <li><strong>Duration: </strong>{{ page.duration }}</li>
-                    {% endif %}
-                    {% if page.orchestration %}
-                    <li><strong>Orchestration:</strong> {{ page.orchestration }}</li>
-                    {% endif %}
-                    {% if page.text_writer %}
-                    <li><strong>Text Writer:</strong> {{ page.text_writer }}</li>
-                    {% endif %}
-                    {% if page.language %}
-                    <li><strong>Language:</strong> {{ page.language }}</li>
-                    {% endif %}
-                </ul>
-            </div>
-            
-            {% if page.awards %}
-            <div class="panel radius">
-                <h3>Awards</h3>
-                {% for item in page.awards %}
-                <span><strong>{{ item.award_year }}</strong>
-                    {% if item.award_title %}<br>
-                    {{ item.award_title }}
-                    {% endif %}
-                    {% if item.award_rank %}<br>
-                    <i>{{ item.award_rank }}</i></span>
-                    {% endif %}
-                {% endfor %}
-            </div>
+        <div class="panel radius">
+            <h3>Details</h3>
+            {% if page.instrumentation %}
+            <ul class="no-bullet">
+                <li>For {{ page.instrumentation }}</li>
+                {% endif %}
+                {% if page.category_music %}
+                <li><strong>Category:</strong> {{ page.category_music }}</li>
+                {% endif %}
+                {% if page.year_composed %}
+                <li><strong>Year Composed:</strong> {{ page.year_composed }}</li>
+                {% endif %}
+                {% if page.duration %}
+                <li><strong>Duration: </strong>{{ page.duration }}</li>
+                {% endif %}
+                {% if page.orchestration %}
+                <li><strong>Orchestration:</strong> {{ page.orchestration }}</li>
+                {% endif %}
+                {% if page.text_writer %}
+                <li><strong>Text Writer:</strong> {{ page.text_writer }}</li>
+                {% endif %}
+                {% if page.language %}
+                <li><strong>Language:</strong> {{ page.language }}</li>
+                {% endif %}
+            </ul>
+        </div>
+
+        <!--Awards-->
+
+        {% if page.awards %}
+        <div class="panel radius">
+            <h3>Awards</h3>
+            {% for item in page.awards %}
+            <span><strong>{{ item.award_year }}</strong>
+                {% if item.award_title %}<br>
+                {{ item.award_title }}
+                {% endif %}
+                {% if item.award_rank %}<br>
+                <i>{{ item.award_rank }}</i></span>
             {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
 
-            {% if page.performances %}
-            <div class="panel radius">
-                <h3>Performances</h3>
-                {% for item in page.performances %}
-                <ul class="no-bullet">
-                    <li><strong>{{ item.performance_date }}</strong></li>
-                    {% if item.performance_title %}
-                    <li>{{ item.performance_title }}</li>
-                    {% endif %}
-                    {% if item.venue %}
-                    <li>{{ item.venue }}</li>
-                    {% endif %}
-                    {% if item.city_state %}
-                    <li>{{ item.city_state }}</li>
-                    {% endif %}
-                    {% if item.performers %}
-                    <li>{{ item.performers }}</li>
-                    {% endif %}
-                    </ul>
-                {% endfor %}
-            </div>
+        <!--Performances-->
+
+        {% for search in site.pages %}
+        {% if search.title == "Performances" %}
+        {% for item in search.performances %}
+        {% if item.performance_title contains page.title %}
+        <div class="panel radius">
+            <h3>Performances</h3>
+            {% break %}
             {% endif %}
+            {% endfor %}
+            {% for item in search.performances %}
+            {% if item.performance_title contains page.title %}
+            <ul class="no-bullet">
+                <li><strong>{{ item.performance_date }}</strong></li>
+                {% if item.performance_title %}
+                <li>{{ item.performance_title }}</li>
+                {% endif %}
+                {% if item.venue %}
+                <li>{{ item.venue }}</li>
+                {% endif %}
+                {% if item.city_state %}
+                <li>{{ item.city_state }}</li>
+                {% endif %}
+                {% if item.performers %}
+                <li>{{ item.performers }}</li>
+                {% endif %}
+            </ul>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+        </div>
 
-        </aside>
-    </div>
-
-</div><!-- /.row -->
+    </div><!-- /.row -->
+</div>

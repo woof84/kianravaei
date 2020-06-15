@@ -66,7 +66,7 @@ format: works
                 <h3>Categories</h3>
                 {% assign already_printed = "" | split: "" %}
                 {% assign sorted_post = "" | split: "" %}
-                {% for post in site.categories.works %}
+                {% for post in site.works %}
                 {% unless already_printed contains post.category_music %}
                 {%- assign sorted_post = sorted_post | push: post.category_music %}
                 {%- assign already_printed = already_printed | push: post.category_music %}
@@ -75,7 +75,7 @@ format: works
                 {%- assign sorted_post = sorted_post | sort: title %}
                 <ul class="no-bullet">
                 {% for category in sorted_post %}
-                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | downcase}}/">{{ category }}</a></strong></li>
+                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}
                 </ul>
                 

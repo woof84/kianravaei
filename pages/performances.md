@@ -4,10 +4,9 @@ title: "Performances"
 permalink: "/performances/"
 performances:
   - performance_date: 24 JUL 2020
-    performance_title: New Work for Voice
+    performance_title: The Book of Etiquette
     venue: N.E.O. Voice Festival
-    city_state: First Congregational Church L.A.
-    performers: TBD
+    performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
   - performance_date: 5 MAR 2020
     performance_title: Marvels of Creatures and Strange Things Existing (excerpts) - Reading
     venue: UCLA
@@ -37,19 +36,18 @@ header: no
 ---
 <div class="row">
 	<div class="large-5 columns">
-		<article itemscope itemtype="http://schema.org/Article">
 			<header>
-				<div itemprop="name" class="text-center">
+				<div class="text-center">
 					<h2>Upcoming Performances</h2>
 				</div>
 			</header>
-            <div itemprop="articleSection">
+            <div>
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.performances %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
+                <hr>
                 <ul class="no-bullet">
-                    <li>&nbsp;</li>
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% if item.performance_title %}
                     <li>{{ item.performance_title }}</li>
@@ -64,26 +62,23 @@ header: no
                     <li>{{ item.performers }}</li>
                     {% endif %}
                 </ul>
-                <ul class="side-nav"><li class="divider"></li></ul>
                 {% endif %}
                 {% endfor %}
             </div>
-		</article>
 	</div><!-- /.medium-6.columns -->
     <div class="large-5 columns">
-        <aside>
             <header>
 				<div itemprop="name" class="text-center">
 					<h2>Recent Performances</h2>
 				</div>
 			</header>
-            <div itemprop="articleSection">
+            <div>
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.performances %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
+                <hr>
                 <ul class="no-bullet">
-                    <li>&nbsp;</li>
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% if item.performance_title %}
                     <li>{{ item.performance_title }}</li>
@@ -98,10 +93,8 @@ header: no
                     <li>{{ item.performers }}</li>
                     {% endif %}
                 </ul>
-                <ul class="side-nav"><li class="divider"></li></ul>
                 {% endif %}
                 {% endfor %}
             </div>
-        </aside>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

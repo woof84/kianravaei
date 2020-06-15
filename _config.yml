@@ -271,3 +271,9 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+# Works collections
+
+collections:
+    works:
+        output: true

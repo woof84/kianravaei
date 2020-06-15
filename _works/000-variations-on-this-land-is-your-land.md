@@ -5,24 +5,11 @@ layout: work
 #
 title: Variations on &quot;This Land is Your Land&quot;
 meta_title: "Variations on This Land is Your Land"
-categories:
-  - works
 instrumentation: violin and piano
 category_music: Chamber Music
 year_composed: 2019
-duration: 7 minutes
+duration: 7'
 orchestration: vln/pf
-performances:
-  - performance_date: 1 AUG 2019
-    performance_title: Variations on &quot;This Land is Your Land&quot; - Premiere
-    venue: Montecito Music Festival
-    city_state: Los Angeles, CA
-    performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
-  - performance_date: 5 NOV 2019
-    performance_title: Variations on &quot;This Land is Your Land&quot;
-    venue: UCLA
-    city_state: Los Angeles, CA
-    performers: Christian Gonzales, violin; Austin Ho, piano
 show_meta: false
 #
 # Styling

@@ -613,9 +613,10 @@ slapform.submit({
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 
-.custom-site-title {
+.top-bar .name h1 a {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    font-style: normal;
 }
 
 @media screen and (min-width: 641px) {
@@ -628,5 +629,45 @@ slapform.submit({
   .custom-site-title {
     font-size: 60px;
   }
+}
+
+/*Headings in Merriweather?*/
+
+/*
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather', serif;
+}
+*/
+
+.center {
+    text-align: center;
+}
+
+.small-indent {
+    margin-left: 30%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
 }
 
