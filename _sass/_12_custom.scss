@@ -1,0 +1,48 @@
+/* Masthead › small-only
+------------------------------------------------------------------- */
+
+@media #{$small-only} {
+    #masthead {
+        height: 300px;
+    }
+    #masthead-staff {
+        height: 300px;
+    }
+}
+
+/* Masthead › medium-only
+------------------------------------------------------------------- */
+
+@media #{$medium-only} {
+    #masthead {
+        height: 450px;
+    }
+    #masthead-staff {
+        height: 450px;
+    }
+}
+
+/* Masthead › large-only
+------------------------------------------------------------------- */
+
+@media #{$large-only} {
+    #masthead {
+        height: 300px;
+    }
+    #masthead-staff {
+        height: 150px;
+    }
+}
+
+
+/* Masthead › xlarge-up
+------------------------------------------------------------------- */
+
+@media #{$xlarge-up} {
+    #masthead {
+        height: 300px;
+    }
+    #masthead-staff {
+        height: 150px;
+    }
+}

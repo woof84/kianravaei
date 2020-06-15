@@ -15,6 +15,12 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+{% if page.header.image_fullwidth_staff %}
+<script>
+    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
+</script>
+{% endif %}
+
 
 
 {% if site.google_analytics_tracking_id %}

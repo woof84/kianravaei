@@ -5,7 +5,7 @@ show_meta: false
 title: "Works"
 subheadline: All
 header:
-    image_fullwidth: Kian_Header_idea_5.png
+    image_fullwidth_staff: Kian_Header_idea_5.png
 permalink: "/works/"
 ---
 
