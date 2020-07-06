@@ -2,7 +2,8 @@
 layout: default
 title: "About"
 permalink: "/about/"
-header: no
+header:
+    image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
 <div class="row t30">

@@ -14,11 +14,7 @@ layout: compress
 	{% include _masthead.html %}
 	{{ content }}
     
-    {% if page.homepage == true %}
     {% include _footer-index.html %}
-    {% else %}
-    {% include _footer.html %}
-    {% endif %}
 
 	{% include _footer_scripts.html %}
 </body>

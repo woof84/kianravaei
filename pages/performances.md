@@ -7,7 +7,7 @@ performances:
     performance_title: The Book of Etiquette
     venue: N.E.O. Voice Festival
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
-    url: http://www.neovoicefestival.com/
+    url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
   - performance_date: 5 MAR 2020
     performance_title: Marvels of Creatures and Strange Things Existing (excerpts) - Reading
     venue: UCLA
@@ -34,91 +34,105 @@ performances:
     city_state: Los Angeles, CA
     performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
 header:
-    image_fullwidth_staff: gif-test.gif
+    image_fullwidth_staff: Kian_Header_idea_9.png
 ---
-<div class="row">
-	<div class="large-5 columns">
-			<header>
-				<div class="text-center">
-					<h2>Upcoming Performances</h2>
+
+
+<!--Same margins as page-->
+
+<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+
+<!--Upcoming performances-->
+
+<div class="text-center">
+					<h1 class="h">Upcoming Performances</h1>
 				</div>
-			</header>
-            <div>
-                {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.performances %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
                 <hr>
-                <ul class="no-bullet">
-                    <li><strong>{{ item.performance_date }}</strong></li>
-                    {% for work in site.works %}
+<div class="row">
+                    
+  <div class="small-5 columns">
+    <p class="performance-date text-right">{{ item.performance_date }}</p>
+    </div>
+  <div class="small-7 columns">
+    <ul class="no-bullet">
+        {% for work in site.works %}
                     {% if item.performance_title contains work.title %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
-                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</li>
+                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}
-                    <li>{{ item.performance_title }}</li>
+                    <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
                     {% endif %}
                     {% if item.venue %}
-                    <li>{{ item.venue }}</li>
+                    <li style="color:dimgray;">{{ item.venue }}</li>
                     {% endif %}
                     {% if item.city_state %}
-                    <li>{{ item.city_state }}</li>
+                    <li style="color:dimgray;">{{ item.city_state }}</li>
                     {% endif %}
                     {% if item.performers %}
-                    <li>{{ item.performers }}</li>
+                    <li style="color:dimgray;">{{ item.performers }}</li>
                     {% endif %}
                     {% if item.url %}
-                    <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
+                    <li style="margin-top:10px;"><a class="button tiny round" href="{{ item.url }}" target="_blank">More Information ›</a></li>
                     {% endif %}
-                </ul>
-                {% endif %}
+      </ul>
+      </div>
+    </div>
+      {% endif %}
                 {% endfor %}
-            </div>
-	</div><!-- /.medium-6.columns -->
-    <div class="large-5 columns">
-            <header>
-				<div itemprop="name" class="text-center">
-					<h2>Recent Performances</h2>
+
+
+<!--Recent performances-->
+
+
+<div class="text-center t30">
+					<h1 class="h1">Recent Performances</h1>
 				</div>
-			</header>
-            <div>
-                {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.performances %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
-                <hr>
-                <ul class="no-bullet">
-                    <li><strong>{{ item.performance_date }}</strong></li>
-                    {% for work in site.works %}
+<div class="row">
+                    <hr>
+  <div class="small-5 columns">
+    <p class="performance-date text-right">{{ item.performance_date }}</p>
+    </div>
+  <div class="small-7 columns">
+    <ul class="no-bullet">
+        {% for work in site.works %}
                     {% if item.performance_title contains work.title %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
-                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</li>
+                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}
-                    <li>{{ item.performance_title }}</li>
+                    <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
                     {% endif %}
                     {% if item.venue %}
-                    <li>{{ item.venue }}</li>
+                    <li style="color:dimgray;">{{ item.venue }}</li>
                     {% endif %}
                     {% if item.city_state %}
-                    <li>{{ item.city_state }}</li>
+                    <li style="color:dimgray;">{{ item.city_state }}</li>
                     {% endif %}
                     {% if item.performers %}
-                    <li>{{ item.performers }}</li>
+                    <li style="color:dimgray;">{{ item.performers }}</li>
                     {% endif %}
-                    {% if item.url %}
-                    <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
-                    {% endif %}
-                </ul>
-                {% endif %}
+      </ul>
+      </div>
+    </div>
+      {% endif %}
                 {% endfor %}
-            </div>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
+
+
+</div>
+</div>

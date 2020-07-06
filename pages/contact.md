@@ -1,20 +1,21 @@
 ---
 layout: page
 title: "Contact"
-header: no
 permalink: "/contact/"
+header:
+    image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
-<p class="teaser" style="-moz-hyphens: none; -ms-hyphens: none; -webkit-hyphens: none; hyphens:none;">For all inquiries, please fill out the contact form or send an email to <b>kianravaei [at] ucla [dot] edu</b>.</p>
+<p class="teaser">Let's get in touch — I love messages. For all inquiries (e.g. scores, commissions), please fill out the form below or send a message to <a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>.</p>
 
 <form method="POST"
   action="https://api.slapform.com/kianravaei@ucla.edu">
-  <p><strong>Name</strong></p>
+  <strong>Name</strong>
   <input type="text" name="name">
-  <p><strong>Email</strong></p>
+  <strong>Email</strong>
   <input type="email" name="email">
   <input type="text" name="slap_honey" type="hidden">
-  <p><strong>Message</strong></p>
+  <strong>Message</strong>
   <textarea type="text" name="message"></textarea>
   <button type="submit">Submit</button>
 </form>

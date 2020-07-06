@@ -21,9 +21,18 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+{% if page.header.image_fullwidth_staff %}
+<script>
+    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
+</script>
+{% endif %}
+
 {% if page.homepage == true %}
     <script>
-    $.backstretch("{{ site.urlimg }}kian_homepage2_dark.jpeg", {fade: 700});
+        $.backstretch([
+      "{{ site.urlimg }}kian_6.JPG"
+    , "{{ site.urlimg }}kian_homepage2_dark.jpeg" 
+  ], {duration: 7000, fade: 1500});
 </script>
 {% endif %}
 

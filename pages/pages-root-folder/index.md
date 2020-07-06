@@ -2,10 +2,6 @@
 layout: default
 permalink: /index.html
 header: no
-featured-works:
-    - featured-work: Migration Variations
-    - featured-work: Advertisements
-    - featured-work: A Litany in Time of Plague
 point: hello
 #
 # This is a nasty hack to make the navigation highlight
@@ -14,5 +10,5 @@ point: hello
 homepage: true
 ---
 
-<div style="margin-top:700px;">
+<div style="margin-top:500px;">
 </div>

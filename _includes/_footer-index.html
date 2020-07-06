@@ -1,6 +1,16 @@
+<!--change this to an include so it doesn't show up on homepage-->
+
+<div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
 <footer id="footer-content" class="bg-grau">
 
     <!--delete comments on right for larger footer-->
+    
+    
 
 
     <div id="footer">
@@ -20,7 +30,7 @@
                 <h5 class="shadow-black">Featured Works</h5>
 
                 <ul class="no-bullet shadow-black">
-                    {% for item in page.featured-works %}
+                    {% for item in site.data.featuredworks %}
                     {% for work in site.works %}
                     {% if work.title == item.featured-work %}
                     <li>
@@ -36,7 +46,7 @@
             <!--Performances-->
 
             <div class="small-6 medium-3 large-3 columns">
-                <h5 class="shadow-black">Performances</h5>
+                <h5 class="shadow-black">Concerts</h5>
 
                 <ul class="no-bullet shadow-black">
                     {% for page in site.pages %}
