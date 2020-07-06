@@ -13,7 +13,6 @@ awards:
     - award_title: UCLA Library Prize for Undergraduate Research
     - award_rank: Best Project on Music After 1900
     - award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
-header: no
 ---
 
 Traditionally, composers have set poetry to song, but there has been a recent trend of setting texts that are more quotidian, like court transcripts (Melissa Dunphy's <a href="http://www.melissadunphy.com/composition.php?id=7" target="_blank"><i>The Gonzales Cantata</i></a>) and demographic data (Caroline Shaw's [_To The Hands_](https://carolineshaw.com/tothehands/)).

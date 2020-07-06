@@ -6,7 +6,6 @@ year_composed: 2020
 category_music: Chamber Music
 duration: 5'
 orchestration: tbn/pf
-header: no
 ---
 
 <p class="teaser">Composers of every generation have written pieces inspired by the vernacular music of their time. Bach wrote gigues and allemandes; Chopin wrote waltzes and mazurkas.</p>

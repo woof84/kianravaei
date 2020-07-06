@@ -277,3 +277,4 @@ asciidoctor:
 collections:
     works:
         output: true
+        permalink: /works/:title/

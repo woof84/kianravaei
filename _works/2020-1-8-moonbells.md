@@ -6,7 +6,6 @@ year_composed: 2020
 category_music: Solo
 duration: 10'
 orchestration: pf
-header: no
 ---
 
 <p class="teaser">This is one of those slow and meditative pieces of music which seems to unfold at a snail's pace.</p> 

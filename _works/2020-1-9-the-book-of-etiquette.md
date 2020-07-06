@@ -6,7 +6,6 @@ year_composed: 2020
 category_music: Voice &amp; Instrument
 duration: 4'
 orchestration: sop &amp; pf
-header: no
 ---
 
 <p class="teaser">This song cycle takes its words from early American books of etiquette and “manuals of politeness.”</p>

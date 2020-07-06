@@ -17,13 +17,13 @@ $('audio,video').mediaelementplayer();
 
 {% if layout.header.image_fullwidth_staff %}
 <script>
-    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ layout.header.image_fullwidth_staff }}", {fade: 700});
+    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ layout.header.image_fullwidth_staff }}", {fade: 500});
 </script>
 {% endif %}
 
 {% if page.header.image_fullwidth_staff %}
 <script>
-    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
+    $("#masthead-staff").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 500});
 </script>
 {% endif %}
 
@@ -37,11 +37,13 @@ $('audio,video').mediaelementplayer();
 {% endif %}
 
 
+<!--
 {% if page.title == "Performances" %}
     <script>
     $("#masthead-performances").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_staff }}", {fade: 700});
 </script>
 {% endif %}
+-->
 
 
 {% if site.google_analytics_tracking_id %}

@@ -8,8 +8,6 @@ duration: 9'30"
 orchestration: SATB a capella
 text_writer: Thomas Nashe (1592)
 language: English
-header:
-    image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
 I find it astonishing and unfortunate how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.
