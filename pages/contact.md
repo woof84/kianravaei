@@ -17,5 +17,5 @@ header:
   <input type="text" name="slap_honey" type="hidden">
   <strong>Message</strong>
   <textarea type="text" name="message"></textarea>
-  <button type="submit">Submit</button>
+  <button class="radius" type="submit">Submit</button>
 </form>
