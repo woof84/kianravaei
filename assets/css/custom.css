@@ -741,3 +741,12 @@ div.gray-bg {
     font-size: 30px;
     text-transform: uppercase;
 }
+
+
+/*for image wrap*/
+
+.wrap-left {
+ float: left;
+ padding: 0 20px 0 0;
+ padding-right: 20px;
+}

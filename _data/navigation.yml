@@ -1,9 +1,9 @@
-- title: "Works"
-  url: "/works/"
-  side: right
-  
 - title: "About"
   url: "/about/"
+  side: right
+
+- title: "Works"
+  url: "/works/"
   side: right
 
 - title: "Performances"

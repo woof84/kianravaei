@@ -6,24 +6,30 @@ header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
+
 <div class="row t30">
-	<div class="medium-6 columns medium-push-6">
-		<article itemscope itemtype="http://schema.org/Article">
+	<div class="medium-10 columns medium-offset-1 end">
 			<header>
 				<div itemprop="name">
-					<h1>About</h1>
+					<h1 class="text-center">About</h1>
 				</div>
 			</header>
             <div itemprop="articleSection">
-                <p>Born (1999) and raised in Los Angeles, composer <b>Kian Ravaei</b> has written for a variety of ensembles ranging from chamber to choral to orchestral. Much of his work stems from a love and respect for the music of his Iranian ancestors. His liminal identity as an Iranian-American is reflected in his music, which employs materials from and embodies the spirit of both cultures.</p>
-                <p>His recent work aims to shed light upon political events past and present, addressing topics such as national identity, migration, and commercialism. He is currently earning his B.A. in Music Composition at UCLA, where he studies with Kay Rhie and David Lefkowitz.</p>
-                <p>His name is pronounced [<a href="https://en.wikipedia.org/wiki/Voiceless_velar_stop" target="_blank">k</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Voiced_palatal_approximant" target="_blank">j</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_nasals" target="_blank">n</a> <a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps" target="_blank">&#638;</a><a href="https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel" target="_blank">&#230;</a><a href="https://en.wikipedia.org/wiki/Voiced_labiodental_fricative" target="_blank">v</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a>].</p>
+                <img class="b30" src="{{ site.urlimg }}kian_homepage2_square.jpeg" alt="Headshot of Kian Ravaei" class="wrap-left" style="width:50%;">
+                <p>Kian Ravaei (b. 1999) is a composer whose music evokes the fantastic and the quotidian, engages with dreams and politics, and leverages music's power over the emotions. Advertisements in early American periodicals, books of etiquette in polite society, Persian poetry, lunar cycles, and a thirteenth century cosmological treatise are some of the things which have inspired Kian's works. His identity as a second-generation Iranian-American is reflected in his music, which often embodies the spirit of both cultures.</p>
+                <p><a href="{{ site.url }}{{ site.baseurl }}/works/advertisements/"><i>Advertisements</i></a>, a song cycle written for new music vocalist Daniel Bayot and legendary guitarist Eliot Fisk, sets early American print advertisements with the intention of bringing out the sense of irony and pathos inherent in them. This piece garnered Kian a UCLA Library Prize for Undergraduate Research for the Best Project on Music After 1900. <a href="{{ site.url }}{{ site.baseurl }}/works/blue/"><i>Blue</i></a>, for a capella chorus, was composed in remembrance of Sahar Khodayari, an Iranian woman who tragically set herself on fire in protest of Iran’s soccer stadium ban for women. With a text written in Farsi, one of Kian's native tongues, <i>Blue</i> won first prize in the Metropolitan Youth Orchestra Emerging Composers Competition (Choral - Division II), adjudicated by composer Daniel Ott. Inspired by the story of his parents' flight from the Iranian Revolution, <a href="{{ site.url }}{{ site.baseurl }}/works/migration-variations/"><i>Migration Variations</i></a> for two pianos and two percussionists depicts a tortuous migratory journey, and was performed at a reading session by the inimitable new music ensemble Yarn/Wire during their UCLA residency.</p>
+                <p>Kian has participated in the Curtis Institute of Music's Young Artist Summer Program (which he attended on a full scholarship), Montecito Music Festival, N.E.O. Voice Festival, and Sunset Chamberfest Young Composers' Workshop. Past composition instructors include Kay Rhie, David S. Lefkowitz, and Juan Pablo Contreras. He is currently pursuing a bachelor's degree at UCLA, where he studies with Richard Danielpour.</p>
             </div>
-		</article>
-	</div><!-- /.medium-8.columns -->
-    <div class="medium-6 columns medium-pull-6">
-        <aside>
-            <img class="b30" src="{{ site.url }}{{ site.baseurl }}/images/kian_5_BW_small.jpeg" alt="Headshot of Kian Ravaei">
-        </aside>
-    </div><!-- /.medium-4.columns -->
+            <div>
+                <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Works ›</a>
+            </div>
 </div><!-- /.row -->
+</div>
+
+
+
+
+
+
+<!--Saving this because of how much work it took me-->
+<!--<p>His name is pronounced [<a href="https://en.wikipedia.org/wiki/Voiceless_velar_stop" target="_blank">k</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Voiced_palatal_approximant" target="_blank">j</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_nasals" target="_blank">n</a> <a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps" target="_blank">&#638;</a><a href="https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel" target="_blank">&#230;</a><a href="https://en.wikipedia.org/wiki/Voiced_labiodental_fricative" target="_blank">v</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a>].</p>-->

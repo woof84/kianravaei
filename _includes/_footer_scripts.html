@@ -29,10 +29,7 @@ $('audio,video').mediaelementplayer();
 
 {% if page.homepage == true %}
     <script>
-        $.backstretch([
-      "{{ site.urlimg }}kian_6.JPG"
-    , "{{ site.urlimg }}kian_homepage2_dark.jpeg" 
-  ], {duration: 7000, fade: 1500});
+    $.backstretch("{{ site.urlimg }}kian_6.JPG", {fade: 1000});
 </script>
 {% endif %}
 
