@@ -24,4 +24,4 @@ I am sick, I must die.<br>
     </div>
 </blockquote>
 
-Suddenly, we all find ourselves imploring this invisible enemy to “have mercy on us.” I aim, through this music, to mourn the millions dead, echo the existential fear of the living, and offer, with utmost sincerity, hope for the future.
+Suddenly, we all find ourselves imploring this invisible enemy to “have mercy on us.” I aim, through this music, to mourn the countless dead, echo the existential fear of the living, and offer, with utmost sincerity, hope for the future.
