@@ -48,17 +48,19 @@ header:
 <div class="text-center">
 					<h1 class="h">Upcoming Performances</h1>
 				</div>
-    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+                {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+                {% assign i = 0 %}
                 {% for item in page.performances %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
+                {% assign i = i | plus:1 %}
                 <hr>
 <div class="row">
                     
   <div class="small-5 columns">
     <p class="performance-date text-right">{{ item.performance_date }}</p>
     </div>
-  <div class="small-7 columns">
+    <div class="small-7 columns">
     <ul class="no-bullet">
         {% for work in site.works %}
                     {% if item.performance_title contains work.title %}
@@ -88,6 +90,9 @@ header:
     </div>
       {% endif %}
                 {% endfor %}
+    {% if i == 0 %}
+    <p class="text-center teaser" style="color:dimgray;">No upcoming performances.</p>
+    {% endif %}
 
 
 <!--Recent performances-->
