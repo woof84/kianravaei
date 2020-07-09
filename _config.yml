@@ -14,7 +14,7 @@ title: 'Kian Ravaei'
 slogan: 'Composer'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Official site of composer Kian Ravaei. Biography, list of works, recordings, upcoming performances, press and more.'
+description: 'Official site of composer Kian Ravaei. Listen to music, read about works, view upcoming performances, and more.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 
@@ -25,8 +25,8 @@ author: Kian Ravaei
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://woof84.github.io'
-baseurl: '/kianravaei'
+url: 'https://kianravaei.com'
+baseurl:
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ improve_content: https://github.com/woof84/kianravaei/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://woof84.github.io/kianravaei/images/'
+urlimg: 'https://kianravaei.com/images/'
 
 
 # Logo size is 600x80 pixels
