@@ -3,8 +3,13 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 15 AUG 2020
+    performance_title: Sestina - Premiere
+    venue: Curtis Institute of Music Young Artist Summer Program - Young Composers Marathon
+    performers: Paul Demers, bass clarinet
+    url:
   - performance_date: 24 JUL 2020
-    performance_title: The Book of Etiquette
+    performance_title: The Book of Etiquette - Premiere
     venue: N.E.O. Voice Festival
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
     url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
