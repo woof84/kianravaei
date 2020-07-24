@@ -8,7 +8,7 @@ performances:
     venue: Curtis Institute of Music Young Artist Summer Program - Young Composers Marathon
     performers: Paul Demers, bass clarinet
     url:
-  - performance_date: 24 JUL 2020
+  - performance_date: 25 JUL 2020
     performance_title: The Book of Etiquette - Premiere
     venue: N.E.O. Voice Festival
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
