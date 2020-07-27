@@ -4,7 +4,7 @@ title: "A Litany in Time of Plague"
 instrumentation: a capella chorus
 category_music: Choral
 year_composed: 2020
-duration: 9'30"
+duration: 9.5'
 orchestration: SATB a capella
 text_writer: Thomas Nashe (1592)
 language: English
