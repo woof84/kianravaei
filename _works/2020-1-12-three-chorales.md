@@ -6,6 +6,7 @@ year_composed: 2020
 category_music: Solo
 duration: 4'
 orchestration: pf
+score_url: https://issuu.com/kianravaei/docs/ravaei_-_three_chorales
 ---
 
 <p class="teaser">Every morning, I wake up my creative mind by writing a short four-part chorale.</p>

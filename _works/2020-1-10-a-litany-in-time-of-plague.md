@@ -8,6 +8,7 @@ duration: 9.5'
 orchestration: SATB a capella
 text_writer: Thomas Nashe (1592)
 language: English
+score_url: https://issuu.com/kianravaei/docs/ravaei_-_a_litany_in_time_of_plague
 ---
 
 I find it astonishing and unfortunate how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.

@@ -4,6 +4,7 @@ sidebar: right
 show_meta: false
 title: "Works"
 subheadline: All
+description: Interactive list of works by Kian Ravaei.
 permalink: "/works/"
 ---
 

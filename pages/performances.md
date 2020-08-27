@@ -5,7 +5,7 @@ permalink: "/performances/"
 performances:
   - performance_date: 29 AUG 2020
     performance_title: Sestina - Premiere
-    venue: Curtis Institute of Music Young Artist Summer Program - Young Composers Marathon
+    venue: Curtis Institute of Music Young Artist Summer Program Young Composers Marathon
     performers: Paul Demers, bass clarinet
     url:
   - performance_date: 25 JUL 2020

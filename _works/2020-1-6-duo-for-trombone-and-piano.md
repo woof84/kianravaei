@@ -6,6 +6,7 @@ year_composed: 2020
 category_music: Chamber Music
 duration: 5'
 orchestration: tbn/pf
+score_url: https://issuu.com/kianravaei/docs/00_duo_for_trombone_and_piano_-_piano_score
 ---
 
 <p class="teaser">Composers of every generation have written pieces inspired by the vernacular music of their time. Bach wrote gigues and allemandes; Chopin wrote waltzes and mazurkas.</p>

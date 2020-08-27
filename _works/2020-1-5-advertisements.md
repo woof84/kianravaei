@@ -7,12 +7,12 @@ year_composed: 2020
 duration: 7'
 orchestration: bar &amp; gtr
 language: English
-score_url: https://escholarship.org/uc/item/22d189td
+score_url: https://issuu.com/kianravaei/docs/00_advertisements_-_full_score_-_ed_4
 awards:
     - award_year: 2020
-    - award_title: UCLA Library Prize for Undergraduate Research
-    - award_rank: Best Project on Music After 1900
-    - award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
+      award_title: UCLA Library Prize for Undergraduate Research
+      award_rank: Best Project on Music After 1900
+      award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
 ---
 
 Traditionally, composers have set poetry to song, but there has been a recent trend of setting texts that are more quotidian, like court transcripts (Melissa Dunphy's <a href="http://www.melissadunphy.com/composition.php?id=7" target="_blank"><i>The Gonzales Cantata</i></a>) and demographic data (Caroline Shaw's [_To The Hands_](https://carolineshaw.com/tothehands/)).

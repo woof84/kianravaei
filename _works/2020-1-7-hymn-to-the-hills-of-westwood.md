@@ -7,8 +7,8 @@ category_music: Solo
 duration: 1.5'
 awards:
     - award_year: 2020
-    - award_title: Ringing the Way Original Music Competition
-    - award_url: https://www.library.ucla.edu/rtw
+      award_title: UCLA Library Ringing the Way Original Music Competition
+      award_url: https://www.library.ucla.edu/rtw
 ---
 
 <p class="teaser">When writing for bells, one cannot ignore their history as liturgical instruments, resounding with reverence for a higher spirit.</p>
