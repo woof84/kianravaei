@@ -763,8 +763,8 @@ div.gray-bg {
 }
 
 /*custom button*/
-button.secondary, .button.secondary {
+button.score, .button.score {
   background-color: dimgray;
-  border-color: #84b02c;
+  border-color: white;
   color: #FFFFFF;
 }
