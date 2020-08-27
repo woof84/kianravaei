@@ -761,3 +761,10 @@ div.gray-bg {
 .top-bar.expanded .toggle-topbar a span::after {
     box-shadow: 0 0 0 1px dimgray, 0 7px 0 1px dimgray, 0 14px 0 1px dimgray
 }
+
+/*custom button*/
+button.secondary, .button.secondary {
+  background-color: dimgray;
+  border-color: #84b02c;
+  color: #FFFFFF;
+}
