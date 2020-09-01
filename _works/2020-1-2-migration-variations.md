@@ -15,7 +15,7 @@ permalink: /:title
 
 <blockquote>
 <p>
-<span class="teaser">…a moving piece of music. I really revisit the ups and downs of my friends' journeys as I listen to it, and love the elements of hope that shine through. Your piece really encapsulates the emotions which I was trying to evoke with the book…</span>
+<span class="teaser">…a moving piece of music. I really revisit the ups and downs of my friends' journeys as I listen to it, and love the elements of hope that shine through. [Migration Variations] really encapsulates the emotions which I was trying to evoke with the book…</span>
 <cite>Charlotte McDonald-Gibson, author of <a href="https://g.co/kgs/KA6d1b" target="_blank">Cast Away: Stories of Survival from Europe's Refugee Crisis</a></cite>
 </p>
 </blockquote>
