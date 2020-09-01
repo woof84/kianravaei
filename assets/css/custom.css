@@ -790,3 +790,9 @@ li.button a {
     color: #fff;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
+
+/*not for navbar*/
+
+.plainlinks {
+    border-bottom: 0px solid;
+}
