@@ -682,7 +682,7 @@ h6 {
 }
 
 #footer a {
-    color: #AFD1E5;
+    color: #ffffff;
 }
 
 a {
@@ -767,4 +767,26 @@ button.score, .button.score {
   background-color: dimgray;
   border-color: white;
   color: #FFFFFF;
+}
+
+/*links in lists*/
+
+li a {
+    font-weight: bold;
+    border-bottom: 1px dotted;
+}
+
+li a:hover {
+    border-bottom: 2px solid;
+}
+li a.button,
+.button,
+.button:hover {
+    border: 0;
+    color: #fff;
+}
+li.button a {
+    border: 0;
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }

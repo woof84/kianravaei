@@ -79,7 +79,7 @@ header:
                     {% for item in site.data.featuredworks %}
                     {% for work in site.works %}
                     {% if work.title == item.featured-audio %}
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span>
+                        <p style="margin-bottom:0px;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span></p>
                         {% for thing in work.soundcloud %}
                         <iframe style="margin-top:10px;"width="100%" height="150" scrolling="no" frameborder="no" src="{{ thing.url }}"></iframe>
                         {% endfor %}
