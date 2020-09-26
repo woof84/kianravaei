@@ -68,6 +68,9 @@ header:
                 {% endfor %}
                 {%- assign sorted_post = sorted_post | sort: title %}
                 <ul class="no-bullet">
+                  {% if page.subheadline != "All" %}
+                  <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works">All Works</a></strong></li>
+                  {% endif %}
                 {% for category in sorted_post %}
                     <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}

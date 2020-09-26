@@ -89,6 +89,39 @@ header:
             {% endfor %}
         </div>
         {% endif %}
+      
+        <!--Press-->
+        {% assign haspress = false %}
+        {% for entry in site.data.press %}
+            {% if entry.piece == page.title %}
+              {% assign haspress = true %}
+            {% endif %}
+        {% endfor %}
+        {% if haspress == true %}
+        <div class="panel radius">
+            <h3>Press</h3>
+            {% for item in site.data.press %}
+            {% if item.piece == page.title %}
+            <span><strong>{{ item.date }}</strong>
+                {% if item.title %}<br>
+                {% if item.link %}
+                <a href="{{ item.link }}" target="_blank">
+                {% endif %}
+                {{ item.title }}
+                {% if item.link %}
+                </a>
+                {% endif %}
+                {% endif %}<br>
+                {% if item.author %}
+                {{ item.author }},
+                {% endif %}
+                {% if item.publication %}
+                <i> {{ item.publication }}</i></span>
+                {% endif %}
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
 
         <!--Performances-->
 
