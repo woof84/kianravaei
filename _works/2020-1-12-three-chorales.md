@@ -13,7 +13,7 @@ score_url: https://issuu.com/kianravaei/docs/ravaei_-_three_chorales
 
 Later in the day, I sight-read one of Bach’s 371 chorale harmonizations at the piano. These three chorales, written for Alvin Wang at the Curtis Institute of Music Young Artist Summer Program, began as sketches in my morning chorale notebook, and are an outgrowth of my daily chorale-writing and -playing routine.
 
-<div class="center flex-video">
+<div class="center flex-video widescreen vimeo">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/D2vL-cr7f7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

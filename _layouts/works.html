@@ -85,7 +85,7 @@ header:
               {% if work.youtube %}
               {% for link in work.youtube limit: 1 %}
               <p style="margin-bottom:10px;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span></p>
-              <div class="center flex-video" style="margin-bottom:20px;">
+              <div class="center flex-video widescreen vimeo" style="margin-bottom:20px;">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ link.url-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               {% endfor %}

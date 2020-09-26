@@ -27,7 +27,7 @@ header:
         
         {% for item in page.youtube %}
         {% if item.url-code %}
-        <div class="center flex-video">
+        <div class="center flex-video widescreen vimeo">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.url-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         {% endif %}
