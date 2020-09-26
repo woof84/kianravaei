@@ -78,17 +78,26 @@ header:
                 
             </div>
             <div>
-            <h4>Featured Audio</h4>
-                    {% for item in site.data.featuredworks %}
-                    {% for work in site.works %}
-                    {% if work.title == item.featured-audio %}
-                        <p style="margin-bottom:0px;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span></p>
-                        {% for thing in work.soundcloud %}
-                        <iframe style="margin-top:10px;"width="100%" height="150" scrolling="no" frameborder="no" src="{{ thing.url }}"></iframe>
-                        {% endfor %}
-                    {% endif %}
-                    {% endfor %}
-                    {% endfor %}
+              <h4>Featured Audio</h4>
+              {% for item in site.data.featuredworks %}
+              {% for work in site.works %}
+              {% if work.title == item.featured-audio %}
+              {% if work.youtube %}
+              {% for link in work.youtube limit: 1 %}
+              <p style="margin-bottom:10px;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span></p>
+              <div class="center flex-video" style="margin-bottom:20px;">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ link.url-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              {% endfor %}
+              {% elsif work.soundcloud %}
+              <p style="margin-bottom:0px;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}"><b>{{ work.title }}</b></a><span style="color: dimgray"> for {{work.instrumentation}}</span></p>
+              {% for thing in work.soundcloud limit: 1 %}
+              <iframe style="margin-top:10px; margin-bottom: 20px;" width="100%" height="150" scrolling="no" frameborder="no" src="{{ thing.url }}"></iframe>
+              {% endfor %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+              {% endfor %}
             </div>
         </aside>
     </div><!-- /.medium-4.columns -->

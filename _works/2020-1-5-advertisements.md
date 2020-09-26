@@ -15,6 +15,8 @@ awards:
       award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/898596886&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+youtube:
+ - url-code: ElYbwyxqb0w
 ---
 
 Traditionally, composers have set poetry to song, but there has been a recent trend of setting texts that are more quotidian, like court transcripts (Melissa Dunphy's <a href="http://www.melissadunphy.com/composition.php?id=7" target="_blank"><i>The Gonzales Cantata</i></a>) and demographic data (Caroline Shaw's <a href="https://carolineshaw.com/tothehands/" target="_blank"><i>To The Hands</i></a>).
@@ -24,10 +26,6 @@ Advertisements, unlike poetry, are by their nature ephemeral. They appear on tel
 Music has a unique power of coloring words, bringing out innuendoes that may not have been noticed otherwise. I tried to leverage this power to reveal the macabre, irony, and pathos inherent in advertisements.
 
 This song cycle, written for guitarist Eliot Fisk and baritone Daniel Bayot, sets five early American print advertisements found in nationally disseminated magazines and local newspapers. Fear-mongering, hypocrisy, and tactics of manipulation are made audible through music that ranges from disturbing to ludicrous. (The fifth and final movement, however, offers a rare moment of sincerity in advertising.)
-
-<div class="center flex-video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ElYbwyxqb0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <!--Facebook video-->
 <!--
