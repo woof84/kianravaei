@@ -5,7 +5,7 @@ permalink: "/performances/"
 performances:
   - performance_date: 27 NOV 2020
     performance_title: A Little Consort Music - Premiere
-    venue: Espace Toots, Belgium
+    venue: Festival Osmose, Belgium
     performers: Alexandre Debrus, cello; Bruno Ispiola, cello; Johannes Burghoff, cello
     url:
   - performance_date: 29 AUG 2020
