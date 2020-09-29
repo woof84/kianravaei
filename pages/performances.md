@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 27 NOV 2020
+    performance_title: A Little Consort Music - Premiere
+    venue: Espace Toots, Belgium
+    performers: Alexandre Debrus, cello; Bruno Ispiola, cello; Johannes Burghoff, cello
+    url:
   - performance_date: 29 AUG 2020
     performance_title: Sestina - Premiere
     venue: Curtis Institute of Music Young Artist Summer Program Young Composers Marathon
