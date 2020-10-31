@@ -83,8 +83,10 @@ header:
         <div class="panel radius">
             <h3>Awards</h3>
             {% for item in page.awards %}
-            <span><strong>{{ item.award_year }}</strong>
-                {% if item.award_title %}<br>
+            <ul class="no-bullet">
+            <li><strong>{{ item.award_year }}</strong></li>
+                {% if item.award_title %}
+                <li>
                 {% if item.award_url %}
                 <a href="{{ item.award_url }}" target="_blank">
                 {% endif %}
@@ -92,10 +94,12 @@ header:
                 {% if item.award_url %}
                 </a>
                 {% endif %}
+                </li>
                 {% endif %}
-                {% if item.award_rank %}<br>
-                <i>{{ item.award_rank }}</i></span>
+                {% if item.award_rank %}
+                <li><i>{{ item.award_rank }}</i></li>
             {% endif %}
+            </ul>
             {% endfor %}
         </div>
         {% endif %}
@@ -112,8 +116,10 @@ header:
             <h3>Press</h3>
             {% for item in site.data.press %}
             {% if item.piece == page.title %}
-            <span><strong>{{ item.date }}</strong>
-                {% if item.title %}<br>
+              <ul class="no-bullet">
+              <li><strong>{{ item.date }}</strong></li>
+                {% if item.title %}
+                <li>
                 {% if item.link %}
                 <a href="{{ item.link }}" target="_blank">
                 {% endif %}
@@ -121,14 +127,18 @@ header:
                 {% if item.link %}
                 </a>
                 {% endif %}
-                {% endif %}<br>
+                </li>
+                {% endif %}
                 {% if item.author %}
-                {{ item.author }},
+                <li>{{ item.author }},
+                {% else %}
+                <li>
                 {% endif %}
                 {% if item.publication %}
-                <i> {{ item.publication }}</i></span>
+                <i> {{ item.publication }}</i></li>
                 {% endif %}
             {% endif %}
+          </ul>
             {% endfor %}
         </div>
         {% endif %}
