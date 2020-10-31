@@ -19,6 +19,12 @@ performances:
     venue: N.E.O. Voice Festival
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
     url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
+  - performance_date: 6 MAR 2020
+    performance_title: Duo for Trombone and Piano - Premiere
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Gwang Hyun Kim, trombone; Hana Kim, piano
+    url:
   - performance_date: 5 MAR 2020
     performance_title: Marvels of Creatures and Strange Things Existing (excerpts) - Reading
     venue: UCLA
