@@ -4,11 +4,21 @@ title: "Performances"
 permalink: "/performances/"
 performances:
   - performance_date: 27 NOV 2020
-    performance_title: A Little Consort Music - Premiere
+    performance_title: A Little Consort Music
     venue: Festival Osmose
     city_state: Espace Toots, Belgium
     performers: Alexandre Debrus, cello; Bruno Ispiola, cello; Johannes Burghoff, cello
     url:
+  - performance_date: 10 NOV 2020
+    performance_title: A Little Consort Music - Premiere
+    venue: UCLA (Livestream)
+    performers: Calvin Kung, cello; Jocelyn Yeh, cello; Peter Walsh, cello
+    url: 
+  - performance_date: 10 NOV 2020
+    performance_title: Caprice - Premiere
+    venue: UCLA (Livestream)
+    performers: Lavinia Chen, violin; Christopher Ye, cello
+    url: 
   - performance_date: 29 AUG 2020
     performance_title: Sestina - Premiere
     venue: Curtis Institute of Music Young Artist Summer Program Young Composers Marathon
