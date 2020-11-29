@@ -7,12 +7,12 @@ performances:
     performance_title: A Little Consort Music - European Premiere
     venue: Festival Osmose
     city_state: Espace Toots, Belgium
-    performers: Alexandre Debrus, cello; Bruno Ispiola, cello; Johannes Burghoff, cello
+    performers: Alexandre Debrus, Bruno Ispiola, Johannes Burghoff; cello
     url:
   - performance_date: 10 NOV 2020
     performance_title: A Little Consort Music - Premiere
     venue: UCLA (Livestream)
-    performers: Calvin Kung, cello; Jocelyn Yeh, cello; Peter Walsh, cello
+    performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
   - performance_date: 10 NOV 2020
     performance_title: Caprice - Premiere
