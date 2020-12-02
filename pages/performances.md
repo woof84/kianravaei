@@ -3,6 +3,17 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 31 JAN 2021
+    performance_title: Advertisements - Premiere
+    venue: KC VITAs (Livestream)
+    city_state: Kansas City, Kansas
+    performers:
+    url:
+  - performance_date: 12 DEC 2020
+    performance_title: Caprice
+    venue: UCLA (Livestream)
+    performers: Lavinia Chen, violin; Christopher Ye, cello
+    url:
   - performance_date: 27 NOV 2020
     performance_title: A Little Consort Music - European Premiere
     venue: Festival Osmose
