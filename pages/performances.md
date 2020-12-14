@@ -7,7 +7,7 @@ performances:
     performance_title: Advertisements - Premiere
     venue: KC VITAs (Livestream)
     city_state: Kansas City, Kansas
-    performers:
+    performers: Patrick Graham, baritone; Aleia Gonzales Gulino, guitar
     url:
   - performance_date: 12 DEC 2020
     performance_title: Caprice
