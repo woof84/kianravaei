@@ -5,13 +5,20 @@ permalink: "/performances/"
 performances:
   - performance_date: 31 JAN 2021
     performance_title: Advertisements - Premiere
-    venue: KC VITAs (Livestream)
+    venue: KC VITAs VOICES OF VITAs (livestream)
     city_state: Kansas City, Kansas
     performers: Patrick Graham, baritone; Aleia Gonzales Gulino, guitar
-    url:
+    url: https://www.kcvitas.org/
+  - performance_date: 18 DEC 2020
+    performance_title: A Little Consort Music
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
+    url: https://www.youtube.com/watch?v=Dz69toVdBuU
   - performance_date: 12 DEC 2020
     performance_title: Caprice
-    venue: UCLA (Livestream)
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
     performers: Lavinia Chen, violin; Christopher Ye, cello
     url:
   - performance_date: 27 NOV 2020
@@ -22,12 +29,14 @@ performances:
     url:
   - performance_date: 10 NOV 2020
     performance_title: A Little Consort Music - Premiere
-    venue: UCLA (Livestream)
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
   - performance_date: 10 NOV 2020
     performance_title: Caprice - Premiere
-    venue: UCLA (Livestream)
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
     performers: Lavinia Chen, violin; Christopher Ye, cello
     url: 
   - performance_date: 29 AUG 2020
@@ -37,7 +46,8 @@ performances:
     url:
   - performance_date: 25 JUL 2020
     performance_title: The Book of Etiquette - Premiere
-    venue: N.E.O. Voice Festival
+    venue: N.E.O. Voice Festival (livestream)
+    city_state: Los Angeles, California
     performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
     url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
   - performance_date: 6 MAR 2020
