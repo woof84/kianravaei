@@ -25,7 +25,7 @@ header:
                 <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Works ›</a>
             </div>
             <h2 class="text-center">Latest Posts</h2>
-            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/0bbd37962c9a58ec803b745d52096ccb.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/0bbd37962c9a58ec803b745d52096ccb.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 </div><!-- /.row -->
 </div>
 
