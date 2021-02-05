@@ -3,6 +3,18 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 6 MAR 2021
+    performance_title: Prelude and Fugue in C-Sharp - Premiere
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Stefano Greco, piano
+    url:
+  - performance_date: 16 FEB 2021
+    performance_title: Prisoners of Hope - Premiere
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Jocelyn Yeh, cello
+    url:
   - performance_date: 31 JAN 2021
     performance_title: Advertisements - Premiere
     venue: KC VITAs VOICES OF VITAs (livestream)
