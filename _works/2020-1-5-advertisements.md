@@ -15,7 +15,7 @@ awards:
       award_url: https://newsroom.ucla.edu/stories/ucla-library-honors-stellar-undergraduate-researchers
     - award_year: 2020
       award_title: KC VITAs Call for Scores
-      award_rank: Finalist
+      award_rank: Winner
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/898596886&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 youtube:
