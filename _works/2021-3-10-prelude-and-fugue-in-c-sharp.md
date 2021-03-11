@@ -5,6 +5,7 @@ instrumentation: solo piano
 year_composed: 2021
 category_music: Solo
 duration: 6'
+score_url: https://issuu.com/kianravaei/docs/ravaei_-_prelude_and_fugue_in_c-sharp
 youtube:
  - url-code: tVqlfLBUc90?start=1016
 ---
