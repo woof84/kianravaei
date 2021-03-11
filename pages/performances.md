@@ -4,7 +4,7 @@ title: "Performances"
 permalink: "/performances/"
 performances:
   - performance_date: 1 May 2021
-    performance_title: See You Soon — Premiere
+    performance_title: See You Soon - Premiere
     venue: Facebook Live
     performers: Hypotenuse Trio
     url:
