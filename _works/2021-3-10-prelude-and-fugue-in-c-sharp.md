@@ -4,7 +4,7 @@ title: "Prelude and Fugue in C-Sharp"
 instrumentation: solo piano
 year_composed: 2021
 category_music: Solo
-duration: 5'
+duration: 6'
 youtube:
  - url-code: tVqlfLBUc90?start=1016
 ---
