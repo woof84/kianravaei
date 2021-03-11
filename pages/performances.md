@@ -6,7 +6,6 @@ performances:
   - performance_date: 1 May 2021
     performance_title: See You Soon
     venue: Facebook Live
-    city_state: Los Angeles, California
     performers: Hypotenuse Trio
     url:
   - performance_date: 6 MAR 2021
