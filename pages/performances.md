@@ -8,6 +8,12 @@ performances:
     venue: Facebook Live
     performers: Hypotenuse Trio
     url:
+  - performance_date: 19 MAR 2021
+    performance_title: Prisoners of Hope
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Jocelyn Yeh, cello
+    url:
   - performance_date: 6 MAR 2021
     performance_title: Prelude and Fugue in C-Sharp - Premiere
     venue: UCLA (livestream)
