@@ -5,6 +5,11 @@ instrumentation: trombone &amp; piano
 year_composed: 2020
 category_music: Chamber Music
 duration: 5'
+awards:
+    - award_year: 2021
+      award_title: International Trombone Festival Composers Workshop Call for Scores
+      award_rank: Honorable Mention
+      award_url:
 orchestration: tbn/pf
 score_url: https://issuu.com/kianravaei/docs/00_duo_for_trombone_and_piano_-_piano_score
 ---
