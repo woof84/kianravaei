@@ -3,10 +3,22 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
-  - performance_date: 1 May 2021
+  - performance_date: 1 MAY 2021
     performance_title: See You Soon - Premiere
     venue: Facebook Live
     performers: Hypotenuse Trio
+    url:
+  - performance_date: 27 APR 2021
+    performance_title: Ideal Conversation
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Julia Johnson, voice; Valerie Stern, piano
+    url:
+  - performance_date: 27 APR 2021
+    performance_title: Advertisements (excerpts)
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
     url:
   - performance_date: 19 MAR 2021
     performance_title: Prisoners of Hope
