@@ -3,11 +3,6 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
-  - performance_date: 8 MAY 2021
-    performance_title: See You Soon - Premiere
-    venue: Facebook Live
-    performers: Hypotenuse Trio
-    url:
   - performance_date: 27 APR 2021
     performance_title: Ideal Conversation
     venue: UCLA (livestream)
