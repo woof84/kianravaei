@@ -10,7 +10,6 @@ show_meta: false
 header: no
 soundcloud:
   - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/777375535&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/777374938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 # permalink: "/:collection/marvels-of-creatures-and-strange-things-existing/"
 ---
 
