@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 26 May 2021
+    performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
+    venue: UCLA (livestream)
+    city_state: Los Angeles, California
+    performers: Kennethe Glendon Brown, piano
+    url: https://schoolofmusic.ucla.edu/event/the-inaugural-selma-moidel-smith-recital/?mc_cid=c4f757510c&mc_eid=5fdf70357e
   - performance_date: 27 APR 2021
     performance_title: Ideal Conversation
     venue: UCLA (livestream)
