@@ -3,6 +3,15 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 22 Jun 2021
+    performance_title: Family Photos
+    venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Part 1)
+    performers: Salastina
+    url: https://www.salastina.org/concerts/2021/6/22/happy-hour-no-62-sounds-promising-world-premieres-part-1
+  - performance_date: 10 Jun 2021
+    performance_title: Family Photos - Premiere
+    venue: EMERGE Virtual Concert (livestream)
+    performers: The Julius Quartet
   - performance_date: 26 May 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (livestream)
@@ -81,10 +90,10 @@ performances:
     performers: Paul Demers, bass clarinet
     url:
   - performance_date: 25 JUL 2020
-    performance_title: The Book of Etiquette - Premiere
+    performance_title: Ideal Conversation - Premiere
     venue: N.E.O. Voice Festival (livestream)
     city_state: Los Angeles, California
-    performers: Tiffany-Alaine Solinap Militante, soprano; Abraham Ross, piano
+    performers: Tiffany-Alaine Solinap Militante, voice; Abraham Ross, piano
     url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
   - performance_date: 6 MAR 2020
     performance_title: Duo for Trombone and Piano - Premiere
