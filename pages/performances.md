@@ -18,6 +18,11 @@ performances:
     performance_title: Family Photos - Premiere
     venue: EMERGE Virtual Concert (Livestream)
     performers: The Julius Quartet
+  - performance_date: 7 Jun 2021
+    performance_title: Written by Children - Premiere
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, California
+    performers: Rachel Boehl, horn
   - performance_date: 26 May 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
