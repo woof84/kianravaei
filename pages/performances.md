@@ -5,64 +5,70 @@ permalink: "/performances/"
 performances:
   - performance_date: 22 Jun 2021
     performance_title: Family Photos
-    venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Part 1)
+    venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
     performers: Salastina
     url: https://www.salastina.org/concerts/2021/6/22/happy-hour-no-62-sounds-promising-world-premieres-part-1
+  - performance_date: 15 Jun 2021
+    performance_title: Lotf Nemīkhâm
+    venue: Suoni Per Il Popolo
+    city_state: Deterritorializing the Realm of New Music (Livestream)
+    performers: Anoush Moazenni, speaking pianist
+    url: https://suoniperilpopolo.org/en/program/anoush-moazzeni
   - performance_date: 10 Jun 2021
     performance_title: Family Photos - Premiere
-    venue: EMERGE Virtual Concert (livestream)
+    venue: EMERGE Virtual Concert (Livestream)
     performers: The Julius Quartet
   - performance_date: 26 May 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Kennethe Glendon Brown, piano
     url: https://schoolofmusic.ucla.edu/event/the-inaugural-selma-moidel-smith-recital/?mc_cid=c4f757510c&mc_eid=5fdf70357e
   - performance_date: 27 APR 2021
     performance_title: Ideal Conversation
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Julia Johnson, voice; Valerie Stern, piano
     url:
   - performance_date: 27 APR 2021
     performance_title: Advertisements (excerpts)
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
     url:
   - performance_date: 19 MAR 2021
     performance_title: Prisoners of Hope
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Jocelyn Yeh, cello
     url:
   - performance_date: 6 MAR 2021
     performance_title: Prelude and Fugue in C-Sharp - Premiere
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Stefano Greco, piano
     url:
   - performance_date: 16 FEB 2021
     performance_title: Prisoners of Hope - Premiere
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Jocelyn Yeh, cello
     url:
   - performance_date: 31 JAN 2021
     performance_title: Advertisements - Premiere
-    venue: KC VITAs VOICES OF VITAs (livestream)
+    venue: KC VITAs VOICES OF VITAs (Livestream)
     city_state: Kansas City, Kansas
     performers: Patrick Graham, baritone; Aleia Gonzales Gulino, guitar
     url: https://www.kcvitas.org/
   - performance_date: 18 DEC 2020
     performance_title: A Little Consort Music
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: https://www.youtube.com/watch?v=Dz69toVdBuU
   - performance_date: 12 DEC 2020
     performance_title: Caprice
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Lavinia Chen, violin; Christopher Ye, cello
     url:
@@ -74,13 +80,13 @@ performances:
     url:
   - performance_date: 10 NOV 2020
     performance_title: A Little Consort Music - Premiere
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
   - performance_date: 10 NOV 2020
     performance_title: Caprice - Premiere
-    venue: UCLA (livestream)
+    venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Lavinia Chen, violin; Christopher Ye, cello
     url: 
@@ -91,7 +97,7 @@ performances:
     url:
   - performance_date: 25 JUL 2020
     performance_title: Ideal Conversation - Premiere
-    venue: N.E.O. Voice Festival (livestream)
+    venue: N.E.O. Voice Festival (Livestream)
     city_state: Los Angeles, California
     performers: Tiffany-Alaine Solinap Militante, voice; Abraham Ross, piano
     url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
