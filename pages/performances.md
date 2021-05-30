@@ -12,7 +12,7 @@ performances:
     performance_title: Lotf Nemīkhâm
     venue: Suoni Per Il Popolo
     city_state: Deterritorializing the Realm of New Music (Livestream)
-    performers: Anoush Moazenni, speaking pianist
+    performers: Anoush Moazzeni, speaking pianist
     url: https://suoniperilpopolo.org/en/program/anoush-moazzeni
   - performance_date: 10 Jun 2021
     performance_title: Family Photos - Premiere
