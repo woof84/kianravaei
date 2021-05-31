@@ -16,8 +16,9 @@ performances:
     url: https://suoniperilpopolo.org/en/program/anoush-moazzeni
   - performance_date: 10 Jun 2021
     performance_title: Family Photos - Premiere
-    venue: EMERGE Virtual Concert (Livestream)
+    venue: EMERGE&#58; Solstice Virtual Concert (Livestream)
     performers: The Julius Quartet
+    url: https://youtu.be/XrQbO6tm3BU
   - performance_date: 7 Jun 2021
     performance_title: Written by Children - Premiere
     venue: UCLA (Livestream)
