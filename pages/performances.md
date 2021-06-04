@@ -3,28 +3,40 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
-  - performance_date: 22 Jun 2021
+  - performance_date: 22 JUN 2021
     performance_title: Family Photos
     venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
     performers: Salastina
     url: https://www.salastina.org/concerts/2021/6/22/happy-hour-no-62-sounds-promising-world-premieres-part-1
-  - performance_date: 15 Jun 2021
+  - performance_date: 15 JUN 2021
     performance_title: Lotf Nemīkhâm
     venue: Suoni Per Il Popolo
     city_state: Deterritorializing the Realm of New Music (Livestream)
     performers: Anoush Moazzeni, speaking pianist
     url: https://suoniperilpopolo.org/en/program/anoush-moazzeni
-  - performance_date: 10 Jun 2021
+  - performance_date: 12 JUN 2021
+    performance_title: Ideal Conversation
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, California
+    performers: Julia Johnson, voice; Valerie Stern, piano
+    url:
+  - performance_date: 12 JUN 2021
+    performance_title: Advertisements (excerpts)
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, California
+    performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
+    url:
+  - performance_date: 10 JUN 2021
     performance_title: Family Photos - Premiere
     venue: EMERGE&#58; Solstice Virtual Concert (Livestream)
     performers: The Julius Quartet
     url: https://youtu.be/XrQbO6tm3BU
-  - performance_date: 7 Jun 2021
+  - performance_date: 7 JUN 2021
     performance_title: Written by Children - Premiere
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Rachel Boehl, horn
-  - performance_date: 26 May 2021
+  - performance_date: 26 MAY 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
