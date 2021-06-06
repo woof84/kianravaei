@@ -19,17 +19,16 @@ performances:
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Julia Johnson, voice; Valerie Stern, piano
-    url:
   - performance_date: 12 JUN 2021
     performance_title: Advertisements (excerpts)
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
-    url:
   - performance_date: 10 JUN 2021
     performance_title: Family Photos - Premiere
     venue: EMERGE&#58; Solstice Virtual Concert (Livestream)
     performers: The Julius Quartet
+    city_state:
     url: https://youtu.be/XrQbO6tm3BU
   - performance_date: 7 JUN 2021
     performance_title: Written by Children - Premiere
@@ -168,6 +167,7 @@ header:
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% assign i = 0 %}
                 {% for item in page.performances %}
+                {% assign not-title = NULL %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
                 {% assign i = i | plus:1 %}
@@ -179,7 +179,7 @@ header:
     </div>
     <div class="small-7 columns">
     <ul class="no-bullet">
-        {% for work in site.works %}
+        {% for work in site.works %} 
                     {% if item.performance_title contains work.title %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
@@ -200,7 +200,7 @@ header:
                     <li style="color:dimgray;">{{ item.performers }}</li>
                     {% endif %}
                     {% if item.url %}
-                    <li style="margin-top:10px;"><a class="button tiny round" href="{{ item.url }}" target="_blank">More Information ›</a></li>
+                    <li style="margin-top:10px;"><a class="button tiny round" href="{{ item.url }}" target="_blank" style="margin-bottom:0px;">More Information ›</a></li>
                     {% endif %}
       </ul>
       </div>
@@ -220,6 +220,7 @@ header:
 				</div>
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.performances %}
+                {% assign not-title = NULL %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
 <div class="row">
