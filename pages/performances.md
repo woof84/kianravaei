@@ -19,11 +19,13 @@ performances:
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Julia Johnson, voice; Valerie Stern, piano
+    url: https://schoolofmusic.ucla.edu/event/end-of-quarter-showcase-spring-2021/
   - performance_date: 12 JUN 2021
     performance_title: Advertisements (excerpts)
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
+    url: https://schoolofmusic.ucla.edu/event/end-of-quarter-showcase-spring-2021/
   - performance_date: 10 JUN 2021
     performance_title: Family Photos - Premiere
     venue: EMERGE&#58; Solstice Virtual Concert (Livestream)
