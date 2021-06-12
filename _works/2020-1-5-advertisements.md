@@ -21,6 +21,14 @@ youtube:
  - url-code: 6nILx5F-HiA
 ---
 
+<!--
+I. Facial Blemishes    
+II. Help!    
+III. Frank Siddalls Soap    
+IV. Camels Are Made for Men Who Think for Themselves     
+V. Notice to the Public
+-->
+
 Traditionally, composers have set poetry to song, but there has been a recent trend of setting texts that are more quotidian, like court transcripts (Melissa Dunphy's <a href="http://www.melissadunphy.com/composition.php?id=7" target="_blank"><i>The Gonzales Cantata</i></a>) and demographic data (Caroline Shaw's <a href="https://carolineshaw.com/tothehands/" target="_blank"><i>To The Hands</i></a>).
 
 Advertisements, unlike poetry, are by their nature ephemeral. They appear on television or a billboard for a few weeks and then disappear forever. But like the best poetry, advertisements are rich with meaning and communicate largely by way of implication.
