@@ -3,11 +3,16 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 8 OCT 2021
+    performance_title: California Suite - Premiere
+    venue: Vernon Salon Series
+    city_state: Oakland, CA
+    performers: Sleight Ensemble
   - performance_date: 22 JUN 2021
     performance_title: Family Photos
     venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
     performers: Salastina
-    url: https://www.salastina.org/concerts/2021/6/22/happy-hour-no-62-sounds-promising-world-premieres-part-1
+    url: https://www.salastina.org/concerts/2021/7/6/happy-hour-63-sounds-promising-world-premieres-part-deux
   - performance_date: 15 JUN 2021
     performance_title: Lotf Nemīkhâm
     venue: Suoni Per Il Popolo
