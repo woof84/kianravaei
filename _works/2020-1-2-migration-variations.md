@@ -7,6 +7,18 @@ year_composed: 2019
 duration: 10'
 orchestration: 2 pf, 2 perc.
 header: no
+awards:
+    - award_year: 2021
+      award_title: ASCAP Foundation Morton Gould Award
+      award_rank: Finalist
+    - award_year: 2021
+      award_title: Hypotenuse Trio Call for Scores
+      award_rank: Winner
+      award_url: https://www.hypotenusetrio.com/call-for-scores.html
+    - award_year: 2020
+      award_title: Willinger Duo Call for Scores
+      award_rank: Winner
+      award_url: https://www.willingerduo.com/news#block-56099e9318f331da798a
 score_url: https://issuu.com/kianravaei/docs/00_migration_variations_-_full_score
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/780559033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
