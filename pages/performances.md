@@ -8,11 +8,15 @@ performances:
     venue: Vernon Salon Series
     city_state: Oakland, CA
     performers: Sleight Ensemble
-  - performance_date: 22 JUN 2021
+  - performance_date: 6 JUL 2021
     performance_title: Family Photos
     venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
     performers: Salastina
     url: https://www.salastina.org/concerts/2021/7/6/happy-hour-63-sounds-promising-world-premieres-part-deux
+  - performance_date: 19 JUN 2021
+    performance_title: From the Heart to the Heart - Premiere
+    venue: Fresh Inc Festival (Livestream)
+    performers: Nelson Mendoza, violin; Samantha Peng, viola; Raphael Marnon, cello; Pei-yeh Tsai, piano
   - performance_date: 15 JUN 2021
     performance_title: Lotf Nemīkhâm
     venue: Suoni Per Il Popolo
