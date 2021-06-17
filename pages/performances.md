@@ -17,6 +17,7 @@ performances:
     performance_title: From the Heart to the Heart - Premiere
     venue: Fresh Inc Festival (Livestream)
     performers: Nelson Mendoza, violin; Samantha Peng, viola; Raphael Marnon, cello; Pei-yeh Tsai, piano
+    url: https://youtu.be/awXy2ANgZ04
   - performance_date: 15 JUN 2021
     performance_title: Lotf Nemīkhâm
     venue: Suoni Per Il Popolo
