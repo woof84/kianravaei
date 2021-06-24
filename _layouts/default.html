@@ -11,6 +11,10 @@ layout: compress
 	{% include _navigation.html %}
 	{% endunless %}
 
+	{% if page.homepage == true %}
+	{% include alert info='<center>Need music engraving or copying services? <b><a href="/engraving/">All Services ›</a></b></center>' %}
+	{% endif %}
+
 	{% include _masthead.html %}
 	{{ content }}
     

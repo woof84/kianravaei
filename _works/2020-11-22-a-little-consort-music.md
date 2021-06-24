@@ -3,7 +3,7 @@ layout: work
 title: "A Little Consort Music"
 instrumentation: three cellos
 year_composed: 2020
-category_music: Chamber Music
+category_music: Chamber Ensemble
 duration: 2'
 orchestration: 3 vlc.
 awards:

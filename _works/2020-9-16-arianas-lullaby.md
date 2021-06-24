@@ -3,7 +3,7 @@ layout: work
 title: "Ariana's Lullaby"
 instrumentation: violin &amp; cello
 year_composed: 2020
-category_music: Chamber Music
+category_music: Chamber Ensemble
 duration: 1'
 orchestration: vln. &amp; vlc.
 youtube:

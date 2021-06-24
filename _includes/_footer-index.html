@@ -51,8 +51,11 @@
                 <ul class="no-bullet shadow-black">
                     {% for page in site.pages %}
                     {% if page.title == "Performances" %}
-                    {% for item in page.performances limit: 1 %}
-
+                    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+                    {% for item in page.performances reversed %}
+                    {% assign not-title = NULL %}
+                    {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
+                    {% if date > now %}
                     
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% for work in site.works %}
@@ -77,6 +80,8 @@
                     {% endif %}
                     {% if item.url %}
                     <li><a href="{{ item.url }}" target="_blank">More information ›</a></li>
+                    {% endif %}
+                    {% break %}
                     {% endif %}
                     {% endfor %}
                     {% endif %}

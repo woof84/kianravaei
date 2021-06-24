@@ -2,7 +2,7 @@
 layout: work
 title: "Migration Variations"
 instrumentation: two pianos &amp; two percussionists
-category_music: Chamber Music
+category_music: Chamber Ensemble
 year_composed: 2019
 duration: 10'
 orchestration: 2 pf, 2 perc.

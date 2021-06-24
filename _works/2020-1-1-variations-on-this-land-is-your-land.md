@@ -6,7 +6,7 @@ layout: work
 title: Variations on &quot;This Land is Your Land&quot;
 meta_title: "Variations on This Land is Your Land"
 instrumentation: violin and piano
-category_music: Chamber Music
+category_music: Chamber Ensemble
 year_composed: 2019
 duration: 7'
 orchestration: vln/pf

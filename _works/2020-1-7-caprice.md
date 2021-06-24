@@ -3,7 +3,8 @@ layout: work
 title: Caprice
 instrumentation: violin &amp; cello
 year_composed: 2020
-category_music: Chamber Music
+category_music: Chamber Ensemble
+commissioner: Lavinia Chen
 youtube:
  - url-code: kUGIK7Vnpg0
 duration: 4'

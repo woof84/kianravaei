@@ -3,8 +3,9 @@ layout: work
 title: "Duo for Trombone and Piano"
 instrumentation: trombone &amp; piano
 year_composed: 2020
-category_music: Chamber Music
+category_music: Chamber Ensemble
 duration: 5'
+commissioner: Gwang Hyun Kim
 awards:
     - award_year: 2021
       award_title: International Trombone Festival Composers Workshop Call for Scores

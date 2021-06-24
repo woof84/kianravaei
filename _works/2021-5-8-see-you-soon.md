@@ -3,8 +3,9 @@ layout: work
 title: "See You Soon"
 instrumentation: clarinet, saxophone, &amp; trumpet
 year_composed: 2021
-category_music: Chamber Music
+category_music: Chamber Ensemble
 duration: 3'
+commissioner: Hypotenuse Trio
 score_url: https://issuu.com/kianravaei/docs/00_see_you_soon_-_full_score
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1045941022&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
