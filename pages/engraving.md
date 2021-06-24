@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Engraving"
-permalink: "/engraving/"
+title: "Music Engraving"
+permalink: "/music-engraving/"
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
