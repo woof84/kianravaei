@@ -6,14 +6,14 @@ header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
-I offer services for composers, musicians, and music organizations including (but not limited to) <b>engraving, copying, part-making, and transcribing</b>. To make an inquiry, feel free to get in touch by emailing me at <a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>.
+I provide professional services for preparing musical scores. My services include <b>engraving, copying, part-making, proofreading, and transcribing</b>. Feel free to get in touch by email (<a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>) or phone (<a href="tel:+1626-710-7297">+1 ‪(661) 977-6457‬</a>).
 
-<!-- <blockquote>
+<blockquote>
 <p>
-<span class="teaser">Testimonial about Kian's engraving.</span>
-<cite>Important person, important profession</cite>
+<span class="teaser">Kian Ravaei is professional and has worked hard to learn the nuanced craft of music engraving. He will treat your music with the same care with which he treats his own.</span>
+<cite>Anthony Constantino, music engraver for Richard Danielpour (<a href="https://www.billholabmusic.com/" target="_blank">Bill Holab Music)</a></cite>
 </p>
-</blockquote> -->
+</blockquote>
 
 <h2 class="text-center" style="margin-bottom:10px">Examples</h2>
 
