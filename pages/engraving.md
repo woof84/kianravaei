@@ -6,7 +6,7 @@ header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
 
-I provide professional services for preparing musical scores. My services include <b>engraving, copying, part-making, proofreading, and transcribing</b>. Feel free to get in touch by email (<a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>) or phone (<a href="tel:+1626-710-7297">+1 ‪(661) 977-6457‬</a>).
+I provide professional services for preparing musical scores. My services include <b>engraving, copying, part-making, proofreading, and transcribing</b>. Feel free to get in touch with me by email (<a style="white-space:nowrap;" href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>) or phone (<a href="tel:+1626-710-7297">+1 ‪(661) 977-6457‬</a>).
 
 <blockquote>
 <p>
