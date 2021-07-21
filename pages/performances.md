@@ -8,6 +8,11 @@ performances:
     venue: Vernon Salon Series
     city_state: Oakland, CA
     performers: Sleight Ensemble
+  - performance_date: 24 JUL 2021
+    performance_title: Microverse - Premiere
+    venue: "Quelque part..." (Du vert à l'infini)
+    city_state: Château de Fresne-Saint-Mamès, France
+    url: https://www.duvertalinfini.com/
   - performance_date: 6 JUL 2021
     performance_title: Family Photos
     venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
