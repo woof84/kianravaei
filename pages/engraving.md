@@ -27,7 +27,6 @@ I provide professional services for preparing musical scores. My services includ
 
 <img src="{{ site.urlimg }}/engraving-1.jpeg" alt="Engraving example 5" width="100%" height="100%">
 
-
 <!-- 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget"
