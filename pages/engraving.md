@@ -11,7 +11,7 @@ I provide professional services for preparing musical scores. My services includ
 <blockquote>
 <p>
 <span class="teaser">Kian Ravaei is professional and has worked hard to learn the nuanced craft of music engraving. He will treat your music with the same care with which he treats his own.</span>
-<cite>Anthony Constantino, music engraver for Richard Danielpour (<a href="https://www.billholabmusic.com/" target="_blank">Bill Holab Music)</a></cite>
+<cite>Anthony Constantino, music engraver for Richard Danielpour (<a href="https://www.billholabmusic.com/" target="_blank">Bill Holab Music</a>)</cite>
 </p>
 </blockquote>
 
