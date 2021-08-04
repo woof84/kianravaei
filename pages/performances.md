@@ -3,6 +3,16 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 13 JAN 2022
+    performance_title: California Suite
+    venue: UC Davis
+    city_state: Davis, CA
+    performers: Sleight Ensemble
+  - performance_date: 18 NOV 2021
+    performance_title: California Suite
+    venue: Center for New Music
+    city_state: San Francisco, CA
+    performers: Sleight Ensemble
   - performance_date: 8 OCT 2021
     performance_title: California Suite - Premiere
     venue: Vernon Salon Series
