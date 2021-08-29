@@ -3,28 +3,33 @@ layout: default
 title: "About"
 permalink: "/about/"
 header:
-    image_fullwidth_staff: Kian_Header_idea_9.png
+    image_fullwidth_staff: ravaei_header.png
 ---
 
 
 <div class="row t30">
-	<div class="medium-10 columns medium-offset-1 end">
+	<div class="small-12 columns">
 			<header>
 				<div itemprop="name">
 					<h1 class="text-center">About</h1>
 				</div>
 			</header>
-            <div itemprop="articleSection">
-                <img class="b30" src="{{ site.urlimg }}kian_homepage2_square.jpeg" alt="Headshot of Kian Ravaei" class="wrap-left" style="width:50%;">
-                <p>Kian Ravaei (b. 1999) composes music that evokes the fantastic and the quotidian, engages with dreams and politics, and leverages music's power over the emotions. Kian's works have been inspired by advertisements in early American periodicals, books of etiquette in polite society, Persian poetry, lunar cycles, and a thirteenth century cosmographical treatise. His identity as a second-generation Iranian-American is reflected in his music, often embodying the spirit of both cultures.</p>
-                <p><a href="{{ site.url }}{{ site.baseurl }}/works/advertisements/"><i>Advertisements</i></a>, a song cycle for baritone and guitar, sets early American print advertisements with the intention of brining out the sense of irony and pathos inherent in them, and was recently premiered by Patrick Graham and Aleia Gonzales Gulino at a KC VITAs concert in Kansas City. Inspired by the story of his parents' flight from the Iranian Revolution, Kian depicted a tortuous migratory journey in <a href="{{ site.url }}{{ site.baseurl }}/works/migration-variations/"><i>Migration Variations</i></a> for two pianos and two percussionists, which was performed at a reading session by the new music ensemble Yarn/Wire during their UCLA residency. Additional performances include the premiere of <a href="{{ site.url }}{{ site.baseurl }}/works/prelude-and-fugue-in-c-sharp/"><i>Prelude and Fugue in C-Sharp</i></a>, performed by pianist and Bach expert Stefano Greco at the Auditorium Parco della Musica in Rome, and <a href="{{ site.url }}{{ site.baseurl }}/works/a-little-consort-music/"><i>A Little Consort Music</i></a>, performed by Ensemble Mikrokosmos at Festival Osmose in Belgium.</p>
-                <p>Recent commissions include a work for speaking pianist and electronics for <a href="http://www.anoushmoazzeni.com/" target="_blank">Anoush Moazzeni</a> of the Iranian Female Composers Association and the Canadian Music Centre, an electric guitar piece for <a href="http://jijiguitar.com/" target="_blank">Jiji Kim</a> of Wild Up, an “endangered birdsong partita” for <a href="http://www.jacoblanemusic.com/sleight-ensemble" target="_blank">Sleight Ensemble</a>, an elegy dedicated to a late friend for <a href="https://www.hypotenusetrio.com/" target="_blank">Hypotenuse Trio</a>, and a new work for <a href="https://www.willingerduo.com/" target="_blank">Willinger Duo</a>. Kian is one of <a href="https://www.salastina.org/" target="_blank">Salastina’s</a> 2020-21 Sounds Promising composers, and is composing a new work for string quartet to be premiered by the ensemble.</p>
-                <p>Kian has participated in the Curtis Institute of Music Young Artist Summer Program, Montecito Music Festival, N.E.O. Voice Festival, and Sunset Chamberfest Young Composers' Workshop. Past composition instructors include Tarik O'Regan, Derrick Spiva Jr., Kay Rhie, David S. Lefkowitz, Noah Meites, and Juan Pablo Contreras. He is currently pursuing a bachelor's degree at The UCLA Herb Alpert School of Music, where he studies with Richard Danielpour.</p>
+            <div class="row t10">
+                <div class="medium-5 columns">
+                    <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
+                </div>
+                <div class="medium-7 columns">
+                    <p><b>Kian Ravaei</b> composes music that delivers bold melodies, heartfelt directness, and visceral power. His growing body of work has often been praised for combining rigorous compositional technique with naturalness and penetrating emotion.</p>
+                    <p>During the pandemic, Ravaei’s daily ritual was playing a chorale by J.S. Bach at the piano and composing an original chorale. Three hundred seventy-one chorales later, Ravaei has cultivated a deeply personal harmonic language and an obsession with the art of counterpoint. Like Bach’s chorales, many of Ravaei’s works appear to be simple on the surface, but underneath they are rich and filled with unexpected nuance.</p>
+                    <p>Born in 1999 of Iranian immigrants, Ravaei spent his childhood playing jazz, producing electronic dance music, and singing in a rock band when he should have been practicing piano sonatas. His diverse output has included a book of piano preludes inspired by mythical creatures, a string quartet that synthesizes Western and Persian classical music, and an orchestration for dubstep DJ and producer <a href="https://en.wikipedia.org/wiki/Wooli" target="_blank">Wooli</a>.</p>
+                    <p>Ravaei’s music has been performed by leading musicians such as interdisciplinary artist <a href="http://www.anoushmoazzeni.com/" target="_blank">Anoush Moazzeni</a> of the <a href="https://ifcacomposers.org/" target="_blank">Iranian Female Composers Association</a>, guitarist <a href="http://jijiguitar.com/" target="_blank">JIJI</a>, and pianists <a href="https://www.stefanogreco.com/en/" target="_blank">Stefano Greco</a> and <a href="https://jihyechang.com/" target="_blank">Jihye Chang</a>. He has been commissioned by notable organizations and ensembles such as the <a href="https://cmccanada.org/" target="_blank">Canadian Music Centre</a> and <a href="https://www.salastina.org/" target="_blank">Salastina.</a></p>
+                    <p>Ravaei is an alum of the Curtis Institute of Music Young Artist Summer Program and the Oregon Bach Festival Composers Symposium. He has studied with prominent and diverse composers such as <a href="https://www.tarikoregan.com/" target="_blank">Tarik O’Regan</a>, <a href="https://www.derrickskye.com/" target="_blank">Derrick Skye</a>, <a href="https://kayrhie.wordpress.com/" target="_blank">Kay Rhie</a>, and <a href="https://www.juanpablocontreras.com/" target="_blank">Juan Pablo Contreras</a>.</p>
+                    <p>He makes his home in Los Angeles, where he studies music composition with <a href="https://www.richard-danielpour.com/" target="_blank">Richard Danielpour</a> — one of his favorite living composers — at the UCLA Herb Alpert School of Music. When he is not composing, he likes to jog, read short stories, and collect CDs.</p>
+                        <!--<div>
+                            <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Works ›</a>
+                        </div>-->
+                    </div>
             </div>
-            <div>
-                <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Works ›</a>
-            </div>
-            <div>
             <h2 class="text-center">Latest Posts</h2>
             <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/0bbd37962c9a58ec803b745d52096ccb.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
             </div>
@@ -32,9 +37,8 @@ header:
               <div>
                 <a href="https://www.instagram.com/kianravaei/" target="_blank" class="button expand">Follow on Instagram ›</a>
             </div>
-
+    </div>
 </div><!-- /.row -->
-</div>
 
 
 

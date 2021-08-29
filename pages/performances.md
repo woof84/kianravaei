@@ -183,7 +183,7 @@ performances:
     city_state: Los Angeles, CA
     performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
 header:
-    image_fullwidth_staff: Kian_Header_idea_9.png
+    image_fullwidth_staff: ravaei_header.png
 ---
 
 
