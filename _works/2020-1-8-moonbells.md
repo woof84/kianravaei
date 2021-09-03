@@ -7,6 +7,7 @@ category_music: Solo
 duration: 10.5'
 orchestration: pf
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_moonbells
+hide: yes
 ---
 
 <p class="teaser">This is one of those slow and meditative pieces of music which unfolds at a snail's pace.</p> 

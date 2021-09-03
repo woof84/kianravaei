@@ -9,6 +9,7 @@ awards:
     - award_year: 2020
       award_title: UCLA Library Ringing the Way Original Music Competition
       award_url: https://www.library.ucla.edu/rtw
+hide: yes
 ---
 
 <p class="teaser">When writing for bells, one cannot ignore their history as liturgical instruments, resounding with reverence for a higher spirit.</p>
