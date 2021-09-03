@@ -19,4 +19,4 @@ Composers of every generation have written pieces inspired by the vernacular mus
 
 In this piece I wanted to pay homage to one my favorite modern vernacular musics: pop musical theater. Think _Company_. _Wicked_. _Legally Blonde_.
 
-This piece is made up of fragments of musical theater, disjointed recollections of shows once seen. It is also a showpiece for the trombone, making use of the instrument's capacity for intensity, jocularity, and lyricism.
+This piece is made up of fragments of musical theater, disjointed recollections of shows once seen. It is also a showpiece for the trombone, making use of the instrument's capacity for vigor, jocularity, and lyricism.
