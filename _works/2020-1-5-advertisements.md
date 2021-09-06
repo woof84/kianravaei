@@ -17,7 +17,7 @@ awards:
       award_title: KC VITAs Call for Scores
       award_rank: Winner
 youtube:
- - url-code: GPDpZovLWMo
+ - url-code: zyQewsUb5JA
  - url-code: ElYbwyxqb0w
  - url-code: 6nILx5F-HiA
 ---
@@ -50,7 +50,7 @@ The reason I wrote this song cycle is not to elevate advertisements to the level
 
 The final movement of this suite sets what I believe to be an ideal advertisement—which is not really an advertisement at all. It is a notice to the public which simply states what is being sold, how much it costs, and where it can be purchased. There is not a whit of rhetorical cunning. It is an earnest and straightforward statement that dignifies consumers by treating them as rational agents capable of making their own commercial decisions.
 
-<iframe style="margin-bottom:15px;" width="100%" height="410" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1280023966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+<iframe style="margin-bottom:5px;" width="100%" height="410" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1280023966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
 
 <!--Facebook video-->
 <!--
