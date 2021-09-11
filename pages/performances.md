@@ -28,7 +28,7 @@ performances:
     performance_title: Virtue - Premiere
     venue: UCLA (Livestream)
     city_state: Los Angeles, CA
-    performers: Michelle Rice
+    performers: Michelle Rice, soprano; Paul Floyd, piano
   - performance_date: 24 JUL 2021
     performance_title: Microverse - Premiere
     venue: Quelque part... (Du vert à l'infini)
