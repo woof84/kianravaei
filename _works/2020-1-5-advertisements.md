@@ -5,9 +5,14 @@ instrumentation: baritone &amp; guitar
 category_music: Voice &amp; Instrument
 year_composed: 2020
 duration: 7'
-orchestration: bar &amp; gtr
 language: English
 score_url: https://issuu.com/kianravaei/docs/00_advertisements_-_full_score_-_ed_4
+movements:
+ - movement: I. Facial Blemishes
+ - movement: II. Help!
+ - movement: III. Frank Siddalls Soap
+ - movement: IV. Camels are Made for Men Who Think for Themselves
+ - movement: V. Notice to the Public
 awards:
     - award_year: 2020
       award_title: UCLA Library Prize for Undergraduate Research

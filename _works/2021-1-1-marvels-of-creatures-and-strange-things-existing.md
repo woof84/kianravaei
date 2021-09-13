@@ -3,9 +3,15 @@ layout: work
 title: "Marvels of Creatures and Strange Things Existing"
 instrumentation: solo piano
 category_music: Solo
-year_composed: 2020
+year_composed: 2021
 duration: 20'
-orchestration: pf
+movements:
+ - movement: I. The Sprite
+ - movement: II. The Siren
+ - movement: III. The Sphinx
+ - movement: IV. The Simurgh
+ - movement: V. The Sea Serpent
+ - movement: VI. The Shadhahvar
 show_meta: false
 header: no
 soundcloud:

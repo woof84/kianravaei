@@ -6,6 +6,10 @@ year_composed: 2021
 category_music: Solo
 duration: 6'
 commissioner: Rachel Boehl
+movements:
+ - movement: I. By Madisen Redel (Age 6)
+ - movement: II. By Aubreigh Redel (Age 8)
+ - movement: III. By Lucy Cornelia Requadt (Age 8)
 score_url: https://issuu.com/kianravaei/docs/written_by_children_-_score
 youtube:
  - url-code: sMXD0ta-gaY?start=472

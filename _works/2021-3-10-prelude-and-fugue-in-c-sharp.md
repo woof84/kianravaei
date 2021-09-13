@@ -6,6 +6,9 @@ year_composed: 2021
 category_music: Solo
 duration: 6'
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_prelude_and_fugue_in_c-sharp
+movements:
+ - movement: Prelude
+ - movement: Fugue
 youtube:
  - url-code: LpYCy0XSL_M
 soundcloud: 

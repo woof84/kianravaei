@@ -74,6 +74,17 @@ header:
                 {% if page.language %}
                 <li><strong>Language:</strong> {{ page.language }}</li>
                 {% endif %}
+                {% if page.movements %}
+                <li><strong>Movements:</strong>
+                    <ul class="no-bullet">
+                        {% for item in page.movements %}
+                        {% if item.movement %}
+                        <li style="padding-left: 2em;text-indent: -2em;">{{ item.movement }}</li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endif %}
                 {% if page.score_url %}
                 <li style="text-align: center;"><a href="#" onclick="MyWindow=window.open('{{ page.score_url }}','MyWindow','toolbar=no,location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, width=1000, height=650'); return false;" id="yui_3_10_1_1_1399924008830_533" target="_blank" class="button tiny expand score" style="margin-bottom: 0; margin-top: 10px;"><strong>View Score ›</strong></a></li>
                 {% endif %}
