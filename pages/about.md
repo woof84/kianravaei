@@ -19,7 +19,7 @@ header:
                     <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
                 </div>
                 <div class="medium-7 columns">
-                    <p><b>Kian Ravaei</b> composes music that delivers bold melodies, heartfelt directness, and visceral power. His growing body of work has often been praised for combining rigorous compositional technique with naturalness and penetrating emotion.</p>
+                    <p><b>Kian Ravaei</b> <a value="PLAY" onclick="play()">🔊</a> composes music that delivers bold melodies, heartfelt directness, and visceral power. His growing body of work has often been praised for combining rigorous compositional technique with naturalness and penetrating emotion.</p>
                     <p>During the pandemic, Ravaei’s daily ritual was playing a chorale by J.S. Bach at the piano and composing an original chorale. Three hundred seventy-one chorales later, Ravaei has cultivated a deeply personal harmonic language and an obsession with the art of counterpoint. Like Bach’s chorales, many of Ravaei’s works appear to be simple on the surface, but underneath they are rich and filled with unexpected nuance.</p>
                     <p>Born in 1999 of Iranian immigrants, Ravaei spent his childhood playing jazz, producing electronic dance music, and singing in a rock band when he should have been practicing piano sonatas. His diverse output has included a book of piano preludes inspired by mythical creatures, a string quartet that synthesizes Western and Persian classical music, and an orchestration for dubstep DJ and producer <a href="https://en.wikipedia.org/wiki/Wooli" target="_blank">Wooli</a>.</p>
                     <p>Ravaei’s music has been performed by leading musicians such as interdisciplinary artist <a href="http://www.anoushmoazzeni.com/" target="_blank">Anoush Moazzeni</a> of the <a href="https://ifcacomposers.org/" target="_blank">Iranian Female Composers Association</a>, guitarist <a href="http://jijiguitar.com/" target="_blank">JIJI</a>, and pianists <a href="https://www.stefanogreco.com/en/" target="_blank">Stefano Greco</a> and <a href="https://jihyechang.com/" target="_blank">Jihye Chang</a>. He has been commissioned by notable organizations and ensembles such as the <a href="https://cmccanada.org/" target="_blank">Canadian Music Centre</a> and <a href="https://www.salastina.org/" target="_blank">Salastina.</a></p>
@@ -40,6 +40,13 @@ header:
 </div><!-- /.row -->
 
 
+<script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+</script>
+<audio id="audio" src="/audio/kian-ravaei.mp3"></audio>
 
 
 
