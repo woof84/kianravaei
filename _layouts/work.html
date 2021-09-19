@@ -91,6 +91,29 @@ header:
             </ul>
         </div>
 
+        <!--Purchase-->
+        {% if page.purchase %}
+        <div class="panel radius">
+            <h3>Purchase</h3>
+            <ul class="no-bullet">
+                {% for product in page.purchase %}
+                {% if product.title %}
+                <li {% if forloop.first == false %} style="margin-top: 20px;" {% endif %}><strong>{{ product.title }}</strong></li>
+                {% endif %}
+                {% if product.price %}
+                <li>{{ product.price }}</li>
+                {% endif %}
+                {% if product.product-key %}
+                <li style="text-align: center;"><a style="margin-bottom: 0; margin-top: 10px;" href="https://payhip.com/b/{{ product.product-key }}" class="payhip-add-to-cart-button button tiny expand score" data-theme="none" data-product="{{ product.product-key }}"><strong>Add to Cart ›</strong></a></li>
+                {% endif %}
+                {% if product.link %}
+                <li style="text-align: center;"><a style="margin-bottom: 0; margin-top: 10px;" href="{{ product.link }}" class="button tiny expand score" target="_blank"><strong>Buy Now ›</strong></a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
         <!--Awards-->
 
         {% if page.awards %}
