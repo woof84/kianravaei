@@ -8,6 +8,7 @@ performances:
     venue: UC Davis
     city_state: Davis, CA
     performers: Sleight Ensemble
+    url: https://arts.ucdavis.edu/event/sleight-ensemble-california-ecology
   - performance_date: 11 DEC 2021
     performance_title: Family Photos
     venue: Multicultural Arts Center
@@ -24,6 +25,7 @@ performances:
     venue: Vernon Salon Series
     city_state: Oakland, CA
     performers: Sleight Ensemble
+    url: https://annerainwater.com/vernonsalonseries/
   - performance_date: 10 SEP 2021
     performance_title: Virtue - Premiere
     venue: UCLA (Livestream)
