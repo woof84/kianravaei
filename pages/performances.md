@@ -20,6 +20,16 @@ performances:
     venue: Center for New Music
     city_state: San Francisco, CA
     performers: Sleight Ensemble
+  - performance_date: 9 NOV 2021
+    performance_title: Outcry
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Christian Gonzalez, violin
+  - performance_date: 15 OCT 2021
+    performance_title: Outcry - Premiere
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Christian Gonzalez, violin
   - performance_date: 8 OCT 2021
     performance_title: California Suite - Premiere
     venue: Vernon Salon Series
