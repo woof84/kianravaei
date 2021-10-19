@@ -25,6 +25,11 @@ performances:
     venue: UCLA
     city_state: Los Angeles, CA
     performers: Christian Gonzalez, violin
+  - performance_date: 29 OCT 2021
+    performance_title: Variations on &quot;This Land is Your Land&quot;
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Bella Hristova, violin; David Kaplan, piano
   - performance_date: 15 OCT 2021
     performance_title: Outcry - Premiere
     venue: UCLA
