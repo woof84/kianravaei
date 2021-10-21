@@ -30,6 +30,7 @@ performances:
     venue: UCLA
     city_state: Los Angeles, CA
     performers: Bella Hristova, violin; David Kaplan, piano
+    url: https://schoolofmusic.ucla.edu/event/violinist-bella-hristova-performs-new-works-for-violin/
   - performance_date: 15 OCT 2021
     performance_title: Outcry - Premiere
     venue: UCLA
