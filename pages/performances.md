@@ -222,7 +222,7 @@ header:
 				</div>
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% assign i = 0 %}
-                {% for item in page.performances %}
+                {% for item in page.performances reversed %}
                 {% assign not-title = NULL %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
