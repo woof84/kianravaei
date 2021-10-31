@@ -20,6 +20,12 @@ performances:
     venue: Center for New Music
     city_state: San Francisco, CA
     performers: Sleight Ensemble
+  - performance_date: 12 NOV 2021
+    performance_title: Composing Identity&colon; Notes from an Iranian-American Composer (Lecture)
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Kian Ravaei, speaker; Christian Gonzalez, violin 1; Alisa Khodos, violin 2; Jocelyn Pon, viola; Haley Hedegard, cello
+    url: https://www.eventbrite.com/e/composing-identity-notes-from-an-iranian-american-composer-tickets-201908262047
   - performance_date: 9 NOV 2021
     performance_title: Outcry
     venue: UCLA
