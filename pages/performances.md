@@ -9,17 +9,17 @@ performances:
     city_state: Davis, CA
     performers: Sleight Ensemble
     url: https://arts.ucdavis.edu/event/sleight-ensemble-california-ecology
+  - performance_date: 15 DEC 2021
+    performance_title: California Suite
+    venue: Center for New Music
+    city_state: San Francisco, CA
+    performers: Sleight Ensemble
   - performance_date: 11 DEC 2021
     performance_title: Family Photos
     venue: Multicultural Arts Center
     city_state: East Cambridge, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/source-code.html
-  - performance_date: 18 NOV 2021
-    performance_title: California Suite
-    venue: Center for New Music
-    city_state: San Francisco, CA
-    performers: Sleight Ensemble
   - performance_date: 12 NOV 2021
     performance_title: Composing Identity&colon; Notes from an Iranian-American Composer (Lecture)
     venue: UCLA
