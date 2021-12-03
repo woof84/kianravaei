@@ -14,6 +14,7 @@ performances:
     venue: Center for New Music
     city_state: San Francisco, CA
     performers: Sleight Ensemble
+    url: https://www.eventbrite.com/e/sleight-ensemble-of-california-ecology-tickets-213075824527
   - performance_date: 11 DEC 2021
     performance_title: Family Photos
     venue: Multicultural Arts Center
