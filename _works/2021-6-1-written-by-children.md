@@ -8,7 +8,7 @@ duration: 6'
 commissioner: Rachel Boehl
 purchase:
  - title: Written by Children Sheet Music - Instant PDF Download (9 x 12)
-   price: $0.00 or more
+   price: Pay What You Want
    product-key: DYwrE
 movements:
  - movement: I. By Madisen Redel (Age 6)
