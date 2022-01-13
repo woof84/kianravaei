@@ -91,6 +91,20 @@ header:
             </ul>
         </div>
 
+        <!--Recording-->
+        {% if page.recording %}
+        <div class="panel radius">
+            <h3>Recordings</h3>
+            <ul class="no-bullet">
+                {% for recording in page.recording %}
+                {% if recording.image and recording.url %}
+                <a href="{{ recording.url }}" target="_blank"><img src="/images/{{ recording.image }}" alt="{{ recording.alt-text}}"></a>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
         <!--Purchase-->
         {% if page.purchase %}
         <div class="panel radius">
