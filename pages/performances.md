@@ -7,6 +7,7 @@ performances:
     performance_title: Writing a Book - Premiere
     venue: Boston New Music Initiative
     city_state: Lexington, MA
+    performers: Arjun Mudan, violin
   - performance_date: 16 APR 2022
     performance_title: Advertisements
     venue: UCLA
