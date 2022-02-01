@@ -25,6 +25,11 @@ performances:
     performance_title: Good Trouble - Premiere
     venue: Oregon Bach Festival "Music of Hope & Resilience" Concert Series
     performers: Fear No Music
+  - performance_date: 22 FEB 2022
+    performance_title: Marvels of Creatures and Strange Things Existing (excerpts)
+    venue: UCLA
+    performers: Brandon Zhou, piano
+    city_state: Los Angeles, CA
   - performance_date: 15 DEC 2021
     performance_title: California Suite
     venue: Center for New Music
