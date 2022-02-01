@@ -3,11 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
-  - performance_date: 5 JUN 2022
+  - performance_date: 4 JUN 2022
     performance_title: Writing a Book - Premiere
-    venue: Boston New Music Initiative
+    venue: Boston New Music Initiative “Musica Loquelae” Concert
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
+    url: https://www.bostonnewmusic.org/13_2
   - performance_date: 16 APR 2022
     performance_title: Advertisements
     venue: UCLA
@@ -19,7 +20,7 @@ performances:
     city_state: Granville, OH
   - performance_date: 19 MAR 2022
     performance_title: Outcry
-    venue: Boston New Music Initiative Prismatic Congruency Series (Online)
+    venue: Boston New Music Initiative "Prismatic Congruency" Series (Online)
     performers: Arjun Mudan, violin
   - performance_date: 26 FEB 2022
     performance_title: Good Trouble - Premiere
@@ -30,6 +31,7 @@ performances:
     venue: UCLA
     performers: Brandon Zhou, piano
     city_state: Los Angeles, CA
+    url: https://schoolofmusic.ucla.edu/event/winter-graduate-and-undergraduate-composers-concert/
   - performance_date: 15 DEC 2021
     performance_title: California Suite
     venue: Center for New Music
