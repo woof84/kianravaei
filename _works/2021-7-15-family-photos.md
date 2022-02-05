@@ -7,6 +7,11 @@ category_music: Chamber Ensemble
 duration: 10'
 commissioner: Salastina
 score_url: https://issuu.com/kianravaei/docs/00_family_photos_-_score_-_ed_5
+awards:
+    - award_year: 2022
+      award_title: Spectrum Chamber Music Composition Award
+      award_rank: First Prize
+      award_url: http://spectrummusicfw.com/2022-composition-award/
 purchase:
  - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $80.00
