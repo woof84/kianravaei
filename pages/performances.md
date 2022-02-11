@@ -27,9 +27,9 @@ performances:
     venue: Oregon Bach Festival "Music of Hope & Resilience" Concert Series
     performers: Fear No Music
   - performance_date: 22 FEB 2022
-    performance_title: Marvels of Creatures and Strange Things Existing (excerpts)
+    performance_title: On the Road - Premiere
     venue: UCLA
-    performers: Brandon Zhou, piano
+    performers: Reedplay Quintet
     city_state: Los Angeles, CA
     url: https://schoolofmusic.ucla.edu/event/winter-graduate-and-undergraduate-composers-concert/
   - performance_date: 15 DEC 2021
