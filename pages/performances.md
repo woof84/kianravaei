@@ -9,6 +9,11 @@ performances:
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
     url: https://www.bostonnewmusic.org/13_2
+  - performance_date: 25 APR 2022
+    performance_title: Family Photos
+    venue: First Jefferson Unitarian Universalist Church
+    performers: Spectrum Chamber Music Society
+    city_state: Fort Worth, TX
   - performance_date: 16 APR 2022
     performance_title: Advertisements
     venue: UCLA
