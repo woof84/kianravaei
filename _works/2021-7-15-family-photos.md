@@ -13,7 +13,7 @@ awards:
       award_rank: First Prize
       award_url: http://spectrummusicfw.com/2022-composition-award/
     - award_year: 2022
-      award_title: Tribeca New Music Young Composer Competition (Division 1)
+      award_title: Tribeca New Music Young Composer Competition (Division I)
       award_rank: Honorable Mention
       award_url: https://www.tribecanewmusic.org/2022results
 purchase:
