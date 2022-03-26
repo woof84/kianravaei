@@ -19,14 +19,17 @@ performances:
     venue: UCLA
     performers: Finn Sagal, baritone; Eliot Fisk, guitar
     city_state: Los Angeles, CA
+    url: https://schoolofmusic.ucla.edu/event/eliot-fisk-solo-guitar-recital/
   - performance_date: 24 MAR 2022
     performance_title: Outcry
     venue: TUTTI Festival at Denison University
     city_state: Granville, OH
+    url: https://denison.edu/events/event/144825
   - performance_date: 19 MAR 2022
     performance_title: Outcry
     venue: Boston New Music Initiative "Prismatic Congruency" Series (Online)
     performers: Arjun Mudan, violin
+    url: https://www.bostonnewmusic.org/prismatic
   - performance_date: 26 FEB 2022
     performance_title: Good Trouble - Premiere
     venue: Oregon Bach Festival "Music of Hope & Resilience" Concert Series
