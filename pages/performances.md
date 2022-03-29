@@ -9,11 +9,21 @@ performances:
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
     url: https://www.bostonnewmusic.org/13_2
+  - performance_date: 19 MAY 2022
+    performance_title: A Litany in Time of Plague - Premiere
+    venue: UCLA
+    city_state: Los Angeles, CA
   - performance_date: 25 APR 2022
     performance_title: Family Photos
     venue: First Jefferson Unitarian Universalist Church
     performers: Spectrum Chamber Music Society
     city_state: Fort Worth, TX
+  - performance_date: 22 APR 2022
+    performance_title: Composing Nostalgia&colon; A Composer's Perspective (Lecture)
+    venue: UCLA Nostalgia, Music and Music Studies Symposium
+    performers: Kian Ravaei, speaker
+    city_state: Los Angeles, CA
+    url: https://schoolofmusic.ucla.edu/event/heritage-and-identity/
   - performance_date: 16 APR 2022
     performance_title: Advertisements
     venue: UCLA
