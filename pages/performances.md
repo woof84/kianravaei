@@ -34,6 +34,7 @@ performances:
     performance_title: Outcry
     venue: TUTTI Festival at Denison University
     city_state: Granville, OH
+    performers: Philip Rudd, violin
     url: https://denison.edu/events/event/144825
   - performance_date: 19 MAR 2022
     performance_title: Outcry
