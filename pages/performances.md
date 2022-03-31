@@ -24,12 +24,12 @@ performances:
     performers: Kian Ravaei, speaker
     city_state: Los Angeles, CA
     url: https://schoolofmusic.ucla.edu/event/heritage-and-identity/
-  - performance_date: 16 APR 2022
+  - performance_date: 14 APR 2022
     performance_title: Advertisements
     venue: UCLA
     performers: Finn Sagal, baritone; Eliot Fisk, guitar
     city_state: Los Angeles, CA
-    url: https://schoolofmusic.ucla.edu/event/eliot-fisk-solo-guitar-recital/
+    url: https://schoolofmusic.ucla.edu/event/eight-world-premieres-of-works-for-classical-guitar-and-various-instruments-by-ucla-composers/
   - performance_date: 24 MAR 2022
     performance_title: Outcry
     venue: TUTTI Festival at Denison University
