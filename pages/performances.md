@@ -18,6 +18,7 @@ performances:
     venue: First Jefferson Unitarian Universalist Church
     performers: Spectrum Chamber Music Society
     city_state: Fort Worth, TX
+    url: http://spectrummusicfw.com/all-the-crayons-a-modern-music-concert/
   - performance_date: 22 APR 2022
     performance_title: Composing Nostalgia&colon; A Composer's Perspective (Lecture)
     venue: UCLA Nostalgia, Music and Music Studies Symposium
