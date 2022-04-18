@@ -9,7 +9,7 @@ performances:
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
     url: https://www.bostonnewmusic.org/13_2
-  - performance_date: 19 MAY 2022
+  - performance_date: 10 MAY 2022
     performance_title: A Litany in Time of Plague - Premiere
     venue: UCLA
     city_state: Los Angeles, CA
