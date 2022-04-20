@@ -6,7 +6,7 @@ performances:
   - performance_date: 12 JUN 2022
     performance_title: Unstoppable - Premiere
     venue: Copland House
-    city_state: Cortlandt, NY
+    city_state: Cortlandt Manor, NY
     performers: Music from Copland House Ensemble
   - performance_date: 4 JUN 2022
     performance_title: Writing a Book - Premiere
