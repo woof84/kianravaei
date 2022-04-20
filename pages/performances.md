@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 12 JUN 2022
+    performance_title: Unstoppable - Premiere
+    venue: Copland House
+    city_state: Cortlandt, NY
+    performers: Music from Copland House Ensemble
   - performance_date: 4 JUN 2022
     performance_title: Writing a Book - Premiere
     venue: Boston New Music Initiative “Musica Loquelae” Concert
