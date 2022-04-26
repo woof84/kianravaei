@@ -14,6 +14,11 @@ performances:
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
     url: https://www.bostonnewmusic.org/13_2
+  - performance_date: 14 MAY 2022
+    performance_title: Marvels of Creatures and Strange Things Existing - Premiere
+    venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
+    city_state: Los Angeles, CA
+    performers: Brandon Zhou, piano
   - performance_date: 10 MAY 2022
     performance_title: A Litany in Time of Plague - Premiere
     venue: UCLA
