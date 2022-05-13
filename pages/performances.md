@@ -19,6 +19,26 @@ performances:
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
     city_state: Los Angeles, CA
     performers: Brandon Zhou, piano
+  - performance_date: 14 MAY 2022
+    performance_title: On the Road
+    venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
+    city_state: Los Angeles, CA
+    performers: Reedplay Quintet
+  - performance_date: 14 MAY 2022
+    performance_title: Arcadia
+    venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
+    city_state: Los Angeles, CA
+    performers: Christian Gonzales, violin I; Celeste Pena, violin II; Jocelyn Pon, viola; Haley Hedegard, cello
+  - performance_date: 14 MAY 2022
+    performance_title: Latif - Premiere
+    venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
+    city_state: Los Angeles, CA
+    performers: Yoshika Masuda, cello; Sean Tang-Wang, piano
+  - performance_date: 14 MAY 2022
+    performance_title: Outcry
+    venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
+    city_state: Los Angeles, CA
+    performers: Christian Gonzales, violin
   - performance_date: 10 MAY 2022
     performance_title: A Litany in Time of Plague - Premiere
     venue: UCLA
