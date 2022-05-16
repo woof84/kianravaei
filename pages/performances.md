@@ -18,7 +18,7 @@ performances:
     performance_title: Marvels of Creatures and Strange Things Existing - Premiere
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
     city_state: Los Angeles, CA
-    performers: Brandon Zhou, piano
+    performers: Brandon Zhou, piano 
   - performance_date: 14 MAY 2022
     performance_title: On the Road
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
