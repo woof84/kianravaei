@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 19 JUN 2022
+    performance_title: Family Photos
+    venue: Sunset ChamberFest
+    city_state: Los Angeles, CA
+    performers: Hwi-Eun Kim, violin; Melody Chang, violin; Linnea Powell, viola; Yoshika Masuda, cello
+    url: https://www.sunsetchamberfest.com/concerts-2022/event-three-kk783
   - performance_date: 12 JUN 2022
     performance_title: Unstoppable - Premiere
     venue: Copland House
