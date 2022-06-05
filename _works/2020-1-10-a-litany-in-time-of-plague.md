@@ -4,7 +4,7 @@ title: "A Litany in Time of Plague"
 instrumentation: SATB a capella chorus
 category_music: Choral
 year_composed: 2020
-duration: 9.5'
+duration: 5'
 text_writer: Thomas Nashe (1592)
 awards:
     - award_year: 2021
@@ -13,9 +13,11 @@ awards:
       award_url: http://www.myo.org/myo-programs/emerging-composers-competition/
 language: English
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_a_litany_in_time_of_plague
+soundcloud: 
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1272965929&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 ---
 
-It is astonishing and unfortunate how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.
+It is astonishing how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.
 
 <blockquote>
 <div style="text-align: center;">
@@ -25,8 +27,10 @@ Fond are life's lustful joys;<br>
 Death proves them all but toys;<br>
 None from his darts can fly;<br>
 I am sick, I must die.<br>
-<span style="margin-left:10%;">Lord, have mercy on us!</span></p>
-    </div>
+<span style="margin-left:10%;">Lord, have mercy on us!</span><br><br>
+<cite>Thomas Nashe, A Litany in Time of Plague (1592)</cite></p>
+</div>
+
 </blockquote>
 
-Suddenly, we all find ourselves imploring this invisible enemy to “have mercy on us.” I wrote this piece to mourn the countless dead, echo the existential fear of the living, and offer, with utmost sincerity, hope for the future.
+Suddenly, we all find ourselves imploring this invisible enemy to “have mercy on us.”
