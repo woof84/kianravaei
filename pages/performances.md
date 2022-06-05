@@ -20,6 +20,11 @@ performances:
     city_state: Lexington, MA
     performers: Arjun Mudan, violin
     url: https://www.bostonnewmusic.org/13_2
+  - performance_date: 3 JUN 2022
+    performance_title: Prisoners of Hope
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Calvin Kung, cello
   - performance_date: 14 MAY 2022
     performance_title: Marvels of Creatures and Strange Things Existing - Premiere
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
