@@ -23,7 +23,7 @@ header:
     </div>
     <div class="medium-6 columns text-center">
     <p style="font-size:100px; margin-bottom:0"><i class="icon-chat"></i></p>
-    <p class="teaser" style="white-space:nowrap;"><a href="tel:+1626-710-7297">+1 ‪(661) 977-6457‬</a></p>
+    <p class="teaser" style="white-space:nowrap;"><a href="tel:+1661-977-6457">+1 ‪(661) 977-6457‬</a></p>
       </div>
     </div>
 
