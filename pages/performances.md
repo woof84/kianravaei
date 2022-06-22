@@ -11,7 +11,7 @@ performances:
     url: https://www.eci.hiddenvalleymusic.org/events
   - performance_date: 25 JUN 2022
     performance_title: Family Photos (excerpt)
-    venue: Preldude Chamber Music
+    venue: Prelude Chamber Music
     city_state: Jacksonville, FL
     url: https://preludechambermusic.org/event/grand-finale-student-concerts-winning-showcase-of-the-young-composers-competition
   - performance_date: 19 JUN 2022
