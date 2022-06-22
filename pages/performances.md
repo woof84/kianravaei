@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 2 JUL 2022
+    performance_title: Fantasy Variations (On a Theme by Dvořák) — Premiere
+    venue: Hidden Valley
+    city_state: Carmel Valley, CA
+    performers: Tien-Hsin Cindy Wu, violin; David Samuel, viola; Drew Petersen, piano
+    url: https://www.eci.hiddenvalleymusic.org/events
   - performance_date: 25 JUN 2022
     performance_title: Family Photos (excerpt)
     venue: Preldude Chamber Music
