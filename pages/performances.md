@@ -13,6 +13,7 @@ performances:
     performance_title: Family Photos (excerpt)
     venue: Prelude Chamber Music
     city_state: Jacksonville, FL
+    performers: Piotr Szewczyk, violin I; Melissa Barrett, violin II; Chris Chappell, viola; Linda Minke, cello
     url: https://preludechambermusic.org/event/grand-finale-student-concerts-winning-showcase-of-the-young-composers-competition
   - performance_date: 19 JUN 2022
     performance_title: Family Photos
@@ -69,6 +70,11 @@ performances:
   - performance_date: 10 MAY 2022
     performance_title: A Litany in Time of Plague - Premiere
     venue: UCLA
+    city_state: Los Angeles, CA
+  - performance_date: 28 APR 2022
+    performance_title: Outcry
+    venue: Los Angeles Chamber Orchestra “Meet the Music” Concert
+    performers: Sarah Thornblade, violin
     city_state: Los Angeles, CA
   - performance_date: 25 APR 2022
     performance_title: Family Photos
