@@ -13,7 +13,7 @@ awards:
       award_rank: Finalist
     - award_year: 2022
       award_title: Prelude Chamber Music Young Composers Competition
-      award_rank: First Prize
+      award_rank: First Prize (excerpt)
     - award_year: 2022
       award_title: Spectrum Chamber Music Composition Award
       award_rank: First Prize
