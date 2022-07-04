@@ -8,7 +8,6 @@ commissioner: Lavinia Chen
 youtube:
  - url-code: kUGIK7Vnpg0
 duration: 4'
-orchestration: vln. &amp; vlc.
 score_url: https://issuu.com/kianravaei/docs/00_full_score_-_caprice_-_ed_2
 ---
 
