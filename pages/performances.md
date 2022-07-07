@@ -43,7 +43,7 @@ performances:
     city_state: Los Angeles, CA
     performers: Brandon Zhou, piano
   - performance_date: 14 MAY 2022
-    performance_title: On the Road
+    performance_title: On The Road
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
     city_state: Los Angeles, CA
     performers: Reedplay Quintet
@@ -110,7 +110,7 @@ performances:
     venue: Oregon Bach Festival "Music of Hope & Resilience" Concert Series
     performers: Fear No Music
   - performance_date: 22 FEB 2022
-    performance_title: On the Road - Premiere
+    performance_title: On The Road - Premiere
     venue: UCLA
     performers: Reedplay Quintet
     city_state: Los Angeles, CA
