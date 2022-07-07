@@ -12,15 +12,8 @@ movements:
  - movement: IV. The Simurgh
  - movement: V. The Sea Serpent
  - movement: VI. The Shadhahvar
-show_meta: false
-header: no
-soundcloud:
-  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/777375535&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-# permalink: "/:collection/marvels-of-creatures-and-strange-things-existing/"
 ---
 
-Zakariya al-Qazwini's thirteenth century book _Marvels of Creatures and Strange Things Existing_ was the catalogue to end all catalogues. It contains descriptions of every living thing in existence — that includes not only plants and animals, but monsters and demons and gods. You will find next to a drawing of a trout a detailed depiction of a Godzilla-sized sea serpent.
+<i>Marvels of Creatures and Strange Things Existing</i> is a set of six preludes for piano, each inspired by a mythological creature and dedicated to a musical mentor. The title of the piece alludes to Zakariya al-Qazwini’s eponymous thirteenth-century cosmographical treatise, containing descriptions of every living thing in existence, including many creatures which we may now consider mythological.
 
-My eponymous work is a set of six preludes for piano, each inspired by a creature from this strange and marvelous book.
-
-_More recordings coming soon._
+“The Sprite” portrays a nimble and mischievous fairy from European folklore. “The Siren” brings to mind the creatures from Homer’s Odyssey who lure sailors to their death with their enchanting singing voices. “The Sphinx” conjures up the mercilessly riddling creature of ancient Egyptian mythology. “The Simurgh” represents the enormous, benevolent bird from Persian mythology, who symbolizes rebirth. “The Sea Serpent” evokes a sinuous serpent who drags sailors to the depths of the ocean. “The Shadhahvar” depicts a legendary deer whose antlers create music when held in the wind, like an Aeolian harp.

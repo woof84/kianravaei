@@ -4,7 +4,7 @@ title: "Performances"
 permalink: "/performances/"
 performances:
   - performance_date: 2 JUL 2022
-    performance_title: Fantasy Variations (On a Theme by Dvořák) — Premiere
+    performance_title: Fantasy Variations (On a Theme by Dvořák) - Premiere
     venue: Hidden Valley
     city_state: Carmel Valley, CA
     performers: Tien-Hsin Cindy Wu, violin; David Samuel, viola; Drew Petersen, piano
@@ -53,7 +53,7 @@ performances:
     city_state: Los Angeles, CA
     performers: Calvin Kung, cello
   - performance_date: 14 MAY 2022
-    performance_title: Arcadia
+    performance_title: Arcadia - Premiere
     venue: Prisoners of Hope&colon; A Recital of Works by Kian Ravaei
     city_state: Los Angeles, CA
     performers: Christian Gonzales, violin I; Celeste Pena, violin II; Jocelyn Pon, viola; Haley Hedegard, cello
@@ -208,7 +208,7 @@ performances:
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
-    performers: Kennethe Glendon Brown, piano
+    performers: Kenneth Glendon Brown, piano
     url: https://schoolofmusic.ucla.edu/event/the-inaugural-selma-moidel-smith-recital/?mc_cid=c4f757510c&mc_eid=5fdf70357e
   - performance_date: 27 APR 2021
     performance_title: Ideal Conversation
