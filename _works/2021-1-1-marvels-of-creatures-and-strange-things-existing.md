@@ -13,6 +13,10 @@ movements:
  - movement: V. The Sea Serpent
  - movement: VI. The Shadhahvar
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_marvels_of_creatures_and_strange_things_e
+purchase:
+ - title: Marvels of Creatures and Strange Things Existing - Instant PDF Download (9 x 12)
+   price: $40.00
+   product-key: nTVFm
 ---
 
 <i>Marvels of Creatures and Strange Things Existing</i> is a set of six preludes for piano, each inspired by a mythological creature and dedicated to a musical mentor. The title of the piece alludes to Zakariya al-Qazwini’s eponymous thirteenth-century cosmographical treatise, containing descriptions of every living thing in existence, including many creatures which we may now consider mythological.
