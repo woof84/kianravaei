@@ -1,0 +1,18 @@
+---
+layout: work
+title: "Meditation and Dance (After Rumi)"
+instrumentation: guitar
+category_music: Solo
+year_composed: 2022
+duration: 5'
+---
+
+The guitarist Shabyl Ajmal, for whom I wrote this piece, told me something amazing at the beginning of our collaboration: his late father was the first person to translate the _Masnavi_, an epic 50,000-line poem by the Persian poet Rumi, into the Malay language. For Shabyl and me, the _Masnavi_ became an intersection between his Malaysian heritage and my Persian heritage. The following passage ignited my imagination, bringing to mind the image of a Sufi dervish whirling rapturously in order to transcend his worldly desires.
+
+<blockquote>
+<p>
+<span>Dance (only) where you break (mortify) yourself and (when you) tear away the cotton from the sore of lust.<br>
+(Holy) men dance and wheel on the (spiritual) battle-field: they dance in their own blood.</span>
+<cite>Rumi, <i>Masnavi</i> (trans. R.A. Nicholson)</cite>
+</p>
+</blockquote>
