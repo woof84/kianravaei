@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Meditation and Dance (After Rumi)"
-instrumentation: guitar
+instrumentation: solo guitar
 category_music: Solo
 year_composed: 2022
 duration: 5'
