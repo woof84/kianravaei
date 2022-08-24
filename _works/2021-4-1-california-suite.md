@@ -8,10 +8,10 @@ duration: 14'
 score_url: https://issuu.com/kianravaei/docs/00_california_suite_-_piano_score_-_ed_2
 commissioner: Sleight Ensemble with support from InterMusic SF
 movements:
- - movement: I. Allemande (Least Bell's Vireo)
- - movement: II. Courante (Belding's Savannah Sparrow)
- - movement: III. Sarabande (Swainson's Hawk)
- - movement: IV. Gigue (California Black Rail)
+ - movement: I. Least Bell's Vireo
+ - movement: II. Belding's Savannah Sparrow
+ - movement: III. Swainson's Hawk
+ - movement: IV. California Black Rail
 ---
 <i>California Suite</i> is an “endangered birdsong partita.” Each movement is inspired by a Baroque dance and takes its melodies from the song or call of a bird on California’s Endangered and Threatened Animals List at the time of writing. The natural sounds of California course through this work, much in the same way that the French musical style of Bach’s day coursed through his French Suites.
 
