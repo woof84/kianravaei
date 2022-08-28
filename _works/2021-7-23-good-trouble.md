@@ -7,12 +7,15 @@ orchestration: fl cl vn vc pf
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_good_trouble_-_score
 year_composed: 2021
 duration: 3'
-soundcloud: 
- - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224218431%3Fsecret_token%3Ds-3ywdqznUyvi&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
-hide: yes
+youtube:
+ - url-code: 6R38kjIubEQ
+recording:
+ - image: good-trouble_artwork.png
+   alt-text: "Good Trouble album art"
+   url: https://ffm.to/goodtrouble
 ---
-This piece is dedicated to the memory of John Lewis, who, in his roles as civil rights activist and Congressman, dedicated his life to stirring up “good trouble” in order to create world-shaking social change.
+This piece is dedicated to the memory of civil rights activist and Congressman John Lewis, who devoted his life to getting in “good trouble” for the sake of creating a more equitable society, one that epitomizes "love, brotherhood, and true peace."
 
-The listening menu includes stride bass, bustling dovetailed arpeggios, triumphant cello power chords, and plenty of good ol' fashioned counterpoint.
+The recording of _Good Trouble_ was released on the 59th anniversary of the March on Washington, where Martin Luther King Jr. delivered his “I Have A Dream” speech.
 
-<!-- We recorded the musicians in separate isolation booths to achieve a crisp, in-your-face sound. -->
+_Good Trouble_ is <a href="https://ffm.to/goodtrouble" target="_blank">available for streaming and download</a> on all music platforms.

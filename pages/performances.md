@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 1 NOV 2022
+    performance_title: Blessed - Premiere
+    venue: The Parish of Saint Matthew
+    city_state: Pacific Palisades, CA
+    performers: The Choir of St. Matthew’s Parish
   - performance_date: 2 JUL 2022
     performance_title: Fantasy Variations (On a Theme by Dvořák) - Premiere
     venue: Hidden Valley
