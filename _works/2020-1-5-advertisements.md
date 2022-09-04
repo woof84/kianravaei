@@ -4,7 +4,7 @@ title: "Advertisements"
 instrumentation: baritone &amp; guitar
 category_music: Voice &amp; Instrument
 year_composed: 2020
-duration: 7'
+duration: 8'
 language: English
 score_url: https://issuu.com/kianravaei/docs/00_advertisements_-_full_score_-_ed_4
 movements:
@@ -22,9 +22,9 @@ awards:
       award_title: KC VITAs Call for Scores
       award_rank: Winner
 youtube:
+ - url-code: y8UMHUtad00
  - url-code: zyQewsUb5JA
  - url-code: ElYbwyxqb0w
- - url-code: 6nILx5F-HiA
 ---
 
 <!--
@@ -55,7 +55,8 @@ The reason I wrote this song cycle is not to elevate advertisements to the level
 
 The final movement of this suite sets what I believe to be an ideal advertisement—which is not really an advertisement at all. It is a notice to the public which simply states what is being sold, how much it costs, and where it can be purchased. There is not a whit of rhetorical cunning. It is an earnest and straightforward statement that dignifies consumers by treating them as rational agents capable of making their own commercial decisions.
 
-<iframe style="margin-bottom:5px;" width="100%" height="410" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1280023966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+<!--Soundcloud playlist-->
+<!-- <iframe style="margin-bottom:5px;" width="100%" height="410" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1280023966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"> -->
 
 <!--Facebook video-->
 <!--
