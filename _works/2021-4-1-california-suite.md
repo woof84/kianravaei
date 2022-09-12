@@ -14,8 +14,8 @@ movements:
  - movement: IV. California Black Rail
 awards:
  - award_year: 2022
-    award_title: Flute New Music Consortium Composition Competition
-    award_rank: Honorable Mention
+   award_title: Flute New Music Consortium Composition Competition
+   award_rank: Honorable Mention
 ---
 <i>California Suite</i> is an “endangered birdsong partita.” Each movement is inspired by a Baroque dance and takes its melodies from the song or call of a bird on California’s Endangered and Threatened Animals List at the time of writing. The natural sounds of California course through this work, much in the same way that the French musical style of Bach’s day coursed through his French Suites.
 
