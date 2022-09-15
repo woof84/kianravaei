@@ -3,6 +3,18 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 25 JUN 2023
+    performance_title: Family Photos
+    venue: New England Botanic Garden at Tower Hill
+    city_state: Boylston, MA
+    performers: Juventas New Music Ensemble
+    url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 11 JUN 2023
+    performance_title: Family Photos
+    venue: New England Botanic Garden at Tower Hill
+    city_state: Boylston, MA
+    performers: Juventas New Music Ensemble
+    url: https://www.juventasmusic.org/music-in-bloom-2023.html
   - performance_date: 1 NOV 2022
     performance_title: Blessed - Premiere
     venue: The Parish of Saint Matthew
