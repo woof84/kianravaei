@@ -9,23 +9,23 @@ commissioner: Salastina
 score_url: https://issuu.com/kianravaei/docs/00_family_photos_-_score_-_ed_5
 awards:
     - award_year: 2022
-      award_title: ASCAP Foundation Morton Gould Award
-      award_rank: Finalist
+      award_title: Spectrum Chamber Music Composition Award
+      award_rank: First Prize
+      award_url: http://spectrummusicfw.com/2022-composition-award/
     - award_year: 2022
       award_title: Prelude Chamber Music Young Composers Competition
       award_rank: First Prize (excerpt)
     - award_year: 2022
-      award_title: Spectrum Chamber Music Composition Award
-      award_rank: First Prize
-      award_url: http://spectrummusicfw.com/2022-composition-award/
+      award_title: The American Prize in Composition, Instrumental Chamber Music
+      award_rank: Second Prize
+      award_url: https://theamericanprize.blogspot.com/2022/09/national-winners-composers-instrumental.html
     - award_year: 2022
       award_title: Tribeca New Music Young Composer Competition (Division I)
       award_rank: Honorable Mention
       award_url: https://www.tribecanewmusic.org/2022results
     - award_year: 2022
-      award_title: The American Prize in Composition, Instrumental Chamber Music
-      award_rank: Second Prize
-      award_url: https://theamericanprize.blogspot.com/2022/01/semi-finalists-composers-instrumental.html
+      award_title: ASCAP Foundation Morton Gould Award
+      award_rank: Finalist
 purchase:
  - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $80.00
