@@ -24,7 +24,7 @@ awards:
       award_url: https://www.tribecanewmusic.org/2022results
     - award_year: 2022
       award_title: The American Prize in Composition, Instrumental Chamber Music
-      award_rank: Semi-Finalist
+      award_rank: Second Prize
       award_url: https://theamericanprize.blogspot.com/2022/01/semi-finalists-composers-instrumental.html
 purchase:
  - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
