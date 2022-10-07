@@ -20,6 +20,11 @@ performances:
     venue: The Parish of Saint Matthew
     city_state: Pacific Palisades, CA
     performers: The Choir of St. Matthew’s Parish
+  - performance_date: 7 OCT 2022
+    performance_title: Day of Rest - Premiere
+    venue: Indiana University
+    city_state: Bloomington, IN
+    performers: Haley Harrison, clarinet; Chenchun Ma, piano
   - performance_date: 2 JUL 2022
     performance_title: Fantasy Variations (On a Theme by Dvořák) - Premiere
     venue: Hidden Valley
