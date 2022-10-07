@@ -20,7 +20,7 @@ performances:
     venue: The Parish of Saint Matthew
     city_state: Pacific Palisades, CA
     performers: The Choir of St. Matthew’s Parish
-  - performance_date: 7 OCT 2022
+  - performance_date: 12 OCT 2022
     performance_title: Day of Rest - Premiere
     venue: Indiana University
     city_state: Bloomington, IN
