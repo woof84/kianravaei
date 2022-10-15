@@ -194,6 +194,35 @@ header:
         </div>
         {% endif %}
 
+        <!--Broadcasts-->
+
+        {% if page.broadcasts %}
+        <div class="panel radius">
+            <h3>Broadcasts</h3>
+            {% for item in page.broadcasts %}
+            <ul class="no-bullet">
+            <li><strong>{{ item.date }}</strong></li>
+                {% if page.title %}
+                <li>
+                {{ page.title }}
+                </li>
+                {% endif %}
+                {% if item.station %}
+                <li>
+                {% if item.url %}
+                <a href="{{ item.url }}" target="_blank">
+                {% endif %}
+                {{ item.station }}
+                {% if item.url %}
+                </a>
+                {% endif %}
+                </li>
+                {% endif %}
+            </ul>
+            {% endfor %}
+        </div>
+        {% endif %}
+
         <!--Performances-->
 
         {% for search in site.pages %}

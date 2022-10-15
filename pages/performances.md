@@ -375,7 +375,7 @@ header:
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
-                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
+                    <li style="font-size:20px;"><b>{% unless work.hide %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endunless %}{{ work.title }}{% unless work.hide %}</a>{% endunless %}{{not-title}}</b></li>
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}
@@ -426,7 +426,7 @@ header:
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
-                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
+                    <li style="font-size:20px;"><b>{% unless work.hide %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endunless %}{{ work.title }}{% unless work.hide %}</a>{% endunless %}{{not-title}}</b></li>
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}
