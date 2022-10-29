@@ -15,7 +15,7 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
-  - performance_date: 1 NOV 2022
+  - performance_date: 6 NOV 2022
     performance_title: Blessed - Premiere
     venue: The Parish of Saint Matthew
     city_state: Pacific Palisades, CA
