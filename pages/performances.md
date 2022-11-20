@@ -15,6 +15,12 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 16 FEB 2023
+    performance_title: Unstoppable - Premiere
+    venue: Copland House
+    city_state: Cortlandt Manor, NY
+    performers: Music from Copland House Ensemble
+    url: https://youtu.be/J6SZhJyh664
   - performance_date: 6 NOV 2022
     performance_title: Blessed - Premiere
     venue: The Parish of Saint Matthew
@@ -43,11 +49,6 @@ performances:
     city_state: Los Angeles, CA
     performers: Hwi-Eun Kim, violin; Melody Chang, violin; Linnea Powell, viola; Yoshika Masuda, cello
     url: https://www.sunsetchamberfest.com/concerts-2022/reflections
-  - performance_date: 12 JUN 2022
-    performance_title: Unstoppable - Premiere
-    venue: Copland House
-    city_state: Cortlandt Manor, NY
-    performers: Music from Copland House Ensemble
   - performance_date: 4 JUN 2022
     performance_title: Writing a Book - Premiere
     venue: Boston New Music Initiative “Musica Loquelae” Concert
