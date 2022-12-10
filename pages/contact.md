@@ -22,7 +22,7 @@ header:
     <p class="teaser" style="white-space:nowrap;"><a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a></p>
     </div>
     <div class="medium-6 columns text-center">
-    <p style="font-size:100px; margin-bottom:0"><i class="icon-chat"></i></p>
+    <p style="font-size:100px; margin-bottom:0"><i class="fa fa-phone"></i></p>
     <p class="teaser" style="white-space:nowrap;"><a href="tel:+1661-977-6457">+1 ‪(661) 977-6457‬</a></p>
       </div>
     </div>
