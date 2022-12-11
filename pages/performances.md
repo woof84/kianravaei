@@ -15,6 +15,12 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 31 MAR 2023
+    performance_title: Blue - Premiere
+    venue: Indiana University
+    city_state: Bloomington, IN
+    performers: NOTUS
+    url: https://events.iu.edu/musiciub/event/641112-notus
   - performance_date: 16 FEB 2023
     performance_title: Unstoppable - Premiere
     venue: Copland House
