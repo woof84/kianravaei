@@ -5,8 +5,6 @@ permalink: "/about/"
 header:
     image_fullwidth_staff: ravaei_header.png
 ---
-
-
 <div class="row t30">
 	<div class="small-12 columns">
 			<header>
@@ -19,6 +17,21 @@ header:
                     <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
                     <a href="https://www.dropbox.com/sh/g8xnnavsb818y9u/AAC3VP6U8tBjZ3AHZiS3a8q-a?dl=0" target="_blank" class="button expand">Download High-Res Images</a>
                     <a href="https://www.dropbox.com/sh/6iqt9xadqmle9a0/AAD_Rg0ZkMp46Nb73tFcArHya?dl=0" target="_blank" class="button expand">Download Biographies</a>
+                    <!-- <div class="accordion" data-accordion>
+                        <div class="accordion-navigation">
+                            <a href="#panel1a">Download Biographies</a>
+                            <div id="panel1a" class="content">
+                            DOC | PDF 
+                            </div>
+                        </div>
+                    </div>
+                    <p><i>Click to download hi-res images.</i></p>
+                    <ul class="small-block-grid-2">
+                        <li><a href="{{ site.urlimg }}Kian-Ravaei-1.JPG" download="image.jpg"><img src="{{ site.urlimg }}Kian-Ravaei-1.JPG" alt="Image 1"></a></li>
+                        <li><a href="image.jpg" download="image.jpg"><img src="{{ site.urlimg }}Kian-Ravaei-2.JPG" alt="Image 1"></a></li>
+                        <li><a href="image.jpg" download="image.jpg"><img src="{{ site.urlimg }}Kian-Ravaei-3.JPG" alt="Image 1"></a></li>
+                        <li><a href="image.jpg" download="image.jpg"><img src="{{ site.urlimg }}Kian-Ravaei-4.JPG" alt="Image 1"></a></li>
+                    </ul> -->
                 </div>
                 <div class="medium-8 columns">
                     <p>Composer <b>Kian Ravaei</b> (b. 1999) is obsessed with notes, and the indescribable feelings they inspire within us. Whether he is composing piano preludes inspired by mythical creatures, flute melodies that mimic the songs of endangered birds, or a string quartet that draws from the Iranian music of his ancestral heritage, he takes listeners on a spellbinding tour of humanity’s most deeply felt emotions.</p>
