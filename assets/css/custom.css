@@ -735,6 +735,13 @@ div.gray-bg {
     font-weight: 300;
 }
 
+.recording-available{
+    color: dimgray;
+    font-weight: 300;
+    margin-left: -19px;
+    display: none !important
+}
+
 .performance-date{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;

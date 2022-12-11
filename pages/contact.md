@@ -18,7 +18,7 @@ header:
 
 <div class="row">
   <div class="medium-6 columns text-center">
-    <p style="font-size:100px; margin-bottom:0"><i class="icon-mail"></i></p>
+    <p style="font-size:100px; margin-bottom:0"><i class="fa fa-envelope"></i></p>
     <p class="teaser" style="white-space:nowrap;"><a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a></p>
     </div>
     <div class="medium-6 columns text-center">
