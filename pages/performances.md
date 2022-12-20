@@ -23,8 +23,7 @@ performances:
     url: https://events.iu.edu/musiciub/event/641112-notus
   - performance_date: 16 FEB 2023
     performance_title: Unstoppable - Premiere
-    venue: Copland House
-    city_state: Cortlandt Manor, NY
+    venue: Copland House Cultivated Spaces 3.0
     performers: Music from Copland House Ensemble
     url: https://youtu.be/J6SZhJyh664
   - performance_date: 6 NOV 2022
