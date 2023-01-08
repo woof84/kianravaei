@@ -15,6 +15,11 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 15 APR 2023
+    performance_title: Unstoppable
+    venue: Sala Piatti
+    city_state: Bergamo, Italy
+    performers: Achrome Ensemble
   - performance_date: 31 MAR 2023
     performance_title: Blue - Premiere
     venue: Indiana University
