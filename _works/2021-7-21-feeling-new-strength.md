@@ -14,6 +14,8 @@ awards:
     - award_year: 2021
       award_title: Metropolitan Youth Orchestra of New York Emerging Composers Competition (Orchestral, Division II)
       award_rank: Third Prize
+youtube:
+ - url-code: _IwKWfA_R3o
 ---
 Unlike most of my works, the title of this piece came to me over a year after its composition. Its musical spirit and expressive character reminded me of Beethoven’s inscription in the _Heiliger Dankgesang_: “Neue Kraft fühlend” (“Feeling new strength”). 
 
