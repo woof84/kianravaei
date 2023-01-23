@@ -26,6 +26,11 @@ performances:
     city_state: Bloomington, IN
     performers: NOTUS
     url: https://events.iu.edu/musiciub/event/641112-notus
+  - performance_date: 11 MAR 2023
+    performance_title: Outcry
+    venue: Electronic Music Midwest Festival
+    performers: Marienn Sánchez, violin
+    url: https://www.emmfestival.org/concerts.php
   - performance_date: 16 FEB 2023
     performance_title: Unstoppable - Premiere
     venue: Copland House Cultivated Spaces 3.0
