@@ -36,6 +36,11 @@ performances:
     venue: Electronic Music Midwest Festival
     performers: Marienn Sánchez, violin
     url: https://www.emmfestival.org/concerts.php
+  - performance_date: 23 FEB 2023
+    performance_title: Hypnopop - Premiere
+    venue: Indiana University
+    city_state: Bloomington, IN
+    performers: Argos Percussion (Thomas Frost, Conner Viets, Drew Neal, Carl Tafoya)
   - performance_date: 16 FEB 2023
     performance_title: Unstoppable - Premiere
     venue: Copland House Cultivated Spaces 3.0
