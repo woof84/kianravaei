@@ -19,4 +19,4 @@ awards:
 ---
 Near the end of Dvořák’s forty-minute Piano Quintet in A major, there emerges a beautiful and plainspoken melody, almost childlike in its simplicity. I was so moved by this simple four-bar tune when I first heard it at a concert that, upon arriving home, I immediately wrote it down in my sketchbook. When asked to compose a piece that would be performed on a concert featuring a work by Dvořák, I knew at once that I would compose a fantasy inspired by this melody, and hopefully prolong its beauty beyond the four measures it is allotted in the Quintet.
 
-This piece was featured on an episode of Performance Today, America's most popular classical music radio station. <a href="https://www.yourclassical.org/episode/2022/09/29/kian-ravaei" target="_blank">Click here</a> to listen to the episode.
+This piece was featured on an <a href="https://www.yourclassical.org/episode/2022/09/29/kian-ravaei" target="_blank">episode</a> of the classical music radio show Performance Today.
