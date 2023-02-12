@@ -12,6 +12,10 @@ broadcasts:
    url: https://www.yourclassical.org/episode/2022/09/29/kian-ravaei
 youtube:
  - url-code: Rt-7E9wusPg
+awards:
+    - award_year: 2023
+      award_title: ICEBERG New Music Call for Scores
+      award_rank: Finalist
 ---
 Near the end of Dvořák’s forty-minute Piano Quintet in A major, there emerges a beautiful and plainspoken melody, almost childlike in its simplicity. I was so moved by this simple four-bar tune when I first heard it at a concert that, upon arriving home, I immediately wrote it down in my sketchbook. When asked to compose a piece that would be performed on a concert featuring a work by Dvořák, I knew at once that I would compose a fantasy inspired by this melody, and hopefully prolong its beauty beyond the four measures it is allotted in the Quintet.
 
