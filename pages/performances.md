@@ -3,18 +3,41 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 26 AUG 2023
+    performance_title: The Little Things
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Viano Quartet
+    url: https://cmnw.org/concerts-tickets/all-concerts-events/newnight-proteges-united/1871
   - performance_date: 25 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 25 JUN 2023
+    performance_title: Gulistan
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Fleur Barron, mezzo-soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
+    url: https://cmnw.org/concerts-tickets/all-concerts-events/opening-night-poetry-in-music/1854
+  - performance_date: 24 JUN 2023
+    performance_title: Gulistan - Premiere
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Fleur Barron, mezzo-soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
+    url: https://cmnw.org/concerts-tickets/all-concerts-events/opening-night-poetry-in-music/1854
   - performance_date: 11 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 12 May 2023
+    performance_title: Day of Rest
+    venue: Baltimore School of the Arts
+    city_state: Baltimore, MD
+    performers: Willinger Duo
   - performance_date: 15 APR 2023
     performance_title: Unstoppable
     venue: Sala Piatti
