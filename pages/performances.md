@@ -53,7 +53,7 @@ performances:
     performance_title: Family Photos
     venue: Indiana University
     city_state: Bloomington, IN
-    performers: Kuttner Quartet (Thomas Mathias & Kelsey Au, violins; Ross McIntosh, viola; Manuel Papale, cello)
+    performers: Canone Quartet (Thomas Mathias & Kelsey Au, violins; Ross McIntosh, viola; Manuel Papale, cello)
   - performance_date: 11 MAR 2023
     performance_title: Outcry
     venue: Electronic Music Midwest Festival
