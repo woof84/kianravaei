@@ -9,6 +9,7 @@ youtube:
  - url-code: kUGIK7Vnpg0
 duration: 4'
 score_url: https://issuu.com/kianravaei/docs/00_full_score_-_caprice_-_ed_2
+hide: yes
 ---
 
 The word <i>caprice</i> (or the Italian <i>capriccioso</i>) has meant many things to many composers throughout history. (You might say we’re capricious about caprices.)
