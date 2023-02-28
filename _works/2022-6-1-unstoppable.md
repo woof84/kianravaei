@@ -9,6 +9,9 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: Tribeca New Music Young Composer Competition
+      award_rank: Merit Award
+    - award_year: 2023
       award_title: Achrome Ensemble Call for Scores
       award_rank: Honorable Mention
 youtube:
