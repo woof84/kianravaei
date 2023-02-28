@@ -10,6 +10,11 @@ performances:
     performers: Viano Quartet
     url: https://cmnw.org/concerts-tickets/all-concerts-events/newnight-proteges-united/1871
   - performance_date: 25 JUN 2023
+    performance_title: Morghe Sahar (Bird of Dawn) - Premiere
+    venue: Cincinnati Song Initiative (Livestream)
+    performers: Gabrielle Turgeon, mezzo-soprano
+    url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
+  - performance_date: 25 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
@@ -38,11 +43,29 @@ performances:
     venue: Baltimore School of the Arts
     city_state: Baltimore, MD
     performers: Willinger Duo
+  - performance_date: 16 APR 2023
+    performance_title: Family Photos
+    venue: Christ Church Cathedral
+    city_state: Hartford, CT
+    performers: Cuatro Puntos Ensemble
+    url: https://www.cuatropuntos.org/april-22---sounds-of-persia.html
   - performance_date: 15 APR 2023
     performance_title: Unstoppable
     venue: Sala Piatti
     city_state: Bergamo, Italy
     performers: Achrome Ensemble
+  - performance_date: 14 APR 2023
+    performance_title: Family Photos
+    venue: Trinity College Library
+    city_state: Hartford, CT
+    performers: Cuatro Puntos Ensemble
+    url: https://www.cuatropuntos.org/april-22---sounds-of-persia.html
+  - performance_date: 13 APR 2023
+    performance_title: Family Photos
+    venue: Lutheran Church of St. Mark
+    city_state: Glastonbury, CT
+    performers: Cuatro Puntos Ensemble
+    url: https://www.cuatropuntos.org/april-22---sounds-of-persia.html
   - performance_date: 31 MAR 2023
     performance_title: Blue - Premiere
     venue: Indiana University
