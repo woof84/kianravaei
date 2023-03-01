@@ -16,6 +16,10 @@ awards:
     - award_year: 2023
       award_title: ICEBERG New Music Call for Scores
       award_rank: Finalist
+purchase:
+ - title: Fantasy Variations (On a Theme by Dvořák) Score &amp; Parts - Instant PDF Download (9 x 12)
+   price: $60.00
+   product-key: idVNc
 ---
 Near the end of Dvořák’s forty-minute Piano Quintet in A major, there emerges a beautiful and plainspoken melody, almost childlike in its simplicity. I was so moved by this simple four-bar tune when I first heard it at a concert that, upon arriving home, I immediately wrote it down in my sketchbook. When asked to compose a piece that would be performed on a concert featuring a work by Dvořák, I knew at once that I would compose a fantasy inspired by this melody, and hopefully prolong its beauty beyond the four measures it is allotted in the Quintet.
 
