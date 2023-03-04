@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Fantasy Variations (On a Theme by Dvořák)"
-instrumentation: violin, viola, and piano
+instrumentation: violin, viola, &amp; piano
 category_music: Chamber Ensemble
 score_url: https://issuu.com/kianravaei/docs/ravaei_kian_fantasy-variations_score_ed_2
 year_composed: 2022
