@@ -16,7 +16,7 @@ movements:
  - movement: VII. If I Can Stop One Heart From Breaking
 ---
 
-All seven titles which comprise _The Little Things_ come from Emily Dickinson, who never fails to direct our attention toward nature’s easily overlooked wonders. Movements II, III, IV, and VI evoke various animal life, while I and V portray the sun and moon respectively. They are not musical responses to Dickinson’s poetry, but rather miniature tone poems inspired by the same details of nature. The order of the movements suggests the cyclic journey of all living things from morning to night to a new morning.
+All seven titles which comprise _The Little Things_ come from Emily Dickinson, who never fails to direct our attention toward nature’s easily overlooked wonders. Movements II, III, IV, and VI evoke various animal life, while I and V portray the sun and moon respectively. The order of the movements suggests the cyclic journey of all living things from morning to night to a new morning.
 
 In the final movement, we hear the voice of Nature singing Dickinson’s famous lines:
 
