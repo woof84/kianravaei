@@ -17,6 +17,6 @@ awards:
 youtube:
  - url-code: _IwKWfA_R3o
 ---
-Unlike most of my works, the title of this piece came to me over a year after its composition. Its musical spirit and expressive character reminded me of Beethoven’s inscription in the _Heiliger Dankgesang_: “Neue Kraft fühlend” (“Feeling new strength”). 
+At the climax of his _Heiliger Dankgesang_, Beethoven writes “Neue Kraft fühlend” — feeling new strength. It is one of the only times Beethoven provides a poetic description in his manuscript.
 
-My initial inspiration was Bach’s “O Sacred Head” chorale, the first chords of which appear in the final moments of _Feeling New Strength_. But they are no longer the mournful notes of Bach; they are now an exclamation of triumph, a resounding cry of victory over illness—the subject of Beethoven’s _Heiliger Dankgesang_—and death—the principal villain in Bach’s _St Matthew Passion_, from which the chorale is drawn.
+These three words perfectly capture the musical spirit and expressive ideal I was chasing in composing this work: something joyous, optimistic, and life-affirming.
