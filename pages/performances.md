@@ -39,7 +39,7 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
     url: https://cmnw.org/concerts-tickets/all-concerts-events/opening-night-poetry-in-music/1854
   - performance_date: 15 JUN 2023
-    performance_title: The Little Things
+    performance_title: The Little Things - Premiere
     venue: Great Lakes Chamber Music Festival
     city_state: Bloomfield Hills, MI
     performers:
