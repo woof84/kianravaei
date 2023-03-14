@@ -23,6 +23,10 @@ recording:
    url: https://ffm.to/marvels.OWE
 youtube:
  - url-code: SCbD8mw2NCc
+broadcasts:
+ - date: 6–19 MAR 2023
+   station: Classical Music Indy
+   url: https://classicalmusicindy.org/cmi-streaming/#/post/312031
 ---
 
 <i>Marvels of Creatures and Strange Things Existing</i> is a set of six preludes for piano, each inspired by a mythological creature. The piece takes its name from Zakariya al-Qazwini’s thirteenth-century cosmographical treatise, containing descriptions of every living thing in existence, including many creatures which we may now consider mythological.
