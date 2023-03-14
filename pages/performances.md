@@ -12,8 +12,14 @@ performances:
   - performance_date: 25 JUN 2023
     performance_title: Morghe Sahar (Bird of Dawn) - Premiere
     venue: Cincinnati Song Initiative (Livestream)
-    performers: Gabrielle Turgeon, mezzo-soprano
+    performers:
     url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
+  - performance_date: 18 JUL 2023
+    performance_title: The Little Things
+    venue: Seattle Chamber Music Society
+    city_state: Seattle, WA
+    performers: Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; Astrid Schween, cello
+    url: https://www.seattlechambermusic.org/events/july-18-2023/
   - performance_date: 25 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
@@ -32,6 +38,12 @@ performances:
     city_state: Portland, OR
     performers: Fleur Barron, mezzo-soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
     url: https://cmnw.org/concerts-tickets/all-concerts-events/opening-night-poetry-in-music/1854
+  - performance_date: 15 JUN 2023
+    performance_title: The Little Things
+    venue: Great Lakes Chamber Music Festival
+    city_state: Bloomfield Hills, MI
+    performers:
+    url: https://greatlakeschambermusic.org/performance/youthful-inventions/
   - performance_date: 11 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
@@ -43,6 +55,7 @@ performances:
     venue: Baltimore School of the Arts
     city_state: Baltimore, MD
     performers: Willinger Duo
+    url: https://www.willingerduo.com/calendar/recital-at-baltimore-school-of-the-arts-new-voices
   - performance_date: 16 APR 2023
     performance_title: Family Photos
     venue: Christ Church Cathedral
@@ -72,11 +85,6 @@ performances:
     city_state: Bloomington, IN
     performers: NOTUS
     url: https://events.iu.edu/musiciub/event/641112-notus
-  - performance_date: 20 MAR 2023
-    performance_title: Family Photos
-    venue: Indiana University
-    city_state: Bloomington, IN
-    performers: Canone Quartet (Thomas Mathias & Kelsey Au, violins; Ross McIntosh, viola; Manuel Papale, cello)
   - performance_date: 11 MAR 2023
     performance_title: Outcry
     venue: Electronic Music Midwest Festival
