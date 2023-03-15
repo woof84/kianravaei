@@ -88,8 +88,13 @@ performances:
   - performance_date: 11 MAR 2023
     performance_title: Outcry
     venue: Electronic Music Midwest Festival
+    city_state: Kansas City, KS
     performers: Marienn Sánchez, violin
     url: https://www.emmfestival.org/concerts.php
+  - performance_date: 10 MAR 2023
+    performance_title: Outcry - Music Video Screening
+    venue: Performing Media Festival
+    city_state: South Bend, IN
   - performance_date: 23 FEB 2023
     performance_title: Hypnopop - Premiere
     venue: Indiana University
