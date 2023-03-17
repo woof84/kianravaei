@@ -16,6 +16,9 @@ awards:
  - award_year: 2022
    award_title: Flute New Music Consortium Composition Competition
    award_rank: Honorable Mention
+ - award_year: 2021
+   award_title: Antonina Styczen Sunbeam Project Call for Scores
+   award_rank: Winner
 youtube:
  - url-code: QQfPi-FyiFY
 recording:
