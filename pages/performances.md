@@ -85,6 +85,12 @@ performances:
     city_state: Bloomington, IN
     performers: NOTUS
     url: https://events.iu.edu/musiciub/event/641112-notus
+  - performance_date: 29 MAR 2023
+    performance_title: The Little Things (excerpts)
+    venue: RED NOTE New Music Festival
+    city_state: Normal, IL
+    performers: Momenta Quartet
+    url: https://finearts.illinoisstate.edu/events-activities/red-note/events/
   - performance_date: 11 MAR 2023
     performance_title: Outcry
     venue: Electronic Music Midwest Festival
