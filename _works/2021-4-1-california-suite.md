@@ -25,6 +25,10 @@ recording:
  - image: california-suite_artwork.jpg
    alt-text: "California Suite album art"
    url: https://kianravaei.bandcamp.com/album/california-suite
+purchase:
+ - title: California Suite Score &amp; Part - Instant PDF Download (9 x 12)
+   price: $60.00
+   product-key: o2xm7
 ---
 _California Suite_ memorializes the songs of endangered California birds. The first movement mimics the flowing _cheedle cheedle chee_ of Least Bell’s Vireo, which is characterized by its question-and-answer structure. The song of Belding’s Savannah Sparrow, which inspired the second movement, begins with a few sparse notes which gradually accelerate into a buzz. The third movement is a series of melodies that continuously sink in pitch, mirroring the descending call of Swainson’s Hawk. The California Black Rail’s song, which is featured in the final movement, comprises three quick staccato chirps: two high and one low.
 
