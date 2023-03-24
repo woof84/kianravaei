@@ -91,6 +91,11 @@ performances:
     city_state: Normal, IL
     performers: Momenta Quartet
     url: https://finearts.illinoisstate.edu/events-activities/red-note/events/
+  - performance_date: 26 MAR 2023
+    performance_title: Unstoppable
+    venue: Zodiac International Music Competition Composition Finalists' Concert
+    performers: Music from Copland House Ensemble
+    url: https://youtu.be/Nrg9CE-Dn8w
   - performance_date: 11 MAR 2023
     performance_title: Outcry
     venue: Electronic Music Midwest Festival
