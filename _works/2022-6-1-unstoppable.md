@@ -9,6 +9,9 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: Zodiac International Music Competition (Composition)
+      award_rank: First Prize
+    - award_year: 2023
       award_title: Society of Composers, Inc. Call for Scores (Region V Conference)
       award_rank: Winner
     - award_year: 2023
