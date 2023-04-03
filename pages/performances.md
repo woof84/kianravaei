@@ -12,7 +12,7 @@ performances:
   - performance_date: 25 JUN 2023
     performance_title: Morghe Sahar (Bird of Dawn) - Premiere
     venue: Cincinnati Song Initiative (Livestream)
-    performers:
+    performers: Lauren McAllister, mezzo-soprano
     url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
   - performance_date: 18 JUL 2023
     performance_title: The Little Things
@@ -89,7 +89,7 @@ performances:
     performance_title: Blue - Premiere
     venue: Indiana University
     city_state: Bloomington, IN
-    performers: NOTUS Contemporary Vocal Ensemble
+    performers: NOTUS Contemporary Vocal Ensemble; Miggi Angangco, conductor; Justin Carrothers, bass trombone; Aiden Keiser, tuba; Conner Viets, timpano; Drew Neal, percussion
     url: https://events.iu.edu/musiciub/event/641112-notus
   - performance_date: 29 MAR 2023
     performance_title: The Little Things (excerpts)
