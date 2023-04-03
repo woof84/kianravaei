@@ -57,6 +57,12 @@ performances:
     performers: Willinger Duo
     url: https://www.willingerduo.com/calendar/recital-at-baltimore-school-of-the-arts-new-voices
   - performance_date: 16 APR 2023
+    performance_title: Au Fou, Au Fou!
+    venue: Indiana University
+    city_state: Bloomington, IN
+    performers: Jacobs School of Music Brass Band; Demondrae Thurman, conductor
+    url: https://events.iu.edu/musiciub/event/641092-brass-choir-brass-band-demondrae-thurman
+  - performance_date: 16 APR 2023
     performance_title: Family Photos
     venue: Christ Church Cathedral
     city_state: Hartford, CT
@@ -83,7 +89,7 @@ performances:
     performance_title: Blue - Premiere
     venue: Indiana University
     city_state: Bloomington, IN
-    performers: NOTUS
+    performers: NOTUS Contemporary Vocal Ensemble
     url: https://events.iu.edu/musiciub/event/641112-notus
   - performance_date: 29 MAR 2023
     performance_title: The Little Things (excerpts)
