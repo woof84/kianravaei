@@ -3,6 +3,10 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 3 NOV 2023
+    performance_title: Unstoppable
+    venue: Society of Composers Inc. Region V Conference
+    city_state: Athens, OH
   - performance_date: 26 AUG 2023
     performance_title: The Little Things
     venue: Chamber Music Northwest
