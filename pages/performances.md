@@ -46,7 +46,7 @@ performances:
     performance_title: The Little Things - Premiere
     venue: Great Lakes Chamber Music Festival
     city_state: Bloomfield Hills, MI
-    performers:
+    performers: Abeo Quartet
     url: https://greatlakeschambermusic.org/performance/youthful-inventions/
   - performance_date: 11 JUN 2023
     performance_title: Family Photos
