@@ -3,6 +3,24 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 17 DEC 2023
+    performance_title: Pluck
+    venue: Pioneer Park Pavilion
+    performers: Northwest Sinfonietta
+    city_state: Puyallup, WA
+    url: https://nwsinfonietta.org/23-24season
+  - performance_date: 16 DEC 2023
+    performance_title: Pluck - Premiere
+    venue: Courthouse Square Ballroom
+    performers: Northwest Sinfonietta
+    city_state: Tacoma, WA
+    url: https://nwsinfonietta.org/23-24season
+  - performance_date: 16 DEC 2023
+    performance_title: Pluck - Premiere
+    venue: Courthouse Square Ballroom
+    performers: Northwest Sinfonietta
+    city_state: Tacoma, WA
+    url: https://nwsinfonietta.org/23-24season
   - performance_date: 3 NOV 2023
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
