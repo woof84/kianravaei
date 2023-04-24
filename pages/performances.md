@@ -15,12 +15,6 @@ performances:
     performers: Northwest Sinfonietta
     city_state: Tacoma, WA
     url: https://nwsinfonietta.org/23-24season
-  - performance_date: 16 DEC 2023
-    performance_title: Pluck - Premiere
-    venue: Courthouse Square Ballroom
-    performers: Northwest Sinfonietta
-    city_state: Tacoma, WA
-    url: https://nwsinfonietta.org/23-24season
   - performance_date: 3 NOV 2023
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
