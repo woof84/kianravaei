@@ -7,7 +7,7 @@ commissioner: Chamber Music Northwest
 year_composed: 2023
 duration: 19'
 language: Azerbaijani, English, Persian
-text_writer: Azerbaijani Traditional, Maud Irving, Iranian Traditional
+text_writer: Azerbaijani Traditional, Maud Irving, Iranian Traditional, English Traditional
 movements:
  - movement: Part 1 (Sari Galin &amp; Wildwood Flower)
  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
