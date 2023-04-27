@@ -13,7 +13,7 @@ movements:
  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
 ---
 
-In _Gulistan_, I bring together traditional songs from my Western and Middle Eastern heritage. The title comes from the thirteenth-century Persian poet Sa'di, whose monumental work _Gulistan_ (“flower garden” in Persian) uses flowers as a metaphor for wisdom. Folk songs represent the collective wisdom of a culture, preserving generations of values and worldviews. As the title suggests, every folk song in this work references flowers, each with different metaphorical implications.
+In _Gulistan_, I bring together traditional songs from my Western and Middle Eastern heritage. The title comes from the thirteenth-century Persian poet Sa'di, whose monumental work _Gulistan_ (“flower garden” in Persian) uses flowers as a metaphor for wisdom. Folk songs may be said to represent the collective wisdom of a culture, preserving generations of values and worldviews. Inspired by Sa'di, I chose songs that make reference to flowers, each with different metaphorical implications.
 
 Part 1 combines the traditional Azerbaijani song “Sari Galin” with the American folk song “Wildwood Flower.” The former describes a man helplessly longing for his distant lover, while the latter tells the story of a heartbroken woman whose lover has abandoned her. I intertwine the songs, suggesting a dialogue between two inconsolable lovers, each pining for the other. 
 
