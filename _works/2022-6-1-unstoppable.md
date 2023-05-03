@@ -9,8 +9,14 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: Belvedere Chamber Music Festival Luna Nova Composition Competition
+      award_rank: First Prize
+    - award_year: 2023
       award_title: Zodiac International Music Competition (Composition)
       award_rank: First Prize
+    - award_year: 2023
+      award_title: Festival Estrenos Jóvenes Compositores Call for Scores
+      award_rank: Winner
     - award_year: 2023
       award_title: Society of Composers, Inc. Call for Scores (Region V Conference)
       award_rank: Winner
@@ -20,6 +26,9 @@ awards:
     - award_year: 2023
       award_title: Achrome Ensemble Call for Scores
       award_rank: Honorable Mention
+    - award_year: 2023
+      award_title: MAP International Cultural Exchange Center Composition Competition
+      award_rank: Finalist
 youtube:
  - url-code: dq3dnFUl2n0
 purchase:
