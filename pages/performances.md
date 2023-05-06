@@ -19,23 +19,23 @@ performances:
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
     city_state: Athens, OH
-  - performance_date: 26 AUG 2023
+  - performance_date: 26 JUL 2023
     performance_title: The Little Things
     venue: Chamber Music Northwest
     city_state: Portland, OR
     performers: Viano Quartet
     url: https://cmnw.org/concerts-tickets/all-concerts-events/newnight-proteges-united/1871
-  - performance_date: 25 JUN 2023
-    performance_title: Morghe Sahar (Bird of Dawn) - Premiere
-    venue: Cincinnati Song Initiative (Livestream)
-    performers: Lauren McAllister, mezzo-soprano
-    url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
   - performance_date: 18 JUL 2023
     performance_title: The Little Things
     venue: Seattle Chamber Music Society
     city_state: Seattle, WA
     performers: Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; Astrid Schween, cello
     url: https://www.seattlechambermusic.org/events/july-18-2023/
+  - performance_date: 25 JUN 2023
+    performance_title: Morghe Sahar (Bird of Dawn) - Premiere
+    venue: Cincinnati Song Initiative (Livestream)
+    performers: Lauren McAllister, mezzo-soprano
+    url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
   - performance_date: 25 JUN 2023
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
