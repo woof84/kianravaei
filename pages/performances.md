@@ -31,6 +31,10 @@ performances:
     city_state: Seattle, WA
     performers: Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; Astrid Schween, cello
     url: https://www.seattlechambermusic.org/events/july-18-2023/
+  - performance_date: 7 JUL 2023
+    performance_title: Family Photos
+    venue: Green Mountain Chamber Music Festival
+    city_state: Burlington, VT
   - performance_date: 25 JUN 2023
     performance_title: Morghe Sahar (Bird of Dawn) - Premiere
     venue: Cincinnati Song Initiative (Livestream)
@@ -54,6 +58,10 @@ performances:
     city_state: Portland, OR
     performers: Fleur Barron, mezzo-soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
     url: https://cmnw.org/concerts-tickets/all-concerts-events/opening-night-poetry-in-music/1854
+  - performance_date: 23 JUN 2023
+    performance_title: Unstoppable
+    venue: Belvedere Chamber Music Festival
+    city_state: Memphis, TN
   - performance_date: 15 JUN 2023
     performance_title: The Little Things - Premiere
     venue: Great Lakes Chamber Music Festival
