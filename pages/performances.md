@@ -35,10 +35,11 @@ performances:
     performance_title: Family Photos
     venue: Green Mountain Chamber Music Festival
     city_state: Burlington, VT
+    performers: Kaleigh Acord, violin 1; Sofiya Levchenko, violin 2; Devin Cowan, viola; Alex Fowler, cello
   - performance_date: 25 JUN 2023
     performance_title: Morghe Sahar (Bird of Dawn) - Premiere
     venue: Cincinnati Song Initiative (Livestream)
-    performers: Lauren McAllister, mezzo-soprano
+    performers: Lauren McAllister, mezzo-soprano; Samuel Martin, piano
     url: https://www.cincinnatisonginitiative.org/events/let-it-be-new-23
   - performance_date: 25 JUN 2023
     performance_title: Family Photos
