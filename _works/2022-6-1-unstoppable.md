@@ -29,9 +29,6 @@ awards:
     - award_year: 2023
       award_title: Achrome Ensemble Call for Scores
       award_rank: Honorable Mention
-    - award_year: 2023
-      award_title: MAP International Cultural Exchange Center Composition Competition
-      award_rank: Finalist
 youtube:
  - url-code: dq3dnFUl2n0
 purchase:
