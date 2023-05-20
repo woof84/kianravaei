@@ -9,6 +9,9 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: MAP International Music Competition (Chamber Music Division)
+      award_rank: First Prize
+    - award_year: 2023
       award_title: Belvedere Chamber Music Festival Luna Nova Composition Competition
       award_rank: First Prize
     - award_year: 2023
