@@ -21,6 +21,9 @@ awards:
       award_title: Festival Estrenos Jóvenes Compositores Call for Scores
       award_rank: Winner
     - award_year: 2023
+      award_title: Society of Composers, Inc. Call for Scores (Online National Conference)
+      award_rank: Winner
+    - award_year: 2023
       award_title: Society of Composers, Inc. Call for Scores (Region V Conference)
       award_rank: Winner
     - award_year: 2023
