@@ -31,6 +31,11 @@ performances:
     city_state: Seattle, WA
     performers: Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; Astrid Schween, cello
     url: https://www.seattlechambermusic.org/events/july-18-2023/
+  - performance_date: 8 JUL 2023
+    performance_title: Shādi - Premiere
+    venue: Hidden Valley
+    city_state: Carmel Valley, CA
+    performers: Catherine Gregory, flute; Tien-Hsin Cindy Wu, violin; Drew Petersen, piano
   - performance_date: 7 JUL 2023
     performance_title: Family Photos
     venue: Green Mountain Chamber Music Festival
