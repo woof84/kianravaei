@@ -80,6 +80,11 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom-2023.html
+  - performance_date: 4 JUN 2023
+    performance_title: Unstoppable
+    venue: Society of Composers, Inc. Online National Conference
+    performers: Music from Copland House Ensemble
+    url: http://wp.societyofcomposers.org/conferences/2023-sci-online-national-conference/2023-online-national-concert-iii/
   - performance_date: 12 May 2023
     performance_title: Day of Rest
     venue: Baltimore School of the Arts
@@ -129,7 +134,7 @@ performances:
     url: https://finearts.illinoisstate.edu/events-activities/red-note/events/
   - performance_date: 26 MAR 2023
     performance_title: Unstoppable
-    venue: Zodiac International Music Competition Composition Finalists' Concert
+    venue: Zodiac International Music Competition Composition Finalists' Concert (Virtual)
     performers: Music from Copland House Ensemble
     url: https://youtu.be/Nrg9CE-Dn8w
   - performance_date: 11 MAR 2023
