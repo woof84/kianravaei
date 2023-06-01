@@ -11,9 +11,11 @@ awards:
     - award_year: 2023
       award_title: Green Mountain Chamber Music Festival String Quartet Composition Competition
       award_rank: Second Prize
+      award_url: https://gmcmf.org/content/call-scores-2023
     - award_year: 2023
       award_title: New York Youth Symphony First Music Chamber Music Award
       award_rank: Grand Prize
+      award_url: https://www.nyys.org/new-york-youth-symphony-announces-winners-of-its-first-music-competition-for-the-2023-2024-season/
     - award_year: 2022
       award_title: Spectrum Chamber Music Composition Award
       award_rank: First Prize
