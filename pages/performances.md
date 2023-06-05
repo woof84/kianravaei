@@ -68,6 +68,7 @@ performances:
     performance_title: Unstoppable
     venue: Belvedere Chamber Music Festival
     city_state: Memphis, TN
+    performers: Nobuko Igarashi, clarinet; Daniel Gilbert, violin; Hannah Schmidt, cello; Maeve Brophy, piano
   - performance_date: 15 JUN 2023
     performance_title: The Little Things - Premiere
     venue: Great Lakes Chamber Music Festival
