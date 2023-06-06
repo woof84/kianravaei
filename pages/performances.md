@@ -30,6 +30,12 @@ performances:
     city_state: Portland, OR
     performers: Viano Quartet
     url: https://cmnw.org/concerts-tickets/all-concerts-events/newnight-proteges-united/1871
+  - performance_date: 25 JUL 2023
+    performance_title: The Little Things
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Viano Quartet
+    url: https://cmnw.org/concerts-tickets/all-concerts-events/spotlight-recital-viano-quartet/1870
   - performance_date: 18 JUL 2023
     performance_title: The Little Things
     venue: Seattle Chamber Music Society
