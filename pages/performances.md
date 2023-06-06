@@ -19,6 +19,11 @@ performances:
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
     city_state: Athens, OH
+  - performance_date: 20 AUG 2023
+    performance_title: Fantasy Variations (On a Theme by Dvořák)
+    venue: Music in the Vineyards
+    city_state: Napa, CA
+    url: https://www.musicinthevineyards.org/events/inglenook/
   - performance_date: 26 JUL 2023
     performance_title: The Little Things
     venue: Chamber Music Northwest
