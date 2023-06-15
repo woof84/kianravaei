@@ -53,11 +53,6 @@ performances:
     city_state: Burlington, VT
     performers: Kaleigh Acord, violin 1; Sofiya Levchenko, violin 2; Devin Cowan, viola; Alex Fowler, cello
   - performance_date: 25 JUN 2023
-    performance_title: Ecstasies - Premiere
-    venue: New York City Electroacoustic Music Festival
-    city_state: New York, NY
-    performers: Ben Smolen, flute
-  - performance_date: 25 JUN 2023
     performance_title: Morghe Sahar (Bird of Dawn) - Premiere
     venue: Cincinnati Song Initiative (Livestream)
     performers: Lauren McAllister, mezzo-soprano; Samuel Martin, piano
