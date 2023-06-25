@@ -9,6 +9,9 @@ commissioner: Salastina
 score_url: https://issuu.com/kianravaei/docs/00_family_photos_-_score_-_ed_5
 awards:
     - award_year: 2023
+      award_title: Uljus International Piano Competition Smederev Composition Competition (Category III, Classical Acoustic Music)
+      award_rank: First Prize
+    - award_year: 2023
       award_title: Green Mountain Chamber Music Festival String Quartet Composition Competition
       award_rank: Second Prize
       award_url: https://gmcmf.org/content/call-scores-2023
