@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 1 MAY 2024
+    performance_title: Parvāneh - Premiere
+    venue: Weill Recital Hall at Carnegie Hall
+    performers: Musicians of the New York Youth Symphony
+    city_state: New York, NY
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
