@@ -9,7 +9,7 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
-      award_title: International Festival Donne in Musica
+      award_title: International Festival Donne in Musica Composition Competition
       award_rank: First Prize
     - award_year: 2023
       award_title: TEMPO Ensemble Call for Scores
