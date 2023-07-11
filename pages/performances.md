@@ -8,6 +8,11 @@ performances:
     venue: Weill Recital Hall at Carnegie Hall
     performers: Musicians of the New York Youth Symphony
     city_state: New York, NY
+  - performance_date: 9 APR 2024
+    performance_title: Prima Vera - Premiere
+    venue: Indiana University
+    performers: Jacobs School of Music Concert Band
+    city_state: Bloomington, IN
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
