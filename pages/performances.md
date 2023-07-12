@@ -35,6 +35,10 @@ performances:
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
     city_state: Athens, OH
+  - performance_date: 28 OCT 2023
+    performance_title: Unstoppable
+    venue: Indiana State University Contemporary Music Festival
+    city_state: Terre Haute, IN
   - performance_date: 20 AUG 2023
     performance_title: Fantasy Variations (On a Theme by Dvořák)
     venue: Music in the Vineyards
