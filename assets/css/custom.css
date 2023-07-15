@@ -1,3 +1,10 @@
+/* @font-face {
+    font-family: 'Lato';
+    src: url('fonts/Lato/fonts/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  } */
+
 body {
     background: #fdfdfd url('../../images/pattern_white-waves-2.png');
 }
@@ -725,19 +732,19 @@ div.gray-bg {
 }
 
 .works-list-descriptions {
-    font-weight: 300;
+    font-weight: 400;
     color: dimgray;
 }
 
 .works-list-duration{
     float: right; 
     color: dimgray;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .recording-available{
     color: dimgray;
-    font-weight: 300;
+    font-weight: 400;
     margin-left: -19px;
     display: none !important
 }
