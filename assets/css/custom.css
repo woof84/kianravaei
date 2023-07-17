@@ -732,19 +732,19 @@ div.gray-bg {
 }
 
 .works-list-descriptions {
-    font-weight: 400;
+    font-weight: 300;
     color: dimgray;
 }
 
 .works-list-duration{
     float: right; 
     color: dimgray;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .recording-available{
     color: dimgray;
-    font-weight: 400;
+    font-weight: 300;
     margin-left: -19px;
     display: none !important
 }
