@@ -31,6 +31,12 @@ performances:
     performers: Northwest Sinfonietta
     city_state: Tacoma, WA
     url: https://nwsinfonietta.org/23-24season
+  - performance_date: 12 NOV 2023
+    performance_title: The Little Things
+    venue: Caramoor Center for Music and the Arts
+    performers: Abeo Quartet
+    city_state: Katonah, NY
+    url: https://caramoor.org/event/abeo-quartet-fall-2023/
   - performance_date: 3 NOV 2023
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
