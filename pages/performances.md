@@ -3,6 +3,16 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 16 JUN 2024
+    performance_title: California Suite
+    venue: New England Botanic Garden at Tower Hill
+    city_state: Boylston, MA
+    performers: Juventas New Music Ensemble
+  - performance_date: 9 JUN 2024
+    performance_title: California Suite
+    venue: New England Botanic Garden at Tower Hill
+    city_state: Boylston, MA
+    performers: Juventas New Music Ensemble
   - performance_date: 1 MAY 2024
     performance_title: Parvāneh - Premiere
     venue: Weill Recital Hall at Carnegie Hall
