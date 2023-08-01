@@ -48,6 +48,10 @@ movements:
 youtube:
  - url-code: IgCyOsKmYQE
  - url-code: YQ2XLof-MrI
+broadcasts:
+ - date: 18 JUN 2023
+   station: All Classical Portland
+   url: https://www.allclassical.org/
 #soundcloud: 
 # - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1091214523&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 ---
