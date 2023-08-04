@@ -2,7 +2,7 @@
 layout: work
 title: "Advertisements"
 instrumentation: baritone &amp; guitar
-category_music: Voice &amp; Instrument
+category_music: Voice &amp; Instrument(s)
 year_composed: 2020
 duration: 8'
 language: English

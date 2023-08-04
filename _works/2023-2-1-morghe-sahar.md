@@ -2,7 +2,7 @@
 layout: work
 title: "Morghe Sahar (Bird of Dawn)"
 instrumentation: soprano or mezzo-soprano &amp; piano
-category_music: Voice &amp; Instrument
+category_music: Voice &amp; Instrument(s)
 commissioner: National Association of Teachers of Singing and Cincinnati Song Initiative
 year_composed: 2023
 duration: 6'

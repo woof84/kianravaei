@@ -3,7 +3,7 @@ layout: work
 title: "Ideal Conversation"
 instrumentation: voice &amp; piano
 year_composed: 2020
-category_music: Voice &amp; Instrument
+category_music: Voice &amp; Instrument(s)
 duration: 1'
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_ideal_conversation
 soundcloud: 

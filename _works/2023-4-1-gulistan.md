@@ -2,7 +2,7 @@
 layout: work
 title: "Gulistan"
 instrumentation: mezzo-soprano, cello, &amp; piano
-category_music: Voice &amp; Instrument
+category_music: Voice &amp; Instrument(s)
 commissioner: Chamber Music Northwest
 year_composed: 2023
 duration: 19'
