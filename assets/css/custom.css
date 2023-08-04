@@ -1,9 +1,30 @@
-/* @font-face {
+@font-face {
     font-family: 'Lato';
-    src: url('fonts/Lato/fonts/Lato-Regular.ttf') format('truetype');
+    src: url('/assets/fonts/Lato/fonts/Lato-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-  } */
+  }
+
+@font-face {
+    font-family: 'Lato';
+    src: url('/assets/fonts/Lato/fonts/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Lato';
+    src: url('/assets/fonts/Lato/fonts/Lato-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+
+@font-face {
+    font-family: 'Lato';
+    src: url('/assets/fonts/Lato/fonts/Lato-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
 
 body {
     background: #fdfdfd url('../../images/pattern_white-waves-2.png');
