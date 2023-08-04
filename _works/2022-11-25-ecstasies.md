@@ -11,6 +11,9 @@ awards:
       award_title: New York City Electroacoustic Music Festival Call for Scores
       award_rank: Winner
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_ecstasies_-_score_-_ed_4
+tags:
+ - Iranian Culture
+ - EDM
 ---
 _Ecstasies_ represents my most ambitious attempt to synthesize the Dionysian soundscapes of electronic dance music with the technical innovations of contemporary Western art music and the distinctive expressive qualities of Iranian classical music. The meaning of the title is threefold: the feeling of ecstasy evoked by EDM, the transcendent and ecstatic character of _Dastgah Nava_ (the mode of Iranian classical music used throughout the piece), and the rave drug Ecstasy.
 

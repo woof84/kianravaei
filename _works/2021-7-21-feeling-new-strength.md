@@ -16,6 +16,8 @@ awards:
       award_rank: Third Prize
 youtube:
  - url-code: _IwKWfA_R3o
+tags:
+ - Western Music History
 ---
 At the climax of his _Heiliger Dankgesang_, Beethoven writes “Neue Kraft fühlend” — feeling new strength. It is one of the only times Beethoven provides a poetic description in his manuscript.
 

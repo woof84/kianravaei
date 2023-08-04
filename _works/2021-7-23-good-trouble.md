@@ -13,6 +13,8 @@ recording:
  - image: good-trouble_artwork.png
    alt-text: "Good Trouble album art"
    url: https://ffm.to/goodtrouble
+tags:
+ - Social Justice
 ---
 This piece is dedicated to the memory of civil rights activist and Congressman John Lewis, who devoted his life to getting in “good trouble” for the sake of creating a more equitable society, one that epitomizes "love, brotherhood, and true peace."
 

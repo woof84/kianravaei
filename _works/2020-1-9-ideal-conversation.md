@@ -10,6 +10,9 @@ soundcloud:
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1045943128&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 youtube:
  - url-code: TLw1n0PA1wM
+tags:
+ - Literature
+ - Social Justice
 ---
 
 <blockquote>

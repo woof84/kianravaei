@@ -25,6 +25,8 @@ youtube:
  - url-code: y8UMHUtad00
  - url-code: zyQewsUb5JA
  - url-code: ElYbwyxqb0w
+tags:
+ - Social Justice
 ---
 
 <!--

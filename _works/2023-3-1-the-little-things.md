@@ -19,6 +19,10 @@ broadcasts:
  - date: 18 JUL 2023
    station: Classical KING FM
    url: https://www.king.org/
+tags: 
+ - Nature
+ - Poetry
+ - Literature
 ---
 
 All seven titles which comprise _The Little Things_ come from Emily Dickinson, who never fails to direct our attention toward nature’s easily overlooked wonders. Movements II, III, IV, and VI evoke various animal life, while I and V portray the sun and moon respectively. The order of the movements suggests the cyclic journey of all living things from morning to night to a new morning.

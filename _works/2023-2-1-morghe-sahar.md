@@ -9,6 +9,11 @@ duration: 6'
 language: Persian
 text_writer: Mohammad-Taqi Bahar
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_morghe_sahar_-_ed_2
+tags:
+ - Iranian Culture
+ - Social Justice
+ - Poetry
+ - Nature
 ---
 
 One of the most celebrated Iranian ballads, _Morghe Sahar (Bird of Dawn)_ is widely regarded as the unofficial anthem for Iranian freedom. Its lyrics were conceived in response to the Iranian Constitutional Revolution of the early 20th-century, but present-day Iranians sing it as a rallying cry against Iran’s tyrannical government—hoping that one day a bird of dawn will arise from the darkness of the night.

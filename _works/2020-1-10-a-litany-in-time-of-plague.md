@@ -15,6 +15,11 @@ language: English
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_a_litany_in_time_of_plague
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1272965929&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+tags:
+ - Mortality
+ - Poetry
+ - Literature
+ - Spirituality
 ---
 
 It is astonishing how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.

@@ -12,6 +12,11 @@ movements:
  - movement: Part 1 (Sari Gelin &amp; Wildwood Flower)
  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
 score_url: https://issuu.com/kianravaei/docs/00_gulistan_-_score_-_ed_1
+tags: 
+ - Poetry
+ - Literature
+ - Iranian Culture
+ - American Folk Music
 ---
 
 In _Gulistan_, I bring together traditional songs from my Western and Middle Eastern heritage. The title comes from the thirteenth-century Persian poet Sa'di, whose monumental work _Gulistan_ (“flower garden” in Persian) uses flowers as a metaphor for wisdom. Folk songs may be said to represent the collective wisdom of a culture, preserving generations of values and worldviews. Inspired by Sa'di, I chose folk songs that make reference to flowers, each with different metaphorical implications.

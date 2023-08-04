@@ -12,6 +12,9 @@ movements:
  - movement: Part 1
  - movement: Part 2
  - movement: Part 3
+tags:
+ - American Folk Music
+ - Literature
 ---
 <blockquote>
 <p>

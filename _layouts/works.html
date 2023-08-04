@@ -75,7 +75,24 @@ header:
                     <li><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}
                 </ul>
-                
+            </div>
+            <div class="panel radius">
+                <h3>Tags</h3>
+                {% assign already_printed = "" | split: "" %}
+                {% assign sorted_post = "" | split: "" %}
+                {% for work in site.works %}
+                {% for item in work.tags %}
+                {% unless already_printed contains item %}
+                {%- assign sorted_post = sorted_post | push: item %}
+                {%- assign already_printed = already_printed | push: item %}
+                {% endunless %}
+                {% endfor %}
+                {% endfor %}
+                {%- assign sorted_post = sorted_post | sort: title %}
+                {% for tag in sorted_post %}
+                    <span><strong><a href="{{ site.url }}{{ site.baseurl }}/works-{{ tag | join | downcase | replace: " ", "-" }}/">{{ tag }}</a></strong>{% unless forloop.last %}, {% endunless %}</span>
+                {% endfor %}
+                </p>
             </div>
             <div>
               <h4>Featured Audio</h4>

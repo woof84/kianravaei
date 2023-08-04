@@ -16,6 +16,11 @@ purchase:
    link: https://www.twistedspruce.org/product-page/meditation-and-dance-after-rumi-by-kian-ravaei
 youtube:
  - url-code: BCc72q5MJQ0
+tags:
+ - Iranian Culture
+ - Social Justice
+ - Poetry
+ - Literature
 ---
 The guitarist Shabyl Ajmal, for whom I wrote this piece, told me something amazing at the beginning of our collaboration: his late father was the first person to translate the _Masnavi_, an epic 50,000-line poem by the Persian poet Rumi, into the Malay language. For Shabyl and me, the _Masnavi_ became an intersection between his Malaysian heritage and my Persian heritage. The following passage provoked my imagination, bringing to mind the image of a Sufi dervish whirling rapturously in order to transcend his worldly desires.
 
