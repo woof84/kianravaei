@@ -4,7 +4,7 @@ title: "The Little Things"
 instrumentation: string quartet
 year_composed: 2023
 category_music: Chamber Ensemble
-duration: 20'
+duration: 19'
 commissioner: Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society
 movements:
  - movement: I. I’ll Tell You How the Sun Rose
