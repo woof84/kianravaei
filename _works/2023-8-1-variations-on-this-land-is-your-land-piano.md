@@ -1,22 +1,11 @@
 ---
 layout: work
-#
-# Content
-#
-title: Variations on &quot;This Land is Your Land&quot;
-meta_title: "Variations on This Land is Your Land"
-instrumentation: violin &amp; piano
-category_music: Chamber Ensemble
-year_composed: 2019
+title: "Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)"
+meta_title: "Variations on This Land is Your Land (Version for Solo Piano)"
+instrumentation: solo piano
+category_music: Solo
+year_composed: 2023
 duration: 7'
-orchestration: vln/pf
-show_meta: false
-#
-# Styling
-#
-header: no
-soundcloud: 
-  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/676548509&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 tags: 
  - Social Justice
  - American Folk Music
