@@ -13,6 +13,9 @@ movements:
  - movement: III. Swainson's Hawk
  - movement: IV. California Black Rail
 awards:
+ - award_year: 2023
+   award_title: Juventas New Music Ensemble Call for Scores
+   award_rank: Winner
  - award_year: 2022
    award_title: Flute New Music Consortium Composition Competition
    award_rank: Honorable Mention

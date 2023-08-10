@@ -7,6 +7,9 @@ year_composed: 2022
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_meditation_and_dance_after_rumi_-_
 duration: 5'
 awards:
+    - award_year: 2023
+      award_title: Logan Purcell Guitar Composition Competition
+      award_rank: Winner
     - award_year: 2022
       award_title: Twisted Spruce Music Foundation Composition Prize
       award_rank: Third Place
