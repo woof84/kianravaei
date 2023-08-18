@@ -55,6 +55,11 @@ performances:
     performance_title: Unstoppable
     venue: Indiana State University Contemporary Music Festival
     city_state: Terre Haute, IN
+  - performance_date: 14 OCT 2023
+    performance_title: Meditation and Dance (After Rumi) - Premiere
+    venue: Sound Ecologies
+    city_state: Indianapolis, IN
+    performers: Logan Purcell, guitar
   - performance_date: 20 AUG 2023
     performance_title: Fantasy Variations (On a Theme by Dvořák)
     venue: Music in the Vineyards
