@@ -51,6 +51,12 @@ performances:
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
     city_state: Athens, OH
+  - performance_date: 2 NOV 2023
+    performance_title: Unstoppable
+    venue: Festival of New American Music
+    performers: Kaleidoscope Chamber Orchestra
+    city_state: Sacramento, CA
+    url: https://www.csus.edu/college/arts-letters/music/spotlight/fenam-festival.html
   - performance_date: 28 OCT 2023
     performance_title: Unstoppable
     venue: Indiana State University Contemporary Music Festival

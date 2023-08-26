@@ -9,6 +9,9 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: Festival of New American Music Call for Scores
+      award_rank: Winner
+    - award_year: 2023
       award_title: Indiana State University Contemporary Music Festival Music Now Chamber Music Contest
       award_rank: Winner
     - award_year: 2023
