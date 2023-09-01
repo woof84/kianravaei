@@ -70,6 +70,7 @@ performances:
     performance_title: Fantasy Variations (On a Theme by Dvořák)
     venue: Music in the Vineyards
     city_state: Napa, CA
+    performers: Francisco Fullana, violin; Maiya Papach, viola; Anna Polonsky, piano
     url: https://www.musicinthevineyards.org/events/inglenook/
   - performance_date: 26 JUL 2023
     performance_title: The Little Things
