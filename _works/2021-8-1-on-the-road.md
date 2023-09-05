@@ -8,6 +8,12 @@ orchestration: ob cl asax bcl bn gtr
 commissioner: Reedplay Quintet
 year_composed: 2021
 duration: 8'
+youtube:
+ - url-code: xrJDUn5P6hU
+recording:
+ - image: on-the-road_artwork.jpg
+   alt-text: "On the Road album art"
+   url: https://ffm.to/ontheroadkr
 movements:
  - movement: Part 1
  - movement: Part 2
