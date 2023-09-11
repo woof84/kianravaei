@@ -66,6 +66,12 @@ performances:
     venue: Sound Ecologies
     city_state: Indianapolis, IN
     performers: Logan Purcell, guitar
+  - performance_date: 7 OCT 2023
+    performance_title: The Little Things
+    venue: Chesapeake Music
+    performers: Abeo Quartet
+    city_state: Easton, MD
+    url: https://chesapeakemusic.org/event/interlude-concert-ensemble-132-879/
   - performance_date: 20 AUG 2023
     performance_title: Fantasy Variations (On a Theme by Dvořák)
     venue: Music in the Vineyards
