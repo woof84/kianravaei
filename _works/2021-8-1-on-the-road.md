@@ -14,6 +14,10 @@ recording:
  - image: on-the-road_artwork.jpg
    alt-text: "On the Road album art"
    url: https://ffm.to/ontheroadkr
+broadcasts:
+ - date: 9 SEP 2023
+   station: FromeFM
+   url: https://www.mixcloud.com/FromeFM/22-nu-classic-sounds-100923/
 movements:
  - movement: Part 1
  - movement: Part 2
