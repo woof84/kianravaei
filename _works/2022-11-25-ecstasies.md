@@ -8,6 +8,9 @@ year_composed: 2022
 duration: 10'
 awards:
     - award_year: 2023
+      award_title: Flute New Music Consortium Composition Competition
+      award_rank: Winner
+    - award_year: 2023
       award_title: New York City Electroacoustic Music Festival Call for Scores
       award_rank: Winner
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_ecstasies_-_score_-_ed_4
