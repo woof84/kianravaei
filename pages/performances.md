@@ -72,6 +72,11 @@ performances:
     performers: Abeo Quartet
     city_state: Easton, MD
     url: https://chesapeakemusic.org/event/interlude-concert-ensemble-132-879/
+  - performance_date: 4 OCT 2023
+    performance_title: Unstoppable
+    venue: Festival Estrenos Jóvenes Compositores
+    city_state: Lima, Peru
+    url: https://granteatronacional.pe/evento/sesiones-gtn-jovenes-compositores
   - performance_date: 20 AUG 2023
     performance_title: Fantasy Variations (On a Theme by Dvořák)
     venue: Music in the Vineyards
