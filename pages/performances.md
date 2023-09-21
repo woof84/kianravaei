@@ -613,7 +613,6 @@ header:
 
 <!--Recent performances-->
 
-
 <div class="text-center t30">
 					<h1 class="h1">Recent Performances</h1>
 				</div>
