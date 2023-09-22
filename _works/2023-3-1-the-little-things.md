@@ -19,6 +19,10 @@ broadcasts:
  - date: 18 JUL 2023
    station: Classical KING FM
    url: https://www.king.org/
+purchase:
+ - title: The Little Things Score &amp; Parts - Instant PDF Download (9 x 12)
+   price: $100.00
+   product-key: bvcL5
 youtube:
  - url-code: qDz1m6paeFs
 tags: 
