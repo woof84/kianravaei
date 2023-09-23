@@ -88,8 +88,13 @@ header:
                     </ul>
                 </li>
                 {% endif %}
-                {% capture score_exists %}{% file_exists /pdfs/{{ page.slug }}.pdf %}{% endcapture %}
-                {% if score_exists == "true" %}
+                {% capture file_path %}/pdfs/{{ page.slug }}.pdf{% endcapture %}
+                {% for static_file in site.static_files %}
+                    {% if static_file.path == file_path %}
+                       {% assign score_exists = true %}
+                    {% endif %}
+                {% endfor %}
+                {% if score_exists == true %}
                 <!-- <li style="text-align: center;"><a href="#" onclick="MyWindow=window.open('{{ page.score_url }}','MyWindow','toolbar=no,location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, width=1000, height=650'); return false;" id="yui_3_10_1_1_1399924008830_533" target="_blank" class="button tiny expand score" style="margin-bottom: 0; margin-top: 10px;"><strong>View Score ›</strong></a></li> -->
                 <li class="button tiny expand score" source="/pdfs/{{ page.slug }}.pdf" style="margin-bottom: 0; margin-top: 10px;" id="df_manual_button">View Score ›</li>
                 {% endif %}
