@@ -1,0 +1,622 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link href="/favicon.ico" type="image/x-icon"/ >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>FlowPaper - 404 - Page not found - formerly FlexPaper | FlowPaper</title>
+    <meta name="description" content="">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="language" content="English" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="all"/>
+    <link href="/css/material-kit.css" rel="stylesheet"  media="all"/>
+    <link rel="stylesheet" href="/css/site.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/css/cookieconsent.min.css" media="all"/>
+    <link rel="stylesheet" href="/css/remodal.css" media="all"/>
+    <link rel="stylesheet" href="/css/remodal-default-theme.css" media="all"/>
+    <script src="/assets/js/jquery.min.js" type="text/javascript" ></script>
+    <script src="/assets/js/lazysizes.min.js" async></script>
+    
+  </head>
+
+  <body>
+    <nav class="navbar navbar-danger navbar-transparent navbar-absolute">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+                <div alt="FlowPaper Logo" class="logo" id="devaldilogo" style="display:block;width:115px;height:22px;">&nbsp;</div>
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navigation-example">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/download/">
+                    <i class="material-icons">&#xe838;</i> Pricing
+                </a>
+            </li>
+        
+
+        <li class="dropdown">
+            <a href="/features/" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="material-icons">&#xe912;</i> Features
+            <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu dropdown-with-icons">
+                <li>
+                    <a href="/features/">
+                    <i class="material-icons">&#xe912;</i> Why FlowPaper?
+                    </a>
+                </li>
+                <li>
+                    <a href="/flipbook-maker/">
+                    <i class="material-icons">&#xe0e0;</i> Flipbook Maker
+                    </a>
+                </li>
+                <li>
+                    <a href="/reflow-pdf-documents/">
+                    <i class="material-icons">&#xe337;</i> Mobile-First Publications
+                    </a>
+                </li>
+                <li>
+                    <a href="/features/#analytics">
+                    <i class="material-icons">&#xe801;</i> Analytics &amp; Heat Maps
+                    </a>
+                </li>
+                <li>
+                    <a href="/flipbook-javascript-API/">
+                    <i class="material-icons">&#xe86f;</i> Easy to Use Javascript API
+                    </a>
+                </li>
+                <li>
+                    <a href="/accessible-pdf-reader/">
+                    <i class="material-icons">&#xe84e;</i> Accessibility Automation
+                    </a>
+                </li>
+                <li>
+                    <a href="/features/#ranking">
+                    <i class="material-icons">&#xf0c5;</i> Optimized For Improved Ranking
+                    </a>
+                </li>
+                <li>
+                    <a href="/features/#translations">
+                    <i class="material-icons">&#xe927;</i> Content Translations using Google Translate
+                    </a>
+                </li>
+                <li>
+                    <a href="/features/#leads">
+                    <i class="material-icons">&#xe0d0;</i> Lead Generation
+                    </a>
+                </li>
+                <li>
+                    <a href="/features/#interactive">
+                    <i class="material-icons">&#xe04a;</i> Add Interactive Content
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="material-icons">&#xe5c3;</i> Examples
+            <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu dropdown-with-icons">
+            <li>
+                <a href="/demo/#brochure">
+                <i class="material-icons">&#xe0e0;</i> Brochure
+                </a>
+            </li>
+            <li>
+                <a href="/demo/#catalog">
+                <i class="material-icons">&#xe0e0;</i> Catalog
+                </a>
+            </li>
+            <li>
+                <a href="/demo/#magazine">
+                <i class="material-icons">&#xe0e0;</i> Magazine
+                </a>
+            </li>
+            <li>
+                <a href="/flipbook-maker/">
+                <i class="material-icons">&#xe0e0;</i> Flipbook
+                </a>
+            </li>
+            <li>
+                <a href="/demo/#story">
+                <i class="material-icons">&#xe06f;</i> Exported Article
+                </a>
+            </li>
+            <li>
+                <a href="/demo/#businesspresentation">
+                <i class="material-icons">&#xe8eb;</i> Business Presentation
+                </a>
+            </li>
+            <li>
+                <a href="/demo/#reflowing">
+                <i class="material-icons">&#xe16d;</i> Mobile Magazine Edition
+                </a>
+            </li>
+            <li>
+                <a href="/demo/">
+                <i class="material-icons">&#xe896;</i> Show All
+                </a>
+            </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="/services/">
+            <i class="material-icons">&#xf10a;</i> Services
+            </a>
+        </li>
+
+        <li>
+            <a href="/docs/" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="material-icons">&#xe0c6;</i> Help
+            <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu dropdown-with-icons">
+                <li>
+                    <a href="/docs/" style="font-size:11px">
+                        Show All Help Topics
+                    </a>
+                </li>
+                <li>
+                    <a href="/Share-PDF-document-online/" style="font-size:11px">
+                    How to upload and share PDFs
+                    </a>
+                </li>
+                <li>
+                    <a href="/Embedding-page-flip-publications-on-your-website/" style="font-size:11px">
+                    Embedding on your website
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-self-host-your-publications/" style="font-size:11px">
+                    Hosting flipbooks on your own domain
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-add-interactive-elements-to-your-PDF-flip-book/" style="font-size:11px">
+                    Adding interactivity to your publications
+                    </a>
+                </li>
+                <li>
+                    <a href="/Tagging-products-in-PDF-catalogs-with-hotspots/" style="font-size:11px">
+                    How to add hotspots to your online catalogs
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-make-interactive-brochures-online/" style="font-size:11px">
+                        Convert PDFs into interactive brochures
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-track-page-views-in-PDF-documents-for-page-flip-publications-using-Google-Analytics/" style="font-size:11px">
+                        How to track page views in PDF documents
+                    </a>
+                </li>
+                <li>
+                    <a href="/Make-PDF-accessible-online/" style="font-size:11px">
+                        Improve PDF accessibility
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-collect-leads-to-your-publications/" style="font-size:11px">
+                        Collect leads when sharing PDFs
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-upload-and-embed-flipbooks-to-WIX/" style="font-size:11px">
+                        How to embed flipbooks on WIX
+                    </a>
+                </li>
+                <li>
+                    <a href="/blog/how-to-upload-and-embed-a-pdf-flipbook-to-squarespace/" style="font-size:11px">
+                        How to embed flipbooks on Squarespace
+                    </a>
+                </li>
+                <li>
+                    <a href="/docs/" style="font-size:11px">
+                        ... more topics
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="btn btn-danger btn-raised" href="/download/" style="width: 106px;text-align:center;padding: 8px;margin-top: 6px;margin-left:11px;">
+                Get started
+            </a>
+        </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+  
+
+    <div class="page-header header-filter" data-parallax="active" style="background-image: url('/images/backgrounds/mess.webp'); transform: translate3d(0px, 0px, 0px); background-position:0px -270px;max-height:25vh;min-height:25vh;"></div>
+    <div class="main main-raised">
+      <div class="container">
+          <div class="section section-text">
+            <h2 style="margin-left:0px;">Oops — we can’t seem to find the page you’re looking for.</h2>
+            <p>The URL you requested could not be found on this server. If you were looking for a publication then it was most likely been deleted or you have followed an incorrect link. If you believe this to be an error and you think a publication has been incorrectly removed then please contact us at <a href="info@devaldi.com">info@devaldi.com</a></p>
+          </div>
+      </div>
+
+      <div class="features">
+          <div class="container">
+            <div class="row">
+              
+              <div class="col-md-12" style="margin-bottom:30px;">
+                <h3>What can you publish with FlowPaper?</h3>
+                <p>FlowPaper provides a publisher that can be used to convert PDFs into a range of different publications. A few different publications can be seen below.</p>
+              </div>
+
+              <div class="col-md-12">
+              
+                  <div class="row" style="margin-top:2em;">
+                    <div class="col-md-4">
+                      <div class="card card-blog">
+
+                        <a href="/flipbook-maker/" data-lity="">
+                          <div class="card-image card-productimage">
+                          <picture>
+                            <source type="image/webp" srcset="/images/demo/zine-brochure-flipbook@2x.webp" />
+                            <source type="image/jpeg" srcset="/images/demo/zine-brochure-flipbook@2x.jpg" />
+                            <img src="/images/demo/zine-brochure-flipbook@2x.jpg" />
+                          </picture>
+                          </div>
+                        </a>
+
+                        <div class="content" style="padding:15px 30px;">
+                          <h6 class="category text-info">Interactive Publication</h6>
+                          <h4 class="card-title">
+                            <a href="/flipbook-maker/" class="fr-org-learn-video-card ">Interactive 3D Flipbook</a>
+                          </h4>
+                          <p class="card-description">
+                            See how the flipbook maker can convert your PDFs to interactive 3D flipbooks
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-8">
+                      <div class="col-md-6">
+
+                        <div class="card card-blog">
+                          <a href="/brochure-maker/">
+                            <div class="card-image">
+                            <picture>
+                              <source type="image/webp" srcset="/images/first_page/frontpage_brochures_c-big.webp" />
+                              <source type="image/jpeg" srcset="/images/first_page/frontpage_brochures_c-big.jpg" />
+                              <img class="img" src="/images/first_page/frontpage_brochures_c-big.jpg" />
+                            </picture>
+                            </div>
+                          </a>
+
+                          <div class="content">
+                            <a href="/brochure-maker/"><h6 class="category text-info">Create a online brochure</h6></a>
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <div class="col-md-6">
+
+                        <div class="card card-blog">
+                          <a href="/catalog-maker/">
+                            <div class="card-image">
+                              <picture>
+                                <source type="image/webp" srcset="/images/first_page/frontpage_catalogs_c-big.webp" />
+                                <source type="image/jpeg" srcset="/images/first_page/frontpage_catalogs_c-big.jpg" />
+                                <img class="img" src="/images/first_page/frontpage_catalogs_c-big.jpg" />
+                              </picture>
+                            </div>
+                          </a>
+
+                          <div class="content">
+                            <a href="/catalog-maker/"><h6 class="category text-info">Publish a catalog online</h6></a>
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <div class="col-md-12">
+
+                      <div class="card card-blog">
+                        <a href="/online-magazine-maker/">
+                          <div class="card-image">
+                              <picture>
+                                <source type="image/webp" srcset="/images/first_page/frontpage_magazines_c-big.webp" />
+                                <source type="image/jpeg" srcset="/images/first_page/frontpage_magazines_c-big.jpg" />
+                                <img class="img" src="/images/first_page/frontpage_magazines_c-big.jpg" />
+                              </picture>
+                          </div>
+                        </a>
+
+                        <div class="content">
+                          <a href="/online-magazine-maker/"><h6 class="category text-info">Create a online magazine</h6></a>
+                        </div>
+                      </div>
+
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+            </div>
+          </div>
+        </div>
+
+    </div>
+    
+    <footer class="footer footer-black footer-big">
+    <div class="container">
+
+        <div class="content">
+        <div class="row">
+            <div class="col-md-3">
+            <h5>FlowPaper</h5>
+            <ul class="links-vertical">
+                            <li>
+                                <a href="/download/">
+                                    Download
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/demo/">
+                                    Examples
+                                </a>
+                            </li>
+                <li>
+                                <a href="/download/">
+                                    Pricing
+                                </a>
+                            </li>
+                <li>
+                                <a href="/blog/">
+                                    Blog
+                                </a>
+                            </li>
+                <li>
+                                <a href="/blog/">
+                                    Release Notes
+                                </a>
+                            </li>
+            </ul>
+            </div>
+
+            <div class="col-md-3">
+            <h5>Features</h5>
+            <ul class="links-vertical">
+                <li>
+                                <a href="/flipbook-maker/">
+                                    Flipbook Maker
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/online-magazine-maker/">
+                                    Create a PDF Magazine
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/pdf-to-flipbook/">
+                                    Convert PDF to flipbook
+                                </a>
+                            </li>                            
+                            <li>
+                                <a href="/catalog-maker/">
+                                    Publish Catalog Online
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/brochure-maker/">
+                                    Publish Brochure Online
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/online-pdf-viewer/">
+                                    Online PDF viewer
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/annual-report-maker/">
+                                    Interactive Annual Reports
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/reflow-pdf-documents/">
+                                    Reuse PDF content
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/annotate-pdf-documents-online/">
+                                    Annotate PDF Online
+                                </a>
+                            </li>
+            </ul>
+            </div>
+
+            <div class="col-md-3">
+            <h5>Help</h5>
+            <ul class="links-vertical">
+                <li>
+                <a href="/Create-Interactive-PDF-Documents/">
+                    Make Your PDFs Interactive
+                </a>
+                </li>
+                <li>
+                    <a href="/Convert-PDF-documents-to-HTML5/">Convert PDF to HTML5</a>
+                </li>
+                <li>
+                <a href="/flipbook-javascript-API/">
+                    Javascript API
+                </a>
+                </li>
+                <li>
+                <a href="/Share-PDF-document-online/">
+                    Sharing PDF documents Online
+                </a>
+                </li>
+                <li>
+                <a href="/Embedding-page-flip-publications-on-your-website/">
+                    How to Embed flipbooks
+                </a>
+                </li>
+                <li>
+                    <a href="/blog/pdf-page-turner/">
+                        Page-turner effects
+                    </a>
+                </li>
+                <li>
+                <a href="/How-to-add-interactive-elements-to-your-PDF-flip-book/">
+                    Adding links, videos flipbooks
+                </a>
+                </li>
+                <li>
+                    <a href="/Tagging-products-in-PDF-catalogs-with-hotspots/">
+                        Tagging products in PDF catalogs
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-track-page-views-in-PDF-documents-for-page-flip-publications-using-Google-Analytics/">
+                        Tracking PDF documents online
+                    </a>
+                </li>
+                <li>
+                    <a href="/How-to-improve-search-ranking-for-PDF-documents/">
+                        Improving PDF search ranking
+                    </a>
+                </li>
+                <li>
+                    <a href="/Flipbook-video-maker/">
+                        Flipbook Video Maker
+                    </a>
+                </li>
+            </ul>
+            </div>
+
+            <div class="col-md-3">
+            <h5>About</h5>
+            <ul class="links-vertical">
+                <li>
+                <a href="/about/">
+                    Devaldi Ltd
+                </a>
+                </li>
+                <li>
+                <a href="/about/">
+                    Contact Us
+                </a>
+                </li>
+                <li>
+                <a href="/privacy-policy/">
+                    Privacy Policy
+                </a>
+                </li>
+                <li>
+                <a href="/terms-of-service/">
+                    Terms of Service
+                </a>
+                </li>
+                <li>
+                    <a href="/web-pdf-viewer/">
+                            The Web PDF viewer
+                    </a>
+                </li>
+                <li>
+                            <a href="https://twitter.com/getflowpaper" target="_blank" rel="nofollow">
+                                Follow Us
+                           </a>
+                </li>
+                <li style="margin-left:0.6em;">
+                <a style="display:inline-block" href="https://twitter.com/getflowpaper" target="_blank" rel="nofollow">
+                    <img src="/images/tw.svg" alt="Twitter" style="margin-left:-14px;margin-right:5px;width:35px;height:35px;" /> 
+                </a>
+                <a style="display:inline-block" href="https://www.youtube.com/channel/UCxlRsKpqwF3UHr1EetLy6Aw" target="_blank" rel="nofollow">
+                    <img src="/images/yt.svg" alt="Youtube" style="margin-left:-14px;margin-right:5px;width:35px;height:35px;" /> 
+                </a>
+                <a style="display:inline-block" href="https://www.linkedin.com/company/devaldi/" target="_blank" rel="nofollow">
+                    <img src="/images/li.svg" alt="LinkedIn" style="margin-left:-14px;margin-right:5px;width:35px;height:35px;" /> 
+                </a>
+                </li>
+            </ul>
+
+            </div>
+
+        </div>
+        </div>
+
+
+        <hr />
+
+        <div class="copyright pull-left" style="font-size:1.2rem;">
+            <a href="https://climate.stripe.com/kMae2G">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 32 32" style="vertical-align:middle;width:2.5rem;margin-right:5px;">
+                    <linearGradient id="StripeClimate-gradient-a" gradientUnits="userSpaceOnUse" x1="16" y1="20.6293" x2="16" y2="7.8394" gradientTransform="matrix(1 0 0 -1 0 34)">
+                        <stop offset="0" stop-color="#00d924"></stop>
+                        <stop offset="1" stop-color="#00cb1b"></stop>
+                    </linearGradient>
+                    <path d="M0 10.82h32c0 8.84-7.16 16-16 16s-16-7.16-16-16z" fill="url(#StripeClimate-gradient-a)"></path>
+                    <linearGradient id="StripeClimate-gradient-b" gradientUnits="userSpaceOnUse" x1="24" y1="28.6289" x2="24" y2="17.2443" gradientTransform="matrix(1 0 0 -1 0 34)">
+                        <stop offset=".1562" stop-color="#009c00"></stop>
+                        <stop offset="1" stop-color="#00be20"></stop>
+                    </linearGradient>
+                    <path d="M32 10.82c0 2.21-1.49 4.65-5.41 4.65-3.42 0-7.27-2.37-10.59-4.65 3.52-2.43 7.39-5.63 10.59-5.63C29.86 5.18 32 8.17 32 10.82z" fill="url(#StripeClimate-gradient-b)"></path>
+                    <linearGradient id="StripeClimate-gradient-c" gradientUnits="userSpaceOnUse" x1="8" y1="16.7494" x2="8" y2="29.1239" gradientTransform="matrix(1 0 0 -1 0 34)">
+                        <stop offset="0" stop-color="#ffe37d"></stop>
+                        <stop offset="1" stop-color="#ffc900"></stop>
+                    </linearGradient>
+                    <path d="M0 10.82c0 2.21 1.49 4.65 5.41 4.65 3.42 0 7.27-2.37 10.59-4.65-3.52-2.43-7.39-5.64-10.59-5.64C2.14 5.18 0 8.17 0 10.82z" fill="url(#StripeClimate-gradient-c)"></path>
+                </svg>
+            </a>
+           <a href="https://climate.stripe.com/kMae2G" class="text-xs text-gray-500 ml-2">At FlowPaper, we contribute 2% of our gross revenue to remove CO₂ from the atmosphere.</a>
+        </div>
+        <div class="copyright pull-right" style="font-size:1.2rem;">
+        Copyright © <span id="copyrightYear"></span><script>document.getElementById('copyrightYear').innerHTML = new Date().getFullYear();</script> <span aria-hidden="true" style="margin-left:20px;color:#ff9800;">&#9726;</span> Devaldi Ltd.
+        </div>
+    </div>
+</footer>
+  
+    <script>
+        $(document).ready(function() {
+        try{
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+            ga('create', 'UA-10148899-3', 'auto', 'ErrorTracker');
+            ga('ErrorTracker.send', {
+                hitType: 'event',
+                eventCategory: '404',
+                eventAction: window.location.href,
+                eventLabel: document.referrer
+            });
+          }catch(e){}
+        });
+      </script>
+</body>
+
+
+  <script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/assets/js/material.min.js"></script>
+  <script src="/js/remodal.min.js"></script>
+  <script src="/assets/js/jasny-bootstrap.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2ZHXR13WP"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-Q2ZHXR13WP');</script>
+  <script src="/js/cookieconsent.min.js"></script>
+  <script src="/assets/js/material-kit.js" type="text/javascript"></script>
+  
+</html>
