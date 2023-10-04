@@ -3,10 +3,14 @@ layout: work
 title: "Prima Vera"
 instrumentation: wind ensemble
 category_music: Large Ensemble
-orchestration: picc.2 fl.2 ob.ca.2 cl.bcl.2 asax.tsax.bsax.2bsn.cbsn. - 4 hn.3 tpt.2tbn.btbn.tuba - stringbass - timp+3 - pno
+orchestration: picc.2 fl.2 ob.ca.3 cl.bcl.2 asax.tsax.bsax.2bsn.cbsn. - 4 hn.3 tpt.2 tbn.btbn.euph.tuba - stringbass - timp+3 - pno
 year_composed: 2022
 duration: 7'
 score_url: https://issuu.com/kianravaei/docs/00_prima_vera_-_full_score_1_
+awards:
+    - award_year: 2023
+      award_title: New Mexico State University Young Composer Initiative
+      award_rank: Winner
 Tags:
  - Nature
  - Iranian Culture
