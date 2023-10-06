@@ -71,6 +71,12 @@ performances:
     venue: Sound Ecologies
     city_state: Indianapolis, IN
     performers: Logan Purcell, guitar
+  - performance_date: 8 OCT 2023
+    performance_title: The Little Things
+    venue: Hayden's Ferry Chamber Music Series
+    performers: Viano Quartet
+    city_state: Tempe, AZ
+    url: https://haydensferrychambermusicseries.org/
   - performance_date: 7 OCT 2023
     performance_title: The Little Things
     venue: Chesapeake Music
