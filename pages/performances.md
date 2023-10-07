@@ -66,6 +66,10 @@ performances:
     performance_title: Unstoppable
     venue: Indiana State University Contemporary Music Festival
     city_state: Terre Haute, IN
+  - performance_date: 20 OCT 2023
+    performance_title: Outcry
+    venue: International Computer Music Conference
+    city_state: Shenzen, China
   - performance_date: 14 OCT 2023
     performance_title: Meditation and Dance (After Rumi) - Premiere
     venue: Sound Ecologies
