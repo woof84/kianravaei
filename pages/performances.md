@@ -23,6 +23,12 @@ performances:
     venue: Indiana University
     performers: Jacobs School of Music Concert Band
     city_state: Bloomington, IN
+  - performance_date: 26 MAR 2024
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
+    venue: String Theory at the Hunter
+    performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
+    city_state: Chattanooga, TN
+    url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
