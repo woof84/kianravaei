@@ -97,6 +97,7 @@ performances:
     performance_title: Unstoppable
     venue: Festival Estrenos Jóvenes Compositores
     city_state: Lima, Peru
+    performers: Fryné Guillas, clarinet; Aquiles Casana, violin; Jesús Rodríguez, cello; Silvia Valdivia, piano
     url: https://granteatronacional.pe/evento/sesiones-gtn-jovenes-compositores
   - performance_date: 20 AUG 2023
     performance_title: Fantasy Variations (On a Theme by Dvořák)
