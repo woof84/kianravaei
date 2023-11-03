@@ -61,6 +61,7 @@ performances:
   - performance_date: 3 NOV 2023
     performance_title: Unstoppable
     venue: Society of Composers Inc. Region V Conference
+    performers: Emily Talley, clarinet; Nathan Southwick, violin; Jose Rocha, cello; Emely Phelps, piano
     city_state: Athens, OH
   - performance_date: 2 NOV 2023
     performance_title: Unstoppable
