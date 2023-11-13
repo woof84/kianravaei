@@ -13,6 +13,15 @@ performances:
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
+  - performance_date: 11 MAY 2024
+    performance_title: One Flesh - Premiere
+    performers: Salastina
+    city_state: Pasadena, CA
+  - performance_date: 10 MAY 2024
+    performance_title: One Flesh - Premiere
+    venue: Edye Second Space at the Santa Monica College Performing Arts Center
+    performers: Salastina
+    city_state: Los Angeles, CA
   - performance_date: 1 MAY 2024
     performance_title: Parvāneh - Premiere
     venue: Weill Recital Hall at Carnegie Hall
