@@ -56,6 +56,18 @@ performances:
     performers: Northwest Sinfonietta
     city_state: Tacoma, WA
     url: https://nwsinfonietta.org/23-24season
+  - performance_date: 10 Dec 2023
+    performance_title: Family Photos
+    venue: Private Residence
+    performers: Tower Quartet
+    city_state: Fresno, CA
+    url: https://thetowerquartet.com/events-calendar/folk-tales
+  - performance_date: 8 Dec 2023
+    performance_title: Family Photos
+    venue: Wahlberg Recital Hall at California State University, Fresno
+    performers: Tower Quartet
+    city_state: Fresno, CA
+    url: https://thetowerquartet.com/events-calendar/dvorak-amp-prokofiev
   - performance_date: 17 NOV 2023
     performance_title: Prima Vera - Premiere
     venue: New Mexico State University
