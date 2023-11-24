@@ -831,3 +831,22 @@ li.button a {
 .plainlinks {
     border-bottom: 0px solid;
 }
+
+.no-margin {
+    margin: 0 0 0 0;
+}
+
+.body-teaser {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+    text-transform: none;
+    background: #fdfdfd;
+    color: #111;
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    position: relative;
+    cursor: auto
+}
