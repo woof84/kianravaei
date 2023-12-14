@@ -38,12 +38,30 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+  - performance_date: 14 MAR 2024
+    performance_title: Navazi
+    venue: The Mansion at Strathhmore
+    performers: Tallā Rouge
+    city_state: North Bethesda, MD
+    url: https://www.strathmore.org/events-tickets/what-s-on-in-the-mansion/talla-rouge/
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
     performers: TEMPO Ensemble
     city_state: Los Angeles, CA
     url: http://tempoensemble.com/performances/
+  - performance_date: 22 JAN 2024
+    performance_title: Navazi
+    venue: Dumbarton Oaks
+    performers: Tallā Rouge
+    city_state: Washington, DC
+    url: https://www.doaks.org/events/music/talla-rouge-viola-duo
+  - performance_date: 21 JAN 2024
+    performance_title: Navazi - Premiere
+    venue: Dumbarton Oaks
+    performers: Tallā Rouge
+    city_state: Washington, DC
+    url: https://www.doaks.org/events/music/talla-rouge-viola-duo
   - performance_date: 17 DEC 2023
     performance_title: Pluck
     venue: Pioneer Park Pavilion
