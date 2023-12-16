@@ -9,10 +9,16 @@ year_composed: 2022
 duration: 5'
 awards:
     - award_year: 2023
+      award_title: The American Prize Ernst Bacon Memorial Award for the Performance of American Music (College/University Division)
+      award_rank: First Prize
+    - award_year: 2023
       award_title: Festival of New American Music Call for Scores
       award_rank: Winner
     - award_year: 2023
       award_title: Indiana State University Contemporary Music Festival Music Now Chamber Music Contest
+      award_rank: Winner
+    - award_year: 2023
+      award_title: Ball State University Festival of New Music Call for Scores
       award_rank: Winner
     - award_year: 2023
       award_title: International Festival Donne in Musica Composition Competition

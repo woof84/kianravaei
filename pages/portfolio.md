@@ -31,7 +31,7 @@ header:
     <br>
     <p><b>Suggested Excerpts:</b> 1) 0:00-1:35, measures 1-20; 2) 2:53-5:00, measures 40-59</p>
     <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
-    <p>One sentence description.</p>
+    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, collectively represent a journey from morning to night and back to a new morning.</p>
   </div>
 </div>
 <hr>
@@ -39,7 +39,7 @@ header:
 <div class="row">
   <div class="medium-4 columns">
     <div class="center flex-video widescreen vimeo">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/8xfM8DVKjqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/v38ny2nIjgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <a href="#" class="button radius small expand">Score ›</a>
   </div>
