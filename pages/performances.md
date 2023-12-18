@@ -44,6 +44,12 @@ performances:
     performers: Tallā Rouge
     city_state: North Bethesda, MD
     url: https://www.strathmore.org/events-tickets/what-s-on-in-the-mansion/talla-rouge/
+  - performance_date: 3 MAR 2024
+    performance_title: Superhuman - Premiere
+    venue: Music in the Valley at St. John's Church, Western Run
+    performers: icarus Quartet
+    city_state: Reisterstown, MD
+    url: https://www.stjohnswrp.org/music-events/music-in-the-valley/
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
