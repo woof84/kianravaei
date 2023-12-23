@@ -92,9 +92,9 @@ header:
     <table style="width: 100%; margin-bottom: 20px; margin-top: -10px;">
       <tr>
         <td><b>Suggested Excerpt #1</b></td>
-        <td>2:43–4:19</td>
-        <td>Part 1, measures 59–94</td>
-        <td>pp. 4–6</td>
+        <td>3:32–5:21</td>
+        <td>Part 1, measures 73–108</td>
+        <td>pp. 5–7</td>
       </tr>
       <tr>
         <td><b>Suggested Excerpt #2</b></td>
