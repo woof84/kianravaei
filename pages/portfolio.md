@@ -8,7 +8,7 @@ header:
 <p class="teaser" style="text-align: center;">Thank you for your consideration.</p>
 <div class="row">
   <div class="medium-4 columns">
-    <a href="#" class="button radius expand">Personal&nbsp;Statement</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-statement-of-purpose.pdf" target="_blank" class="button radius expand">Statement&nbsp;of&nbsp;Purpose</a>
   </div>
   <div class="medium-4 columns">
     <a href="#" class="button radius expand">CV/Works&nbsp;List</a>
