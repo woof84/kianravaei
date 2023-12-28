@@ -7,13 +7,16 @@ header:
 ---
 <p class="teaser" style="text-align: center;">Thank you for your consideration.</p>
 <div class="row">
-  <div class="medium-4 columns">
+  <div class="large-3 columns">
     <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-statement-of-purpose.pdf" target="_blank" class="button radius expand">Statement&nbsp;of&nbsp;Purpose</a>
   </div>
-  <div class="medium-4 columns">
+  <div class="large-3 columns">
+    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-personal-statement.pdf" target="_blank" class="button radius expand">Personal&nbsp;Statement</a>
+  </div>
+  <div class="large-3 columns">
     <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-cv.pdf" target="_blank" class="button radius expand">CV/Works&nbsp;List</a>
   </div>
-  <div class="medium-4 columns">
+  <div class="large-3 columns">
     <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-writing-sample.pdf" target="_blank" class="button radius expand">Writing&nbsp;Sample</a>
   </div>
 </div>
@@ -44,7 +47,7 @@ header:
       </tr>
     </table>
     <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
-    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, depict a journey from morning to night and back to a new morning.</p>
+    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, depict a labyrinthine journey from morning to night and back to a new morning.</p>
   </div>
 </div>
 <hr>
@@ -108,3 +111,15 @@ header:
   </div>
 </div>
 <hr>
+<div>
+		<h2 class="text-center">About</h2>
+</div>
+<div class="row t10">
+  <div class="medium-4 columns">
+      <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
+  </div>
+  <div class="medium-8 columns">
+      <p>Composer <b>Kian Ravaei</b> (b. 1999) synthesizes diverse inspirations into evocative musical portraits. He has collaborated with artists such as Tessa Lark, Eliot Fisk, and Fleur Barron, and ensembles including Music from Copland House, Kaleidoscope Chamber Orchestra, and the Viano Quartet. Chamber musicians have championed his works, leading to commissions from Chamber Music Northwest — where he served as a Protégé Project Composer-in-Residence — as well as Seattle Chamber Music Society and Great Lakes Chamber Music Festival. His rapidly expanding catalog has earned him notable honors such as a Copland House CULTIVATE Fellowship, a Los Angeles Chamber Orchestra Composer Teaching Artist Fellowship, a New Music USA Creator Fund Award, and a Barlow Endowment Commission.</p>
+      <p>The 2023-24 season sees performances at Dumbarton Oaks and Caramoor Center for Music and Arts, as well as
+      premieres by Northwest Sinfonietta, Zodiac Trio, and clarinetist Anthony McGill. Upcoming commissions include a
+      large-scale work for LA-based chamber ensemble Salastina, and a piece for the half piano/half percussion icarus Quartet.</p>
