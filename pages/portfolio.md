@@ -44,7 +44,7 @@ header:
       </tr>
     </table>
     <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
-    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, collectively represent a journey from morning to night and back to a new morning.</p>
+    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, depict a journey from morning to night and back to a new morning.</p>
   </div>
 </div>
 <hr>
