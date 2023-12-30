@@ -11,7 +11,7 @@ header:
     <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-statement-of-purpose.pdf" target="_blank" class="button radius expand">Statement&nbsp;of&nbsp;Purpose</a>
   </div>
   <div class="large-3 columns">
-    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-personal-statement.pdf" target="_blank" class="button radius expand">Personal&nbsp;Statement</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-personal-essay.pdf" target="_blank" class="button radius expand">Personal&nbsp;Essay</a>
   </div>
   <div class="large-3 columns">
     <a href="{{ site.url }}{{ site.baseurl }}/pdfs/kian-ravaei-cv.pdf" target="_blank" class="button radius expand">CV/Works&nbsp;List</a>
