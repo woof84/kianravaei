@@ -77,7 +77,7 @@ header:
       </tr>
     </table>
     <p><i>Commissioned by Benjamin Smolen. Recorded January 25, 2023 by Benjamin Smolen, flute.</i></p>
-    <p>A virtuosic rave fantasia, this piece builds on my experience producing electronic dance music, exploring different musical invocations of ecstasy.</p>
+    <p>A virtuosic rave fantasia, this piece stretches the boundaries of electronic dance music, exploring different musical invocations of ecstasy.</p>
   </div>
 </div>
 <hr>
