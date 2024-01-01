@@ -21,36 +21,6 @@ header:
   </div>
 </div>
 <hr>
-<!-- The Little Things -->
-<div class="row">
-  <div class="medium-4 columns">
-    <div class="center flex-video widescreen vimeo">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Zta7dHCkpRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/the-little-things.pdf" target="_blank" class="button radius small expand">Score ›</a>
-  </div>
-  <div class="medium-8 columns">
-    <h2 class="no-margin">The Little Things <span class="body-teaser">for string quartet</span></h2>
-    <br>
-    <table style="width: 100%; margin-bottom: 20px; margin-top: -10px;">
-      <tr>
-        <td><b>Suggested Excerpt #1</b></td>
-        <td>11:55–13:40</td>
-        <td>Movement VI, measures 1–164</td>
-        <td>pp. 30–38</td>
-      </tr>
-      <tr>
-        <td><b>Suggested Excerpt #2</b></td>
-        <td>4:29–5:50</td>
-        <td>Movement III, measures 1–27</td>
-        <td>pp. 14–15</td>
-      </tr>
-    </table>
-    <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
-    <p>These seven miniatures, each with a gestural language inspired by a nature poem of Emily Dickinson, depict a labyrinthine journey from morning to night and back to a new morning.</p>
-  </div>
-</div>
-<hr>
 <!-- Ecstasies -->
 <div class="row">
   <div class="medium-4 columns">
@@ -71,7 +41,7 @@ header:
       </tr>
       <tr>
         <td><b>Suggested Excerpt #2</b></td>
-        <td>6:37–7:59</td>
+        <td>6:36–7:58</td>
         <td>Measures 225–270</td>
         <td>pp. 24–28</td>
       </tr>
@@ -111,6 +81,37 @@ header:
   </div>
 </div>
 <hr>
+<!-- The Little Things -->
+<div class="row">
+  <div class="medium-4 columns">
+    <div class="center flex-video widescreen vimeo">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Zta7dHCkpRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <a href="{{ site.url }}{{ site.baseurl }}/pdfs/the-little-things.pdf" target="_blank" class="button radius small expand">Score ›</a>
+  </div>
+  <div class="medium-8 columns">
+    <h2 class="no-margin">The Little Things <span class="body-teaser">for string quartet</span></h2>
+    <br>
+    <table style="width: 100%; margin-bottom: 20px; margin-top: -10px;">
+      <tr>
+        <td><b>Suggested Excerpt #1</b></td>
+        <td>1:14–2:59</td>
+        <td>Movement II, measures 1–112</td>
+        <td>pp. 2–8</td>
+      </tr>
+      <tr>
+        <td><b>Suggested Excerpt #2</b></td>
+        <td>11:55–13:40</td>
+        <td>Movement VI, measures 1–164</td>
+        <td>pp. 30–38</td>
+      </tr>
+    </table>
+    <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
+    <p>These seven miniatures, each with a gestural language inspired by a poem of Emily Dickinson, depict a labyrinthine journey through nature's wonders and curiosities.</p>
+  </div>
+</div>
+<hr>
+<!-- about -->
 <div>
 		<h2 class="text-center">About</h2>
 </div>
@@ -119,7 +120,8 @@ header:
       <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
   </div>
   <div class="medium-8 columns">
-      <p>Composer <b>Kian Ravaei</b> (b. 1999) synthesizes diverse inspirations into evocative musical portraits. He has collaborated with artists such as Tessa Lark, Eliot Fisk, and Fleur Barron, and ensembles including Music from Copland House, Kaleidoscope Chamber Orchestra, and the Viano Quartet. Chamber musicians have championed his works, leading to commissions from Chamber Music Northwest — where he served as a Protégé Project Composer-in-Residence — as well as Seattle Chamber Music Society and Great Lakes Chamber Music Festival. His rapidly expanding catalog has earned him notable honors such as a Copland House CULTIVATE Fellowship, a Los Angeles Chamber Orchestra Composer Teaching Artist Fellowship, a New Music USA Creator Fund Award, and a Barlow Endowment Commission.</p>
-      <p>The 2023-24 season sees performances at Dumbarton Oaks and Caramoor Center for Music and Arts, as well as
-      premieres by Northwest Sinfonietta, Zodiac Trio, and clarinetist Anthony McGill. Upcoming commissions include a
-      large-scale work for LA-based chamber ensemble Salastina, and a piece for the half piano/half percussion icarus Quartet.</p>
+      <p>Composer <b>Kian Ravaei</b> (b. 1999) synthesizes diverse inspirations into evocative musical portraits. Whether he is composing EDM-inspired electronic works, four-part chorales with a modern twist, or pieces that draw from the Iranian music of his ancestral heritage, he takes listeners on a spellbinding tour of humanity’s most deeply felt emotions.</p>
+      <p>Ravaei has collaborated with artists such as Tessa Lark, Eliot Fisk, and Fleur Barron, and ensembles including Music from Copland House, Kaleidoscope Chamber Orchestra, and the Viano Quartet. Chamber musicians have championed his works, leading to commissions from Chamber Music Northwest — where he served as a Protégé Project Composer-in-Residence — as well as Seattle Chamber Music Society and Great Lakes Chamber Music Festival. His rapidly expanding catalog has earned him notable honors such as a Copland House CULTIVATE Fellowship, a Los Angeles Chamber Orchestra Composer Teaching Artist Fellowship, a New Music USA Creator Fund Award, and a Barlow Endowment Commission.</p>
+      <p>The 2023-24 season sees performances at Dumbarton Oaks and Caramoor Center for Music and Arts, as well as premieres by Northwest Sinfonietta, Zodiac Trio, and clarinetist Anthony McGill. Upcoming commissions include a large-scale work for LA-based chamber ensemble Salastina, and a piece for the half piano/half percussion Icarus Quartet.</p>
+    </div>
+</div>
