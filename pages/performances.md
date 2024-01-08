@@ -68,6 +68,11 @@ performances:
     performers: Tallā Rouge
     city_state: Washington, DC
     url: https://www.doaks.org/events/music/talla-rouge-viola-duo
+  - performance_date: 7 JAN 2024
+    performance_title: Navazi
+    venue: The Morton Arboretum
+    performers: Tallā Rouge
+    city_state: Lisle, IL
   - performance_date: 17 DEC 2023
     performance_title: Pluck
     venue: Pioneer Park Pavilion
