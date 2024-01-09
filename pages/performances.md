@@ -38,6 +38,11 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+  - performance_date: 21 MAR 2024
+    performance_title: Pluck (Version for String Quintet)
+    venue: Museum of Glass
+    performers: Northwest Sinfonietta
+    city_state: Tacoma, WA
   - performance_date: 14 MAR 2024
     performance_title: Navazi
     venue: The Mansion at Strathhmore
