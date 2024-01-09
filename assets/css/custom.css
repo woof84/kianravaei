@@ -804,6 +804,12 @@ button.score, .button.score {
   color: #FFFFFF;
 }
 
+button.score-flipbook, .button.score-flipbook {
+    background-color: dimgray;
+    border-color: white;
+    color: #FFFFFF;
+  }
+
 /*links in lists*/
 
 li a {
