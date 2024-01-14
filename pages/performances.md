@@ -39,10 +39,11 @@ performances:
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
   - performance_date: 21 MAR 2024
-    performance_title: Pluck (Version for String Quintet)
+    performance_title: Pluck (Version for String Quintet) - Premiere
     venue: Museum of Glass
     performers: Northwest Sinfonietta
     city_state: Tacoma, WA
+    ignore_string: Pluck
   - performance_date: 14 MAR 2024
     performance_title: Navazi
     venue: The Mansion at Strathhmore
@@ -660,10 +661,12 @@ header:
     <ul class="no-bullet">
         {% for work in site.works %} 
                     {% if item.performance_title contains work.title %}
+                    {% unless work.title == item.ignore_string %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
                     <li style="font-size:20px;"><b>{% unless work.hide %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endunless %}{{ work.title }}{% unless work.hide %}</a>{% endunless %}{{not-title}}</b></li>
+                    {% endunless %}
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}
@@ -710,10 +713,12 @@ header:
     <ul class="no-bullet">
         {% for work in site.works %}
                     {% if item.performance_title contains work.title %}
+                    {% unless work.title == item.ignore_string %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
                     <li style="font-size:20px;"><b>{% unless work.hide %}<a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{% endunless %}{{ work.title }}{% unless work.hide %}</a>{% endunless %}{{not-title}}</b></li>
+                    {% endunless %}
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}

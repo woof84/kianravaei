@@ -60,10 +60,12 @@
                     <li><strong>{{ item.performance_date }}</strong></li>
                     {% for work in site.works %}
                     {% if item.performance_title contains work.title %}
+                    {% unless work.title == item.ignore_string %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
                     {% endcapture %}
                     <li><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</li>
+                    {% endunless %}
                     {% endif %}
                     {% endfor %}
                     {% if not-title == NULL %}

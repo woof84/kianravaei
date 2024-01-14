@@ -239,13 +239,16 @@ header:
         {% if search.title == "Performances" %}
         {% for item in search.performances %}
         {% if item.performance_title contains page.title %}
+        {% unless page.title == item.ignore_string %}
         <div class="panel radius">
             <h3>Performances</h3>
             {% break %}
+            {% endunless %}
             {% endif %}
             {% endfor %}
             {% for item in search.performances %}
             {% if item.performance_title contains page.title %}
+            {% unless page.title == item.ignore_string %}
             <ul class="no-bullet">
                 <li><strong>{{ item.performance_date }}</strong></li>
                 {% if item.performance_title %}
@@ -261,6 +264,7 @@ header:
                 <li>{{ item.performers }}</li>
                 {% endif %}
             </ul>
+            {% endunless %}
             {% endif %}
             {% endfor %}
             {% endif %}
