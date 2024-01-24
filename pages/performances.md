@@ -56,6 +56,12 @@ performances:
     performers: icarus Quartet
     city_state: Reisterstown, MD
     url: https://www.stjohnswrp.org/music-events/music-in-the-valley/
+  - performance_date: 20 FEB 2024
+    performance_title: The Little Things
+    venue: Indiana University
+    performers: Indiana University Kuttner Quartet (Arthur Trælnes, violin; Gabriel Fedak, violin; Patrick Hayes, viola; John Sample, cello)
+    city_state: Bloomington, IN
+    url: https://events.iu.edu/musiciub/event/1299332-chamber-music-recital-students-of-eli-eban
   - performance_date: 11 FEB 2024
     performance_title: Unstoppable
     venue: California State University, Northridge
