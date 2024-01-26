@@ -45,6 +45,11 @@ performances:
     city_state: Tacoma, WA
     ignore_string: Pluck
   - performance_date: 20 MAR 2024
+    performance_title: Everlasting - Premiere
+    venue: Indiana University
+    performers: Novae Trio
+    city_state: Bloomington, IN
+  - performance_date: 20 MAR 2024
     performance_title: Gulistan (excerpt)
     venue: Indiana University
     performers: Arienne Fort Cannock, mezzo-soprano; Jaemin Lee, cello; Kian Ravaei, piano
