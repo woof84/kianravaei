@@ -73,6 +73,11 @@ performances:
     city_state: Reisterstown, MD
     url: https://www.stjohnswrp.org/music-events/music-in-the-valley/
   - performance_date: 20 FEB 2024
+    performance_title: The Four Seasons of Hamadan (Version for Solo Viola, excerpt)
+    venue: Indiana University
+    performers: Ross McIntosh, viola
+    city_state: Bloomington, IN
+  - performance_date: 20 FEB 2024
     performance_title: The Little Things
     venue: Indiana University
     performers: Indiana University Kuttner Quartet (Arthur Trælnes, violin; Gabriel Fedak, violin; Patrick Hayes, viola; John Sample, cello)
