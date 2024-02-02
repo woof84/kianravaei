@@ -58,7 +58,7 @@ performances:
   - performance_date: 20 MAR 2024
     performance_title: The Little Things
     venue: Indiana University
-    performers: George Pekarsky, violin; Quincy Tilles, violin; Ross McIntosh, viola; Jaemin Lee, cello
+    performers: Indiana University Kuttner Quartet (Arthur Trælnes, violin; Gabriel Fedak, violin; Patrick Hayes, viola; John Sample, cello)
     city_state: Bloomington, IN
   - performance_date: 14 MAR 2024
     performance_title: Navazi
