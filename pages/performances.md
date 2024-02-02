@@ -32,6 +32,7 @@ performances:
     venue: Indiana University
     performers: Jacobs School of Music Concert Band
     city_state: Bloomington, IN
+    url: https://events.iu.edu/musiciub/event/1130230-concert-band
   - performance_date: 26 MAR 2024
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
     venue: String Theory at the Hunter
@@ -47,7 +48,7 @@ performances:
   - performance_date: 20 MAR 2024
     performance_title: Everlasting - Premiere
     venue: Indiana University
-    performers: Novae Trio
+    performers: Novae Trio (Jana Kaminsky, violin; Anoushka Divekar, clarinet; Aaron Wonson, piano)
     city_state: Bloomington, IN
   - performance_date: 20 MAR 2024
     performance_title: Gulistan (excerpt)
