@@ -2,9 +2,9 @@
 layout: work
 title: "Superhuman"
 instrumentation: two keyboards &amp; two percussionists
-year_composed: 2023
+year_composed: 2024
 category_music: Chamber Ensemble
-duration: 7'
+duration: 6'
 commissioner: icarus Quartet
 tags: 
  - EDM
