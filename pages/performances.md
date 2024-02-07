@@ -62,7 +62,7 @@ performances:
     city_state: Bloomington, IN
   - performance_date: 14 MAR 2024
     performance_title: Navazi
-    venue: The Mansion at Strathhmore
+    venue: The Mansion at Strathmore
     performers: Tallā Rouge
     city_state: North Bethesda, MD
     url: https://www.strathmore.org/events-tickets/what-s-on-in-the-mansion/talla-rouge/
