@@ -13,6 +13,10 @@ performances:
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
+  - performance_date: 8 JUN 2024
+    performance_title: Family Photos
+    venue: Zenith Chamber Music Festival
+    city_state: Des Moines, IA
   - performance_date: 11 MAY 2024
     performance_title: One Flesh - Premiere
     performers: Salastina
@@ -45,6 +49,11 @@ performances:
     performers: Northwest Sinfonietta
     city_state: Tacoma, WA
     ignore_string: Pluck
+  - performance_date: 20 MAR 2024
+    performance_title: Latif
+    venue: Staller Center for the Arts
+    performers: Sameer Apte, cello; Owen Dodds, piano
+    city_state: Stony Brook, NY
   - performance_date: 20 MAR 2024
     performance_title: Everlasting - Premiere
     venue: Indiana University
