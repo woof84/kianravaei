@@ -31,6 +31,11 @@ performances:
     venue: Weill Recital Hall at Carnegie Hall
     performers: Musicians of the New York Youth Symphony
     city_state: New York, NY
+  - performance_date: 25 APR 2024
+    performance_title: Family Photos
+    venue: Art of Elan
+    city_state: San Diego, CA
+    url: https://artofelan.org/concerts/songs-of-hope
   - performance_date: 9 APR 2024
     performance_title: Prima Vera
     venue: Indiana University
@@ -81,11 +86,16 @@ performances:
     performers: icarus Quartet
     city_state: Reisterstown, MD
     url: https://www.stjohnswrp.org/music-events/music-in-the-valley/
-  - performance_date: 20 FEB 2024
+  - performance_date: 29 FEB 2024
     performance_title: The Four Seasons of Hamadan (Version for Solo Viola, excerpt)
     venue: Indiana University
     performers: Ross McIntosh, viola
     city_state: Bloomington, IN
+  - performance_date: 22 FEB 2024
+    performance_title: Pluck (Version for Strings and Percussion)
+    venue: Central Washington University
+    performers: Central Washington University Percussion Ensemble; Mark Goodenberger, director
+    city_state: Ellensburg, WA
   - performance_date: 20 FEB 2024
     performance_title: The Little Things
     venue: Indiana University
