@@ -5,7 +5,7 @@ instrumentation: soprano or mezzo-soprano &amp; piano
 category_music: Voice &amp; Instrument(s)
 commissioner: National Association of Teachers of Singing and Cincinnati Song Initiative
 year_composed: 2023
-duration: 6'
+duration: 7'
 language: Persian
 text_writer: Mohammad-Taqi Bahar
 score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_morghe_sahar_-_ed_2

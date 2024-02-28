@@ -95,7 +95,7 @@ performances:
     performers: Ross McIntosh, viola
     city_state: Bloomington, IN
   - performance_date: 22 FEB 2024
-    performance_title: Pluck (Version for Strings and Percussion)
+    performance_title: Pluck (Version for Percussion Ensemble)
     venue: Central Washington University
     performers: Central Washington University Percussion Ensemble; Mark Goodenberger, director
     city_state: Ellensburg, WA
