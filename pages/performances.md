@@ -77,6 +77,12 @@ performances:
     venue: Indiana University
     performers: Indiana University Kuttner Quartet (Arthur Trælnes, violin; Gabriel Fedak, violin; Patrick Hayes, viola; John Sample, cello)
     city_state: Bloomington, IN
+  - performance_date: 16 MAR 2024
+    performance_title: Unstoppable
+    venue: Ball State University Festival of New Music
+    performers: Ball State New Music Ensemble (Emily Hunt, clarinet; Ivan Kokotov, violin; Patricia Burton, cello; Alena Miskinis, piano)
+    city_state: Muncie, IN
+    url: https://bsufestivalofnewmusic.weebly.com/
   - performance_date: 14 MAR 2024
     performance_title: Navazi
     venue: The Mansion at Strathmore
