@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 20 MAR 2025
+    performance_title: New Work
+    venue: Weill Recital Hall at Carnegie Hall
+    city_state: New York, NY
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 16 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
@@ -34,6 +39,13 @@ performances:
     venue: Weill Recital Hall at Carnegie Hall
     performers: Musicians of the New York Youth Symphony
     city_state: New York, NY
+    url: https://www.carnegiehall.org/calendar/2024/05/01/new-york-youth-symphony-chamber-music-0700pm
+  - performance_date: 28 APR 2024
+    performance_title: The Little Things
+    venue: Newport County Concert Series
+    performers: Newport String Quartet
+    city_state: Little Compton, RI
+    url: https://www.newportstringproject.org/calendar/6ddyfxj4add28enzhwj4wzrdl9c2t2-5eb24
   - performance_date: 25 APR 2024
     performance_title: Family Photos
     venue: Art of Elan
@@ -89,6 +101,12 @@ performances:
     performers: Tallā Rouge
     city_state: North Bethesda, MD
     url: https://www.strathmore.org/events-tickets/what-s-on-in-the-mansion/talla-rouge/
+  - performance_date: 8 MAR 2024
+    performance_title: Family Photos
+    venue: The Royal Museum of Fine Arts Antwerp
+    performers: Chimaera
+    city_state: Antwerp, Belgium
+    url: https://kmska.be/nl/evenement/de-schoonste-vrouwendag
   - performance_date: 3 MAR 2024
     performance_title: Superhuman - Premiere
     venue: Music in the Valley at St. John's Church, Western Run
