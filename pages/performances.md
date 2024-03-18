@@ -3,11 +3,24 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 18 MAY 2025
+    performance_title: New Work
+    venue: Pioneer Park Pavilion
+    city_state: Puyallup, WA
+    performers: Northwest Sinfonietta
+    url: https://nwsinfonietta.org/
+  - performance_date: 17 MAY 2025
+    performance_title: New Work
+    venue: Rialto Theater
+    city_state: Tacoma, WA
+    performers: Northwest Sinfonietta
+    url: https://nwsinfonietta.org/
   - performance_date: 20 MAR 2025
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
   - performance_date: 16 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
