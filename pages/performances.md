@@ -21,6 +21,10 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
+  - performance_date: 16 JUL 2024
+    performance_title: New Work
+    venue: Sunkiss'd Mozart
+    city_state: Carmel Valley, CA
   - performance_date: 16 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
