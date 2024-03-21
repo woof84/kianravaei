@@ -59,6 +59,12 @@ performances:
     performers: Newport String Quartet
     city_state: Little Compton, RI
     url: https://www.newportstringproject.org/calendar/6ddyfxj4add28enzhwj4wzrdl9c2t2-5eb24
+  - performance_date: 28 APR 2024
+    performance_title: Family Photos
+    venue: Kavka Oudaan
+    performers: Chimaera
+    city_state: Antwerp, Belgium
+    url: https://www.chimaera.be/?page_id=576
   - performance_date: 25 APR 2024
     performance_title: Family Photos
     venue: Art of Elan
@@ -96,6 +102,11 @@ performances:
     performance_title: Gulistan (excerpt)
     venue: Indiana University
     performers: Arienne Fort Cannock, mezzo-soprano; Jaemin Lee, cello; Kian Ravaei, piano
+    city_state: Bloomington, IN
+  - performance_date: 20 MAR 2024
+    performance_title: The Four Seasons of Hamadan (Version for Solo Viola, excerpt)
+    venue: Indiana University
+    performers: Ross McIntosh, viola
     city_state: Bloomington, IN
   - performance_date: 20 MAR 2024
     performance_title: The Little Things
