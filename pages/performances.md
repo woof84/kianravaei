@@ -74,6 +74,18 @@ performances:
     venue: Art of Elan
     city_state: San Diego, CA
     url: https://artofelan.org/concerts/songs-of-hope
+  - performance_date: 21 APR 2024
+    performance_title: Family Photos
+    venue: The Forum at Town Hall Seattle
+    performers: Musicians of the Seattle Metropolitan Chamber Orchestra
+    city_state: Seattle, WA
+    url: https://www.smcomusic.org/events/2024/music-of-iran
+  - performance_date: 20 APR 2024
+    performance_title: Family Photos
+    venue: Kirkland Performance Center
+    performers: Musicians of the Seattle Metropolitan Chamber Orchestra
+    city_state: Kirkland, WA
+    url: https://www.smcomusic.org/events/2024/music-of-iran
   - performance_date: 9 APR 2024
     performance_title: Prima Vera
     venue: Indiana University
@@ -86,6 +98,10 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+  - performance_date: 23 MAR 2024
+    performance_title: Pluck (Reading)
+    venue: American String Teachers Association National Conference
+    city_state: Louisville, KY
   - performance_date: 21 MAR 2024
     performance_title: Pluck (Version for String Quintet) - Premiere
     venue: Museum of Glass
