@@ -19,7 +19,8 @@ awards:
     - award_year: 2023
       award_title: Isidora Žebeljan International Festival Young Composer Competition
       award_rank: Third Prize
-score_url: https://issuu.com/kianravaei/docs/kian_ravaei_-_ecstasies_-_score_-_ed_4
+youtube:
+ - url-code: _kqs2IGnyb0
 tags:
  - Iranian Culture
  - EDM
