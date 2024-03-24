@@ -98,6 +98,12 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+  - performance_date: 25 MAR 2024
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
+    venue: String Theory at the Hunter
+    performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
+    city_state: Chattanooga, TN
+    url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
   - performance_date: 23 MAR 2024
     performance_title: Pluck (Reading)
     venue: American String Teachers Association National Conference
