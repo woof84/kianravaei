@@ -14,6 +14,10 @@ movements:
 score_url: https://issuu.com/kianravaei/docs/00_gulistan_-_score_-_ed_1
 youtube:
  - url-code: WX3i9fkS-F4
+broadcasts:
+ - date: 19 MAR 2024
+   station: String Theory Hour on WSMC
+   url: https://www.southern.edu/administration/wsmc/programs/stringtheoryhour.html
 tags: 
  - Poetry
  - Literature

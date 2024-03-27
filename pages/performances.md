@@ -86,6 +86,12 @@ performances:
     performers: Musicians of the Seattle Metropolitan Chamber Orchestra
     city_state: Kirkland, WA
     url: https://www.smcomusic.org/events/2024/music-of-iran
+  - performance_date: 13 APR 2024
+    performance_title: Gulistan
+    venue: Orquesta Sinfónica del Principado de Asturias
+    performers: Fleur Barron, mezzo-soprano; Julius Drake, piano; Maximiliam von Pfeil, cello
+    city_state: Asturias, Spain
+    url: https://www.ospa.es/conciertos/east-west-joy-recital-de-musica-de-camara/
   - performance_date: 9 APR 2024
     performance_title: Prima Vera
     venue: Indiana University
