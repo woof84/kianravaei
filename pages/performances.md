@@ -25,6 +25,8 @@ performances:
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Newport Classical Music Festival
     city_state: Newport, RI
+    performers: Lara Downes, piano
+    url: https://newportclassical.org/event/lara-downes/
     ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 16 JUL 2024
     performance_title: New Work
