@@ -45,6 +45,7 @@ performances:
   - performance_date: 8 JUN 2024
     performance_title: Family Photos
     venue: Zenith Chamber Music Festival
+    performers: The Indianapolis Quartet
     city_state: Des Moines, IA
   - performance_date: 11 MAY 2024
     performance_title: One Flesh - Premiere
