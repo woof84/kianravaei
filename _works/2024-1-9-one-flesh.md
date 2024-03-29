@@ -21,7 +21,7 @@ tags:
 
 _One Flesh_ depicts three mythological couples — Loki and Sigyn, the Norse trickster god and goddess; Layla and Majnun, the star-crossed lovers of Persian legend; and Bacchus and Ampelus, the ancient Roman embodiments of ecstatic revelry — represented by flute and viola, cello and piano, and two violins respectively. The duos are summoned with short musical invocations.
 
-Each main movement is dedicated to a different pair of musicians in the ensemble Salastina, my friends and the commissioners of this work. Like the mythological couples, their deep musical relationships exemplify the potential for people to share such a profound connection that they become one in spirit. As George Eliot wrote: 
+Each main movement is dedicated to a different pair of musicians in the ensemble Salastina, my friends and the commissioners of this work. Like the mythological couples, their deep musical relationships exemplify the potential for people to share such a profound connection that they become one in spirit. As George Eliot wrote:
 
 <blockquote>
 <p>
