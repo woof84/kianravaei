@@ -60,6 +60,11 @@ performances:
     performers: Salastina
     city_state: Los Angeles, CA
     url: https://www.salastina.org/concerts/2023/5/10-sounds-promising-bach-chaconne
+  - performance_date: 3 MAY 2024
+    performance_title: Family Photos
+    venue: Foundation for Modern Music
+    city_state: Houston, TX
+    url: https://www.modernmusic.org/season
   - performance_date: 1 MAY 2024
     performance_title: Parvāneh - Premiere
     venue: Weill Recital Hall at Carnegie Hall
