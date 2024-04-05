@@ -112,6 +112,12 @@ performances:
     performers: Jacobs School of Music Concert Band
     city_state: Bloomington, IN
     url: https://events.iu.edu/musiciub/event/1130230-concert-band
+  - performance_date: 7 APR 2024
+    performance_title: Pluck (Version for Percussion Ensemble)
+    venue: Northwest Percussion Festival
+    performers: Central Washington University Percussion Ensemble; Mark Goodenberger, director
+    city_state: Portland, OR
+    url: https://www.nwperc.org/currentyear
   - performance_date: 26 MAR 2024
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
     venue: String Theory at the Hunter
