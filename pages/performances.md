@@ -29,9 +29,11 @@ performances:
     url: https://newportclassical.org/event/lara-downes/
     ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 16 JUL 2024
-    performance_title: New Work
+    performance_title: Cradle Songs - Premiere
     venue: Sunkiss'd Mozart
     city_state: Carmel Valley, CA
+    performers: Tien-Hsin Cindy Wu &amp; Yuri Cho, violins
+    url: https://skmozart.com/festival
   - performance_date: 16 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
@@ -126,10 +128,10 @@ performances:
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
   - performance_date: 25 MAR 2024
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
-    venue: String Theory at the Hunter
+    venue: Presidential Concert Series at Lee University
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
-    city_state: Chattanooga, TN
-    url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+    city_state: Cleveland, TN
+    url: https://www.leeuniversity.edu/academics/music/pcs/
   - performance_date: 23 MAR 2024
     performance_title: Pluck (Reading)
     venue: American String Teachers Association National Conference
