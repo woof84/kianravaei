@@ -21,6 +21,11 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
+  - performance_date: 18 AUG 2024
+    performance_title: Gulistan
+    venue: Lake Champlain Chamber Music Festival
+    city_state: Burlington, VT
+    performers: Lucy Fitz Gibbon, soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
   - performance_date: 21 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Newport Classical Music Festival
