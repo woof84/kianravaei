@@ -48,6 +48,12 @@ performances:
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
+  - performance_date: 13 JUL 2024
+    performance_title: Gulistan
+    venue: Ryedale Festival
+    city_state: North Yorkshire, England
+    performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
+    url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
   - performance_date: 9 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
