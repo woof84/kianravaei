@@ -17,6 +17,12 @@ header:
                     <img style="margin-bottom:20px;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
                     <a href="https://www.dropbox.com/sh/g8xnnavsb818y9u/AAC3VP6U8tBjZ3AHZiS3a8q-a?dl=0" target="_blank" class="button expand">Download High-Res Images</a>
                     <a href="https://www.dropbox.com/sh/6iqt9xadqmle9a0/AAD_Rg0ZkMp46Nb73tFcArHya?dl=0" target="_blank" class="button expand">Download Biographies</a>
+                    <blockquote>
+                    <p>
+                    <span class="teaser">Kian Ravaei {…} wrote a composition that moved Chamber Music Northwest Festival concert-goers to stand up and applaud for minutes — not once, but twice.</span>
+                    <cite><a href="https://www.orartswatch.org/enjoying-the-little-things-kian-ravaei-at-cmnw/" target="_blank">Oregon ArtsWatch</a></cite>
+                    </p>
+                    </blockquote>
                     <!-- <div class="accordion" data-accordion>
                         <div class="accordion-navigation">
                             <a href="#panel1a">Download Biographies</a>
