@@ -4,7 +4,7 @@ title: "Cradle Songs"
 instrumentation: two violins
 year_composed: 2024
 category_music: Chamber Ensemble
-duration: 8'
+duration: 10'
 commissioner: Sunkiss'd Mozart
 movements:
  - movement: I. To Maroufi
