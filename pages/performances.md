@@ -88,6 +88,12 @@ performances:
     performers: Musicians of the New York Youth Symphony
     city_state: New York, NY
     url: https://www.carnegiehall.org/calendar/2024/05/01/new-york-youth-symphony-chamber-music-0700pm
+  - performance_date: 30 APR 2024
+    performance_title: Family Photos
+    venue: Point Loma Assembly
+    performers: Artonic Quartet
+    city_state: San Diego, CA
+    url: https://allevents.in/san%20diego/artonic-quartet-in-a-riveting-progam/10000881206882507
   - performance_date: 28 APR 2024
     performance_title: The Little Things
     venue: Newport County Concert Series
