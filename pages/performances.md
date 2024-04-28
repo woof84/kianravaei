@@ -100,6 +100,12 @@ performances:
     performers: Chimaera
     city_state: Antwerp, Belgium
     url: https://www.chimaera.be/?page_id=576
+  - performance_date: 27 APR 2024
+    performance_title: The Little Things
+    venue: Newport County Concert Series
+    performers: Newport String Quartet
+    city_state: Newport, RI
+    url: https://www.newportstringproject.org/calendar/6ddyfxj4add28enzhwj4wzrdl9c2t2
   - performance_date: 25 APR 2024
     performance_title: Family Photos
     venue: Art of Elan
