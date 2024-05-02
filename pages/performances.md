@@ -89,6 +89,11 @@ performances:
     city_state: New York, NY
     url: https://www.carnegiehall.org/calendar/2024/05/01/new-york-youth-symphony-chamber-music-0700pm
   - performance_date: 30 APR 2024
+    performance_title: Navazi (excerpts)
+    venue: Cornell University
+    performers: Tallā Rouge
+    city_state: Ithaca, NY
+  - performance_date: 30 APR 2024
     performance_title: Family Photos
     venue: Point Loma Assembly
     performers: Artonic Quartet
