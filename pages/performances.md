@@ -41,7 +41,7 @@ performances:
     performance_title: Cradle Songs - Premiere
     venue: Sunkiss'd Mozart
     city_state: Carmel Valley, CA
-    performers: Tien-Hsin Cindy Wu &amp; Yuri Cho, violins
+    performers: Tien-Hsin Cindy Wu &amp; Ruben Rengel, violins
     url: https://skmozart.com/festival
   - performance_date: 16 JUN 2024
     performance_title: California Suite
@@ -120,6 +120,7 @@ performances:
   - performance_date: 25 APR 2024
     performance_title: Family Photos
     venue: Art of Elan
+    performers: Artonic Quartet
     city_state: San Diego, CA
     url: https://artofelan.org/concerts/songs-of-hope
   - performance_date: 21 APR 2024
