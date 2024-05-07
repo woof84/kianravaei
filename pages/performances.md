@@ -4,16 +4,16 @@ title: "Performances"
 permalink: "/performances/"
 performances:
   - performance_date: 18 MAY 2025
-    performance_title: New Work
+    performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
     city_state: Puyallup, WA
-    performers: Northwest Sinfonietta
+    performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
   - performance_date: 17 MAY 2025
-    performance_title: New Work
+    performance_title: Majnun in the Wilderness
     venue: Rialto Theater
     city_state: Tacoma, WA
-    performers: Northwest Sinfonietta
+    performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
   - performance_date: 20 MAR 2025
     performance_title: New Work
@@ -26,10 +26,11 @@ performances:
     venue: Evangelische Kirchengemeinde Dormagen
     city_state: Dormagen, Germany
   - performance_date: 18 AUG 2024
-    performance_title: Gulistan
+    performance_title: Gulistan (Version for Soprano, Cello, and Piano)
     venue: Lake Champlain Chamber Music Festival
     city_state: Burlington, VT
     performers: Lucy Fitz Gibbon, soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
+    url: https://www.lccmf.org/2024concert1
   - performance_date: 21 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Newport Classical Music Festival
