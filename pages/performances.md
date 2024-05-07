@@ -78,6 +78,12 @@ performances:
     performers: Salastina
     city_state: Los Angeles, CA
     url: https://www.salastina.org/concerts/2023/5/10-sounds-promising-bach-chaconne
+  - performance_date: 5 MAY 2024
+    performance_title: Family Photos
+    venue: Blanco Performing Arts
+    city_state: Blanco, TX
+    performers: Artonic Quartet
+    url: https://www.blancoperformingarts.com/juliaandfriends.html
   - performance_date: 3 MAY 2024
     performance_title: Family Photos
     venue: Foundation for Modern Music
