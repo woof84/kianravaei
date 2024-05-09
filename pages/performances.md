@@ -38,7 +38,19 @@ performances:
     performers: Lara Downes, piano
     url: https://newportclassical.org/event/lara-downes/
     ignore_string: Variations on &quot;This Land is Your Land&quot;
-  - performance_date: 16 JUL 2024
+  - performance_date: 13 JUL 2024
+    performance_title: Gulistan
+    venue: Ryedale Festival
+    city_state: North Yorkshire, England
+    performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
+    url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+  - performance_date: 23 JUN 2024
+    performance_title: Superhuman
+    venue: iQ Test Fest
+    city_state: Baltimore, MD
+    performers: icarus Quartet
+    url: https://donorbox.org/events/566705
+  - performance_date: 16 JUN 2024
     performance_title: Cradle Songs - Premiere
     venue: Sunkiss'd Mozart
     city_state: Carmel Valley, CA
@@ -49,17 +61,13 @@ performances:
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
-  - performance_date: 13 JUL 2024
-    performance_title: Gulistan
-    venue: Ryedale Festival
-    city_state: North Yorkshire, England
-    performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
-    url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+    url: https://www.juventasmusic.org/music-in-bloom
   - performance_date: 9 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
+    url: https://www.juventasmusic.org/music-in-bloom
   - performance_date: 8 JUN 2024
     performance_title: Family Photos
     venue: Zenith Chamber Music Festival
