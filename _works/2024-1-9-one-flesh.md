@@ -4,7 +4,7 @@ title: "One Flesh"
 instrumentation: flute, string quartet, &amp; piano
 year_composed: 2024
 category_music: Chamber Ensemble
-duration: 20'
+duration: 21'
 commissioner: Salastina
 movements:
  - movement: First Invocation
