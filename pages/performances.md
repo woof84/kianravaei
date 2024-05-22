@@ -15,6 +15,12 @@ performances:
     city_state: Tacoma, WA
     performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
+  - performance_date: 3 MAY 2025
+    performance_title: New Work
+    venue: Pierre Boulez Saal
+    city_state: Berlin, Germany
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://www.boulezsaal.de/de/event/fleur-barron-kunal-lahiry-400093
   - performance_date: 20 MAR 2025
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
