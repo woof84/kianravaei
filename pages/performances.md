@@ -21,6 +21,13 @@ performances:
     city_state: Berlin, Germany
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.boulezsaal.de/de/event/fleur-barron-kunal-lahiry-400093
+  - performance_date: 8 APR 2024
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Meany Center for the Performing Arts at University of Washington
+    city_state: Seattle, WA
+    performers: Lara Downes, piano
+    url: https://meanycenter.org/tickets/2025-04/production/lara-downes
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 20 MAR 2025
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
@@ -50,6 +57,12 @@ performances:
     city_state: North Yorkshire, England
     performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
     url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+  - performance_date: 26 JUN 2024
+    performance_title: The Little Things (excerpts)
+    venue: Monadnock Music Summer Festival
+    city_state: Amherst, NH
+    performers: Monadnock String Quartet
+    url: https://local.aarp.org/event/monadnock-music-summer-festival-library-concert-2024-06-26-amherst-nh.html
   - performance_date: 23 JUN 2024
     performance_title: Superhuman
     venue: iQ Test Fest
