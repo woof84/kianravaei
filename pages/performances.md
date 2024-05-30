@@ -21,7 +21,7 @@ performances:
     city_state: Berlin, Germany
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.boulezsaal.de/de/event/fleur-barron-kunal-lahiry-400093
-  - performance_date: 8 APR 2024
+  - performance_date: 8 APR 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Meany Center for the Performing Arts at University of Washington
     city_state: Seattle, WA
