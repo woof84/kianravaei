@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 2 SEP 2025
+    performance_title: Gulistan
+    venue: Helsinki Seriös
+    city_state: Helsinki, Finland
+    performers: Fleur Barron, mezzo-soprano; Laura van der Heijden, cello; Keval Shah, piano
+    url: https://helsinkiserios.fi/en/tapahtuma/fleur-barron-mezzosoprano-laura-van-der-heijden-cello-keval-shah-piano/
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
