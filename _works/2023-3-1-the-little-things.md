@@ -19,6 +19,10 @@ broadcasts:
  - date: 18 JUL 2023
    station: Classical KING FM
    url: https://www.king.org/
+awards:
+    - award_year: 2024
+      award_title: The ASCAP Foundation Morton Gould Young Composer Award
+      award_rank: Winner
 purchase:
  - title: The Little Things Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $100.00

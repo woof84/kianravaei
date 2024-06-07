@@ -98,7 +98,13 @@ performances:
     venue: Zenith Chamber Music Festival
     performers: The Indianapolis Quartet
     city_state: Des Moines, IA
-    url: https://zenith.wp.drake.edu/
+    url: https://www.zenithchambermusicfestival.org/events/zeniths-10th-season-finale
+  - performance_date: 8 JUN 2024
+    performance_title: Composing Identity&colon; Notes from an Iranian-American Composer (Lecture)
+    venue: Zenith Chamber Music Festival
+    performers: Kian Ravaei, speaker
+    city_state: Des Moines, IA
+    url: https://www.zenithchambermusicfestival.org/events/zeniths-10th-season-finale
   - performance_date: 11 MAY 2024
     performance_title: One Flesh - Premiere
     performers: Salastina
