@@ -75,6 +75,12 @@ performances:
     city_state: Baltimore, MD
     performers: icarus Quartet
     url: https://donorbox.org/events/566705
+  - performance_date: 19 JUN 2024
+    performance_title: Marvels of Creatures and Strange Things Existing (excerpts)
+    venue: Young Lev Vlassenko Piano Competition
+    city_state: Queensland, Australia
+    performers: Jeffrey Dong, piano
+    url: https://www.lev-vlassenko.com
   - performance_date: 16 JUN 2024
     performance_title: Cradle Songs - Premiere
     venue: Sunkiss'd Mozart
