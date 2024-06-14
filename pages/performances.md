@@ -63,6 +63,13 @@ performances:
     city_state: North Yorkshire, England
     performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
     url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+  - performance_date: 6 JUL 2025
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Lincoln Center
+    city_state: New York, NY
+    performers: Lara Downes, piano
+    url: https://lincolncenter.org/series/summer-for-the-city/anthem-to-us-concert-942
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 26 JUN 2024
     performance_title: The Little Things (excerpts)
     venue: Monadnock Music Summer Festival
