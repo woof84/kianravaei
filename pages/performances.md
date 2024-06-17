@@ -9,6 +9,12 @@ performances:
     city_state: Helsinki, Finland
     performers: Fleur Barron, mezzo-soprano; Laura van der Heijden, cello; Keval Shah, piano
     url: https://helsinkiserios.fi/en/tapahtuma/fleur-barron-mezzosoprano-laura-van-der-heijden-cello-keval-shah-piano/
+  - performance_date: 8 JUN 2025
+    performance_title: The Little Things
+    venue: Hill and Hollow Music
+    city_state: Saranac, NY
+    performers: Alexander String Quartet
+    url: https://www.hillandhollowmusic.org/30th-anniversary-season-rolling-out/
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
