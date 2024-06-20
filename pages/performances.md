@@ -106,6 +106,18 @@ performances:
     city_state: Boylston, MA
     performers: Juventas New Music Ensemble
     url: https://www.juventasmusic.org/music-in-bloom
+  - performance_date: 15 JUN 2024
+    performance_title: Navazi (Version for Violin &amp; Viola)
+    venue: Sunkiss'd Mozart
+    city_state: Carmel Valley, CA
+    performers: Yuri Cho, violin; David Samuel, viola
+    url: https://skmozart.com/festival
+  - performance_date: 15 JUN 2024
+    performance_title: Sonic Memories from Childhoood Transformed (Lecture)
+    venue: Sunkiss'd Mozart
+    city_state: Carmel Valley, CA
+    performers: Kian Ravaei, speaker; Tien-Hsin Cindy Wu, host
+    url: https://skmozart.com/festival
   - performance_date: 9 JUN 2024
     performance_title: California Suite
     venue: New England Botanic Garden at Tower Hill
