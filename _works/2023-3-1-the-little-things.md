@@ -19,6 +19,9 @@ broadcasts:
  - date: 18 JUL 2023
    station: Classical KING FM
    url: https://www.king.org/
+ - date: 6 JUN 2024
+   station: Performance Today
+   url: https://www.yourclassical.org/episode/2024/06/06/pt
 awards:
     - award_year: 2024
       award_title: The ASCAP Foundation Morton Gould Young Composer Award
