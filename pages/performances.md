@@ -56,6 +56,12 @@ performances:
     city_state: Burlington, VT
     performers: Lucy Fitz Gibbon, soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
     url: https://www.lccmf.org/2024concert1
+  - performance_date: 7 AUG 2024
+    performance_title: The Little Things
+    venue: Musikfest
+    city_state: Bethlehem, PA
+    performers: Sonya Quartet
+    url: https://www.musikfest.org/lineup/schedule/?eventId%5Bd0b3d246-25f3-4d64-ae28-ecb173055965%5D=b5e53db7-ac6c-4d68-b5a1-19f3742a5f8b&performerId%5Bd0b3d246-25f3-4d64-ae28-ecb173055965%5D
   - performance_date: 21 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Newport Classical Music Festival
