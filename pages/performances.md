@@ -148,11 +148,6 @@ performances:
     performers: Salastina
     city_state: Los Angeles, CA
     url: https://www.salastina.org/concerts/2023/5/10-sounds-promising-bach-chaconne
-  - performance_date: 10 MAY 2024
-    performance_title: The Little Things
-    venue: Fischoff National Chamber Music Competition
-    performers: Indiana University Kuttner Quartet
-    city_state: South Bend, IN
   - performance_date: 5 MAY 2024
     performance_title: Family Photos
     venue: Blanco Performing Arts
