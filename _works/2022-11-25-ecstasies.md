@@ -21,6 +21,10 @@ awards:
       award_rank: Third Prize
 youtube:
  - url-code: _kqs2IGnyb0
+purchase:
+ - title: Ecstasies Score - Instant PDF Download
+   price: $40.00
+   product-key: TRXtM
 tags:
  - Iranian Culture
  - EDM
