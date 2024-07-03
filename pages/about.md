@@ -60,7 +60,6 @@ header:
     </div>
 </div><!-- /.row -->
 
-
 <script>
       function play() {
         var audio = document.getElementById("audio");

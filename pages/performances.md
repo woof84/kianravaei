@@ -50,6 +50,12 @@ performances:
     performance_title: Family Photos
     venue: Evangelische Kirchengemeinde Dormagen
     city_state: Dormagen, Germany
+  - performance_date: 28 AUG 2024
+    performance_title: Day of Rest
+    venue: Classical Music Chicago Dame Myra Hess Memorial Concerts
+    city_state: Chicago, IL
+    performers: Willinger Duo
+    url: https://www.wfmt.com/2024/08/28/willinger-duo/
   - performance_date: 18 AUG 2024
     performance_title: Gulistan (Version for Soprano, Cello, and Piano)
     venue: Lake Champlain Chamber Music Festival
@@ -75,6 +81,11 @@ performances:
     city_state: North Yorkshire, England
     performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
     url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+  - performance_date: 10 JUL 2024
+    performance_title: Parvāneh
+    venue: Interlochen Center for the Arts
+    city_state: Interlochen, MI
+    url: https://www.interlochen.org/events/faculty-chamber-recital-2024-07-10
   - performance_date: 6 JUL 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Lincoln Center
