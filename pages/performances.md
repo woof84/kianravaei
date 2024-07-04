@@ -86,13 +86,18 @@ performances:
     venue: Interlochen Center for the Arts
     city_state: Interlochen, MI
     url: https://www.interlochen.org/events/faculty-chamber-recital-2024-07-10
-  - performance_date: 6 JUL 2025
+  - performance_date: 6 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Lincoln Center
     city_state: New York, NY
     performers: Lara Downes, piano
     url: https://lincolncenter.org/series/summer-for-the-city/anthem-to-us-concert-942
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 3 JUL 2024
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Brevard Music Center
+    city_state: Brevard, NC
+    performers: Lara Downes, piano
   - performance_date: 26 JUN 2024
     performance_title: The Little Things (excerpts)
     venue: Monadnock Music Summer Festival
