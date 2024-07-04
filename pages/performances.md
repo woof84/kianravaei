@@ -98,6 +98,7 @@ performances:
     venue: Brevard Music Center
     city_state: Brevard, NC
     performers: Lara Downes, piano
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 26 JUN 2024
     performance_title: The Little Things (excerpts)
     venue: Monadnock Music Summer Festival
