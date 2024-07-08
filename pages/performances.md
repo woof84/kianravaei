@@ -81,6 +81,12 @@ performances:
     city_state: North Yorkshire, England
     performers: Fleur Barron, mezzo-soprano; Bruno Phillippe, cello; Christopher Glynn, piano
     url: https://ryedalefestival.com/event/03-fleur-barron-bruno-phillippe-christopher-glynn/
+  - performance_date: 13 JUL 2024
+    performance_title: Latif
+    venue: Manchester Music Festival
+    city_state: Manchester, VT
+    performers: Dylan Kinneavy, cello; Andrew Cannestra, piano
+    url: https://www.mmfvt.org/mmfevents/2024/7/13
   - performance_date: 10 JUL 2024
     performance_title: Parvāneh
     venue: Interlochen Center for the Arts
