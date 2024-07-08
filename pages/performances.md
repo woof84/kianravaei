@@ -97,7 +97,7 @@ performances:
     performance_title: Parvāneh
     venue: Interlochen Center for the Arts
     city_state: Interlochen, MI
-    performers: Giancarlo Latta, violin; Otavio Kavakama, cello; Hanna Chung, piano
+    performers: Giancarlo Latta, violin; Otávio Kavakama, cello; Hanna Chung, piano
     url: https://www.interlochen.org/events/faculty-chamber-recital-2024-07-10
   - performance_date: 6 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
