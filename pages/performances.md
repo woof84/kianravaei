@@ -69,6 +69,12 @@ performances:
     performers: Sonya Quartet
     url: https://www.musikfest.org/lineup/schedule/?eventId%5Bd0b3d246-25f3-4d64-ae28-ecb173055965%5D=b5e53db7-ac6c-4d68-b5a1-19f3742a5f8b&performerId%5Bd0b3d246-25f3-4d64-ae28-ecb173055965%5D
   - performance_date: 21 JUL 2024
+    performance_title: Family Photos
+    venue: Olmsted National Historic Site
+    city_state: Brookline, MA
+    performers: Juventas New Music Ensemble
+    url: https://www.juventasmusic.org/olmsted-national-historic-site
+  - performance_date: 21 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Newport Classical Music Festival
     city_state: Newport, RI
@@ -91,6 +97,7 @@ performances:
     performance_title: Parvāneh
     venue: Interlochen Center for the Arts
     city_state: Interlochen, MI
+    performers: Giancarlo Latta, violin; Otavio Kavakama, cello; Hanna Chung, piano
     url: https://www.interlochen.org/events/faculty-chamber-recital-2024-07-10
   - performance_date: 6 JUL 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
