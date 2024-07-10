@@ -57,6 +57,7 @@ purchase:
  - title: Unstoppable Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $60.00
    product-key: 5sTmq
+star: yes
 ---
 
 This piece is for the survivors, the underdogs, and those who prevailed when the odds were stacked against them.

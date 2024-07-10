@@ -15,6 +15,7 @@ recording:
    url: https://ffm.to/goodtrouble
 tags:
  - Social Justice
+star: yes
 ---
 This piece is dedicated to the memory of civil rights activist and Congressman John Lewis, who devoted his life to getting in “good trouble” for the sake of creating a more equitable society, one that epitomizes "love, brotherhood, and true peace."
 
