@@ -62,11 +62,12 @@ performances:
     performers: Willinger Duo
     url: https://www.wfmt.com/2024/08/28/willinger-duo/
   - performance_date: 18 AUG 2024
-    performance_title: Gulistan (Version for Soprano, Cello, and Piano)
+    performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
     venue: Lake Champlain Chamber Music Festival
     city_state: Burlington, VT
     performers: Lucy Fitz Gibbon, soprano; Ieva Jokūbavičiūtė, piano; Peter Stumpf, cello
     url: https://www.lccmf.org/2024concert1
+    ignore_string: Gulistan
   - performance_date: 7 AUG 2024
     performance_title: The Little Things
     venue: Musikfest
@@ -153,6 +154,7 @@ performances:
     city_state: Carmel Valley, CA
     performers: Yuri Cho, violin; David Samuel, viola
     url: https://skmozart.com/festival
+    ignore_string: Navazi
   - performance_date: 15 JUN 2024
     performance_title: Sonic Memories from Childhoood Transformed (Lecture)
     venue: Sunkiss'd Mozart
@@ -272,17 +274,19 @@ performances:
     city_state: Portland, OR
     url: https://www.nwperc.org/currentyear
   - performance_date: 26 MAR 2024
-    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: String Theory at the Hunter
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Chattanooga, TN
     url: https://www.stringtheorymusic.org/concerts/mcgill-barron-chien
+    ignore_string: Gulistan
   - performance_date: 25 MAR 2024
-    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, and Piano)
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Presidential Concert Series at Lee University
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Cleveland, TN
     url: https://www.leeuniversity.edu/academics/music/pcs/
+    ignore_string: Gulistan
   - performance_date: 23 MAR 2024
     performance_title: Pluck (Reading)
     venue: American String Teachers Association National Conference

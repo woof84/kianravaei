@@ -11,9 +11,9 @@ movements:
  - movement: Fugue
 youtube:
  - url-code: LpYCy0XSL_M
-soundcloud: 
- - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1078662487&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
- - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1078662880&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+# soundcloud: 
+#  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1078662487&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+#  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1078662880&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 tags:
  - Western Music History
 ---

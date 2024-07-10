@@ -1,7 +1,7 @@
 ---
 layout: work
-title: "Navazi"
-instrumentation: two violas
+title: "Navazi (Version for Violin &amp; Viola)"
+instrumentation: violin &amp; viola
 year_composed: 2023
 category_music: Chamber Ensemble
 duration: 8'
@@ -11,14 +11,6 @@ movements:
  - movement: II. Hide
  - movement: III. Rejoice
  - movement: IV. Return
-broadcasts:
- - date: 1 MAR 2024
-   station: Classical KING FM
-   url: https://www.king.org/
-purchase:
- - title: Navazi Score - Instant PDF Download
-   price: $30.00
-   product-key: 3hakQ
 tags: 
  - Iranian Culture
 ---
