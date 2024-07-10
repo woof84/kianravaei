@@ -22,4 +22,4 @@ One of the most celebrated Iranian ballads, _Morghe Sahar (Bird of Dawn)_ is wid
 
 My arrangement is a tribute to the “Woman, Life, Freedom” movement, and dedicated to the memory of Jina Mahsa Amini. By adding harmony to a traditionally monophonic song, I sought to shroud the melody in a mournful veil, reflecting the sorrow of an oppressed people.
 
-<i>NB: The recording below is the <a href="{{ site.url }}{{ site.baseurl }}/works/morghe-sahar/">mezzo-soprano version</a>.</i>
+<i>Note: The recording below is the <a href="{{ site.url }}{{ site.baseurl }}/works/morghe-sahar/">mezzo-soprano version</a>.</i>
