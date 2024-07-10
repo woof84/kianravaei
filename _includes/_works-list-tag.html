@@ -3,7 +3,7 @@
     {% for tag in post.tags %}
     {% if tag == page.subheadline %}
     {% if post.hide == yes %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<span class="works-list-titles">{{ post.title }}{% if post.star %} <i class="fa fa-star"></i>{% endif %}</span><br><span class="works-list-descriptions">{{ post.year_composed }} / For {{ post.instrumentation }}</span><span class="works-list-duration">{{ post.duration }}</span></a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<span class="works-list-titles">{{ post.title }}{% if post.star %}<i style="float: right; font-size: 75%" class="fa fa-star"></i>{% endif %}</span><br><span class="works-list-descriptions">{{ post.year_composed }} / For {{ post.instrumentation }}</span><span class="works-list-duration">{{ post.duration }}</span></a></li>
     {% endif %}
     {% endif %}
     {% endfor %}
