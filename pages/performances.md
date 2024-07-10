@@ -46,6 +46,11 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
+  - performance_date: 14 NOV 2024
+    performance_title: Cradle Songs
+    venue: Saint Anselm College
+    city_state: Goffstown, New Hampshire
+    performers: Joana Genova &amp; Heather Braun, violins
   - performance_date: 8 OCT 2024
     performance_title: Family Photos
     venue: Evangelische Kirchengemeinde Dormagen
