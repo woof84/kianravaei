@@ -46,11 +46,29 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
+  - performance_date: 8 FEB 2025
+    performance_title: The Little Things
+    venue: Berkeley Chamber Performances
+    city_state: Lafayette, CA
+    performers: Alexander String Quartet
+    url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 4 FEB 2025
+    performance_title: The Little Things
+    venue: Berkeley Chamber Performances
+    city_state: Berkeley, CA
+    performers: Alexander String Quartet
+    url: https://www.berkeleychamberperform.org/alexanderstringquartet
   - performance_date: 14 NOV 2024
     performance_title: Cradle Songs
     venue: Saint Anselm College
     city_state: Goffstown, New Hampshire
     performers: Joana Genova &amp; Heather Braun, violins
+  - performance_date: 18 OCT 2024
+    performance_title: New Work
+    venue: Internationale Hugo Wolf Akademie
+    city_state: Stuttgart, Germany
+    performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
+    url: https://www.ihwa.de/en/event/homeland
   - performance_date: 8 OCT 2024
     performance_title: Family Photos
     venue: Evangelische Kirchengemeinde Dormagen
