@@ -7,7 +7,7 @@ orchestration: 2(II=p).2.2.2-2.2.0.0-1pc-hp-str
 year_composed: 2024
 duration: 8'
 tags:
- - Iranian culture
+ - Iranian Culture
  - Literature
  - Love
  - Mortality
@@ -18,11 +18,19 @@ Centuries before Romeo & Juliet, there were the star-crossed lovers of ancient P
 
 This piece depicts Majnun’s emotions at his most desolate moment, alone in the wilderness and mad with longing. There are five sections, each capturing a different stage of Majnun’s grief.
 
-1. He lamented.
-2. He prayed.
-3. He wailed.
-4. He fantasized.
-5. _Degh kard._
+<blockquote>
+<div style="text-align: center;">
+<span class="teaser">
+<ol style="list-style-position: inside;">
+    <li>He lamented.</li>
+    <li>He prayed.</li>
+    <li>He wailed.</li>
+    <li>He fantasized.</li>
+    <li><i>Degh kard.</i></li>
+</ol>
+</span>
+</div>
+</blockquote>
 
 (The final section could only be captured by using the Persian word _degh_, which means “to die of grief.”)
 
