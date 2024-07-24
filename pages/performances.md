@@ -58,6 +58,11 @@ performances:
     city_state: Berkeley, CA
     performers: Alexander String Quartet
     url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 14 DEC 2024
+    performance_title: Pluck
+    venue: San Francisco Conservatory of Music
+    city_state: San Francisco, CA
+    performers: San Francisco Conservatory of Music Pre-College Division New Millennium Ensemble
   - performance_date: 14 NOV 2024
     performance_title: Cradle Songs
     venue: Saint Anselm College
