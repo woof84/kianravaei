@@ -64,6 +64,11 @@ performances:
     city_state: San Francisco, CA
     performers: San Francisco Conservatory of Music Pre-College Division New Millennium Ensemble
   - performance_date: 14 NOV 2024
+    performance_title: Ecstasies
+    venue: University of the Pacific
+    city_state: Stockton, CA
+    performers: Brittany Trotter, flute
+  - performance_date: 14 NOV 2024
     performance_title: Cradle Songs
     venue: Saint Anselm College
     city_state: Goffstown, New Hampshire
