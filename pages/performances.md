@@ -63,6 +63,12 @@ performances:
     venue: San Francisco Conservatory of Music
     city_state: San Francisco, CA
     performers: San Francisco Conservatory of Music Pre-College Division New Millennium Ensemble
+  - performance_date: 16 NOV 2024
+    performance_title: New Work
+    venue: Sounds of US Festival at the Kennedy Center
+    city_state: Washington, DC
+    performers:
+    url: https://www.kennedy-center.org/whats-on/explore-by-genre/fortas/2024-2025/sounds-of-us-c/
   - performance_date: 14 NOV 2024
     performance_title: Ecstasies
     venue: University of the Pacific
