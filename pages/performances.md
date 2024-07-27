@@ -27,6 +27,12 @@ performances:
     city_state: Tacoma, WA
     performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
+  - performance_date: 4 MAY 2025
+    performance_title: The Little Things
+    venue: Music at Kohl Mansion
+    city_state: Burlingame, CA
+    performers: Alexander String Quartet
+    url: https://musicatkohl.org/alexander-string-quartet-2025-5-4/
   - performance_date: 3 MAY 2025
     performance_title: New Work
     venue: Pierre Boulez Saal
@@ -46,12 +52,18 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
-  - performance_date: 8 FEB 2025
+  - performance_date: 7 FEB 2025
     performance_title: The Little Things
     venue: Berkeley Chamber Performances
     city_state: Lafayette, CA
     performers: Alexander String Quartet
     url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 4 FEB 2025
+    performance_title: The Little Things
+    venue: Crowden Music Center
+    city_state: Berkeley, CA
+    performers: Alexander String Quartet
+    url: https://www.crowden.org/concerts-events/
   - performance_date: 4 FEB 2025
     performance_title: The Little Things
     venue: Berkeley Chamber Performances
@@ -89,6 +101,18 @@ performances:
     performance_title: Family Photos
     venue: Evangelische Kirchengemeinde Dormagen
     city_state: Dormagen, Germany
+  - performance_date: 3 OCT 2024
+    performance_title: The Little Things
+    venue: Saint Lawrence University
+    city_state: Canton, NY
+    performers: Alexander String Quartet
+    url: https://www.stlawu.edu/events/alexander-string-quartet-concert-1
+  - performance_date: 16 SEP 2024
+    performance_title: The Little Things
+    venue: Rossmoor Chamber Music Society
+    city_state: Walnut Creek, CA
+    performers: Alexander String Quartet
+    url: http://rossmoorchambermusic.org/2024-2025-1
   - performance_date: 28 AUG 2024
     performance_title: Day of Rest
     venue: Classical Music Chicago Dame Myra Hess Memorial Concerts
