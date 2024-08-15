@@ -11,6 +11,10 @@ text_writer: Azerbaijani Traditional, Maud Irving, Iranian Traditional, English 
 movements:
  - movement: Part 1 (Sari Gelin &amp; Wildwood Flower)
  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
+broadcasts:
+ - date: 18 AUG 2024
+   station: Vermont Public Classical
+   url: https://www.vermontpublic.org/2024-08-14/live-on-vermont-public-classical-the-lake-champlain-chamber-music-festival
 tags: 
  - Poetry
  - Literature
