@@ -52,7 +52,13 @@ performances:
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
-  - performance_date: 7 FEB 2025
+  - performance_date: 22 FEB 2025
+    performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
+    venue: Ensemble for These Times at Berkeley Piano Club
+    city_state: Berkeley, CA
+    performers: Dale Tsang, piano
+    url: https://www.eventbrite.com/e/solo-piano-call-for-scores-vol-2-tickets-975614949577
+  - performance_date: 4 FEB 2025
     performance_title: The Little Things
     venue: Berkeley Chamber Performances
     city_state: Lafayette, CA
