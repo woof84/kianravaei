@@ -10,6 +10,10 @@ purchase:
  - title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano) - Instant PDF Download
    price: $20.00
    product-key: 8K62i
+recording:
+ - image: this-land.jpg
+   alt-text: "Lara Downes This Land album art"
+   url: https://www.pentatonemusic.com/product/this-land/
 tags: 
  - Social Justice
  - American Folk Music
