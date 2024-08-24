@@ -81,6 +81,12 @@ performances:
     venue: San Francisco Conservatory of Music
     city_state: San Francisco, CA
     performers: San Francisco Conservatory of Music Pre-College Division New Millennium Ensemble
+  - performance_date: 19 NOV 2024
+    performance_title: Majnun in the Wilderness
+    venue: Indiana University
+    city_state: Bloomington, IN
+    performers: Jacobs School of Music Symphony Orchestra
+    url: https://events.iu.edu/musiciub/event/1470668-new-voices-new-works-for-orchestra-by-jacobs
   - performance_date: 16 NOV 2024
     performance_title: New Work
     venue: Sounds of US Festival at the Kennedy Center
