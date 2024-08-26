@@ -28,7 +28,7 @@ performances:
     performers: Alexander String Quartet
     url: https://musicatkohl.org/alexander-string-quartet-2025-5-4/
   - performance_date: 3 MAY 2025
-    performance_title: New Work
+    performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
     city_state: Berlin, Germany
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
@@ -41,17 +41,46 @@ performances:
     url: https://meanycenter.org/tickets/2025-04/production/lara-downes
     ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 20 MAR 2025
-    performance_title: New Work
+    performance_title: I Will Greet the Sun Again
     venue: Weill Recital Hall at Carnegie Hall
     city_state: New York, NY
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.carnegiehall.org/Calendar/2025/03/20/Fleur-Barron-MezzoSoprano-Kunal-Lahiry-Piano-0730PM
+  - performance_date: 18 MAR 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Celebrity Series of Boston
+    city_state: Boston, MA
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://www.celebrityseries.org/productions/fleur-barron-kunal-lahiry/
+  - performance_date: 14 MAR 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Vocal Arts DC
+    city_state: Washington, DC
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://vocalartsdc.org/fleur-barron/
+  - performance_date: 26 FEB 2025
+    performance_title: I Will Greet the Sun Again
+    venue: San Francisco Performances
+    city_state: San Francisco, CA
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://sfperformances.org/performances/2425/fleur-barron.html
   - performance_date: 22 FEB 2025
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: Ensemble for These Times at Berkeley Piano Club
     city_state: Berkeley, CA
     performers: Dale Tsang, piano
     url: https://www.eventbrite.com/e/solo-piano-call-for-scores-vol-2-tickets-975614949577
+  - performance_date: 21 FEB 2025
+    performance_title: I Will Greet the Sun Again
+    venue: University of Massachusetts Amherst
+    city_state: Amherst, MA
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+  - performance_date: 13 FEB 2025
+    performance_title: I Will Greet the Sun Again
+    venue: University of Sheffield
+    city_state: Sheffield, England
+    performers: Fleur Barron, mezzo-soprano; Simon Lepper, piano
+    url: https://performancevenues.group.shef.ac.uk/event/fleur-barron-simon-lepper/
   - performance_date: 9 FEB 2025
     performance_title: Gulistan
     venue: Helsinki Seriös
@@ -104,7 +133,7 @@ performances:
     city_state: Goffstown, New Hampshire
     performers: Joana Genova &amp; Heather Braun, violins
   - performance_date: 18 OCT 2024
-    performance_title: New Work
+    performance_title: I Will Greet the Sun Again
     venue: Internationale Hugo Wolf Akademie
     city_state: Stuttgart, Germany
     performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
