@@ -3,12 +3,6 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
-  - performance_date: 2 SEP 2025
-    performance_title: Gulistan
-    venue: Helsinki Seriös
-    city_state: Helsinki, Finland
-    performers: Fleur Barron, mezzo-soprano; Laura van der Heijden, cello; Keval Shah, piano
-    url: https://helsinkiserios.fi/en/tapahtuma/fleur-barron-mezzosoprano-laura-van-der-heijden-cello-keval-shah-piano/
   - performance_date: 8 JUN 2025
     performance_title: The Little Things
     venue: Hill and Hollow Music
@@ -58,6 +52,12 @@ performances:
     city_state: Berkeley, CA
     performers: Dale Tsang, piano
     url: https://www.eventbrite.com/e/solo-piano-call-for-scores-vol-2-tickets-975614949577
+  - performance_date: 9 FEB 2025
+    performance_title: Gulistan
+    venue: Helsinki Seriös
+    city_state: Helsinki, Finland
+    performers: Fleur Barron, mezzo-soprano; Laura van der Heijden, cello; Keval Shah, piano
+    url: https://helsinkiserios.fi/en/tapahtuma/fleur-barron-mezzosoprano-laura-van-der-heijden-cello-keval-shah-piano/
   - performance_date: 4 FEB 2025
     performance_title: The Little Things
     venue: Berkeley Chamber Performances
