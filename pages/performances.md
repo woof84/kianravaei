@@ -148,6 +148,12 @@ performances:
     city_state: Canton, NY
     performers: Alexander String Quartet
     url: https://www.stlawu.edu/events/alexander-string-quartet-concert-1
+  - performance_date: 26 SEP 2024
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Joe's Pub at The Public Theater
+    city_state: New York, NY
+    performers: Lara Downes, piano
+    url: https://publictheater.org/productions/joes-pub/2024/l/lara-downes/
   - performance_date: 16 SEP 2024
     performance_title: The Little Things
     venue: Rossmoor Chamber Music Society
