@@ -154,6 +154,7 @@ performances:
     city_state: New York, NY
     performers: Lara Downes, piano
     url: https://publictheater.org/productions/joes-pub/2024/l/lara-downes/
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 16 SEP 2024
     performance_title: The Little Things
     venue: Rossmoor Chamber Music Society
