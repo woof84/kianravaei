@@ -11,6 +11,12 @@ awards:
     - award_year: 2023
       award_title: New Mexico State University Young Composer Initiative
       award_rank: Winner
+youtube:
+ - url-code: U3h1ngRSStM
+purchase:
+ - title: Prima Vera Score & Parts
+   price: $200.00
+   link: https://murphymusicpress.com/products/w-1,309
 Tags:
  - Nature
  - Iranian Culture
