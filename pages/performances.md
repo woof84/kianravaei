@@ -52,35 +52,131 @@ performances:
     city_state: Boston, MA
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://www.celebrityseries.org/productions/fleur-barron-kunal-lahiry/
+  - performance_date: 15 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Iowa City, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 14 MAR 2025
     performance_title: I Will Greet the Sun Again
     venue: Vocal Arts DC
     city_state: Washington, DC
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://vocalartsdc.org/fleur-barron/
+  - performance_date: 14 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Cedar Rapids, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 13 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Iowa City, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 12 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Solon, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 12 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Cedar Rapids, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 8 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Marengo, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 8 MAR 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Marion, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 28 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Monticello, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 26 FEB 2025
     performance_title: I Will Greet the Sun Again
     venue: San Francisco Performances
     city_state: San Francisco, CA
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
     url: https://sfperformances.org/performances/2425/fleur-barron.html
+  - performance_date: 26 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Central City, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 22 FEB 2025
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: Ensemble for These Times at Berkeley Piano Club
     city_state: Berkeley, CA
     performers: Dale Tsang, piano
     url: https://www.eventbrite.com/e/solo-piano-call-for-scores-vol-2-tickets-975614949577
+  - performance_date: 22 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Marion, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 21 FEB 2025
     performance_title: I Will Greet the Sun Again
     venue: University of Massachusetts Amherst
     city_state: Amherst, MA
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+  - performance_date: 21 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Tipton, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 18 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Cedar Rapids, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 15 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Springville, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 14 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Fairfax, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 13 FEB 2025
     performance_title: I Will Greet the Sun Again
     venue: University of Sheffield
     city_state: Sheffield, England
     performers: Fleur Barron, mezzo-soprano; Simon Lepper, piano
     url: https://performancevenues.group.shef.ac.uk/event/fleur-barron-simon-lepper/
+  - performance_date: 12 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Iowa City, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
+  - performance_date: 11 FEB 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Red Cedar Chamber Music
+    city_state: Marion, IA
+    performers: Miera Kim, violin; Carey Bostian, cello
+    url: https://redcedar.org/performance-schedule/
   - performance_date: 9 FEB 2025
     performance_title: Gulistan
     venue: Helsinki Seriös
@@ -148,6 +244,11 @@ performances:
     city_state: Canton, NY
     performers: Alexander String Quartet
     url: https://www.stlawu.edu/events/alexander-string-quartet-concert-1
+  - performance_date: 28 SEP 2024
+    performance_title: Gulistan (excerpt)
+    venue: Uzeyir Hajibeyov International Music Festival
+    city_state: Baku, Azerbaijan
+    url: https://iticket.az/events/concerts/uhacibeyli-xvi
   - performance_date: 26 SEP 2024
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Joe's Pub at The Public Theater

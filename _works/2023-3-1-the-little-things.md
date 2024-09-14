@@ -33,7 +33,7 @@ purchase:
 youtube:
  - url-code: qDz1m6paeFs
  - url-code: sOh5QknUOhg
-star: yes
+# star: yes
 tags: 
  - Nature
  - Poetry
