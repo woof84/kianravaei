@@ -440,7 +440,7 @@ performances:
     url: https://www.chimaera.be/?page_id=576
   - performance_date: 28 APR 2024
     performance_title: Family Photos
-    venue: California State University Northridge
+    venue: California State University, Northridge
     performers: CSUN Honors Quartet
     city_state: Los Angeles, CA
   - performance_date: 27 APR 2024
