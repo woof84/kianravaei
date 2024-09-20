@@ -11,8 +11,15 @@ movements:
  - movement: II. Hide
  - movement: III. Rejoice
  - movement: IV. Return
+youtube:
+ - url-code: PM3GAOjmiyQ
+ - url-code: dhuIKhBATM0
+ - url-code: s8mIk-7ACa4
+ - url-code: x3DfomZDCeI
 tags: 
  - Iranian Culture
 ---
 
 _Navazi_ is a collection of composed improvisations inspired by the _kamancheh_, a traditional Iranian bowed string instrument resembling a Western fiddle. The title is a Persian word meaning both "to play an instrument" and "to caress." Each movement draws from different sections of _Dastgah-e Nava_, one of the musical modes in Iranian classical music: _Daramad_ ("Arise"), _Nahoft_ ("Hide"), _Khojaste_ ("Rejoice"), and _Forud_ ("Return").
+
+_Note: The four movements are intended to be interspersed between other pieces on a concert program, rather than performed consecutively._
