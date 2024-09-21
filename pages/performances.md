@@ -558,6 +558,11 @@ performances:
     performers: icarus Quartet
     city_state: Reisterstown, MD
     url: https://www.stjohnswrp.org/music-events/music-in-the-valley/
+  - performance_date: 3 MAR 2024
+    performance_title: Navazi
+    venue: Ladies Musical Club of Seattle
+    performers: Tallā Rouge
+    city_state: Raymond, WA
   - performance_date: 29 FEB 2024
     performance_title: The Four Seasons of Hamadan (Version for Solo Viola, excerpt)
     venue: Indiana University
