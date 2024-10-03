@@ -201,6 +201,13 @@ performances:
     city_state: Berkeley, CA
     performers: Alexander String Quartet
     url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 15 JAN 2025
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Joe's Pub at The Public Theater
+    city_state: New York, NY
+    performers: Lara Downes, piano
+    url: https://publictheater.org/productions/joes-pub/2024/l/lara-downes/
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 14 DEC 2024
     performance_title: Pluck
     venue: San Francisco Conservatory of Music
@@ -249,13 +256,6 @@ performances:
     venue: Uzeyir Hajibeyov International Music Festival
     city_state: Baku, Azerbaijan
     url: https://iticket.az/events/concerts/uhacibeyli-xvi
-  - performance_date: 26 SEP 2024
-    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
-    venue: Joe's Pub at The Public Theater
-    city_state: New York, NY
-    performers: Lara Downes, piano
-    url: https://publictheater.org/productions/joes-pub/2024/l/lara-downes/
-    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 16 SEP 2024
     performance_title: The Little Things
     venue: Rossmoor Chamber Music Society
