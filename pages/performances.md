@@ -241,6 +241,11 @@ performances:
     city_state: Stuttgart, Germany
     performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
     url: https://www.ihwa.de/en/event/homeland
+  - performance_date: 13 OCT 2024
+    performance_title: Family Photos
+    venue: Taconic Music
+    city_state: Manchester, VT
+    url: https://taconicmusic.org/upcoming-events/2024/10/13/international-voices-music-and-poetry-from-around-the-world
   - performance_date: 8 OCT 2024
     performance_title: Family Photos
     venue: Evangelische Kirchengemeinde Dormagen
