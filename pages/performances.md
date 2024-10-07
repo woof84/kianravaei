@@ -233,7 +233,7 @@ performances:
   - performance_date: 14 NOV 2024
     performance_title: Cradle Songs
     venue: Saint Anselm College
-    city_state: Goffstown, New Hampshire
+    city_state: Goffstown, NH
     performers: Joana Genova &amp; Heather Braun, violins
   - performance_date: 18 OCT 2024
     performance_title: I Will Greet the Sun Again
@@ -245,6 +245,7 @@ performances:
     performance_title: Family Photos
     venue: Taconic Music
     city_state: Manchester, VT
+    performers: Heather Braun, violin 1; Joana Genova, violin 2; Rosemary Nelis, viola; Nathaniel Parke, cello
     url: https://taconicmusic.org/upcoming-events/2024/10/13/international-voices-music-and-poetry-from-around-the-world
   - performance_date: 8 OCT 2024
     performance_title: Family Photos
