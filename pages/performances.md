@@ -235,6 +235,12 @@ performances:
     venue: Saint Anselm College
     city_state: Goffstown, NH
     performers: Joana Genova &amp; Heather Braun, violins
+  - performance_date: 14 NOV 2024
+    performance_title: Ecstasies - Premiere
+    venue: UCLA
+    city_state: Los Angeles, CA
+    performers: Ben Smolen, flute
+    url: https://schoolofmusic.ucla.edu/event/ucla-faculty-artist-series-fall-2024/
   - performance_date: 18 OCT 2024
     performance_title: I Will Greet the Sun Again
     venue: Internationale Hugo Wolf Akademie
