@@ -235,7 +235,7 @@ performances:
     venue: Saint Anselm College
     city_state: Goffstown, NH
     performers: Joana Genova &amp; Heather Braun, violins
-  - performance_date: 14 NOV 2024
+  - performance_date: 26 OCT 2024
     performance_title: Ecstasies - Premiere
     venue: UCLA
     city_state: Los Angeles, CA
