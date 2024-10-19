@@ -3,7 +3,7 @@ layout: work
 title: "I Will Greet the Sun Again"
 instrumentation: mezzo-soprano &amp; piano
 category_music: Voice &amp; Instrument(s)
-commissioner: Fleur Barron &amp; Kunal Lahiry, with support from Internationale Hugo Wolf Akademie Stuttgart
+commissioner: Fleur Barron &amp; Kunal Lahiry, with support from Internationale Hugo Wolf Akademie Stuttgart &amp; Pierre Boulez Saal
 year_composed: 2024
 duration: 4'
 language: Persian
