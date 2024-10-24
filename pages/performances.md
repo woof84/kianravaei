@@ -213,6 +213,11 @@ performances:
     venue: San Francisco Conservatory of Music
     city_state: San Francisco, CA
     performers: San Francisco Conservatory of Music Pre-College Division New Millennium Ensemble
+  - performance_date: 2 DEC 2024
+    performance_title: I Will Greet the Sun Again
+    venue: The Juilliard School
+    city_state: New York, NY
+    performers: Tivoli Treloar, mezzo-soprano; Inkyo Hong, piano
   - performance_date: 19 NOV 2024
     performance_title: Majnun in the Wilderness
     venue: Indiana University
