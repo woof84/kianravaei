@@ -240,6 +240,11 @@ performances:
     venue: Saint Anselm College
     city_state: Goffstown, NH
     performers: Joana Genova &amp; Heather Braun, violins
+  - performance_date: 28 OCT 2024
+    performance_title: Everlasting
+    venue: Bruno Walter Auditorium
+    city_state: New York, NY
+    performers: Zodiac Trio
   - performance_date: 26 OCT 2024
     performance_title: Ecstasies - Premiere
     venue: UCLA
