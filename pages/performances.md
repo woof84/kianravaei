@@ -218,6 +218,7 @@ performances:
     venue: The Juilliard School
     city_state: New York, NY
     performers: Tivoli Treloar, mezzo-soprano; Inkyo Hong, piano
+    url: https://www.juilliard.edu/event/173786/composition-concert
   - performance_date: 19 NOV 2024
     performance_title: Majnun in the Wilderness
     venue: Indiana University
@@ -225,10 +226,10 @@ performances:
     performers: Jacobs School of Music Symphony Orchestra
     url: https://events.iu.edu/musiciub/event/1470668-new-voices-new-works-for-orchestra-by-jacobs
   - performance_date: 16 NOV 2024
-    performance_title: New Work
+    performance_title: The Four Seasons of Hamadan (excerpt)
     venue: Sounds of US Festival at the Kennedy Center
     city_state: Washington, DC
-    performers:
+    performers: MyungWeon Lee, violin
     url: https://www.kennedy-center.org/whats-on/explore-by-genre/fortas/2024-2025/sounds-of-us-c/
   - performance_date: 14 NOV 2024
     performance_title: Ecstasies
@@ -240,6 +241,11 @@ performances:
     venue: Saint Anselm College
     city_state: Goffstown, NH
     performers: Joana Genova &amp; Heather Braun, violins
+  - performance_date: 8 NOV 2024
+    performance_title: Gulistan (excerpt)
+    venue: Bruno Walter Auditorium at Lincoln Center
+    city_state: New York, NY
+    performers: Erin Reppenhagen, mezzo-soprano; Sara Gabalawi, cello; Ruben Hogh, piano
   - performance_date: 26 OCT 2024
     performance_title: Ecstasies - Premiere
     venue: UCLA
