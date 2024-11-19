@@ -219,6 +219,12 @@ performances:
     city_state: New York, NY
     performers: Tivoli Treloar, mezzo-soprano; Inkyo Hong, piano
     url: https://www.juilliard.edu/event/173786/composition-concert
+  - performance_date: 20 NOV 2024
+    performance_title: Ecstasies (Version for Percussion, arr. Jonathan Lucke)
+    venue: Oberlin Conservatory
+    city_state: Oberlin, OH
+    performers: Jonathan Lucke, Percussion
+    url: https://calendar.oberlin.edu/event/concert-oberlin-percussion-group?utm_campaign=widget&utm_medium=widget&utm_source=Oberlin+College+and+Conservatory
   - performance_date: 19 NOV 2024
     performance_title: Majnun in the Wilderness
     venue: Indiana University
