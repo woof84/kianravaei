@@ -12,6 +12,13 @@ purchase:
  - title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano) - Instant PDF Download
    price: $20.00
    product-key: 8K62i
+broadcasts:
+ - date: 30 NOV 2024
+   station: Minnesota Public Radio
+   url: https://www.yourclassical.org/composer/23123
+ - date: 30 NOV 2024
+   station: Classical Music on WEMC
+   url: https://www.wmra.org/show/classical-music-on-wemc
 recording:
  - image: this-land.jpg
    alt-text: "Lara Downes This Land album art"
