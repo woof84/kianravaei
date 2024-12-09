@@ -201,6 +201,18 @@ performances:
     city_state: Berkeley, CA
     performers: Alexander String Quartet
     url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 1 FEB 2025
+    performance_title: Family Photos
+    venue: Tricia Bell and Clive McCarthy’s Art Studio/Home
+    city_state: San Francisco, CA
+    performers: Apple Hill String Quartet
+    url: http://applehill.org/concerts/concerts-apple-hill/
+  - performance_date: 25 JAN 2025
+    performance_title: Family Photos
+    venue: Nova Arts
+    city_state: Keene, NH
+    performers: Apple Hill String Quartet
+    url: http://applehill.org/concerts/concerts-apple-hill/
   - performance_date: 15 JAN 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Joe's Pub at The Public Theater
