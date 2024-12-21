@@ -229,7 +229,7 @@ performances:
     performance_title: Latif (Version for Cello &amp; Two Guitars, arr. Dylan Kinneavy)
     venue: 
     city_state: New Haven, CT
-    performers: Dylan Kinneavy, cello; Brandon Wong &amp; FangFang Liu, guitars
+    performers: Dylan Kinneavy, cello; Brandon Wong &amp; Fangfang Liu, guitars
   - performance_date: 2 DEC 2024
     performance_title: I Will Greet the Sun Again
     venue: The Juilliard School
