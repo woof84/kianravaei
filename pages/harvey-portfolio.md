@@ -81,15 +81,15 @@ header:
     <table style="width: 100%; margin-bottom: 20px; margin-top: -10px;">
       <tr>
         <td><b>Suggested Excerpt #1</b></td>
+        <td>4:28–5:52</td>
+        <td>Movement III, measures 1–27</td>
+        <td>pp. 14–15</td>
+      </tr>
+      <tr>
+       <td><b>Suggested Excerpt #2</b></td>
         <td>1:14–2:59</td>
         <td>Movement II, measures 1–112</td>
         <td>pp. 2–8</td>
-      </tr>
-      <tr>
-        <td><b>Suggested Excerpt #2</b></td>
-        <td>11:55–13:40</td>
-        <td>Movement VI, measures 1–164</td>
-        <td>pp. 30–38</td>
       </tr>
     </table>
     <p><i>Commissioned by Great Lakes Chamber Music Festival, Chamber Music Northwest, and Seattle Chamber Music Society. Performed July 18, 2023 by Noah Geller, violin 1; Tessa Lark, violin 2; Jonathan Vinocour, viola; and Astrid Schween, cello.</i></p>
