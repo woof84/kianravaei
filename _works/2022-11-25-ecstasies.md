@@ -25,6 +25,10 @@ purchase:
  - title: Ecstasies Score - Instant PDF Download
    price: $40.00
    product-key: TRXtM
+recording:
+ - image: ecstasies_artwork.jpg
+   alt-text: "Ecstasies album artwork"
+   url: https://ffm.to/ecstasies
 tags:
  - Iranian Culture
  - EDM
