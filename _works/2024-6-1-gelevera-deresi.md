@@ -9,6 +9,7 @@ duration: 5'
 language: Turkish
 text_writer: Turkish Traditional
 tags:
+ - Love
  - Mortality
  - Nature
  - Social Justice
