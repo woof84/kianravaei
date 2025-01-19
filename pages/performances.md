@@ -15,6 +15,11 @@ performances:
     city_state: Puyallup, WA
     performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
+  - performance_date: 18 MAY 2025
+    performance_title: All the Sounds Around Her - Premiere
+    venue: Hoff-Barthelson Music School Music of Our Time Festival
+    city_state: Scarsdale, NY
+    performers: Westchester Children's Chorus and Hoff-Barthelson Music School String Orchestra
   - performance_date: 17 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Rialto Theater
