@@ -8,6 +8,7 @@ year_composed: 2023
 duration: 7'
 youtube:
  - url-code: a2C1HC1RVVE
+ - url-code: bCJbRjFw78g
 purchase:
  - title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano) - Instant PDF Download
    price: $20.00
@@ -19,6 +20,9 @@ broadcasts:
  - date: 30 NOV 2024
    station: Classical Music on WEMC
    url: https://www.wmra.org/show/classical-music-on-wemc
+ - date: 20 JAN 2025
+   station: New Sounds on WNYC
+   url: https://www.wnyc.org/story/4968-lara-downes-and-friends-studio/
 recording:
  - image: this-land.jpg
    alt-text: "Lara Downes This Land album art"
