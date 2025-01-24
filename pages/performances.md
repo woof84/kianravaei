@@ -170,6 +170,12 @@ performances:
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
   - performance_date: 22 FEB 2025
+    performance_title: The Little Things (excerpt)
+    venue: Golden Hornet String Quartet Smackdown IX
+    city_state: Austin, TX
+    performers: Invoke String Quartet
+    url: https://www.rosetteatx.org/upcoming-events/string-quartet-smackdown-ix
+  - performance_date: 22 FEB 2025
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: Ensemble for These Times at Berkeley Piano Club
     city_state: Berkeley, CA
