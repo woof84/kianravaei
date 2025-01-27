@@ -3,6 +3,13 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 6 NOV 2025
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: Chamber Music Society of Lincoln Center
+    performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
+    city_state: New York, NY
+    url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
+    ignore_string: Gulistan
   - performance_date: 8 JUN 2025
     performance_title: The Little Things
     venue: Hill and Hollow Music
