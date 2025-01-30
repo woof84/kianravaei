@@ -18,7 +18,7 @@ tags:
  - Mortality
  - Social Justice
 ---
-_All The Sounds Around Her_ is a personal tribute to Ella Jenkins, whose many albums of children’s songs have brought multicultural understanding to generations of young people. When I started writing this piece, it was to celebrate her 100th birthday, but in the midst of composition she passed away unexpectedly. I decided to embrace the original celebratory intent, allowing her legacy of joy and connection to remain at the heart of the music.
+_All the Sounds Around Her_ is a personal tribute to Ella Jenkins, whose many albums of children’s songs have brought multicultural understanding to generations of young people. When I started writing this piece, it was to celebrate her 100th birthday, but in the midst of composition she passed away unexpectedly. I decided to embrace the original celebratory intent, allowing her legacy of joy and connection to remain at the heart of the music.
 
 The first movement, which follows an instrumental overture, incorporates Jenkins’s signature call-and-response singing as well as her tradition of writing lyrics that evoke both work songs and children’s tunes. Drawing on my experience as a member of the UCLA Latin Jazz Big Band, I incorporated elements of Afro-Cuban music, one of her major musical influences.
 
