@@ -68,6 +68,12 @@ performances:
     performers: Lara Downes, piano
     url: https://meanycenter.org/tickets/2025-04/production/lara-downes
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 27 MAR 2025
+    performance_title: Pillars of Creation - Premiere
+    venue: Future Stages Festival at The Juilliard School
+    city_state: New York, NY
+    performers: Marla Phelan, choreography; Tim Richardson, video; Kian Ravaei, electronic audio
+    url: https://www.juilliard.edu/event/176001/future-stages-festival-space-between-us?start_date_from=03/16/25&start_date_thru=03/31/25&division=All&tags=All
   - performance_date: 20 MAR 2025
     performance_title: I Will Greet the Sun Again
     venue: Weill Recital Hall at Carnegie Hall
