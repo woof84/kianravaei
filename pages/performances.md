@@ -27,12 +27,24 @@ performances:
     venue: Hoff-Barthelson Music School Music of Our Time Festival
     city_state: Scarsdale, NY
     performers: Westchester Children's Chorus and Hoff-Barthelson Music School String Orchestra
+  - performance_date: 18 MAY 2025
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    performers: Julia Scott Carey, piano
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 17 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Rialto Theater
     city_state: Tacoma, WA
     performers: Northwest Sinfonietta; Mei-Ann Chen, conductor
     url: https://nwsinfonietta.org/
+  - performance_date: 17 MAY 2025
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    performers: Julia Scott Carey, piano
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 4 MAY 2025
     performance_title: The Little Things
     venue: Music at Kohl Mansion
@@ -250,7 +262,7 @@ performances:
   - performance_date: 11 FEB 2025
     performance_title: Chāhār Mezrābe Māhur
     venue: Red Cedar Chamber Music
-    city_state: Marion, IA
+    city_state: Marfion, IA
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
   - performance_date: 11 FEB 2025
