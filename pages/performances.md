@@ -255,7 +255,7 @@ performances:
     url: https://redcedar.org/performance-schedule/
   - performance_date: 11 FEB 2025
     performance_title: Ecstasies
-    venue: Cal State University Long Beach
+    venue: California State University, Long Beach
     city_state: Long Beach, California
     performers: Jenni Olson, flute
   - performance_date: 9 FEB 2025
