@@ -158,6 +158,12 @@ performances:
     city_state: Marion, IA
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
+  - performance_date: 5 MAR 2025
+    performance_title: Latif
+    venue: Yale School of Music
+    city_state: New Haven, CT
+    performers: Dylan Kinneavy cello; Umi Garrett, piano
+    url: https://www.facebook.com/events/1155942389584295/
   - performance_date: 2 MAR 2025
     performance_title: Family Photos
     venue: Private Home
