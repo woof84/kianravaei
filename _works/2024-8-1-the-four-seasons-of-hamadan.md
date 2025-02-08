@@ -8,7 +8,7 @@ duration: 20'
 commissioner: Bridge to Everywhere with support from the New Music USA Creator Fund
 movements:
  - movement: I. Spring&colon; Nowruz &amp; Purim
- - movement: II. Summer&colon; Tigran &amp; Shavuot
+ - movement: II. Summer&colon; Tirgan &amp; Shavuot
  - movement: III. Autumn&colon; Mehregan &amp; Sukkot
  - movement: IV. Winter&colon; Yalda &amp; Hannukah
 tags: 
