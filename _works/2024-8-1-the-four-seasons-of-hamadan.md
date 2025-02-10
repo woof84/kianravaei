@@ -4,7 +4,7 @@ title: "The Four Seasons of Hamadan"
 instrumentation: solo violin &amp; dancer
 year_composed: 2024
 category_music: Solo
-duration: 20'
+duration: 23'
 commissioner: Bridge to Everywhere with support from the New Music USA Creator Fund
 movements:
  - movement: I. Spring&colon; Nowruz &amp; Purim
@@ -37,4 +37,4 @@ While writing the third movement, I had front of mind something that Fariborz to
 
 The winter rituals of Yalda and Hanukkah complete the cycle, and it is both the sense of completion and cyclicality that inspired me to end with a chaconne. Like Bach’s beloved D Minor Chaconne, the violin weaves a repeating pattern of harmonies, but while doing so evokes myriad styles of Persian and Jewish music. For example, the principal theme which begins the movement mixes a Jewish terkisher with a French overture (a nod to Bach), and is shortly followed by a Persian tasnif, or ballad. In a way, this final movement is a compact summation of the transcultural polystylism that the work as a whole sets out to achieve. Just as winter turns to spring and the seasons begin anew, the piece ends on the same drone note from the beginning.
 
-Annie and I hope that this work may serve as an example of empathy and cultural understanding between individuals with different backgrounds and identities. In the face of ongoing political hostilities between Iran and Israel, who have been in a proxy war for over four decades, our aim is to demonstrate the potential for people to unite around rituals, seasons, and cultural commonalities. We extend our gratitude to New Music USA for supporting our collaboration through the New Music Creator Fund, to Bridge to Everywhere and Mount Saint Mary's University for presenting the work, and most of all, to our teachers, who graciously passed on their knowledge so that we might keep these art forms alive.
+Annie and I hope that this work may serve as an example of empathy and cultural understanding between individuals with different backgrounds and identities. In the face of ongoing political hostilities between Iran and Israel, who have been in a proxy war for over four decades, our aim is to demonstrate the potential for people to unite around rituals, seasons, and cultural commonalities. We extend our gratitude to New Music USA for supporting our collaboration through the New Music Creator Fund, to Bridge to Everywhere and the Music Department at Mount Saint Mary's University for helping us workshop the piece, and most of all, to our teachers, who graciously passed on their knowledge so that we might keep these art forms alive.

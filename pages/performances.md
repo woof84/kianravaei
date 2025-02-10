@@ -52,10 +52,10 @@ performances:
     performers: Alexander String Quartet
     url: https://musicatkohl.org/alexander-string-quartet-2025-5-4/
   - performance_date: 4 MAY 2025
-    performance_title: The Four Seasons of Hamadan
+    performance_title: The Four Seasons of Hamadan - Premiere
     venue: San Francisco International Arts Festival
     city_state: San Francisco, CA
-    performers: Rachel Iba, violin; Kate Myers, dancer
+    performers: Yvette Cornelia Holzwarth, violin; Kate Myers, dancer
   - performance_date: 3 MAY 2025
     performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
@@ -72,7 +72,7 @@ performances:
     performance_title: The Four Seasons of Hamadan
     venue: San Francisco International Arts Festival
     city_state: San Francisco, CA
-    performers: Rachel Iba, violin; Kate Myers, dancer
+    performers: Yvette Cornelia Holzwarth, violin; Kate Myers, dancer
   - performance_date: 8 APR 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Meany Center for the Performing Arts at University of Washington
@@ -283,10 +283,10 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Laura van der Heijden, cello; Keval Shah, piano
     url: https://helsinkiserios.fi/en/tapahtuma/fleur-barron-mezzosoprano-laura-van-der-heijden-cello-keval-shah-piano/
   - performance_date: 8 FEB 2025
-    performance_title: The Four Seasons of Hamadan - Premiere
+    performance_title: The Four Seasons of Hamadan - Workshop
     venue: Bridge to Everywhere
     city_state: Los Angeles, CA
-    performers: Rachel Iba, violin; Kate Myers, dancer
+    performers: Kate Myers, dancer
     url: https://www.eventbrite.com/e/bridge-to-everywhere-presents-eloquent-echoes-tickets-1141647892579?aff=oddtdtcreator
   - performance_date: 4 FEB 2025
     performance_title: The Little Things
