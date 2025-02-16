@@ -70,6 +70,12 @@ performances:
     performers: Tallā Rouge
     url: https://mahlerfest.org/mf38/
   - performance_date: 4 MAY 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Pierre Boulez Saal
+    city_state: Berlin, Germany
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+    url: https://www.boulezsaal.de/de/event/fleur-barron-kunal-lahiry-400093
+  - performance_date: 4 MAY 2025
     performance_title: The Little Things
     venue: Music at Kohl Mansion
     city_state: Burlingame, CA
