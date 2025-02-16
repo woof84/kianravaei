@@ -63,6 +63,12 @@ performances:
     city_state: Boylston, MA
     performers: Julia Scott Carey, piano
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 10 MAY 2025
+    performance_title: Navazi
+    venue: Colorado Mahlerfest
+    city_state: Boulder, CO
+    performers: Tallā Rouge
+    url: https://mahlerfest.org/mf38/
   - performance_date: 4 MAY 2025
     performance_title: The Little Things
     venue: Music at Kohl Mansion
