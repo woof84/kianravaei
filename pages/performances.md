@@ -10,6 +10,24 @@ performances:
     city_state: New York, NY
     url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
     ignore_string: Gulistan
+  - performance_date: 10 JUL 2025
+    performance_title: New Work
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
+    url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
+  - performance_date: 9 JUL 2025
+    performance_title: Ecstasies
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Tara Helen O'Connor, flute
+    url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-sonic-soundscapes/2260
+  - performance_date: 2 JUL 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Fleur Barron, mezzo-soprano; Gloria Chien, piano
+    url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-global-voices/2256
   - performance_date: 8 JUN 2025
     performance_title: The Little Things
     venue: Hill and Hollow Music
