@@ -103,6 +103,7 @@ performances:
     venue: San Francisco International Arts Festival
     city_state: San Francisco, CA
     performers: Yvette Cornelia Holzwarth, violin; Kate Myers, dancer
+    url: https://events.humanitix.com/helen-wicks-works-with-alive-and-well-productions-sf-international-arts-festival?fbclid=PAZXh0bgNhZW0CMTEAAabMcRFABJsB6tESvhOpRA8GSx3OR2iEw_uTxln-eTlfK8-RUThrUXrHuW4_aem_eKxpq_-HkWbkG1DxAFbw3A
   - performance_date: 8 APR 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Meany Center for the Performing Arts at University of Washington
