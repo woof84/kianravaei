@@ -1,8 +1,7 @@
 ---
 layout: work
 title: "The Pillars of Creation"
-instrumentation: a stage work at the intersection of choreography, technology, &amp; music 
-orchestration: electronic audio playback
+instrumentation: electronic audio, video projection, and 3 dancers
 year_composed: 2025
 category_music: Electronic
 duration: 15'
@@ -16,7 +15,7 @@ As witnesses, we are immersed in the profound understanding that the physics of 
 
 <hr>
 
-Marla Phelan, choreographer &amp; director
-Tim Richardson, digital director &amp; editor
-Marin Prospiech, digital artist
+Marla Phelan, choreographer &amp; director  
+Tim Richardson, digital director &amp; editor  
+Marin Prospiech, digital artist  
 Kian Ravaei, composer
