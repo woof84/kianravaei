@@ -169,6 +169,11 @@ performances:
     city_state: Iowa City, IA
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
+  - performance_date: 13 MAR 2025
+    performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
+    venue: Cal State East Bay
+    city_state: Hayward, CA
+    performers: Dale Tsang, piano
   - performance_date: 12 MAR 2025
     performance_title: Chāhār Mezrābe Māhur
     venue: Red Cedar Chamber Music
