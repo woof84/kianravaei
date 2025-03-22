@@ -133,6 +133,11 @@ performances:
     city_state: Marquette, MI
     performers: Keri Lee Pierson, soprano; Christopher Schoelen, guitar
     url: https://kerileesoprano.com/index.php/current-project-voice-guitar-commissions-for-2025/
+  - performance_date: 22 MAR 2025
+    performance_title: Ecstasies
+    venue: Future Stages Festival at The Juilliard School
+    city_state: New York, NY
+    performers: Sooah Jeon, flute
   - performance_date: 20 MAR 2025
     performance_title: I Will Greet the Sun Again
     venue: Weill Recital Hall at Carnegie Hall
