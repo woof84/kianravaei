@@ -40,6 +40,12 @@ performances:
     city_state: New York, NY
     performers: Alexander String Quartet
     url: https://asq4.com/concert/harvard-club/
+  - performance_date: 5 JUN 2025
+    performance_title: The Little Things
+    venue: Ann's Choice Chapel
+    city_state: Warminster, PA
+    performers: Alexander String Quartet
+    url: https://asq4.com/concert/alexander-chamber-music-society-4/
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
