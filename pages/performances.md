@@ -34,6 +34,12 @@ performances:
     city_state: Saranac, NY
     performers: Alexander String Quartet
     url: https://www.hillandhollowmusic.org/30th-anniversary-season-rolling-out/
+  - performance_date: 6 JUN 2025
+    performance_title: The Little Things
+    venue: The Harvard Club of New York City
+    city_state: New York, NY
+    performers: Alexander String Quartet
+    url: https://asq4.com/concert/harvard-club/
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
