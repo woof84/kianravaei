@@ -81,6 +81,12 @@ performances:
     city_state: Boulder, CO
     performers: Tallā Rouge
     url: https://mahlerfest.org/mf38/
+  - performance_date: 8 MAY 2025
+    performance_title: American Composers Orchestra CoLABoratory Workshop
+    venue: Benzaquen Hall at DiMenna Center
+    city_state: New York, NY
+    performers: American Composers Orchestra
+    url: https://www.americancomposers.org/performances-events/colaboratory-workshop-4
   - performance_date: 4 MAY 2025
     performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
