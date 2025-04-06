@@ -11,17 +11,17 @@ performances:
     url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
     ignore_string: Gulistan
   - performance_date: 10 JUL 2025
-    performance_title: New Work
+    performance_title: iPod Variations - Premiere
     venue: Chamber Music Northwest
     city_state: Portland, OR
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
-  - performance_date: 9 JUL 2025
-    performance_title: Ecstasies
+  - performance_date: 7 JUL 2025
+    performance_title: iPod Variations - Open Rehearsal
     venue: Chamber Music Northwest
     city_state: Portland, OR
-    performers: Tara Helen O'Connor, flute
-    url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-sonic-soundscapes/2260
+    performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
+    url: https://cmnw.org/concerts-events/2025-summer-festival/free-open-rehearsal-kian-ravaei-new-commission-flute-violin-electronics/2321
   - performance_date: 2 JUL 2025
     performance_title: I Will Greet the Sun Again
     venue: Chamber Music Northwest
