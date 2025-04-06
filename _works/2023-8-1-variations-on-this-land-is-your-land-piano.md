@@ -23,6 +23,9 @@ broadcasts:
  - date: 20 JAN 2025
    station: New Sounds on WNYC
    url: https://www.wnyc.org/story/4968-lara-downes-and-friends-studio/
+ - date: 24 MAR 2025
+   station: Radio Free Brooklyn
+   url: https://www.radiofreebrooklyn.org/
 recording:
  - image: this-land.jpg
    alt-text: "Lara Downes This Land album art"
