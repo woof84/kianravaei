@@ -22,6 +22,12 @@ performances:
     city_state: Portland, OR
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
+  - performance_date: 9 JUL 2025
+    performance_title: Ecstasies
+    venue: Chamber Music Northwest
+    city_state: Portland, OR
+    performers: Tara Helen O'Connor, flute
+    url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-sonic-soundscapes/2260
   - performance_date: 7 JUL 2025
     performance_title: iPod Variations - Open Rehearsal
     venue: Chamber Music Northwest
