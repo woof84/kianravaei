@@ -10,6 +10,12 @@ performances:
     city_state: New York, NY
     url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
     ignore_string: Gulistan
+  - performance_date: 24 AUG 2025
+    performance_title: Cradle Songs
+    venue: Music in the Vineyards
+    city_state: Rutherford, CA
+    performers: Jennifer Frautschi &amp; Gershon Gerchikov, violins
+    url: https://www.musicinthevineyards.org/events/2025-inglenook/
   - performance_date: 10 JUL 2025
     performance_title: iPod Variations - Premiere
     venue: Chamber Music Northwest
@@ -46,6 +52,18 @@ performances:
     city_state: Warminster, PA
     performers: Alexander String Quartet
     url: https://asq4.com/concert/alexander-chamber-music-society-4/
+  - performance_date: 29 MAY 2025
+    performance_title: Family Photos (choreography by Carly Topazio)
+    venue: The Rosin Box Project
+    city_state: La Jolla, CA
+    performers: Art of Elan
+    url: https://www.therosinboxproject.com/unified-harmonies
+  - performance_date: 28 MAY 2025
+    performance_title: Family Photos (choreography by Carly Topazio)
+    venue: The Rosin Box Project
+    city_state: La Jolla, CA
+    performers: Art of Elan
+    url: https://www.therosinboxproject.com/unified-harmonies
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
