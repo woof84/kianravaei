@@ -22,6 +22,9 @@ broadcasts:
  - date: 6 JUN 2024
    station: Performance Today
    url: https://www.yourclassical.org/episode/2024/06/06/pt
+ - date: 16 APR 2025
+   station: Performance Today
+   url: https://www.yourclassical.org/episode/2025/04/16/pt
 awards:
     - award_year: 2024
       award_title: The ASCAP Foundation Morton Gould Young Composer Award
