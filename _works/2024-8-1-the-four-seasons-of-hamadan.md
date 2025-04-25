@@ -12,7 +12,10 @@ movements:
  - movement: III. Autumn&colon; Mehregan &amp; Sukkot
  - movement: IV. Winter&colon; Yalda &amp; Hannukah
 broadcasts:
- - date: 19 FEB 2025
+ - date: 12 FEB 2025
+   station: WQXR Young Artists Showcase
+   url: https://www.wqxr.org/story/sounds-us-2/
+ - date: 14 FEB 2025
    station: WQXR Young Artists Showcase
    url: https://www.wqxr.org/story/sounds-us-2/
 tags: 
