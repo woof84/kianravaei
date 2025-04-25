@@ -11,6 +11,10 @@ movements:
  - movement: II. Summer&colon; Tirgan &amp; Shavuot
  - movement: III. Autumn&colon; Mehregan &amp; Sukkot
  - movement: IV. Winter&colon; Yalda &amp; Hannukah
+broadcasts:
+ - date: 19 FEB 2025
+   station: WQXR Young Artists Showcase
+   url: https://www.wqxr.org/story/sounds-us-2/
 tags: 
  - Family
  - Iranian Culture
