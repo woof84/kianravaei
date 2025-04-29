@@ -166,6 +166,12 @@ performances:
     performers: Apple Hill String Quartet
     url: http://applehill.org/concerts/concerts-apple-hill/
   - performance_date: 30 MAR 2025
+    performance_title: Family Photos
+    venue: The Chapel at St. Bartholomew's Church
+    city_state: New York, NY
+    performers: Apple Hill String Quartet
+    url: https://stbarts.org/event/23967910-2025-03-30-apple-hill-string-quartet/
+  - performance_date: 30 MAR 2025
     performance_title: Advertisements (Version for Soprano &amp; Guitar)
     venue: Bowling Green State University
     city_state: Bowling Green, OH
