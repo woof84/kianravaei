@@ -46,6 +46,11 @@ performances:
     city_state: Portland, OR
     performers: Fleur Barron, mezzo-soprano; Gloria Chien, piano
     url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-global-voices/2256
+  - performance_date: 9 JUN 2025
+    performance_title: Ecstasies
+    venue: International Computer Music Conference
+    city_state: Boston, MA
+    url: https://icmc2025.sites.northeastern.edu/
   - performance_date: 8 JUN 2025
     performance_title: The Little Things
     venue: Hill and Hollow Music
