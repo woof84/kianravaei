@@ -16,6 +16,10 @@ performances:
     city_state: Rutherford, CA
     performers: Jennifer Frautschi &amp; Gershon Gerchikov, violins
     url: https://www.musicinthevineyards.org/events/2025-inglenook/
+  - performance_date: 3 AUG 2025
+    performance_title: Family Photos (Excerpt)
+    venue: Music at Port Milford
+    city_state: Prince Edward, Ontario
   - performance_date: 12 JUL 2025
     performance_title: iPod Variations
     venue: Chamber Music Northwest
