@@ -95,7 +95,7 @@ performances:
     performance_title: All the Sounds Around Her - Premiere
     venue: Hoff-Barthelson Music School Music of Our Time Festival
     city_state: Scarsdale, NY
-    performers: Westchester Children's Chorus and Hoff-Barthelson Music School String Orchestra
+    performers: Westchester Children's Chorus and Hoff-Barthelson Music School String Orchestra; Leandro Gazineo, conductor
   - performance_date: 18 MAY 2025
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Juventas New Music Ensemble
