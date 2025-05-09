@@ -126,6 +126,12 @@ performances:
     city_state: New York, NY
     performers: American Composers Orchestra
     url: https://www.americancomposers.org/performances-events/colaboratory-workshop-4
+  - performance_date: 7 MAY 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Fundacion Juan March
+    city_state: Madrid, Spain
+    performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
+    url: https://www.juliusdrake.com/events/fundacio-juan-march-with-fleur-barron/
   - performance_date: 4 MAY 2025
     performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
