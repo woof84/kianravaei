@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "iPod Variations"
-instrumentation: solo violin &amp; dancer
+instrumentation: flute, violin &amp; electronics
 year_composed: 2025
 category_music: Chamber Ensemble
 duration: 12'
