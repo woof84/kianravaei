@@ -22,6 +22,11 @@ broadcasts:
  - date: 14 FEB 2025
    station: WQXR Young Artists Showcase
    url: https://www.wqxr.org/story/sounds-us-2/
+soundcloud: 
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2093241618&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2093241615&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2093241621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2093241612&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 tags: 
  - Family
  - Iranian Culture
