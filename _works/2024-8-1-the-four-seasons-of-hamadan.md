@@ -11,6 +11,10 @@ movements:
  - movement: II. Summer&colon; Tirgan &amp; Shavuot
  - movement: III. Autumn&colon; Mehregan &amp; Sukkot
  - movement: IV. Winter&colon; Yalda &amp; Hannukah
+purchase:
+ - title: The Four Seasons of Hamadan - Instant PDF Download
+   price: $40.00
+   product-key: TOoZ9
 broadcasts:
  - date: 12 FEB 2025
    station: WQXR Young Artists Showcase
@@ -30,7 +34,7 @@ tags:
 
 In December 2022, Annie Kahane and I set out to create a new music and dance work in which we would each learn from the other’s cultural heritage. I would immerse myself in Jewish music, Annie would study Persian dance, and we would then draw from our experiences to create a truly bicultural work of art. Our piece would be structured around the idea of ancient seasonal rituals, reminding us of our shared connection to the earth and its miraculous ways of marking time.
 
-This is how _The Four Seasons of Hamadan_ came to be. The title refers to the city of Hamadan in present-day Iran, where it is believed that the Old Testament heroine Esther and her husband Mordecai are buried. Because of its location and history, Hamadan represents a meeting point between Persian and Jewish culture, an apt metaphor for my collaboration with Annie.
+This is how _The Four Seasons of Hamadan_ started. The title refers to the city of Hamadan in present-day Iran, where it is believed that the Old Testament heroine Esther and her husband Mordecai are buried. Because of its location and history, Hamadan represents a meeting point between Persian and Jewish culture, an apt metaphor for my collaboration with Annie.
 
 I spent a year taking lessons in Jewish music and klezmer composition with Sherry Mayrent, once associate director of the legendary KlezKamp—an annual culture festival responsible for the promulgation of Yiddish art in the United States. Sherry is not only one of the most generous people I know, but also one of the leading figures in Jewish music preservation. The Mayrent Institute for Yiddish Culture at the University of Wisconsin-Madison, an outgrowth of her preservation work, houses over 9,000 Yiddish recordings, each one painstakingly catalogued from her personal collection. In our lessons together, she critiqued dozens of my original klezmer tunes (having written hundreds herself) and introduced me to a wide range of Jewish musical traditions, from Yiddish vaudeville to cantorial singing.
 
