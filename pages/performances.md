@@ -50,6 +50,12 @@ performances:
     city_state: Portland, OR
     performers: Fleur Barron, mezzo-soprano; Gloria Chien, piano
     url: https://cmnw.org/concerts-events/2025-summer-festival/newnight-global-voices/2256
+  - performance_date: 21 JUN 2025
+    performance_title: The Four Seasons of Hamadan
+    venue: Odyssey Theatre
+    city_state: Los Angeles, CA
+    performers: Xenia Deviatkina-Loh, violin; Kate Myers, dancer
+    url: https://odysseytheatre.vbotickets.com/event/dance_at_the_odyssey__kairos_movement_collective__alive__well_productions/159358
   - performance_date: 9 JUN 2025
     performance_title: Ecstasies
     venue: International Computer Music Conference
@@ -85,6 +91,12 @@ performances:
     city_state: La Jolla, CA
     performers: Art of Elan
     url: https://www.therosinboxproject.com/unified-harmonies
+  - performance_date: 28 MAY 2025
+    performance_title: Family Photos
+    venue: International Chamber Music Festival VIVARTE
+    city_state: Moscow, Russia
+    performers: Andrey Baranov, violin 1; Pavel Romanenko, violin 2; Anna Serova, viola; Alexei Zhilin, cello
+    url: https://www.viv-arte.ru/en/programm-2025
   - performance_date: 18 MAY 2025
     performance_title: Majnun in the Wilderness
     venue: Pioneer Park Pavilion
