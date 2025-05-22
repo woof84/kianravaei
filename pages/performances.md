@@ -16,6 +16,11 @@ performances:
     city_state: Rutherford, CA
     performers: Jennifer Frautschi &amp; Gershon Gerchikov, violins
     url: https://www.musicinthevineyards.org/events/2025-inglenook/
+  - performance_date: 9 AUG 2025
+    performance_title: Family Photos (Excerpt)
+    venue: Willamette Valley Chamber Music Festival
+    city_state: Dayton, OR
+    url: https://www.eventbrite.com/e/concert-3-schubert-tucker-and-ravaei-tickets-1363300661979?aff=oddtdtcreator
   - performance_date: 3 AUG 2025
     performance_title: Family Photos (Excerpt)
     venue: Music at Port Milford
