@@ -65,6 +65,7 @@ performances:
     performance_title: Ecstasies
     venue: International Computer Music Conference
     city_state: Boston, MA
+    performers: Zach Sheets, flute
     url: https://icmc2025.sites.northeastern.edu/
   - performance_date: 8 JUN 2025
     performance_title: The Little Things
