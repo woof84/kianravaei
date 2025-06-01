@@ -16,6 +16,37 @@ performances:
     city_state: Rutherford, CA
     performers: Jennifer Frautschi &amp; Gershon Gerchikov, violins
     url: https://www.musicinthevineyards.org/events/2025-inglenook/
+  - performance_date: 14 AUG 2025
+    performance_title: The Little Things
+    venue: Wyoming International Chamber Music Festival
+    city_state: Laramie, WY
+    performers: Basil Alter, violin 1; Anna Larson, violin 2; Mary Cowell, viola; Jaemin Lee, cello
+    url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
+  - performance_date: 14 AUG 2025
+    performance_title: Parvāneh
+    venue: Wyoming International Chamber Music Festival
+    city_state: Laramie, WY
+    performers: Akari Hatanaka, violin; Jaemin Lee, cello; Kaden Larson, piano
+    url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
+  - performance_date: 14 AUG 2025
+    performance_title: Fantasy Variations (On a Theme by Dvořák)
+    venue: Wyoming International Chamber Music Festival
+    city_state: Laramie, WY
+    performers: Alexi Whitsel, violin; Mary Cowell, viola; Kaden Larson, piano
+    url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
+  - performance_date: 14 AUG 2025
+    performance_title: Cradle Songs
+    venue: Wyoming International Chamber Music Festival
+    city_state: Laramie, WY
+    performers: Thomas Mathias &amp; Akari Hatanaka, violins
+    url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
+  - performance_date: 14 AUG 2025
+    performance_title: Navazi (Version for Violin &amp; Viola)
+    venue: Wyoming International Chamber Music Festival
+    city_state: Laramie, WY
+    performers: Alexi Whitsel, violin; Mary Cowell, viola
+    url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
+    ignore_string: Navazi
   - performance_date: 9 AUG 2025
     performance_title: Family Photos (Excerpt)
     venue: Willamette Valley Chamber Music Festival
