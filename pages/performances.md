@@ -69,6 +69,12 @@ performances:
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
   - performance_date: 9 JUL 2025
+    performance_title: Family Photos
+    venue: Stellenbosch International Chamber Music Festival
+    city_state: Stellenbosch, South Africa
+    performers: Andrey Baranov, violin 1; Anna Vasilyeva, violin 2; Daniel Austrich, viola; Peter Martens, cello
+    url: https://allevents.in/stellenbosch/sicmf-2025-faculty-concert-6/200028295447135
+  - performance_date: 9 JUL 2025
     performance_title: Ecstasies
     venue: Chamber Music Northwest
     city_state: Portland, OR
