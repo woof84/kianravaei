@@ -187,7 +187,7 @@ performances:
     city_state: Madrid, Spain
     performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
     url: https://www.juliusdrake.com/events/fundacio-juan-march-with-fleur-barron/
-  - performance_date: 4 MAY 2025
+  - performance_date: 5 MAY 2025
     performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
     city_state: Berlin, Germany
@@ -481,6 +481,11 @@ performances:
     city_state: Berkeley, CA
     performers: Alexander String Quartet
     url: https://www.berkeleychamberperform.org/alexanderstringquartet
+  - performance_date: 14 FEB 2025
+    performance_title: Ecstasies
+    venue: School of the Arts, Singapore
+    city_state: Singapore
+    performers: Carolin Ralser, flute; Dapheny Chen, dance
   - performance_date: 1 FEB 2025
     performance_title: Family Photos
     venue: Tricia Bell and Clive McCarthy’s Art Studio/Home
