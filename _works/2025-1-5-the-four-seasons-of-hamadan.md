@@ -2,7 +2,7 @@
 layout: work
 title: "The Four Seasons of Hamadan"
 instrumentation: solo violin &amp; dancer
-year_composed: 2024
+year_composed: 2025
 category_music: Solo
 duration: 23'
 commissioner: Bridge to Everywhere with support from the New Music USA Creator Fund
