@@ -68,6 +68,12 @@ performances:
     performance_title: Family Photos (Excerpt)
     venue: Music at Port Milford
     city_state: Prince Edward, Ontario
+  - performance_date: 18 JUL 2025
+    performance_title: Ecstasies
+    venue: Little Island
+    city_state: New York, NY
+    performers: Brandon Patrick George, flute
+    url: https://littleisland.org/event/cecile-mclorin-salvant/
   - performance_date: 12 JUL 2025
     performance_title: iPod Variations
     venue: Chamber Music Northwest
