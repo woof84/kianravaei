@@ -10,6 +10,18 @@ performances:
     city_state: New York, NY
     url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
     ignore_string: Gulistan
+  - performance_date: 14 SEP 2025
+    performance_title: The Little Things
+    venue: Giocosa Chamber Music
+    city_state: Chatham, MA
+    performers: Heather Goodchild Wade &amp; Jesse Holstein, violins; Danielle Farina, viola; Elizabeth Schultze, cello
+    url: https://www.giocosachambermusic.com/sept13-14
+  - performance_date: 13 SEP 2025
+    performance_title: The Little Things
+    venue: Giocosa Chamber Music
+    city_state: Chatham, MA
+    performers: Heather Goodchild Wade &amp; Jesse Holstein, violins; Danielle Farina, viola; Elizabeth Schultze, cello
+    url: https://www.giocosachambermusic.com/sept13-14
   - performance_date: 24 AUG 2025
     performance_title: Cradle Songs
     venue: Music in the Vineyards
