@@ -104,6 +104,11 @@ performances:
     city_state: Portland, OR
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/free-open-rehearsal-kian-ravaei-new-commission-flute-violin-electronics/2321
+  - performance_date: 5 JUL 2025
+    performance_title: Unstoppable
+    venue: Apple Hill Center for Chamber Music
+    city_state: Nelson, NH
+    performers: Lourd Hadweh, clarinet; Camden Stohl, violin; Jalayne Mitchell, cello; Yu-Chieh Chu, piano
   - performance_date: 2 JUL 2025
     performance_title: I Will Greet the Sun Again
     venue: Chamber Music Northwest
