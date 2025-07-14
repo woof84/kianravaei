@@ -8,16 +8,19 @@ performances:
     venue: Chamber Music at Beall
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Eugene, OR
+    ignore_string: Gulistan
   - performance_date: 8 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music Northwest
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Portland, OR
+    ignore_string: Gulistan
   - performance_date: 7 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Apex Concerts
     performers: Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano
     city_state: Reno, NV
+    ignore_string: Gulistan
   - performance_date: 6 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music Society of Lincoln Center
