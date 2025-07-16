@@ -3,6 +3,42 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 21 JUN 2026
+    performance_title: Chāhār Mezrābe Māhur
+    venue: New England Botanic Garden at Tower Hill
+    performers: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 14 JUN 2026
+    performance_title: Chāhār Mezrābe Māhur
+    venue: New England Botanic Garden at Tower Hill
+    performers: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 1 FEB 2026
+    performance_title: Family Photos
+    venue: New England Botanic Garden at Tower Hill
+    performers: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    url: https://www.juventasmusic.org/family-photos
+  - performance_date: 31 JAN 2026
+    performance_title: Family Photos
+    venue: New England Botanic Garden at Tower Hill
+    performers: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    url: https://www.juventasmusic.org/family-photos
+  - performance_date: 30 JAN 2026
+    performance_title: Family Photos
+    venue: New England Botanic Garden at Tower Hill
+    performers: Juventas New Music Ensemble
+    city_state: Boylston, MA
+    url: https://www.juventasmusic.org/family-photos
+  - performance_date: 7 JAN 2026
+    performance_title: Family Photos
+    venue: Brattleboro Music Center
+    performers: Juventas New Music Ensemble
+    city_state: Brattleboro, VT
+    url: https://www.juventasmusic.org/family-photos
   - performance_date: 9 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music at Beall
@@ -86,6 +122,11 @@ performances:
     performance_title: Family Photos (Excerpt)
     venue: Music at Port Milford
     city_state: Prince Edward, Ontario
+  - performance_date: 31 JUL 2025
+    performance_title: California Suite
+    venue: Private Home
+    city_state: Lincoln, MA
+    performers: Juventas New Music Ensemble
   - performance_date: 18 JUL 2025
     performance_title: Ecstasies
     venue: Little Island
