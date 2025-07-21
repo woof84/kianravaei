@@ -127,6 +127,11 @@ performances:
     venue: Private Home
     city_state: Lincoln, MA
     performers: Juventas New Music Ensemble
+  - performance_date: 30 JUL 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Concerts for Compassion
+    city_state: New York, NY
+    performers: Emma Richman, violin; Wangshu Xiang, cello
   - performance_date: 18 JUL 2025
     performance_title: Ecstasies
     venue: Little Island
