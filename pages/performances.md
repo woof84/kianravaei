@@ -138,6 +138,12 @@ performances:
     city_state: New York, NY
     performers: Brandon Patrick George, flute
     url: https://littleisland.org/event/cecile-mclorin-salvant/
+  - performance_date: 15 JUL 2025
+    performance_title: Navazi
+    venue: Newport Classical Music Festival
+    city_state: Newport, RI
+    performers: Tallā Rouge
+    url: https://newportclassical.org/event/talla-rouge/
   - performance_date: 12 JUL 2025
     performance_title: iPod Variations
     venue: Chamber Music Northwest
