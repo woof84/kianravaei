@@ -64,6 +64,11 @@ performances:
     city_state: New York, NY
     url: https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/25-26/sonic-spectrum-i/
     ignore_string: Gulistan
+  - performance_date: 26 OCT 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Festival LIFE Victoria
+    city_state: Barcelona, Spain
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 14 SEP 2025
     performance_title: The Little Things
     venue: Giocosa Chamber Music
