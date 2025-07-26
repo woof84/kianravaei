@@ -15,6 +15,10 @@ movements:
  - movement: Variation V (Byrd & Basie)
  - movement: Variation VI (Dylan & Deadmau5)
  - movement: Aria da Capo
+purchase:
+ - title: iPod Variations Score &amp; Parts - Instant PDF Download
+   price: $60.00
+   product-key: AsKvN
 tags: 
  - American Folk Music
  - EDM
