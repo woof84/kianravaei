@@ -127,6 +127,11 @@ performances:
     performance_title: Family Photos (Excerpt)
     venue: Music at Port Milford
     city_state: Prince Edward, Ontario
+  - performance_date: 1 AUG 2025
+    performance_title: Family Photos (Excerpt)
+    venue: Willamette Valley Chamber Music Festival
+    city_state: Tualaton, OR
+    url: https://wccls.bibliocommons.com/events/685d8cf47845026da0e9062d
   - performance_date: 31 JUL 2025
     performance_title: California Suite
     venue: Private Home
