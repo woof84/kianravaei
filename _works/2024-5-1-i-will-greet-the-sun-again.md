@@ -8,6 +8,10 @@ year_composed: 2024
 duration: 4'
 language: Persian
 text_writer: Forough Farrokhzad
+purchase:
+ - title: I Will Greet the Sun Again - Instant PDF Download
+   price: $20.00
+   product-key: hTWtu
 tags:
  - Iranian Culture
  - Nature
