@@ -70,7 +70,7 @@ performances:
     city_state: Barcelona, Spain
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 20 SEP 2025
-    performance_title: Marvels of Creatures and Strange Things Existing (Excerpts)
+    performance_title: Marvels of Creatures and Strange Things Existing
     venue: Flower Piano 10th Anniversary at San Francisco Botanical Garden
     city_state: San Francisco, CA
     performers: Paul Caccamo, piano
