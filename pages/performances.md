@@ -69,6 +69,12 @@ performances:
     venue: Festival LIFE Victoria
     city_state: Barcelona, Spain
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+  - performance_date: 20 SEP 2025
+    performance_title: Marvels of Creatures and Strange Things Existing (Excerpts)
+    venue: Flower Piano 10th Anniversary at San Francisco Botanical Garden
+    city_state: San Francisco, CA
+    performers: Paul Caccamo, piano
+    url: https://gggp.org/flowerpiano/
   - performance_date: 14 SEP 2025
     performance_title: The Little Things
     venue: Giocosa Chamber Music
@@ -81,6 +87,12 @@ performances:
     city_state: Chatham, MA
     performers: Heather Goodchild Wade &amp; Jesse Holstein, violins; Danielle Farina, viola; Elizabeth Schultze, cello
     url: https://www.giocosachambermusic.com/sept13-14
+  - performance_date: 13 SEP 2025
+    performance_title: Marvels of Creatures and Strange Things Existing (Excerpts)
+    venue: Porchfest Benicia
+    city_state: Benicia, CA
+    performers: Paul Caccamo, piano
+    url: https://www.porchfest-benicia.com
   - performance_date: 24 AUG 2025
     performance_title: Cradle Songs
     venue: Music in the Vineyards
