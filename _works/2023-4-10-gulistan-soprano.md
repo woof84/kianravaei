@@ -15,6 +15,10 @@ broadcasts:
  - date: 18 AUG 2024
    station: Vermont Public Classical
    url: https://www.vermontpublic.org/2024-08-14/live-on-vermont-public-classical-the-lake-champlain-chamber-music-festival
+purchase:
+ - title: Gulistan (Version for Soprano, Cello, &amp; Piano) Score &amp; Parts - Instant PDF Download
+   price: $80.00
+   product-key: bm6VM
 tags: 
  - Poetry
  - Literature
