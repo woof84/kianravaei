@@ -8,7 +8,7 @@ duration: 7'
 language: Persian
 text_writer: Mohammad-Taqi Bahar
 youtube:
- - url-code: -hFUWNp-HJs
+ - url-code: 3OtbNYtgeBQ
 recording:
  - image: alike_artwork.jpg
    alt-text: "Allison Charney Alike album art"
