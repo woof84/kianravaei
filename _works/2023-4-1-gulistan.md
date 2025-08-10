@@ -19,6 +19,10 @@ broadcasts:
    station: String Theory Hour on WSMC
    url: https://www.southern.edu/administration/wsmc/programs/stringtheoryhour.html
 purchase:
+ - title: Gulistan Score &amp; Parts - Instant PDF Download
+   price: $80.00
+   product-key: kpSAI
+purchase:
  - title: Gulistan Score &amp; Part - Instant PDF Download
    price: $80.00
    product-key: REt2X
