@@ -8,6 +8,10 @@ year_composed: 2024
 duration: 5'
 language: Turkish
 text_writer: Turkish Traditional
+purchase:
+ - title: Gelevera Deresi - Instant PDF Download
+   price: $80.00
+   product-key: BcfOP
 tags:
  - Love
  - Mortality
