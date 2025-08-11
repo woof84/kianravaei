@@ -103,7 +103,7 @@ performances:
     performance_title: The Little Things
     venue: Wyoming International Chamber Music Festival
     city_state: Laramie, WY
-    performers: Basil Alter, violin 1; Anna Larson, violin 2; Mary Cowell, viola; Jaemin Lee, cello
+    performers: Anna Larson, violin 1; Alexi Whitsel, violin 2; Mary Cowell, viola; Jaemin Lee, cello
     url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
   - performance_date: 14 AUG 2025
     performance_title: Parvāneh
