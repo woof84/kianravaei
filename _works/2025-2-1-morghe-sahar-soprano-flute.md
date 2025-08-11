@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Morghe Sahar (Bird of Dawn) (Version for Soprano, Alto Flute, Cello, &amp; Piano)"
-instrumentation: mezzo-soprano, alto flute, cello, &amp; piano
+instrumentation: soprano, alto flute, cello, &amp; piano
 category_music: Voice &amp; Instrument(s)
 year_composed: 2025
 duration: 7'
