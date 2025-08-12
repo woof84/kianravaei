@@ -10,7 +10,7 @@ language: Turkish
 text_writer: Turkish Traditional
 purchase:
  - title: Gelevera Deresi - Instant PDF Download
-   price: $80.00
+   price: $20.00
    product-key: BcfOP
 tags:
  - Love
