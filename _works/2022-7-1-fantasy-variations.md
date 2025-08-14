@@ -13,6 +13,9 @@ broadcasts:
 youtube:
  - url-code: Rt-7E9wusPg
 awards:
+    - award_year: 2025
+      award_title: Central Washington University New Music Festival Call for Scores
+      award_rank: Winner
     - award_year: 2023
       award_title: ICEBERG New Music Call for Scores
       award_rank: Finalist
