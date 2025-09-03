@@ -69,6 +69,11 @@ performances:
     venue: Festival LIFE Victoria
     city_state: Barcelona, Spain
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+  - performance_date: 26 OCT 2025
+    performance_title: Day of Rest
+    venue: Bowling Green State University
+    city_state: Bowling Green, OH
+    performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
   - performance_date: 20 SEP 2025
     performance_title: Marvels of Creatures and Strange Things Existing
     venue: Flower Piano 10th Anniversary at San Francisco Botanical Garden
@@ -93,6 +98,11 @@ performances:
     city_state: Benicia, CA
     performers: Paul Caccamo, piano
     url: https://www.porchfest-benicia.com
+  - performance_date: 7 SEP 2025
+    performance_title: California Suite
+    venue: Cal State University Long Beach Daniel Recital Hall
+    city_state: Long Beach, CA
+    performers: Darrin Thaves, flute; Hanah Charbonneau, piano
   - performance_date: 24 AUG 2025
     performance_title: Cradle Songs
     venue: Music in the Vineyards
