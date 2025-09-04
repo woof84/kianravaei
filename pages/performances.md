@@ -74,6 +74,10 @@ performances:
     venue: Bowling Green State University
     city_state: Bowling Green, OH
     performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
+  - performance_date: 4 OCT 2025
+    performance_title: Ecstasies
+    venue: Eugene Difficult Music Ensemble New Music Festival
+    city_state: Eugene, OR
   - performance_date: 20 SEP 2025
     performance_title: Marvels of Creatures and Strange Things Existing
     venue: Flower Piano 10th Anniversary at San Francisco Botanical Garden
