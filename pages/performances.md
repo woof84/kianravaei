@@ -71,8 +71,8 @@ performances:
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 26 OCT 2025
     performance_title: Day of Rest
-    venue: Bowling Green State University
-    city_state: Bowling Green, OH
+    venue: Toledo Museum of Art
+    city_state: Toledo, OH
     performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
   - performance_date: 4 OCT 2025
     performance_title: Ecstasies
