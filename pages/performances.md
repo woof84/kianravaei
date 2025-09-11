@@ -15,6 +15,12 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 22 MAR 2026
+    performance_title: Cradle Songs
+    venue: Mingei International Museum
+    performers: Art of Elan
+    city_state: San Diego, CA
+    url: https://artofelan.org/concerts/boundless
   - performance_date: 1 FEB 2026
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
