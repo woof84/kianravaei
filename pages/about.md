@@ -83,6 +83,5 @@ header:
 
 
 
-
 <!--Saving this because of how much work it took me-->
 <!--<p>His name is pronounced [<a href="https://en.wikipedia.org/wiki/Voiceless_velar_stop" target="_blank">k</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Voiced_palatal_approximant" target="_blank">j</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_nasals" target="_blank">n</a> <a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps" target="_blank">&#638;</a><a href="https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel" target="_blank">&#230;</a><a href="https://en.wikipedia.org/wiki/Voiced_labiodental_fricative" target="_blank">v</a><a href="https://en.wikipedia.org/wiki/Open_back_rounded_vowel" target="_blank">&#594;</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a><a href="https://en.wikipedia.org/wiki/Close_front_unrounded_vowel" target="_blank">i</a><a href="https://en.wikipedia.org/wiki/Vowel_length" target="_blank">&#720;</a>].</p>-->
