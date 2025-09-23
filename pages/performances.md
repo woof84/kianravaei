@@ -150,6 +150,10 @@ performances:
     performers: Alexi Whitsel, violin; Mary Cowell, viola
     url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
     ignore_string: Navazi
+  - performance_date: 10 AUG 2025
+    performance_title: Family Photos (Excerpt)
+    venue: Willamette Valley Chamber Music Festival
+    city_state: Dayton, OR
   - performance_date: 9 AUG 2025
     performance_title: Family Photos (Excerpt)
     venue: Willamette Valley Chamber Music Festival
