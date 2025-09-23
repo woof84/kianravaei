@@ -463,12 +463,12 @@ performances:
     city_state: Cedar Rapids, IA
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
-  - performance_date: 9 MAR 2025
-    performance_title: Family Photos
-    venue: Private Home
-    city_state: Newport, RI
-    performers: Sheffield Chamber Players
-    url: https://www.sheffieldchamberplayers.org/event-details/public-concert-upward-spirals-2025-03-09-14-00
+  # - performance_date: 9 MAR 2025
+  #   performance_title: Family Photos
+  #   venue: Private Home
+  #   city_state: Newport, RI
+  #   performers: Sheffield Chamber Players
+  #   url: https://www.sheffieldchamberplayers.org/event-details/public-concert-upward-spirals-2025-03-09-14-00
   - performance_date: 8 MAR 2025
     performance_title: Chāhār Mezrābe Māhur
     venue: Red Cedar Chamber Music
