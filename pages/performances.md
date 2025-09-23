@@ -377,12 +377,12 @@ performances:
     performers: Lara Downes, piano
     url: https://meanycenter.org/tickets/2025-04/production/lara-downes
     ignore_string: Variations on &quot;This Land is Your Land&quot;
-  - performance_date: 5 APR 2025
-    performance_title: Family Photos
-    venue: Upper Valley Music Center
-    city_state: Lebanon, NH
-    performers: Apple Hill String Quartet
-    url: http://applehill.org/concerts/concerts-apple-hill/
+  # - performance_date: 5 APR 2025
+  #   performance_title: Family Photos
+  #   venue: Upper Valley Music Center
+  #   city_state: Lebanon, NH
+  #   performers: Apple Hill String Quartet
+  #   url: http://applehill.org/concerts/concerts-apple-hill/
   - performance_date: 30 MAR 2025
     performance_title: Family Photos
     venue: The Chapel at St. Bartholomew's Church
