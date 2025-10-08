@@ -80,6 +80,11 @@ performances:
     venue: Toledo Museum of Art
     city_state: Toledo, OH
     performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
+  - performance_date: 19 OCT 2025
+    performance_title: Marvels of Creatures and Strange Things Existing
+    venue: St. Mary's College
+    city_state: Moraga, CA
+    performers: Paul Caccamo, piano
   - performance_date: 4 OCT 2025
     performance_title: Ecstasies
     venue: Eugene Difficult Music Ensemble New Music Festival
@@ -238,6 +243,11 @@ performances:
     venue: Apple Hill Center for Chamber Music
     city_state: Nelson, NH
     performers: Lourd Hadweh, clarinet; Camden Stohl, violin; Jalayne Mitchell, cello; Yu-Chieh Chu, piano
+  - performance_date: 5 JUL 2025
+    performance_title: Navazi
+    venue: Caramoor
+    city_state: Katonah, NY
+    performers: Tallā Rouge
   - performance_date: 2 JUL 2025
     performance_title: I Will Greet the Sun Again
     venue: Chamber Music Northwest
