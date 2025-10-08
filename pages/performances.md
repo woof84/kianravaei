@@ -45,6 +45,18 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Brattleboro, VT
     url: https://www.juventasmusic.org/family-photos
+  - performance_date: 09 DEC 2025
+    performance_title: Unstoppable
+    venue: The CUNY Graduate Center
+    city_state: New York, NY
+    performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Alexis Pia Gerlach, cello; Michael Boriskin, piano)
+    url: http://www.coplandhouse.org/events-and-tickets/
+  - performance_date: 07 DEC 2025
+    performance_title: Unstoppable
+    venue: Copland House at Bluestone Farm
+    city_state: Brewster, NY
+    performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Alexis Pia Gerlach, cello; Michael Boriskin, piano)
+    url: http://www.coplandhouse.org/events-and-tickets/
   - performance_date: 9 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music at Beall
