@@ -237,7 +237,7 @@ performances:
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
   - performance_date: 10 JUL 2025
-    performance_title: Romance (After Layla &amp; Majnun)
+    performance_title: Romance (After Layla and Majnun)
     venue: Kobe International Music Festival
     city_state: Kobe, Japan
     performers: Yoshika Masuda, cello; Koki Kuroiwa, piano
@@ -248,7 +248,7 @@ performances:
     performers: Alexi Kenney, violin; Tara Helen O'Connor, flute
     url: https://cmnw.org/concerts-events/2025-summer-festival/revelations-schiff-schubert-franck-ravaei/2261
   - performance_date: 9 JUL 2025
-    performance_title: Romance (After Layla &amp; Majnun) - Premiere
+    performance_title: Romance (After Layla and Majnun) - Premiere
     venue: Kobe International Music Festival
     city_state: Kobe, Japan
     performers: Yoshika Masuda, cello; Koki Kuroiwa, piano
