@@ -62,6 +62,11 @@ performances:
     venue: The Juilliard School
     performers: Tivoli Treloar, mezzo-soprano; Giancarlo Llerena, piano
     city_state: New York, NY
+  - performance_date: 13 NOV 2025
+    performance_title: Three Nothings - Premiere
+    venue: Yellow Barn
+    performers: Sarah Rommel, violoncello
+    city_state: Putney, VT
   - performance_date: 9 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music at Beall
