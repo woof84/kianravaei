@@ -21,6 +21,12 @@ performances:
     performers: Art of Elan
     city_state: San Diego, CA
     url: https://artofelan.org/concerts/boundless
+  - performance_date: 15 FEB 2026
+    performance_title: Navazi
+    venue: Gather NYC
+    performers: Tallā Rouge
+    city_state: New York, NY
+    url: https://www.gathernyc.org/Schedule.html
   - performance_date: 1 FEB 2026
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
@@ -381,6 +387,11 @@ performances:
     city_state: Madrid, Spain
     performers: Fleur Barron, mezzo-soprano; Julius Drake, piano
     url: https://www.juliusdrake.com/events/fundacio-juan-march-with-fleur-barron/
+  - performance_date: 7 MAY 2025
+    performance_title: Pluck
+    venue: San Francisco State University
+    city_state: San Francisco, CA
+    performers: San Francisco State University Orchestra; Zakarias Grafilo, conductor
   - performance_date: 5 MAY 2025
     performance_title: I Will Greet the Sun Again
     venue: Pierre Boulez Saal
