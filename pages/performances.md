@@ -113,6 +113,12 @@ performances:
     venue: Toledo Museum of Art
     city_state: Toledo, OH
     performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
+  - performance_date: 24 OCT 2025
+    performance_title: Navazi
+    venue: Juilliard Station
+    city_state: New York, NY
+    performers: Prudential Viola Duo
+    url: https://www.juilliard.edu/event/180036/rush-hour-performance-prudential-viola-duo
   - performance_date: 19 OCT 2025
     performance_title: Marvels of Creatures and Strange Things Existing
     venue: St. Mary's College
