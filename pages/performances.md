@@ -27,6 +27,11 @@ performances:
     performers: Tallā Rouge
     city_state: New York, NY
     url: https://www.gathernyc.org/Schedule.html
+  - performance_date: 5 FEB 2026
+    performance_title: iPod Variations
+    venue: PRX.LIVE
+    city_state: London, UK
+    performers: Standard Issue
   - performance_date: 1 FEB 2026
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
