@@ -78,6 +78,11 @@ performances:
     venue: Yellow Barn
     performers: Sarah Rommel, cello
     city_state: Putney, VT
+  - performance_date: 12 NOV 2025
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Concerts for Compassion
+    city_state: New York, NY
+    performers: Emma Richman, violin; Wangshu Xiang, cello
   - performance_date: 9 NOV 2025
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Chamber Music at Beall
