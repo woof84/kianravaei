@@ -68,11 +68,23 @@ performances:
     city_state: Brewster, NY
     performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Alexis Pia Gerlach, cello; Michael Boriskin, piano)
     url: http://www.coplandhouse.org/events-and-tickets/
+  - performance_date: 19 NOV 2025
+    performance_title: Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano)
+    venue: Het Concertgebouw
+    performers: Feride Büyükdenktas, mezzo-soprano; Çisem Özkurt, violin; Ayşegül Yörükoğlu, piano
+    city_state: Amsterdam, Netherlands
+    url: https://www.concertgebouw.nl/en/concerts/8507559-nieuwe-blik-terug-queens-of-classical-turkish-music-dutch-spoken
   - performance_date: 17 NOV 2025
     performance_title: Gelevera Deresi
     venue: The Juilliard School
     performers: Tivoli Treloar, mezzo-soprano; Giancarlo Llerena, piano
     city_state: New York, NY
+  - performance_date: 16 NOV 2025
+    performance_title: Unstoppable
+    venue: Stanley H. Kaplan Penthouse at Lincoln Center
+    city_state: New York, NY
+    performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Alexis Pia Gerlach, cello; Michael Boriskin, piano)
+    url: http://www.coplandhouse.org/events-and-tickets/
   - performance_date: 15 NOV 2025
     performance_title: Three Nothings
     venue: Carriage House Violins
