@@ -467,6 +467,11 @@ performances:
     performers: Lara Downes, piano
     url: https://meanycenter.org/tickets/2025-04/production/lara-downes
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 06 APR 2025
+    performance_title: Advertisements (Version for Soprano & Guitar) (Excerpts)
+    venue: Desert Hot Springs Classical Concerts
+    city_state: Desert Hot Springs, CA
+    performers: Keri Lee Pierson, soprano; Christopher Schoelen, guitar
   # - performance_date: 5 APR 2025
   #   performance_title: Family Photos
   #   venue: Upper Valley Music Center
