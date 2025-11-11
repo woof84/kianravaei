@@ -8,6 +8,13 @@ duration: 5'
 score_url: https://issuu.com/kianravaei/docs/ravaei_-_prisoners_of_hope
 youtube:
  - url-code: ag6IKi2GTkY
+awards:
+ - award_year: 2025
+   award_title: OM/NI Strings Competition Emerging Composer Division
+   award_rank: First Prize
+ - award_year: 2025
+   award_title: OM/NI Strings Competition
+   award_rank: Audience Choice Award
 tags:
  - Social Justice
 ---
