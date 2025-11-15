@@ -15,6 +15,18 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 19 APR 2026
+    performance_title: Superhuman
+    venue: Frank J. Natale Concert Series
+    performers: icarus Quartet
+    city_state: Hamden, CT
+    url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
+  - performance_date: 19 APR 2026
+    performance_title: iPod Variations
+    venue: Mostly Music
+    performers: Tara Helen O'Connor, flute; Daniel Phillips, violin
+    city_state: Westfield, NJ
+    url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
   - performance_date: 22 MAR 2026
     performance_title: Cradle Songs
     venue: Mingei International Museum
