@@ -24,6 +24,10 @@ recording:
 youtube:
  - url-code: SCbD8mw2NCc
  - url-code: L8zBwXa1BHE
+awards:
+ - award_year: 2025
+   award_title: Abundant Silence Composition Competition
+   award_rank: Honorable Mention
 broadcasts:
  - date: 6–19 MAR 2023
    station: Classical Music Indy
