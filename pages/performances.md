@@ -95,7 +95,7 @@ performances:
     performance_title: Unstoppable
     venue: Stanley H. Kaplan Penthouse at Lincoln Center
     city_state: New York, NY
-    performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Alexis Pia Gerlach, cello; Michael Boriskin, piano)
+    performers: Music from Copland House (Derek Bermel, clarinet; Siwoo Kim, violin; Caleb van der Swaagh, cello; Michael Boriskin, piano)
     url: http://www.coplandhouse.org/events-and-tickets/
   - performance_date: 15 NOV 2025
     performance_title: Three Nothings
@@ -219,7 +219,7 @@ performances:
     performance_title: Cradle Songs
     venue: Wyoming International Chamber Music Festival
     city_state: Laramie, WY
-    performers: Thomas Mathias &amp; Akari Hatanaka, violins
+    performers: Thomas Mathias &amp; Henry Jenkins, violins
     url: https://www.wyomingchambermusic.org/events-2-1/the-works-of-kian-ravaei
   - performance_date: 14 AUG 2025
     performance_title: Navazi (Version for Violin &amp; Viola)
