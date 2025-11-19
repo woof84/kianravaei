@@ -245,7 +245,7 @@ performances:
     performance_title: Family Photos (Excerpt)
     venue: Tenby International Music Festival
     city_state: Tenby, Wales
-    performers: Hana Mizuta-Spencer, violin 1; Tabitha Appel violin 2; Felix Pascoe, viola; Hugh Mackay, cello
+    performers: Hana Mizuta-Spencer, violin 1; Tabitha Appel, violin 2; Felix Pascoe, viola; Hugh Mackay, cello
     url: https://www.tenbymusicfestival.com/
   - performance_date: 1 AUG 2025
     performance_title: Family Photos (Excerpt)
