@@ -15,6 +15,24 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 2 JUN 2026
+    performance_title: I Will Greet the Sun Again
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
+  - performance_date: 2 JUN 2026
+    performance_title: Gelevera Deresi
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
+  - performance_date: 2 JUN 2026
+    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano)
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
   - performance_date: 19 APR 2026
     performance_title: Superhuman
     venue: Frank J. Natale Concert Series
