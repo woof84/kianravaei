@@ -59,9 +59,10 @@ performances:
     url: https://www.gathernyc.org/Schedule.html
   - performance_date: 5 FEB 2026
     performance_title: iPod Variations
-    venue: PRX.LIVE
+    venue: PRX.LIVE at Folklore Hoxton
     city_state: London, UK
     performers: Standard Issue
+    url: https://dice.fm/event/8er2p5-prxlive-launch-party-prxludes-x-standard-issue-x-stomping-ground-5th-feb-folklore-hoxton-london-tickets?lng=en-US
   - performance_date: 1 FEB 2026
     performance_title: Family Photos
     venue: New England Botanic Garden at Tower Hill
