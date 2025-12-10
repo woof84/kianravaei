@@ -47,7 +47,7 @@ performances:
     url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
   - performance_date: 28 FEB 2026
     performance_title: Family Photos
-    venue: Manhattan Chamber Music Artists
+    venue: Massachusetts Chamber Music Artists
     performers: Haig Hovsepian, violin 1; Evan Johanson, violin 2; Steven Baloue, viola; Thomas Lim, cello
     city_state: Belmont, MA
     url: https://www.mcmartists.org/concert-season/new-horizons
