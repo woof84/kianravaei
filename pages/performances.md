@@ -98,6 +98,11 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Brattleboro, VT
     url: https://www.juventasmusic.org/family-photos
+  - performance_date: 15 DEC 2026
+    performance_title: Navazi (excerpt)
+    venue: Manhattan School of Music
+    performers: Prudential Viola Duo (Alice Ford and Carlos Walker, violas)
+    city_state: New York, NY
   - performance_date: 9 DEC 2025
     performance_title: Unstoppable
     venue: The CUNY Graduate Center
@@ -181,7 +186,7 @@ performances:
     performance_title: Navazi
     venue: Juilliard Station
     city_state: New York, NY
-    performers: Prudential Viola Duo
+    performers: Prudential Viola Duo (Alice Ford and Carlos Walker, viola)
     url: https://www.juilliard.edu/event/180036/rush-hour-performance-prudential-viola-duo
   - performance_date: 19 OCT 2025
     performance_title: Marvels of Creatures and Strange Things Existing
