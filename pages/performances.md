@@ -45,6 +45,12 @@ performances:
     performers: Tara Helen O'Connor, flute; Daniel Phillips, violin
     city_state: Westfield, NJ
     url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
+  - performance_date: 28 FEB 2026
+    performance_title: Family Photos
+    venue: Manhattan Chamber Music Artists
+    performers: Haig Hovsepian, violin 1; Evan Johanson, violin 2; Steven Baloue, viola; Thomas Lim, cello
+    city_state: Belmont, MA
+    url: https://www.mcmartists.org/concert-season/new-horizons
   - performance_date: 22 MAR 2026
     performance_title: Cradle Songs
     venue: Mingei International Museum
@@ -81,6 +87,11 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/family-photos
+  - performance_date: 24 JAN 2026
+    performance_title: Family Photos
+    venue: Hollywood Piano
+    performers: Xenia Deviatkina-Loh, violin 1; Mona Tian, violin 2; Emma Antonides, viola; Christopher Healy, cello
+    city_state: Los Angeles, CA
   - performance_date: 7 JAN 2026
     performance_title: Family Photos
     venue: Brattleboro Music Center
