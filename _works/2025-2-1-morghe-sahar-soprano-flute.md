@@ -13,6 +13,10 @@ recording:
  - image: alike_artwork.jpg
    alt-text: "Allison Charney Alike album art"
    url: https://orcd.co/alike
+awards:
+  - award_year: 2026
+    award_title: Grammy Award for Best Classical Solo Vocal Album
+    award_rank: Nominee
 tags:
  - Iranian Culture
  - Social Justice
