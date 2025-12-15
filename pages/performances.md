@@ -98,11 +98,6 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Brattleboro, VT
     url: https://www.juventasmusic.org/family-photos
-  - performance_date: 15 DEC 2026
-    performance_title: Navazi (excerpt)
-    venue: Manhattan School of Music
-    performers: Prudential Viola Duo (Alice Ford and Carlos Walker, violas)
-    city_state: New York, NY
   - performance_date: 9 DEC 2025
     performance_title: Unstoppable
     venue: The CUNY Graduate Center
