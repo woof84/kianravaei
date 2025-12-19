@@ -173,10 +173,20 @@ performances:
     city_state: Barcelona, Spain
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 26 OCT 2025
+    performance_title: I Will Greet the Sun Again
+    venue: Festival LIFE Victoria
+    city_state: Barcelona, Spain
+    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
+  - performance_date: 26 OCT 2025
     performance_title: Day of Rest
     venue: Toledo Museum of Art
     city_state: Toledo, OH
     performers: Haley Harrison, clarinet; Niayesh Javaheri, piano
+  - performance_date: 26 OCT 2025
+    performance_title: Prisoners of Hope
+    venue: El Paso Society for Musicians of the Future
+    city_state: El Paso, TX
+    performers: Tom Lewis-Woo, cello
   - performance_date: 24 OCT 2025
     performance_title: Navazi
     venue: Juilliard Station
