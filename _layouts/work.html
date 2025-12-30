@@ -56,8 +56,17 @@ header:
                 {% if page.category_music %}
                 <li><strong>Category:</strong> {{ page.category_music }}</li>
                 {% endif %}
+                {% if page.composer %}
+                <li><strong>Composer:</strong> {{ page.composer }}</li>
+                {% endif %}
+                {% if page.arranger %}
+                <li><strong>Arranger:</strong> {{ page.arranger }}</li>
+                {% endif %}
                 {% if page.year_composed %}
                 <li><strong>Year Composed:</strong> {{ page.year_composed }}</li>
+                {% endif %}
+                {% if page.year_arranged %}
+                <li><strong>Year Arranged:</strong> {{ page.year_arranged }}</li>
                 {% endif %}
                 {% if page.duration %}
                 <li><strong>Duration: </strong>{{ page.duration }}</li>
