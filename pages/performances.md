@@ -91,7 +91,8 @@ performances:
     performance_title: Family Photos
     venue: Hollywood Piano
     performers: Xenia Deviatkina-Loh, violin 1; Mona Tian, violin 2; Emma Antonides, viola; Christopher Healy, cello
-    city_state: Los Angeles, CA
+    city_state: Pasadena, CA
+    url: https://www.eventbrite.com/e/eleven-voices-new-music-concert-tickets-1979546505887?aff=oddtdtcreator
   - performance_date: 7 JAN 2026
     performance_title: Family Photos
     venue: Brattleboro Music Center
