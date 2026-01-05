@@ -57,6 +57,11 @@ performances:
     performers: Haig Hovsepian, violin 1; Evan Johanson, violin 2; Steven Baloue, viola; Thomas Lim, cello
     city_state: Belmont, MA
     url: https://www.mcmartists.org/concert-season/new-horizons
+  - performance_date: 25 FEB 2026
+    performance_title: Feeling New Strength - Premiere
+    venue: Lewis University
+    performers: Metropolitan Youth Symphony Orchestra; Peter Lipari, conductor
+    city_state: Romeoville, IL
   - performance_date: 15 FEB 2026
     performance_title: Navazi
     venue: Gather NYC
