@@ -98,12 +98,18 @@ performances:
     performers: Xenia Deviatkina-Loh, violin 1; Mona Tian, violin 2; Emma Antonides, viola; Christopher Healy, cello
     city_state: Pasadena, CA
     url: https://www.eventbrite.com/e/eleven-voices-new-music-concert-tickets-1979546505887?aff=oddtdtcreator
-  - performance_date: 7 JAN 2026
+  - performance_date: 17 JAN 2026
     performance_title: Family Photos
     venue: Brattleboro Music Center
     performers: Juventas New Music Ensemble
     city_state: Brattleboro, VT
     url: https://www.juventasmusic.org/family-photos
+  - performance_date: 13 JAN 2026
+    performance_title: Ecstasies
+    venue: Royal Academy of Music
+    performers: Ruby Howells, flute; London Contemporary Dance School
+    city_state: London, UK
+    url: https://www.ram.ac.uk/whats-on/shapeshifting-silver
   - performance_date: 9 DEC 2025
     performance_title: Unstoppable
     venue: The CUNY Graduate Center
