@@ -74,7 +74,7 @@ performances:
     city_state: London, UK
     performers: Standard Issue
     url: https://dice.fm/event/8er2p5-prxlive-launch-party-prxludes-x-standard-issue-x-stomping-ground-5th-feb-folklore-hoxton-london-tickets?lng=en-US
-  - performance_date: 13 JAN 2026
+  - performance_date: 4 FEB 2026
     performance_title: Ecstasies
     venue: Denison University
     performers: Timothy Hagen, flute
