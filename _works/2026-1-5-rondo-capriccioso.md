@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Rondo Capriccioso"
-work_subheading: 2024 / Arrangement of Felix Mendelssohn for two violins
+work_subheading: 2026 / Arrangement of Felix Mendelssohn for two violins
 composer: Felix Mendelssohn
 arranger: Kian Ravaei
 instrumentation: two violins
