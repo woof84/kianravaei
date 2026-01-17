@@ -1,17 +1,15 @@
 ---
 layout: work
-title: "Gelevera Deresi"
-instrumentation: mezzo-soprano &amp; piano
+title: "Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano)"
+instrumentation: mezzo-soprano, violin, &amp; piano
 category_music: Voice &amp; Instrument(s)
-commissioner: Feride Büyükdenktas, with support from The Puffin Foundation
+commissioner: Feride Büyükdenktas, with support from The Puffin Foundation and Het Concertgebouw
 year_composed: 2024
 duration: 6'
 language: Turkish
 text_writer: Turkish Traditional
-purchase:
- - title: Gelevera Deresi - Instant PDF Download
-   price: $20.00
-   product-key: BcfOP
+youtube:
+ - url-code: syyKKLWgDJM
 tags:
  - Love
  - Mortality
