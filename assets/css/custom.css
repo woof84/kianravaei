@@ -627,9 +627,16 @@ slapform.submit({
 
 .nobr  {  
     white-space: nowrap;  
-    -moz-hyphens:none;
-    -ms-hyphens:none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
     -webkit-hyphens: none;
+    hyphens: none;
+}
+
+p {
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
     hyphens: none;
 }
 

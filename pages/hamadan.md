@@ -1,52 +1,95 @@
 ---
-layout: page
-title: "The Four Seasons of Hamadan: Examples &amp; Resources"
+layout: page-fullwidth
+title: "The Four Seasons of Hamadan"
 permalink: "/hamadan/"
 header:
     image_fullwidth_staff: ravaei_header.png
 ---
 
-## I. Spring: Nowruz & Purim
-
-- Example of Persian mahur
-- Example of Persian drone improvisation
-- Example of Klezmer drone improvisation
-- How to play a krekht
-
-## II. Summer: Tigran & Shavuot
-
-- Medium freylikh example
-- Fast freylikh example
-- Hora example
-- Alizadeh's chaharmezrab in chahargah
-- Chaharmezrab examples
-
-## III. Autumn: Mehregan & Sukkot
-
-### Example of a Jewish Cantor
-
-<audio controls>
-  <source src="/downloads/owinu-malkeinu.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<cite>Cantor M. Lachmanowitz – Owinu Malkeinu (ca. 1918) (<a href="https://digital.library.wisc.edu/1711.dl/HOXQLVC73H3EJ8R" target="_blank">Source</a>)</cite>
-
-### About Avinu Malkeinu
-
-<blockquote>
+<div class="text-center">
+    <p class="teaser"><i>Persian and Jewish traditions intertwine in a new work for violin and dancer.</i></p>
+    <!-- <p><b>An Introduction to The Four Seasons of Hamadan</b></p> -->
+    <div class="center flex-video widescreen vimeo">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/8yL0Ut_p1jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row">
+        <div class="small-12 medium-6 columns text-center">
+            <div>
+            <a href="https://youtu.be/rmGqDCmxNtA" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
+            </div>
+        </div>
+        <div class="small-12 medium-6 columns text-center">
+            <div>
+            <a href="https://youtu.be/rmGqDCmxNtA" target="_blank" class="button expand">View/Download Press Kit</a>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <h2 style="margin-bottom: 20px; margin-top: 20px">About the Work</h2>
+</div>
+<p>Ex deserunt aliquip aute non. Culpa sit elit laboris cillum consectetur cupidatat tempor proident. Ex exercitation officia adipisicing tempor tempor voluptate sint. Enim reprehenderit cillum proident aute minim mollit fugiat veniam.</p>
+<p>Fugiat veniam laboris excepteur esse Lorem adipisicing laborum ullamco anim do minim cupidatat. Excepteur non fugiat qui aute cillum aliqua. Pariatur aute voluptate deserunt adipisicing. Consequat ea labore velit in ipsum reprehenderit reprehenderit. Ex mollit cupidatat nostrud tempor aliqua in consequat occaecat laboris dolore occaecat laboris Lorem. Laborum exercitation officia deserunt id sit et sit esse et labore id ex labore exercitation. Culpa irure ad dolore est ut adipisicing amet proident nulla dolore ullamco. Et duis ad esse est quis officia qui consequat laboris aliquip magna consequat.</p>
+<p>Excepteur deserunt incididunt reprehenderit labore reprehenderit consectetur do ex labore ex minim ex occaecat fugiat. Aute dolor ipsum do labore et sunt exercitation incididunt ea laborum fugiat id dolore esse ipsum. Laborum ullamco anim pariatur officia eu qui eu exercitation sint. Et reprehenderit ea mollit ut tempor ea dolore dolore aute consequat. Dolore et mollit et sit ut. Excepteur pariatur labore mollit in id adipisicing irure non. Nulla voluptate cillum ex adipisicing voluptate ad.</p>
+<blockquote class="text-center">
 <p>
-Each line of the prayer begins with the words "Avinu Malkeinu" ["Our Father, Our King"] and is then followed by varying phrases, mostly supplicatory. There is often a slow, chanting, repetitive aspect to the melody to represent the pious pleading within the prayer.
+<span class="teaser">Kahane integrated the dancer and the musician {…} seamlessly between musical movements.</span>
+<cite><a href="https://www.ladancechronicle.com/dance-at-the-odyssey-2025-summer-edition-has-begun/" target="_blank">LA Dance Chronicle</a></cite>
 </p>
 </blockquote>
-<cite>Source: <a href="https://en.wikipedia.org/wiki/Avinu_Malkeinu" target="_blank">Wikipedia</a></cite>
-
-- Shajarian recording
-- Reading of Hafiz Ghazal 1
-
-## IV. Winter: Yalda & Hannukah
-
-- Bach Chaconne
-- Terkisher
-- Tasnif
-- Fast klezmer trills
-- Kereshmeh
+<div class="text-center">
+    <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button">Learn more in the composer's <b>Full Commentary</b></a>
+</div>
+<div class="row">
+    <div class="small-4 columns">
+        <img src="{{ site.urlimg }}hamadan-photo-1.jpg" alt="Hamadan Photo 1">
+    </div>
+    <div class="small-4 columns">
+        <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
+    </div>
+    <div class="small-4 columns">
+        <img src="{{ site.urlimg }}hamadan-photo-3.jpg" alt="Hamadan Photo 3">
+    </div>
+</div>
+<hr>
+<h2 class="text-center" style="margin-bottom: 10px; margin-top: 20px">About the Artists</h2>
+<div class="row">
+    <div class="small-12 medium-6 columns">
+        <h3 style="margin-top: 20px">Kian Ravaei</h3>
+        <img style="float: left; width: 160px; margin: 0.75rem 1rem 0 0;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
+        <p>Composer Kian Ravaei takes tone painting to a new level, synthesizing diverse inspirations ranging from the Iranian music of his ancestral heritage to the pulsating electronic music of late-night dance clubs. From Carnegie Hall to Pierre Boulez Saal, sought-after musicians including Fleur Barron, Lara Downes, and Anthony McGill have brought Ravaei’s works to global stages. His music has been commissioned by Seattle Chamber Music Society, Chamber Music Northwest, and American Composers Orchestra, with commissioning awards from Chamber Music America, New Music USA, and the Barlow Endowment. He is currently a C.V. Starr Doctoral Fellow at The Juilliard School. <a href="{{ site.url }}" target="_blank">kianravaei.com</a></p>
+    </div>
+    <div class="small-12 medium-6 columns">
+        <h3 style="margin-top: 20px">Annie Kahane</h3>
+        <img style="float: left; width: 160px; margin: 0.75rem 1rem 0 0;" src="{{ site.urlimg }}kahane-headshot.jpg" alt="Annie Kahane headshot">
+        <p>Annie Kahane is a performer and art-maker working in poetry, dance and theater.  Her performance projects have been supported by the San Francisco International Arts Festival, the Odyssey Theater (Los Angeles), the Zellerbach Family Foundation, ODC Theater (San Francisco), the Kenneth Rainin Foundation, the Hollywood Fringe Festival, PUSHfest Dance Festival, UC-AFT's Professional Development Fund and New Music USA, among others. Her poetry has been featured on multiple NPR stations. She is a faculty member in the Department of Kinesiology/Dance at California State University Northridge. <a href="https://www.aliveandwellproductions.org" target="_blank">aliveandwellproductions.org</a></p>
+    </div>
+</div>
+<hr>
+<h2 class="text-center" style="margin-bottom: 20px; margin-top: 20px">Project Credits</h2>
+<div class="row">
+    <div class="small-12 medium-6 columns text-center">
+        <p><i>Creative Team</i></p>
+        <p>Kian Ravaei, composer
+        <br>Annie Kahane, choreographer
+        <br>Yvette Cornelia Holzwarth, violin
+        <br>Kate Myers, dancer
+        <br>Alex LaLiberte, videographer
+        <br>Steve Kaplan, audio engineer</p>
+    </div>
+    <div class="small-12 medium-6 columns text-center">
+        <p><i>Special Thanks</i></p>
+        <p>New Music USA
+        <br>Bridge to Everywhere
+        <br>Music Department at Mount Saint Mary’s University
+        <br>The Alan D. Marks Center for Career Services and Entrepreneurship at Juilliard
+        <br>Sherry Mayrent
+        <br>Fariborz Azizi
+        <br>Rachel Iba</p>
+    </div>
+</div>
+<hr>
+<h2 class="text-center" style="margin-bottom: 20px; margin-top: 20px">Contact</h2>
+<p class="text-center">Kian Ravaei
+<br><a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>
+<br><a href="tel:+1661-977-6457">+1 ‪(661) 977-6457‬</a></p>
+<hr>
