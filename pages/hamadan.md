@@ -27,26 +27,27 @@ header:
     <hr>
     <h2 style="margin-bottom: 20px; margin-top: 20px">About the Work</h2>
 </div>
-<p>Ex deserunt aliquip aute non. Culpa sit elit laboris cillum consectetur cupidatat tempor proident. Ex exercitation officia adipisicing tempor tempor voluptate sint. Enim reprehenderit cillum proident aute minim mollit fugiat veniam.</p>
-<p>Fugiat veniam laboris excepteur esse Lorem adipisicing laborum ullamco anim do minim cupidatat. Excepteur non fugiat qui aute cillum aliqua. Pariatur aute voluptate deserunt adipisicing. Consequat ea labore velit in ipsum reprehenderit reprehenderit. Ex mollit cupidatat nostrud tempor aliqua in consequat occaecat laboris dolore occaecat laboris Lorem. Laborum exercitation officia deserunt id sit et sit esse et labore id ex labore exercitation. Culpa irure ad dolore est ut adipisicing amet proident nulla dolore ullamco. Et duis ad esse est quis officia qui consequat laboris aliquip magna consequat.</p>
-<p>Excepteur deserunt incididunt reprehenderit labore reprehenderit consectetur do ex labore ex minim ex occaecat fugiat. Aute dolor ipsum do labore et sunt exercitation incididunt ea laborum fugiat id dolore esse ipsum. Laborum ullamco anim pariatur officia eu qui eu exercitation sint. Et reprehenderit ea mollit ut tempor ea dolore dolore aute consequat. Dolore et mollit et sit ut. Excepteur pariatur labore mollit in id adipisicing irure non. Nulla voluptate cillum ex adipisicing voluptate ad.</p>
+<img class="para-img" src="{{ site.urlimg }}hamadan-photo-1.JPG" alt="Hamadan Photo">
+<p>In <i>The Four Seasons of Hamadan</i>, composer Kian Ravaei and choreographer Annie Kahane <b>intertwine seasonal rituals from their respective Persian and Jewish cultures</b>. Across four movements, each centering a different season, the violinist and dancer traverse a wide range of folkloric music and dance practices. “There’s something aspirational about the idea that two different cultures could weave together and make something more beautiful than could exist with each one on its own,” said Kahane.</p>
+<p>As research for this work, both artists immersed themselves in the traditions of Persian and Jewish music and dance. Ravaei spent a year learning the <i>setār</i>—a traditional Persian instrument—while taking lessons in klezmer music composition, using this knowledge to <b>push the boundaries of violin playing</b>. The music contains a variety of innovative violin techniques, from playing fast passages in the manner of a klezmer fiddle, to improvising florid melodies using scales unique to Persian music.</p>
+<!-- <p>“Annie and I are both from LA, where there’s a lot of Persian and Jewish culture,” says Ravaei. “So it was quite natural to serve our communities by bringing these traditions together.”</p> -->
 <blockquote class="text-center">
 <p>
-<span class="teaser">Kahane integrated the dancer and the musician {…} seamlessly between musical movements.</span>
-<cite><a href="https://www.ladancechronicle.com/dance-at-the-odyssey-2025-summer-edition-has-begun/" target="_blank">LA Dance Chronicle</a></cite>
+<span class="teaser">“Annie and I are both from LA, where there’s a lot of Persian and Jewish culture,” said Ravaei. “So it was quite natural to serve our communities by bringing these traditions together.”</span>
 </p>
 </blockquote>
+<p>Amid ongoing political hostilities between Iran and Israel, <i>The Four Seasons of Hamadan</i> explores how shared cultural practices—such as seasonal rituals—can become a meeting place for diverse communities, demonstrating that <b>learning from other cultures can be a powerful source of artistic insight and human connection.</b></p>
 <div class="text-center">
     <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button">Learn more in the composer's <b>Full Commentary</b></a>
 </div>
 <div class="row">
-    <div class="small-4 columns">
+    <!-- <div class="small-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-1.jpg" alt="Hamadan Photo 1">
-    </div>
-    <div class="small-4 columns">
+    </div> -->
+    <div class="small-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
     </div>
-    <div class="small-4 columns">
+    <div class="small-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-3.jpg" alt="Hamadan Photo 3">
     </div>
 </div>
@@ -56,7 +57,7 @@ header:
     <div class="small-12 medium-6 columns">
         <h3 style="margin-top: 20px">Kian Ravaei</h3>
         <img style="float: left; width: 160px; margin: 0.75rem 1rem 0 0;" src="{{ site.urlimg }}ravaei_headshot.JPG" alt="Kian Ravaei headshot">
-        <p>Composer Kian Ravaei takes tone painting to a new level, synthesizing diverse inspirations ranging from the Iranian music of his ancestral heritage to the pulsating electronic music of late-night dance clubs. From Carnegie Hall to Pierre Boulez Saal, sought-after musicians including Fleur Barron, Lara Downes, and Anthony McGill have brought Ravaei’s works to global stages. His music has been commissioned by Seattle Chamber Music Society, Chamber Music Northwest, and American Composers Orchestra, with commissioning awards from Chamber Music America, New Music USA, and the Barlow Endowment. He is currently a C.V. Starr Doctoral Fellow at The Juilliard School. <a href="{{ site.url }}" target="_blank">kianravaei.com</a></p>
+        <p>Composer Kian Ravaei takes tone painting to a new level, synthesizing diverse inspirations ranging from the Iranian music of his ancestral heritage to the pulsating electronic music of late-night dance clubs. From Carnegie Hall to Concertgebouw, sought-after musicians including Fleur Barron, Lara Downes, and Anthony McGill have brought Ravaei’s works to global stages. His music has been commissioned by Seattle Chamber Music Society, Chamber Music Northwest, and American Composers Orchestra, with commissioning awards from Chamber Music America, New Music USA, and the Barlow Endowment. He is currently a C.V. Starr Doctoral Fellow at The Juilliard School. <a href="{{ site.url }}" target="_blank">kianravaei.com</a></p>
     </div>
     <div class="small-12 medium-6 columns">
         <h3 style="margin-top: 20px">Annie Kahane</h3>
@@ -64,6 +65,12 @@ header:
         <p>Annie Kahane is a performer and art-maker working in poetry, dance and theater.  Her performance projects have been supported by the San Francisco International Arts Festival, the Odyssey Theater (Los Angeles), the Zellerbach Family Foundation, ODC Theater (San Francisco), the Kenneth Rainin Foundation, the Hollywood Fringe Festival, PUSHfest Dance Festival, UC-AFT's Professional Development Fund and New Music USA, among others. Her poetry has been featured on multiple NPR stations. She is a faculty member in the Department of Kinesiology/Dance at California State University Northridge. <a href="https://www.aliveandwellproductions.org" target="_blank">aliveandwellproductions.org</a></p>
     </div>
 </div>
+<blockquote class="text-center">
+<p>
+<span class="teaser">Kahane integrated the dancer and the musician {…} seamlessly between musical movements.</span>
+<cite><a href="https://www.ladancechronicle.com/dance-at-the-odyssey-2025-summer-edition-has-begun/" target="_blank">LA Dance Chronicle</a></cite>
+</p>
+</blockquote>
 <hr>
 <h2 class="text-center" style="margin-bottom: 20px; margin-top: 20px">Project Credits</h2>
 <div class="row">

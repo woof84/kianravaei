@@ -863,3 +863,20 @@ li.button a {
     position: relative;
     cursor: auto
 }
+
+.para-img{
+  float: right;
+  margin: 0 0 0.75rem 1rem;
+  max-width: 43%;
+  height: auto;
+}
+
+/* Small screens: stop floating and center above text */
+@media (max-width: 600px){
+  .para-img{
+    float: none;
+    display: block;
+    margin: 0 auto 1rem; /* centers block + adds space below */
+    max-width: 100%;
+  }
+}
