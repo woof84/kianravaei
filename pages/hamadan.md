@@ -15,12 +15,12 @@ header:
     <div class="row">
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://youtu.be/rmGqDCmxNtA" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
+            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
             </div>
         </div>
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://youtu.be/rmGqDCmxNtA" target="_blank" class="button expand">View/Download Press Kit</a>
+            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">View/Download Press Kit</a>
             </div>
         </div>
     </div>
