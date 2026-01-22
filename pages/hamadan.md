@@ -10,7 +10,7 @@ header:
     <p class="teaser"><i>Persian and Jewish traditions intertwine in a new work for violin and dancer.</i></p>
     <!-- <p><b>An Introduction to The Four Seasons of Hamadan</b></p> -->
     <div class="center flex-video widescreen vimeo">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/8yL0Ut_p1jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1q91ch6caDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="row">
         <div class="small-12 medium-6 columns text-center">
@@ -27,16 +27,17 @@ header:
     <hr>
     <h2 style="margin-bottom: 20px; margin-top: 20px">About the Work</h2>
 </div>
-<img class="para-img" src="{{ site.urlimg }}hamadan-photo-1.JPG" alt="Hamadan Photo">
-<p>In <i>The Four Seasons of Hamadan</i>, composer Kian Ravaei and choreographer Annie Kahane <b>intertwine seasonal rituals from their respective Persian and Jewish cultures</b>. Across four movements—Spring, Summer, Autumn, Winter—the violinist and dancer traverse a wide range of folkloric music and dance practices. “There’s something aspirational about the idea that two different cultures could weave together and make something more beautiful than could exist with each one on its own,” said Kahane.</p>
-<p>As research for this work, both artists immersed themselves in the traditions of Persian and Jewish music and dance. Ravaei spent a year learning the <i>setār</i>—a traditional Persian instrument—while taking lessons in klezmer music composition, using this knowledge to <b>push the boundaries of violin playing</b>. The music contains a variety of innovative violin techniques, from playing fast passages in the manner of a klezmer fiddle, to improvising florid melodies using scales unique to Persian music.</p>
+<img class="para-img" src="{{ site.urlimg }}hamadan-photo-1.jpg" alt="Hamadan Photo 1">
+<p>In <i>The Four Seasons of Hamadan</i>, composer Kian Ravaei and choreographer Annie Kahane intertwine seasonal rituals from their respective Persian and Jewish cultures. Across four movements—Spring, Summer, Autumn, and Winter—the violinist and dancer move fluidly between folkloric idioms. “There’s something aspirational about the idea that two different cultures could weave together and make something more beautiful than could exist with each one on its own,” said Kahane.</p>
+<p>As research for this work, both artists immersed themselves in the traditions of Persian and Jewish music and dance. Ravaei spent a year learning the <i>setār</i>—a traditional Persian instrument—while taking lessons in klezmer music composition. Rooted in this training, the violin part tests the instrument's limits, shifting from brisk klezmer-style passagework to lavish Persian improvisations. Kahane’s choreography draws on the communal spirit of folk dance, reimagining familiar steps through a contemporary lens.</p>
 <!-- <p>“Annie and I are both from LA, where there’s a lot of Persian and Jewish culture,” says Ravaei. “So it was quite natural to serve our communities by bringing these traditions together.”</p> -->
 <blockquote class="text-center">
 <p>
-<span class="teaser">“Annie and I are both from LA, where there’s a lot of Persian and Jewish culture,” said Ravaei. “So it was quite natural to serve our communities by bringing these traditions together.”</span>
+<span class="teaser">“We're both from Los Angeles, where there’s a lot of Persian and Jewish culture,” said Ravaei. “So it was natural to serve our communities by bringing these traditions together.”</span>
 </p>
 </blockquote>
-<p>Amid ongoing political hostilities between Iran and Israel, <i>The Four Seasons of Hamadan</i> explores how shared cultural practices—such as seasonal rituals—can become a meeting place for diverse communities, demonstrating that <b>learning from other cultures can be a powerful source of artistic insight and human connection.</b></p>
+<p>
+<p>Amid ongoing political hostilities between Iran and Israel, <i>The Four Seasons of Hamadan</i> considers how shared cultural practices—such as seasonal rituals—can become a meeting place for diverse communities. Through their cross-cultural collaboration, Ravaei and Kahane demonstrate that curiosity about other cultures can be a powerful source of artistic insight and human connection.</p>
 <div class="text-center">
     <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button">Learn more in the composer's <b>Full Commentary</b></a>
 </div>
