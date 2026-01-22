@@ -51,6 +51,12 @@ performances:
     performers: Art of Elan
     city_state: San Diego, CA
     url: https://artofelan.org/concerts/boundless
+  - performance_date: 18 MAR 2026
+    performance_title: iPod Variations
+    venue: Future Stages Festival at The Juilliard School
+    performers: Brooke Walden, flute; Wendi Li, violin
+    city_state: New York, NY
+    url: https://www.juilliard.edu/event/178751/future-stages-festival-auras-and-emanations
   - performance_date: 28 FEB 2026
     performance_title: Family Photos
     venue: Massachusetts Chamber Music Artists
@@ -134,6 +140,7 @@ performances:
     performers: Feride Büyükdenktas, mezzo-soprano; Çisem Özkurt, violin; Ayşegül Yörükoğlu, piano
     city_state: Amsterdam, Netherlands
     url: https://www.concertgebouw.nl/en/concerts/8507559-nieuwe-blik-terug-queens-of-classical-turkish-music-dutch-spoken
+    ignore_string: Gelevera Deresi
   - performance_date: 17 NOV 2025
     performance_title: Gelevera Deresi
     venue: The Juilliard School
