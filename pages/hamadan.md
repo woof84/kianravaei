@@ -72,7 +72,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>16 NOV 2024</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>First movement premiered at <a href="https://www.kennedy-center.org/whats-on/festivals-series/sounds-of-us/" target="_blank">Sounds of US Festival</a> (without dance)</span>
     </div>
 </div>
@@ -80,7 +80,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>12 FEB 2025</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>First movement broadcast on <a href="https://www.wqxr.org/story/sounds-us-2/" target="_blank">WQXR Young Artists Showcase</a></span>
     </div>
 </div>
@@ -88,7 +88,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>14 FEB 2025</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>Additional broadcast of first movement on <a href="https://www.wqxr.org/story/sounds-us-2/" target="_blank">WQXR Young Artists Showcase</a></span>
     </div>
 </div>
@@ -96,7 +96,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>2 MAY 2025</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>Premiered at <a href="https://www.sfiaf.org/2025_alive_well_productions" target="_blank">San Francisco International Arts Festival</a></span>
     </div>
 </div>
@@ -104,7 +104,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>4 MAY 2025</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>Additional performance at <a href="https://www.sfiaf.org/2025_alive_well_productions" target="_blank">San Francisco International Arts Festival</a></span>
     </div>
 </div>
@@ -112,7 +112,7 @@ header:
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span style="text-align: right;"><b>21 MAY 2025</b></span>
     </div>
-    <div class="small-8 medium-7 columns end">
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>Performed at <a href="https://odysseytheatre.com/whats-on/dance-at-the-odyssey-summer-edition-3/" target="_blank">Dance at the Odyssey Summer Edition</a> in Los Angeles</span>
     </div>
 </div>
