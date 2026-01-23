@@ -20,7 +20,7 @@ header:
         </div>
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">View/Download Press Kit</a>
+            <a href="https://www.dropbox.com/scl/fo/q8nnzo9o98idbeoa4ycbu/AJBLe1dwNWfDFJHDleOSc_c?rlkey=nywy3qhfkeuta3cy2tabho4jl&st=s8b5abrz&dl=0" target="_blank" class="button expand">View/Download Press Kit</a>
             </div>
         </div>
     </div>
@@ -66,6 +66,57 @@ header:
         <p>Annie Kahane is a performer and art-maker working in poetry, dance and theater.  Her performance projects have been supported by the San Francisco International Arts Festival, the Odyssey Theater (Los Angeles), the Zellerbach Family Foundation, ODC Theater (San Francisco), the Kenneth Rainin Foundation, the Hollywood Fringe Festival, PUSHfest Dance Festival, UC-AFT's Professional Development Fund and New Music USA, among others. Her poetry has been featured on multiple NPR stations. She is a faculty member in the Department of Kinesiology/Dance at California State University Northridge. <a href="https://www.aliveandwellproductions.org" target="_blank">aliveandwellproductions.org</a></p>
     </div>
 </div>
+<hr>
+<h2 class="text-center" style="margin-bottom: 20px; margin-top: 20px">Chronology</h2>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>16 NOV 2024</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>First movement premiered at <a href="https://www.kennedy-center.org/whats-on/festivals-series/sounds-of-us/" target="_blank">Sounds of US Festival</a> (without dance)</span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>12 FEB 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>First movement broadcast on <a href="https://www.wqxr.org/story/sounds-us-2/" target="_blank">WQXR Young Artists Showcase</a></span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>14 FEB 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>Additional broadcast of first movement on <a href="https://www.wqxr.org/story/sounds-us-2/" target="_blank">WQXR Young Artists Showcase</a></span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>2 MAY 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>Premiered at <a href="https://www.sfiaf.org/2025_alive_well_productions" target="_blank">San Francisco International Arts Festival</a></span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>4 MAY 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>Additional performance at <a href="https://www.sfiaf.org/2025_alive_well_productions" target="_blank">San Francisco International Arts Festival</a></span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span style="text-align: right;"><b>21 MAY 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end">
+        <span>Performed at <a href="https://odysseytheatre.com/whats-on/dance-at-the-odyssey-summer-edition-3/" target="_blank">Dance at the Odyssey Summer Edition</a> in Los Angeles</span>
+    </div>
+</div>
+<br>
 <blockquote class="text-center">
 <p>
 <span class="teaser">Kahane integrated the dancer and the musician {…} seamlessly between musical movements.</span>
