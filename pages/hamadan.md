@@ -15,12 +15,17 @@ header:
     <div class="row">
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
+            <a href="https://youtu.be/1q91ch6caDs" target="_blank" class="button expand">Watch a 5-Minute <b>Introduction Video</b></a>
             </div>
         </div>
         <div class="small-12 medium-6 columns text-center">
             <div>
             <a href="https://www.dropbox.com/scl/fo/q8nnzo9o98idbeoa4ycbu/AJBLe1dwNWfDFJHDleOSc_c?rlkey=nywy3qhfkeuta3cy2tabho4jl&st=s8b5abrz&dl=0" target="_blank" class="button expand">View/Download Press Kit</a>
+            </div>
+        </div>
+        <div class="small-12 columns text-center">
+            <div>
+            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
             </div>
         </div>
     </div>
@@ -31,26 +36,57 @@ header:
 <p>In <i>The Four Seasons of Hamadan</i>, composer Kian Ravaei and choreographer Annie Kahane intertwine seasonal rituals from their respective Persian and Jewish cultures. Across four movements—Spring, Summer, Autumn, and Winter—the violinist and dancer move fluidly between folkloric idioms. “There’s something aspirational about the idea that two different cultures could weave together and make something more beautiful than could exist with each one on its own,” said Kahane.</p>
 <p>As research for this work, both artists immersed themselves in the traditions of Persian and Jewish music and dance. Ravaei spent a year learning the <i>setār</i>—a traditional Persian instrument—while taking lessons in klezmer music composition. Rooted in this training, the violin part tests the instrument's limits, shifting from brisk klezmer-style passagework to lavish Persian improvisations. Kahane’s choreography draws on the communal spirit of folk dance, reimagining familiar steps through a contemporary lens.</p>
 <!-- <p>“Annie and I are both from LA, where there’s a lot of Persian and Jewish culture,” says Ravaei. “So it was quite natural to serve our communities by bringing these traditions together.”</p> -->
-<blockquote class="text-center">
+<!-- <blockquote class="text-center">
 <p>
 <span class="teaser">“We're both from Los Angeles, where there’s a lot of Persian and Jewish culture,” said Ravaei. “So it was natural to serve our communities by bringing these traditions together.”</span>
 </p>
-</blockquote>
-<p>
+</blockquote> -->
 <p>Amid ongoing political hostilities between Iran and Israel, <i>The Four Seasons of Hamadan</i> considers how shared cultural practices—such as seasonal rituals—can become a meeting place for diverse communities. Through their cross-cultural collaboration, Ravaei and Kahane demonstrate that curiosity about other cultures can be a powerful source of artistic insight and human connection.</p>
 <div class="text-center">
-    <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button">Learn more in the composer's <b>Full Commentary</b></a>
+    <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand">Learn more in the <b>Full Commentary</b></a>
 </div>
+<!-- <div class="row">
+        <div class="small-12 medium-6 columns text-center">
+            <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand">Learn more in the <b>Full Commentary</b></a>
+        </div>
+        <div class="small-12 medium-6 columns text-center">
+            <div>
+            <a href="https://www.dropbox.com/scl/fo/q8nnzo9o98idbeoa4ycbu/AJBLe1dwNWfDFJHDleOSc_c?rlkey=nywy3qhfkeuta3cy2tabho4jl&st=s8b5abrz&dl=0" target="_blank" class="button expand">Watch a 5-Minute <b>Introduction Video</b></a>
+            </div>
+        </div>
+    </div> -->
 <div class="row">
     <!-- <div class="small-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-1.jpg" alt="Hamadan Photo 1">
     </div> -->
-    <div class="small-6 columns">
+    <!-- <div class="small-6 columns">
+        <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
+    </div> -->
+    <div class="medium-6 columns">
+        <div class="panel radius">
+            <h3>Details</h3>
+            <ul class="no-bullet">
+                <li><strong>Instrumentation:</strong> Violin &amp; Dancer (or Violin alone)</li>
+                <li><strong>Years Created:</strong> 2023–2025</li>
+                <li><strong>Duration: </strong>23 minutes</li>
+                <li><strong>Movements:</strong>
+                    <ul class="no-bullet">
+                        <li style="padding-left: 2em;text-indent: -2em;">I. Spring: Nowruz & Purim</li>
+                        <li style="padding-left: 2em;text-indent: -2em;">II. Summer: Tirgan & Shavuot</li>
+                        <li style="padding-left: 2em;text-indent: -2em;">III. Autumn: Mehregan & Sukkot</li>
+                        <li style="padding-left: 2em;text-indent: -2em;">IV. Winter: Yalda & Hannukah</li>
+                    </ul>
+                </li>
+                <!-- <li class="button tiny expand score-flipbook" source="/pdfs/the-four-seasons-of-hamadan.pdf" style="margin-bottom: 0; margin-top: 10px;" id="df_manual_button">View Score ›</li> -->
+            </ul>
+        </div>
+    </div>
+    <div class="medium-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
     </div>
-    <div class="small-6 columns">
+    <!-- <div class="medium-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-3.jpg" alt="Hamadan Photo 3">
-    </div>
+    </div> -->
 </div>
 <hr>
 <h2 class="text-center" style="margin-bottom: 10px; margin-top: 20px">About the Artists</h2>
@@ -70,10 +106,26 @@ header:
 <h2 class="text-center" style="margin-bottom: 20px; margin-top: 20px">Chronology</h2>
 <div class="row">
     <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>25 MAY 2023</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
+        <span>Awarded <a href="https://newmusicusa.org/program/new-music-creator-fund/" target="_blank">New Music USA Creator Fund Grant</a></span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
         <span><b>16 NOV 2024</b></span>
     </div>
     <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
         <span>First movement premiered at <a href="https://www.kennedy-center.org/whats-on/festivals-series/sounds-of-us/" target="_blank">Sounds of US Festival</a> (without dance)</span>
+    </div>
+</div>
+<div class="row">
+    <div class="small-4 medium-3 medium-offset-1 columns" style="text-align: right;">
+        <span><b>8 FEB 2025</b></span>
+    </div>
+    <div class="small-8 medium-7 columns end" style="padding-right: 40px;">
+        <span>Public workshop presented by <a href="https://www.bridgetoeverywhere.org" target="_blank">Bridge to Everywhere</a></span>
     </div>
 </div>
 <div class="row">

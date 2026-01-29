@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "The Four Seasons of Hamadan"
-instrumentation: solo violin &amp; dancer
+instrumentation: violin &amp; dancer, or violin alone
 year_composed: 2025
 category_music: Solo
 duration: 23'
