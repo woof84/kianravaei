@@ -9,22 +9,22 @@ header:
 <div class="text-center">
     <p class="teaser"><i>Persian and Jewish traditions intertwine in a new work for violin and dancer.</i></p>
     <div class="center flex-video widescreen vimeo">
-            <iframe width="560" height="315" src="https://youtu.be/ToPoSVmJKoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ToPoSVmJKoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="row">
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://youtu.be/YnM5nxiVw_U" target="_blank" class="button expand">Watch a 5-Minute <b>Introduction Video</b></a>
+            <a href="https://youtu.be/YnM5nxiVw_U" target="_blank" class="button expand">Watch a 5-Minute <b>Introduction Video</b> ›</a>
             </div>
         </div>
         <div class="small-12 medium-6 columns text-center">
             <div>
-            <a href="https://www.dropbox.com/scl/fo/q8nnzo9o98idbeoa4ycbu/AJBLe1dwNWfDFJHDleOSc_c?rlkey=nywy3qhfkeuta3cy2tabho4jl&st=s8b5abrz&dl=0" target="_blank" class="button expand">View/Download Press Kit</a>
+            <a href="https://www.dropbox.com/scl/fo/q8nnzo9o98idbeoa4ycbu/AJBLe1dwNWfDFJHDleOSc_c?rlkey=nywy3qhfkeuta3cy2tabho4jl&st=s8b5abrz&dl=0" target="_blank" class="button expand">View/Download <b>Press Kit</b> ›</a>
             </div>
         </div>
         <div class="small-12 columns text-center">
             <div>
-            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b></a>
+            <a href="https://youtu.be/XvjJudx_z2A" target="_blank" class="button expand">Watch <b><i>The Four Seasons of Hamadan</i></b> ›</a>
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@ header:
 </blockquote> -->
 <p>Amid ongoing political hostilities between Iran and Israel, <i>The Four Seasons of Hamadan</i> considers how shared cultural practices—such as seasonal rituals—can become a meeting place for diverse communities. Through their cross-cultural collaboration, Ravaei and Kahane demonstrate that curiosity about other cultures can be a powerful source of artistic insight and human connection.</p>
 <div class="text-center">
-    <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand">Learn more in the <b>Full Commentary</b></a>
+    <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand">Learn more in the <b>Full Commentary</b> ›</a>
 </div>
 <!-- <div class="row">
         <div class="small-12 medium-6 columns text-center">
@@ -82,6 +82,9 @@ header:
     </div>
     <div class="medium-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
+        <div class="text-center">
+            <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand" style="margin-bottom: 0; margin-top: 17px;">View or Purchase <b>Score</b> ›</a>
+        </div>
     </div>
     <!-- <div class="medium-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-3.jpg" alt="Hamadan Photo 3">
