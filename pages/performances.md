@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 14 APR 2027
+    performance_title: New Work
+    venue: Weill Recital Hall at Carnegie Hall
+    performers: James Austin Smith, oboe
+    city_state: New York, NY
+    url: https://www.carnegiehall.org/Calendar/2027/04/14/James-Austin-Smith-Oboe-Shai-Wosner-Piano-0730PM
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
