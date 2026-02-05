@@ -39,6 +39,13 @@ performances:
     performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
     city_state: Virtual
     url: https://classeek.com/concerts/program/chamber-music-concert,65
+    ignore_string: Gulistan
+  - performance_date: 23 MAY 2026
+    performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
+    venue: SongEasel
+    performers: Negin Ragazzhi, soprano; Joe Zeitlin, cello; Jocelyn Freeman, piano
+    city_state: London, UK
+    ignore_string: Gulistan
   - performance_date: 19 APR 2026
     performance_title: Superhuman
     venue: Frank J. Natale Concert Series
