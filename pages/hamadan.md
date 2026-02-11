@@ -182,22 +182,22 @@ header:
 <div class="row">
     <div class="small-12 medium-6 columns text-center">
         <p><i>Creative Team</i></p>
-        <p>Kian Ravaei, composer
-        <br>Annie Kahane, choreographer
-        <br>Yvette Cornelia Holzwarth, violin
-        <br>Kate Myers, dancer
-        <br>Alex LaLiberte, videographer
-        <br>Steve Kaplan, audio engineer</p>
+        <p><a href="https://kianravaei.com/" target="_blank" >Kian Ravaei</a>, composer
+        <br><a href="https://www.aliveandwellproductions.org/" target="_blank" >Annie Kahane</a>, choreographer
+        <br><a href="https://www.yvetteholzwarth.com/" target="_blank" >Yvette Cornelia Holzwarth</a>, violin
+        <br><a href="https://www.katemyersmovement.com" target="_blank" >Kate Myers</a>, dancer
+        <br><a href="https://www.instagram.com/otium/?hl=en" target="_blank" >Alex LaLiberte</a>, videographer
+        <br><a href="https://www.noiseandotherdistortions.com" target="_blank" >Steve Kaplan</a>, audio engineer</p>
     </div>
     <div class="small-12 medium-6 columns text-center">
         <p><i>Special Thanks</i></p>
-        <p>New Music USA
-        <br>Bridge to Everywhere
-        <br>Music Department at Mount Saint Mary’s University
-        <br>The Alan D. Marks Center for Career Services and Entrepreneurship at Juilliard
-        <br>Sherry Mayrent
-        <br>Fariborz Azizi
-        <br>Rachel Iba</p>
+        <p><a href="https://newmusicusa.org/" target="_blank">New Music USA</a>
+        <br><a href="https://www.bridgetoeverywhere.org/" target="_blank">Bridge to Everywhere</a>
+        <br><a href="https://msmary.edu/academics/majors-minors/visual-and-performing-arts-music.html" target="_blank">Music Department at Mount Saint Mary’s University</a>
+        <br><a href="https://www.juilliard.edu/school/alan-d-marks-center-career-services-and-entrepreneurship" target="_blank">The Alan D. Marks Center for Career Services and Entrepreneurship at Juilliard</a>
+        <br><a href="https://mayrent.wisc.edu/sherry-mayrent/" target="_blank">Sherry Mayrent</a>
+        <br><a href="https://fariborzazizi.com/" target="_blank">Fariborz Azizi</a>
+        <br><a href="https://www.racheliba.com/" target="_blank">Rachel Iba</a></p>
     </div>
 </div>
 <hr>
