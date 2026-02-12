@@ -83,7 +83,7 @@ header:
     <div class="medium-6 columns">
         <img src="{{ site.urlimg }}hamadan-photo-2.jpg" alt="Hamadan Photo 2">
         <div class="text-center">
-            <a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank" class="button expand" style="margin-bottom: 0; margin-top: 17px;">View or Purchase <b>Score</b> ›</a>
+            <p style="margin-bottom: 0; margin-top: 10px;"><a href="{{ site.url }}/works/the-four-seasons-of-hamadan" target="_blank">View or Purchase <b>Score</b> ›</a></p>
         </div>
     </div>
     <!-- <div class="medium-6 columns">
