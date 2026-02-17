@@ -12,6 +12,8 @@ purchase:
  - title: Pluck (Version for String Quintet) Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $40.00
    product-key: GL6kC
+other-versions:
+ - version: Pluck
 tags:
  - Western Music History
  - American Folk Music

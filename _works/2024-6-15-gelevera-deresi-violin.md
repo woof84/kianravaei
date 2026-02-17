@@ -10,6 +10,8 @@ language: Turkish
 text_writer: Turkish Traditional
 youtube:
  - url-code: syyKKLWgDJM
+other-versions:
+ - version: Gelevera Deresi
 tags:
  - Love
  - Mortality

@@ -17,6 +17,9 @@ awards:
   - award_year: 2026
     award_title: Grammy Award for Best Classical Solo Vocal Album
     award_rank: Nominee
+other-versions:
+ - version: Morghe Sahar (Bird of Dawn)
+ - version: Morghe Sahar (Bird of Dawn) (Version for Soprano)
 tags:
  - Iranian Culture
  - Social Justice

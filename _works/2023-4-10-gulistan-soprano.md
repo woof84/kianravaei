@@ -19,6 +19,9 @@ purchase:
  - title: Gulistan (Version for Soprano, Cello, &amp; Piano) Score &amp; Parts - Instant PDF Download
    price: $80.00
    product-key: bm6VM
+other-versions:
+ - version: Gulistan
+ - version: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
 tags: 
  - Poetry
  - Literature

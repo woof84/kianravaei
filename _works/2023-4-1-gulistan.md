@@ -26,6 +26,9 @@ purchase:
  - title: Gulistan Score &amp; Part - Instant PDF Download
    price: $80.00
    product-key: REt2X
+other-versions:
+ - version: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+ - version: Gulistan (Version for Soprano, Cello, &amp; Piano)
 tags: 
  - Poetry
  - Literature

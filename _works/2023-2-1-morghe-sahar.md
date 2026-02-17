@@ -15,6 +15,9 @@ purchase:
  - title: Morghe Sahar (Bird of Dawn) - Instant PDF Download
    price: $20.00
    product-key: 985X2
+other-versions:
+ - version: Morghe Sahar (Bird of Dawn) (Version for Soprano)
+ - version: Morghe Sahar (Bird of Dawn) (Version for Soprano, Alto Flute, Cello, &amp; Piano)
 tags:
  - Iranian Culture
  - Social Justice

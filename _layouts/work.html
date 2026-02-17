@@ -97,6 +97,21 @@ header:
                     </ul>
                 </li>
                 {% endif %}
+                {% if page.other-versions %}
+                <li><strong>Other Versions:</strong>
+                    <ul class="no-bullet">
+                        {% for item in page.other-versions %}
+                        {% if item.version %}
+                        {% for work in site.works %} 
+                        {% if item.version == work.title %}
+                        <li style="padding-left: 2em;text-indent: -2em;"><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ item.version }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endif %}
                 {% capture file_path %}/pdfs/{{ page.slug }}.pdf{% endcapture %}
                 {% for static_file in site.static_files %}
                     {% if static_file.path == file_path %}

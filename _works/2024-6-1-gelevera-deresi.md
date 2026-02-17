@@ -12,6 +12,8 @@ purchase:
  - title: Gelevera Deresi - Instant PDF Download
    price: $20.00
    product-key: BcfOP
+other-versions:
+ - version: Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano)
 tags:
  - Love
  - Mortality
