@@ -21,25 +21,6 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
-  - performance_date: 2 JUN 2026
-    performance_title: I Will Greet the Sun Again
-    venue: Classeek
-    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
-    city_state: Virtual
-    url: https://classeek.com/concerts/program/chamber-music-concert,65
-  - performance_date: 2 JUN 2026
-    performance_title: Gelevera Deresi
-    venue: Classeek
-    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
-    city_state: Virtual
-    url: https://classeek.com/concerts/program/chamber-music-concert,65
-  - performance_date: 2 JUN 2026
-    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano)
-    venue: Classeek
-    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
-    city_state: Virtual
-    url: https://classeek.com/concerts/program/chamber-music-concert,65
-    ignore_string: Gulistan
   - performance_date: 23 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano) (Excerpt)
     venue: SongEasel
@@ -70,6 +51,25 @@ performances:
     performers: Brooke Walden, flute; Wendi Li, violin
     city_state: New York, NY
     url: https://www.juilliard.edu/event/178751/future-stages-festival-auras-and-emanations
+  - performance_date: 3 MAR 2026
+    performance_title: I Will Greet the Sun Again
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
+  - performance_date: 3 MAR 2026
+    performance_title: Gelevera Deresi
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
+  - performance_date: 3 MAR 2026
+    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano)
+    venue: Classeek
+    performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
+    city_state: Virtual
+    url: https://classeek.com/concerts/program/chamber-music-concert,65
+    ignore_string: Gulistan
   - performance_date: 28 FEB 2026
     performance_title: Family Photos
     venue: Massachusetts Chamber Music Artists
