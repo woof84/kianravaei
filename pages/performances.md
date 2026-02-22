@@ -94,7 +94,7 @@ performances:
   - performance_date: 21 FEB 2026
     performance_title: Navazi
     venue: Bowling Green State University Praecepta Mini-Fest
-    performers: Natalia Velásquez and Jake Weil, violas
+    performers: Natalia Velásquez &amp; Jake Weil, violas
     city_state: Bowling Green, OH
   - performance_date: 15 FEB 2026
     performance_title: Navazi
