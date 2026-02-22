@@ -81,6 +81,21 @@ performances:
     venue: Lewis University
     performers: Metropolitan Youth Symphony Orchestra; Peter Lipari, conductor
     city_state: Romeoville, IL
+  - performance_date: 21 FEB 2026
+    performance_title: Outcry
+    venue: Bowling Green State University Praecepta Mini-Fest
+    performers: Mary Jo Johnson, violin
+    city_state: Bowling Green, OH
+  - performance_date: 21 FEB 2026
+    performance_title: Day of Rest
+    venue: Bowling Green State University Praecepta Mini-Fest
+    performers: Haley Harrison, clarinet; Nia Javaheri, piano
+    city_state: Bowling Green, OH
+  - performance_date: 21 FEB 2026
+    performance_title: Navazi
+    venue: Bowling Green State University Praecepta Mini-Fest
+    performers: Natalia Velásquez and Jake Weil, violas
+    city_state: Bowling Green, OH
   - performance_date: 15 FEB 2026
     performance_title: Navazi
     venue: Gather NYC
