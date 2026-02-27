@@ -26,6 +26,7 @@ performances:
     venue: Philadelphia Chamber Music Society
     performers: Lucy Fitz Gibbon, soprano; Julia Yang, cello; Amy Yang, piano
     city_state: Philadelphia, PA
+    url: https://www.pcmsconcerts.org/concerts/fitz-gibbon-yangj-yanga2026/
     ignore_string: Gulistan
   - performance_date: 23 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano) (Excerpt)
