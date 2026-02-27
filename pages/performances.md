@@ -21,6 +21,12 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 24 MAY 2026
+    performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
+    venue: Philadelphia Chamber Music Society
+    performers: Lucy Fitz Gibbon, soprano; Julia Yang, cello; Amy Yang, piano
+    city_state: Philadelphia, PA
+    ignore_string: Gulistan
   - performance_date: 23 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano) (Excerpt)
     venue: SongEasel
