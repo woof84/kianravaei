@@ -9,6 +9,13 @@ performances:
     performers: James Austin Smith, oboe
     city_state: New York, NY
     url: https://www.carnegiehall.org/Calendar/2027/04/14/James-Austin-Smith-Oboe-Shai-Wosner-Piano-0730PM
+  - performance_date: 1 MAR 2027
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: Philadelphia Chamber Music Society
+    performers: Trio Afiori (Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano)
+    city_state: Philadelphia, PA
+    url: https://www.pcmsconcerts.org/concerts/trio-afiori/
+    ignore_string: Gulistan
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
