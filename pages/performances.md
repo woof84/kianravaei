@@ -84,6 +84,12 @@ performances:
     city_state: Virtual
     url: https://classeek.com/concerts/program/chamber-music-concert,65
     ignore_string: Gulistan
+  - performance_date: 1 MAR 2026
+    performance_title: The Little Things
+    venue: University of Victoria School of Music
+    performers: Viano Quartet
+    city_state: Victoria, Canada
+    url: https://events.uvic.ca/music/event/103076-guest-concert-viano-quartet
   - performance_date: 28 FEB 2026
     performance_title: Family Photos
     venue: Massachusetts Chamber Music Artists
