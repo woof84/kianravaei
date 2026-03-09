@@ -16,6 +16,13 @@ performances:
     city_state: Philadelphia, PA
     url: https://www.pcmsconcerts.org/concerts/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 23 FEB 2027
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: Schubert Club
+    performers: Trio Afiori (Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano)
+    city_state: Saint Paul, MN
+    url: https://schubert.org/event/trio-afiori/
+    ignore_string: Gulistan
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
