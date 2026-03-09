@@ -246,11 +246,6 @@ performances:
     city_state: Barcelona, Spain
     performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
   - performance_date: 26 OCT 2025
-    performance_title: I Will Greet the Sun Again
-    venue: Festival LIFE Victoria
-    city_state: Barcelona, Spain
-    performers: Fleur Barron, mezzo-soprano; Kunal Lahiry, piano
-  - performance_date: 26 OCT 2025
     performance_title: Day of Rest
     venue: Toledo Museum of Art
     city_state: Toledo, OH
