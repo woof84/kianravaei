@@ -23,4 +23,7 @@ tags:
  - Mythology
 ---
 
-In this string quartet—my third and longest—I wanted to evoke places that have been the subject of human fantasy, but which we can never visit. The piece charts a course through these “Neverlands,” comprising mythological places (II-III), the bad and good afterlives (V-VI), fictional dystopias (VIII-IX), and the roads between them (I, IV, & VII). Movement X depicts the homeward trek that brings every journey back to its point of departure.
+In this string quartet, I evoke places that have been the subject of human fantasy, but we can never visit. The piece charts a course through these “Neverlands,” comprising mythological places (II-III), the bad and good afterlives (V-VI), fictional dystopias (VIII-IX), and the roads between them (I, IV, & VII). Movement X depicts the homeward trek that brings every journey back to its point of departure.
+
+<img src="{{ site.urlimg }}neverlands-map.jpg" alt="Map of Neverlands by Agustina Elizondo">
+<span style="font-size: 0.8em; color: #777;">Map by Agustina Elizondo</span>
