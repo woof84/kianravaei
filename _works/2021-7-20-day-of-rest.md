@@ -7,6 +7,8 @@ commissioner: Willinger Duo
 year_composed: 2021
 score_url: https://issuu.com/kianravaei/docs/00_day_of_rest_-_score_-_ed_2
 duration: 6'
+youtube:
+ - url-code: J4axQl_Ax1c
 purchase:
  - title: Day of Rest Score &amp; Part - Instant PDF Download (9 x 12)
    price: $30.00
