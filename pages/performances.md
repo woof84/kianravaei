@@ -16,6 +16,13 @@ performances:
     city_state: Philadelphia, PA
     url: https://www.pcmsconcerts.org/concerts/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 28 FEB 2027
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: Shriver Hall Concert Series
+    performers: Trio Afiori (Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano)
+    city_state: Baltimore, MD
+    url: https://www.shriverconcerts.org/trioafiori
+    ignore_string: Gulistan
   - performance_date: 23 FEB 2027
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Schubert Club
