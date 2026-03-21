@@ -65,8 +65,8 @@ performances:
     performance_title: iPod Variations
     venue: Mostly Music
     performers: Tara Helen O'Connor, flute; Daniel Phillips, violin
-    city_state: Westfield, NJ
-    url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
+    city_state: Winchester, MA
+    url: https://www.sheffieldchamberplayers.org/event-details/reminiscences-at-wright-locke-farm
   - performance_date: 17 APR 2026
     performance_title: California Suite (excerpt)
     venue: Hoff-Barthelson Music School
@@ -77,6 +77,12 @@ performances:
     venue: Hoff-Barthelson Music School
     performers: Aster Paerels, cello
     city_state: Scarsdale, NY
+  - performance_date: 12 APR 2026
+    performance_title: Neverlands
+    venue: Wright-Locke Farm
+    performers: Sheffield Chamber Players
+    city_state: Westfield, NJ
+    url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
   - performance_date: 22 MAR 2026
     performance_title: Cradle Songs
     venue: Mingei International Museum
