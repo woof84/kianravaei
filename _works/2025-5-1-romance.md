@@ -5,7 +5,9 @@ instrumentation: cello &amp; piano
 category_music: Chamber Ensemble
 commissioner: Yoshika Masuda
 year_composed: 2025
-duration: 10'
+duration: 8'
+youtube:
+ - url-code: c9hutcVqp0A
 purchase:
  - title: Romance (After Layla and Majnun) Score &amp; Part - Instant PDF Download (9 x 12)
    price: $40.00
