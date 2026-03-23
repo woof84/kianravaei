@@ -30,6 +30,12 @@ performances:
     city_state: Saint Paul, MN
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 9 JUL 2026
+    performance_title: A Free People
+    venue: Seattle Chamber Music Society
+    performers: Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
+    city_state: Seattle, WA
+    url: https://www.seattlechambermusic.org/events/july-9-2026/
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
@@ -66,7 +72,7 @@ performances:
     venue: Mostly Music
     performers: Tara Helen O'Connor, flute; Daniel Phillips, violin
     city_state: Winchester, MA
-    url: https://www.sheffieldchamberplayers.org/event-details/reminiscences-at-wright-locke-farm
+    url: https://mostlymusic.org/
   - performance_date: 17 APR 2026
     performance_title: California Suite (excerpt)
     venue: Hoff-Barthelson Music School
@@ -81,8 +87,18 @@ performances:
     performance_title: Neverlands
     venue: Wright-Locke Farm
     performers: Sheffield Chamber Players
-    city_state: Westfield, NJ
-    url: https://www.eventbrite.com/e/frank-j-natale-concert-series-icarus-quartet-tickets-1665676807169?aff=oddtdtcreator
+    city_state: Winchester, MA
+    url: https://www.sheffieldchamberplayers.org/event-details/reminiscences-at-wright-locke-farm
+  - performance_date: 3 APR 2026
+    performance_title: Neverlands
+    venue: Private Home
+    performers: Sheffield Chamber Players
+    city_state: Boston, MA
+  - performance_date: 2 APR 2026
+    performance_title: Neverlands
+    venue: Private Home
+    performers: Sheffield Chamber Players
+    city_state: Boston, MA
   - performance_date: 22 MAR 2026
     performance_title: Cradle Songs
     venue: Mingei International Museum
