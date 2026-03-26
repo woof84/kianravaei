@@ -62,6 +62,11 @@ performances:
     city_state: London, UK
     ignore_string: Gulistan
   - performance_date: 19 APR 2026
+    performance_title: Ecstasies
+    venue: University of North Carolina, Greensboro
+    performers: Amrutha Koteeswaran, flute
+    city_state: Greensboro, NC
+  - performance_date: 19 APR 2026
     performance_title: Superhuman
     venue: Frank J. Natale Concert Series
     performers: icarus Quartet
