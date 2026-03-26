@@ -83,6 +83,12 @@ performances:
     venue: Hoff-Barthelson Music School
     performers: Aster Paerels, cello
     city_state: Scarsdale, NY
+  - performance_date: 17 APR 2026
+    performance_title: Common Folk - Premiere
+    venue: Marlboro Music
+    performers: Abeo Quartet
+    city_state: Marlboro, VT
+    url: https://www.eventbrite.com/e/artist-residency-concert-abeo-string-quartet-tickets-1797105223099
   - performance_date: 12 APR 2026
     performance_title: Neverlands
     venue: Wright-Locke Farm
