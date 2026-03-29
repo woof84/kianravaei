@@ -30,6 +30,12 @@ performances:
     city_state: Saint Paul, MN
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 25 JUL 2026
+    performance_title: Love-Drunk Fantasy - Premiere
+    venue: Musicfest Aberystwyth
+    performers: Thomas Mathias, violin; Aberystwyth Philomusica; Iwan Davies, conductor
+    city_state: Aberystwyth, Wales
+    url: https://musicfestaberystwyth.org/events/the-land-of-youth/
   - performance_date: 9 JUL 2026
     performance_title: A Free People
     venue: Seattle Chamber Music Society
