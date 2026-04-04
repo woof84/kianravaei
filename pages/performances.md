@@ -54,6 +54,12 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 14 JUN 2026
+    performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
+    venue: Chesapeake Chamber Music Festival
+    performers: Lucy Fitz Gibbon, soprano; Julia Yang, cello; Lydia Brown, piano
+    city_state: Chesapeake, VA
+    url: https://chesapeakemusic.org/festival-2026/heritage-and-home/
   - performance_date: 24 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
     venue: Philadelphia Chamber Music Society
