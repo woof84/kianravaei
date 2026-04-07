@@ -42,6 +42,12 @@ performances:
     performers: Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
     city_state: Seattle, WA
     url: https://www.seattlechambermusic.org/events/july-9-2026/
+  - performance_date: 30 JUN 2026
+    performance_title: From the Heart to the Heart
+    venue: Classical Music Chicago Rush Hour Concerts
+    performers: Sang Mee Lee, violin; Arturo Ziraldo, viola; Marina Hooever, cello; Kuang-Hao Huang, piano
+    city_state: Chicago, IL
+    url: https://classicalmusicchicago.org/events/sisters-in-sound-3
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
