@@ -42,6 +42,12 @@ performances:
     performers: Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
     city_state: Seattle, WA
     url: https://www.seattlechambermusic.org/events/july-9-2026/
+  - performance_date: 3 JUL 2026
+    performance_title: A Free People
+    venue: Mimir Chamber Music Festival
+    performers: Jun Iwasaki &amp; Curt Thompson, violins; Joan DerHovsepian, viola; Brant Taylor, cello
+    city_state: Fort Worth, TX
+    url: https://www.mimirfestival.org/event-detail/7-3-2026-123-concert-2.html
   - performance_date: 30 JUN 2026
     performance_title: From the Heart to the Heart
     venue: Classical Music Chicago Rush Hour Concerts
