@@ -3,6 +3,12 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 15 MAY 2027
+    performance_title: New Work
+    venue: Zipper Hall at the Colburn School
+    performers: Los Angeles Chamber Orchestra; Jaime Martín, conductor
+    city_state: Los Angeles, CA
+    url: https://www.laco.org/events/brahms-beethoven-ravaei/
   - performance_date: 14 APR 2027
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
