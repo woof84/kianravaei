@@ -9,7 +9,7 @@ duration: 6'
 language: Turkish
 text_writer: Turkish Traditional
 purchase:
- - title: Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano) - Instant PDF Download
+ - title: Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano) Score &amp; Part - Instant PDF Download
    price: $30.00
    product-key: m1WlQ
 youtube:

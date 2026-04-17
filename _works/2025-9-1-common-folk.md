@@ -11,6 +11,10 @@ movements:
  - movement: II. The Laughing Fool
  - movement: III. Woman with a Lute
  - movement: IV. The Peasant Dance
+purchase:
+ - title: Common Folk Score &amp; Parts - Instant PDF Download
+   price: $80.00
+   product-key: i9m1b
 tags: 
  - Spirituality
  - Western Music History
