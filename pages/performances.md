@@ -78,6 +78,7 @@ performances:
     performers: Lucy Fitz Gibbon, soprano; Julia Yang, cello; Lydia Brown, piano
     city_state: Chesapeake, VA
     url: https://chesapeakemusic.org/festival-2026/heritage-and-home/
+    ignore_string: Gulistan
   - performance_date: 24 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
     venue: Philadelphia Chamber Music Society
