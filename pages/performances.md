@@ -49,7 +49,7 @@ performances:
     city_state: Seattle, WA
     url: https://www.seattlechambermusic.org/events/july-9-2026/
   - performance_date: 9 JUL 2026
-    performance_title: Lecture on A Free People
+    performance_title: A Free People - Lecture
     venue: Seattle Chamber Music Society
     performers: Kian Ravaei, lecturer
     city_state: Seattle, WA
