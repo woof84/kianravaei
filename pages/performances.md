@@ -48,6 +48,12 @@ performances:
     performers: Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
     city_state: Seattle, WA
     url: https://www.seattlechambermusic.org/events/july-9-2026/
+  - performance_date: 9 JUL 2026
+    performance_title: Lecture on A Free People
+    venue: Seattle Chamber Music Society
+    performers: Kian Ravaei, lecturer
+    city_state: Seattle, WA
+    url: https://www.seattlechambermusic.org/events/sf26-lecture3/
   - performance_date: 3 JUL 2026
     performance_title: A Free People
     venue: Mimir Chamber Music Festival
@@ -92,6 +98,12 @@ performances:
     performers: Negin Ragazzhi, soprano; Joe Zeitlin, cello; Jocelyn Freeman, piano
     city_state: London, UK
     ignore_string: Gulistan
+  - performance_date: 28 APR 2026
+    performance_title: Ecstasies
+    venue: Yale Center for Collaborative Arts and Media
+    performers: Carter Reynolds, flute
+    city_state: New Haven, CT
+    url: https://ccam.yale.edu/calendar/events/ccam-yale-school-music-flute-studio-reimagining-continuo-flute-sonic-breath-signal
   - performance_date: 19 APR 2026
     performance_title: Ecstasies
     venue: University of North Carolina, Greensboro
