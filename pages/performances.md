@@ -98,6 +98,11 @@ performances:
     performers: Negin Ragazzhi, soprano; Joe Zeitlin, cello; Jocelyn Freeman, piano
     city_state: London, UK
     ignore_string: Gulistan
+  - performance_date: 23 MAY 2026
+    performance_title: The Little Things (Excerpts)
+    venue: 9th Street Quartet String Quartet Intensive
+    performers: James Post &amp; Caitlyn Park, violins; Kweku Adusei-Poku, viola; Ari McCarter, cello
+    city_state: Arlington, VA
   - performance_date: 28 APR 2026
     performance_title: Ecstasies
     venue: Yale Center for Collaborative Arts and Media
