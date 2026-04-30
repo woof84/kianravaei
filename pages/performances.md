@@ -85,6 +85,13 @@ performances:
     city_state: Chesapeake, VA
     url: https://chesapeakemusic.org/festival-2026/heritage-and-home/
     ignore_string: Gulistan
+  - performance_date: 31 MAY 2026
+    performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
+    venue: Marly Music Series at Museum of Fine Arts, St. Petersburg
+    performers: Christine Honein, soprano; Bree Ahern, cello; Wesley Ducote, piano
+    city_state: St. Petersburg, FL
+    url: https://mfastpete.org/event/marly-music-roses-of-golestan/
+    ignore_string: Gulistan
   - performance_date: 24 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
     venue: Philadelphia Chamber Music Society
