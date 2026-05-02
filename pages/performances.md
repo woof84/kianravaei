@@ -66,6 +66,13 @@ performances:
     performers: Sang Mee Lee, violin; Arturo Ziraldo, viola; Marina Hooever, cello; Kuang-Hao Huang, piano
     city_state: Chicago, IL
     url: https://classicalmusicchicago.org/events/sisters-in-sound-3
+  - performance_date: 22 JUN 2026
+    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano) (Excerpt)
+    venue: Süreyya Operası - Kadıköy Belediyesi
+    performers: eride Büyükdenktaş, mezzo-soprano; Saskia Giorgini, piano
+    city_state: Istanbul, Turkey
+    url: https://sureyyaoperasi.kadikoy.bel.tr/tr/programlar/festival-bulusmasi-906
+    ignore_string: Gulistan
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
@@ -110,6 +117,11 @@ performances:
     venue: 9th Street Quartet String Quartet Intensive
     performers: James Post &amp; Caitlyn Park, violins; Kweku Adusei-Poku, viola; Ari McCarter, cello
     city_state: Arlington, VA
+  - performance_date: 1 MAY 2026
+    performance_title: Common Folk
+    venue: The Juilliard School
+    performers: Pierce Wang, violin 1; Luke Henderson, violin 2; John Tobin, viola; Nagyeom Jang, cello
+    city_state: New York, NY
   - performance_date: 28 APR 2026
     performance_title: Ecstasies
     venue: Yale Center for Collaborative Arts and Media
@@ -190,7 +202,7 @@ performances:
     city_state: Virtual
     url: https://classeek.com/concerts/program/chamber-music-concert,65
   - performance_date: 3 MAR 2026
-    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano)
+    performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano) (Excerpt)
     venue: Classeek
     performers: Elmina Hasan, mezzo-soprano; Illia Ovcharenko, piano 
     city_state: Virtual
