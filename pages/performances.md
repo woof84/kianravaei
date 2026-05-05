@@ -117,6 +117,13 @@ performances:
     venue: 9th Street Quartet String Quartet Intensive
     performers: James Post &amp; Caitlyn Park, violins; Kweku Adusei-Poku, viola; Ari McCarter, cello
     city_state: Arlington, VA
+  - performance_date: 9 MAY 2026
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Cal Performances
+    city_state: Berkeley, CA
+    performers: Lara Downes, piano
+    url: https://calperformances.org/events/2025-26/illuminations-exile-sanctuary/lara-downes-and-friends-this-land-reflections-on-america/
+    ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 1 MAY 2026
     performance_title: Common Folk
     venue: The Juilliard School
