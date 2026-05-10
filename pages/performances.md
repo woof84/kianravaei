@@ -117,6 +117,13 @@ performances:
     venue: 9th Street Quartet String Quartet Intensive
     performers: James Post &amp; Caitlyn Park, violins; Kweku Adusei-Poku, viola; Ari McCarter, cello
     city_state: Arlington, VA
+  - performance_date: 1 AUG 2025
+    performance_title: Pluck (Version for String Quintet)
+    venue: The Rady Shell at Jacobs Park
+    city_state: San Diego, CA
+    performers: Musicians of the San Diego Symphony
+    url: https://www.theshell.org/ticket-information/rady-shell-special-events/onstage-with-blais/
+    ignore_string: Pluck
   - performance_date: 9 MAY 2026
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Cal Performances
@@ -492,7 +499,7 @@ performances:
     city_state: Tualaton, OR
     url: https://wccls.bibliocommons.com/events/685d8cf47845026da0e9062d
   - performance_date: 1 AUG 2025
-    performance_title: Pluck (Version for String Quintet)
+    performance_title: Pluck (Version for String Quartet)
     venue: Tenby International Music Festival
     city_state: Tenby, Wales
     performers: Hana Mizuta-Spencer, violin 1; Tabitha Appel violin 2; Thomas Mathias, violin 3; Felix Pascoe, viola; Hugh Mackay, cello
