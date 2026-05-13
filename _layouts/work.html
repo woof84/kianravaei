@@ -193,16 +193,19 @@ header:
         {% assign haspress = false %}
         {% for entry in site.data.press %}
             {% if entry.piece == page.title %}
-              {% assign haspress = true %}
+            {% assign haspress = true %}
             {% endif %}
         {% endfor %}
+
         {% if haspress == true %}
         <div class="panel radius">
             <h3>Press</h3>
-            {% for item in site.data.press %}
+            {% assign reversed_press = site.data.press | reverse %}
+            
+            {% for item in reversed_press %}
             {% if item.piece == page.title %}
-              <ul class="no-bullet">
-              <li><strong>{{ item.date }}</strong></li>
+            <ul class="no-bullet">
+            <li><strong>{{ item.date }}</strong></li>
                 {% if item.title %}
                 <li>
                 {% if item.link %}
@@ -223,7 +226,7 @@ header:
                 <i> {{ item.publication }}</i></li>
                 {% endif %}
             {% endif %}
-          </ul>
+        </ul>
             {% endfor %}
         </div>
         {% endif %}
@@ -233,7 +236,9 @@ header:
         {% if page.broadcasts %}
         <div class="panel radius">
             <h3>Broadcasts</h3>
-            {% for item in page.broadcasts %}
+            {% assign reversed_broadcasts = page.broadcasts | reverse %}
+            
+            {% for item in reversed_broadcasts %}
             <ul class="no-bullet">
             <li><strong>{{ item.date }}</strong></li>
                 {% if page.title %}
