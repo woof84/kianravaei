@@ -175,6 +175,12 @@ performances:
     performers: Abeo Quartet
     city_state: Marlboro, VT
     url: https://www.eventbrite.com/e/artist-residency-concert-abeo-string-quartet-tickets-1797105223099
+  - performance_date: 16 APR 2026
+    performance_title: Marvels of Creatures and Strange Things Existing (Excerpts)
+    venue: Zurich University of the Arts
+    performers: Ma Ciyue, piano
+    city_state: Zürich, Germany
+    url: https://www.zhdk.ch/veranstaltung/61369
   - performance_date: 12 APR 2026
     performance_title: Neverlands
     venue: Wright-Locke Farm
@@ -521,6 +527,12 @@ performances:
     city_state: New York, NY
     performers: Brandon Patrick George, flute
     url: https://littleisland.org/event/cecile-mclorin-salvant/
+  - performance_date: 17 JUL 2025
+    performance_title: The Little Things
+    venue: Monadnock Music
+    city_state: Westmoreland, NH
+    performers: Monadnock String Quartet
+    url: https://www.marlboromusic.org/visit/monadnock-music/
   - performance_date: 15 JUL 2025
     performance_title: Navazi
     venue: Newport Classical Music Festival
