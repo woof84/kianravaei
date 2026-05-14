@@ -6,10 +6,10 @@ header:
     image_fullwidth_staff: ravaei_header.png
 ---
 
-See the tutorial video below for set-up and usage instructions, or scroll down for troubleshooting information. For additional support, please <a href="{{ site.url }}{{ site.baseurl }}/contact/">contact Kian</a>. _Updated 2026-05-14._
+See the tutorial video below for setup and usage instructions, or scroll down for troubleshooting information. For additional support, please <a href="{{ site.url }}{{ site.baseurl }}/contact/">contact Kian</a>. _Updated 2026-05-14._
 
 <div class="center flex-video widescreen vimeo">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ToPoSVmJKoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dJJ4J4F1MXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Downloads
