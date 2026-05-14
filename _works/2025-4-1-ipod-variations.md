@@ -34,3 +34,4 @@ In _iPod Variations_, I return to the music I loved as a teenager in an attempt 
  
 By adding to the flute and violin soloists an arsenal of recorded instruments—harpsichord, fretless bass, Hammond B-3 organ, Persian tār, and video game sound chips, to name a few—I tried to condense ten years of listening into roughly ten minutes of music, paying homage to guitar-shredding heroes (I, II, IV), jazz idols (III, V), and electronic music masters (II, VI). Like Bach’s Goldberg Variations, the piece ends with a return to the opening aria—but now in an idealized rendering, as though seen through the lens of a nostalgic memory.
  
+_For electronics setup and usage instructions, visit the <a href="{{ site.url }}{{ site.baseurl }}/ipod-variations-help/">help guide</a>._
