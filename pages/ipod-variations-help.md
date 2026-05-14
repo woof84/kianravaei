@@ -12,6 +12,16 @@ See the tutorial video below for setup and usage instructions, or scroll down fo
     <iframe width="560" height="315" src="https://www.youtube.com/embed/meHX0E88xjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Setup Diagram
+
+<div class="row">
+  <div class="twelve columns">
+    <img src="{{ site.urlimg }}ipod-variations-setup.svg"
+         alt="iPod variations setup"
+         class="scale-with-grid">
+  </div>
+</div>
+
 ## Downloads
 
 * [Max](https://cycling74.com/downloads) (Download the free version, it is not necessary to have a trial of the paid version)
