@@ -6,7 +6,7 @@ header:
     image_fullwidth_staff: ravaei_header.png
 ---
 
-See the tutorial video below for setup and usage instructions, or scroll down for troubleshooting information. For additional support, please <a href="{{ site.url }}{{ site.baseurl }}/contact/">contact Kian</a>. _Updated 2026-05-14._
+See the tutorial video below for setup and usage instructions, or scroll down for troubleshooting information. For additional support, please <a href="{{ site.url }}{{ site.baseurl }}/contact/">contact Kian</a>.
 
 <div class="center flex-video widescreen vimeo">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/meHX0E88xjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,4 +43,4 @@ In rare instances, there is an issue with the latest issue of Miraweb. Open the 
 
 Try downloading version 9.1.2 from the [Max](https://cycling74.com/downloads) website, and reopening the iPod Variations project file. Turning your computer off and on again is always worth a try. If the issue persists, please <a href="{{ site.url }}{{ site.baseurl }}/contact/">contact Kian</a>.
 
-<br>
+_Updated 2026-05-14_
