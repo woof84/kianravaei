@@ -109,7 +109,7 @@ performances:
   - performance_date: 23 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano) (Excerpt)
     venue: SongEasel
-    performers: Negin Ragazzhi, soprano; Joe Zeitlin, cello; Jocelyn Freeman, piano
+    performers: Theano Papadaki, soprano; Joe Zeitlin, cello; Jocelyn Freeman, piano
     city_state: London, UK
     ignore_string: Gulistan
   - performance_date: 23 MAY 2026
