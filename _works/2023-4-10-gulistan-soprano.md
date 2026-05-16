@@ -11,6 +11,8 @@ text_writer: Azerbaijani Traditional, Maud Irving, Iranian Traditional, English 
 movements:
  - movement: Part 1 (Sari Gelin &amp; Wildwood Flower)
  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
+soundcloud: 
+ - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1900323348&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 broadcasts:
  - date: 18 AUG 2024
    station: Vermont Public Classical
