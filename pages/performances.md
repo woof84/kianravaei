@@ -79,6 +79,24 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Boylston, MA
     url: https://www.juventasmusic.org/music-in-bloom-2026
+  - performance_date: 20 JUN 2026
+    performance_title: The Little Things
+    venue: Winkel Gallery
+    performers: Continuum Chamber Collective
+    city_state: Baltimore, MD
+    url: https://www.continuumchamber.org/performance/dacapo7
+  - performance_date: 19 JUN 2026
+    performance_title: The Little Things
+    venue: Private Home
+    performers: Continuum Chamber Collective
+    city_state: Baltimore, MD
+    url: https://www.continuumchamber.org/performance/dacapo6
+  - performance_date: 16 JUN 2026
+    performance_title: The Little Things
+    venue: Quincy Village
+    performers: Continuum Chamber Collective
+    city_state: Waynesboro, PA
+    url: https://www.continuumchamber.org/performance/dacapo5
   - performance_date: 14 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
@@ -92,6 +110,30 @@ performances:
     city_state: Chesapeake, VA
     url: https://chesapeakemusic.org/festival-2026/heritage-and-home/
     ignore_string: Gulistan
+  - performance_date: 14 JUN 2026
+    performance_title: The Little Things
+    venue: Honey Acres Music Center
+    performers: Continuum Chamber Collective
+    city_state: Boyds, MD
+    url: https://www.continuumchamber.org/performance/dacapo4
+  - performance_date: 6 JUN 2026
+    performance_title: The Little Things
+    venue: The Nisei Gallery
+    performers: Continuum Chamber Collective
+    city_state: Fort Ritchie, MD
+    url: https://www.continuumchamber.org/performance/dacapo3
+  - performance_date: 5 JUN 2026
+    performance_title: The Little Things
+    venue: Wee Scot Book Shoppe
+    performers: Continuum Chamber Collective
+    city_state: Waynesboro, PA
+    url: https://www.continuumchamber.org/performance/dacapo2
+  - performance_date: 4 JUN 2026
+    performance_title: The Little Things
+    venue: Private Home
+    performers: Continuum Chamber Collective
+    city_state: Washington, DC
+    url: https://www.continuumchamber.org/performance/dacapo1
   - performance_date: 31 MAY 2026
     performance_title: Gulistan (Version for Soprano, Cello, &amp; Piano)
     venue: Marly Music Series at Museum of Fine Arts, St. Petersburg
