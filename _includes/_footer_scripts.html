@@ -63,7 +63,21 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+<!-- Purchase digital vs. physical test -->
+<script>
+  const editionSelect = document.getElementById("edition");
+  const buyButton = document.getElementById("buyButton");
 
+  function updateButton() {
+    const productCode = editionSelect.value;
+    buyButton.dataset.product = productCode;
+    buyButton.dataset.url = `https://payhip.com/b/${productCode}`;
+  }
+
+  editionSelect.addEventListener("change", updateButton);
+
+  updateButton();
+</script>
 
 {% comment %}
 #  Start of Tawk.to Script
