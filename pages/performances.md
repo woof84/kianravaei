@@ -36,6 +36,16 @@ performances:
     city_state: Saint Paul, MN
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 4 OCT 2026
+    performance_title: New Work
+    venue: First Presbyterian Church Concert Series
+    performers: Colere Quartet
+    city_state: Jonesboro, Arkansas
+  - performance_date: 3 OCT 2026
+    performance_title: New Work
+    venue: Beethoven Club of Memphis
+    performers: Colere Quartet
+    city_state: Memphis, Tennessee
   - performance_date: 25 JUL 2026
     performance_title: Love-Drunk Fantasy - Premiere
     venue: Musicfest Aberystwyth
