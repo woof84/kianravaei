@@ -76,6 +76,12 @@ performances:
     performers: Sang Mee Lee, violin; Arturo Ziraldo, viola; Marina Hooever, cello; Kuang-Hao Huang, piano
     city_state: Chicago, IL
     url: https://classicalmusicchicago.org/events/sisters-in-sound-3
+  - performance_date: 21 JUN 2026
+    performance_title: Caprice
+    venue: Apple Hill Center for Chamber Music
+    performers: Ralph Allen, violin; Iris Jortner, cello
+    city_state: Nelson, NH
+    url: https://www.eventbrite.com/e/apple-hill-summer-concert-with-kypn-tickets-1991213483130
   - performance_date: 22 JUN 2026
     performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano) (Excerpt)
     venue: Süreyya Operası - Kadıköy Belediyesi
