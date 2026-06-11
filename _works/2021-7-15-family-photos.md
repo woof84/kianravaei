@@ -46,19 +46,19 @@ awards:
     - award_year: 2022
       award_title: ASCAP Foundation Morton Gould Award
       award_rank: Finalist
-purchase:
- - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
-   price: $80.00
-   product-key: mHKqt
-# purchase-multi:
-#   - name: Score & Parts
-#     options:
-#       - format: digital
-#         price: $80.00
-#         product-key: mHKqt
-#       - format: physical
-#         price: $100.00
-#         product-key: #####
+# purchase:
+#  - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
+#    price: $80.00
+#    product-key: mHKqt
+purchase-multi:
+  - name: Score & Parts
+    options:
+      - format: digital
+        price: $80.00
+        product-key: mHKqt
+      - format: physical
+        price: $100.00
+        product-key: LpxNT
 movements:
  - movement: I. At the Carnival
  - movement: II. On the Tehran Tower
