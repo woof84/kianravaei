@@ -25,9 +25,12 @@ youtube:
  - url-code: SCbD8mw2NCc
  - url-code: L8zBwXa1BHE
 awards:
- - award_year: 2025
-   award_title: Abundant Silence Composition Competition
-   award_rank: Honorable Mention
+  - award_year: 2025
+    award_title: Abundant Silence Composition Competition
+    award_rank: Honorable Mention
+  - award_year: 2024
+    award_title: Ensemble for These Times Call for Scores # for Marvels of Creatures and Strange Things Existing, V. The Sea Serpent
+    award_rank: Winner
 broadcasts:
  - date: 6–19 MAR 2023
    station: Classical Music Indy

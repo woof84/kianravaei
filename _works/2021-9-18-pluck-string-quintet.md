@@ -14,6 +14,7 @@ purchase:
    product-key: GL6kC
 other-versions:
  - version: Pluck
+ - version: Pluck (Version for String Quartet) 
 tags:
  - Western Music History
  - American Folk Music

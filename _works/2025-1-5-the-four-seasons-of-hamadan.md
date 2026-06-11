@@ -11,6 +11,10 @@ movements:
  - movement: II. Summer&colon; Tirgan &amp; Shavuot
  - movement: III. Autumn&colon; Mehregan &amp; Sukkot
  - movement: IV. Winter&colon; Yalda &amp; Hannukah
+# awards:
+# - award_year: 2025
+#   award_title: American String Teachers Association National Conference New Music Reading Session Call for Scores # for The Four Seasons of Hamadan (excerpt)
+#   award_rank: Winner
 purchase:
  - title: The Four Seasons of Hamadan - Instant PDF Download
    price: $40.00

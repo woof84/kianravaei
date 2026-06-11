@@ -162,26 +162,30 @@ header:
         </div>
         {% endif %}
 
-        <!--PURCHASE TEST-->
-        <!-- {% if page.purchase %}
+        <!--PURCHASE MULTI-->
+        {% if page.purchase-multi %}
         <div class="panel radius">
             <h3>Purchase</h3>
             <ul class="no-bullet">
-                {% for product in page.purchase %}
-                {% if product.title %}
-                <li {% if forloop.first == false %} style="margin-top: 20px;" {% endif %}><strong>{{ product.title }}</strong></li>
+                {% for product in page.purchase-multi %}
+                {% if product.name %}
+                <li {% if forloop.first == false %} style="margin-top: 20px;" {% endif %}><strong>{{ page.title }} - {{ product.name }}</strong></li>
                 {% endif %}
-                <li><select id="edition" name="edition"style="margin-bottom: 0; margin-top: 5px;">
-                  <option value="hTWtu" selected>Digital Edition - $20.00</option>
-                    <option value="AsKvN">Physical Edition - $30.00</option>
+                {% if product.format == "rental" %}
+                    <!-- <li>Available for rental.</li> -->
+                    <li style="text-align: center;"><a style="margin-bottom: 0; margin-top: 10px;" href="{{ site.url }}{{ site.baseurl }}/rental" class="button tiny expand score"><strong>Rental Inquiry Form ›</strong></a></li>
+                {% else %}
+                <li><select id="edition" name="edition" style="margin-bottom: 0; margin-top: 5px;">
+                {% for option in product.options %}
+                  <option value="{{ option.product-key }}" {% if forloop.first == true %} selected{% endif %}>{% if option.format == "digital" %} Instant PDF Download {% endif %} {% if option.format == "physical" %} Print Edition {% endif %} - {{ option.price }} USD</option>
+                {% endfor %}
                 </select></li>
-                {% if product.product-key %}
-                <li style="text-align: center;"><a style="margin-bottom: 0; margin-top: 10px;" class="payhip-add-to-cart-button button tiny expand score" id="buyButton" data-theme="none" data-product="{{ product.product-key }}"><strong>Add to Cart ›</strong></a></li>
+                <li style="text-align: center;"><a style="margin-bottom: 0; margin-top: 10px;" class="payhip-add-to-cart-button button tiny expand score" id="buyButton" data-theme="none" data-product="{{ option.product-key }}"><strong>Add to Cart ›</strong></a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
         </div>
-        {% endif %} -->
+        {% endif %}
 
         <!--Awards-->
 

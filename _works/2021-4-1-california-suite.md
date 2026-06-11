@@ -13,15 +13,18 @@ movements:
  - movement: III. Swainson's Hawk
  - movement: IV. California Black Rail
 awards:
- - award_year: 2023
-   award_title: Juventas New Music Ensemble Call for Scores
-   award_rank: Winner
- - award_year: 2022
-   award_title: Flute New Music Consortium Composition Competition
-   award_rank: Honorable Mention
- - award_year: 2021
-   award_title: Antonina Styczen Sunbeam Project Call for Scores
-   award_rank: Winner
+  - award_year: 2024
+    award_title: Arizona Flute Society Composition Competition # for California Suite
+    award_rank: Winner
+  - award_year: 2023
+    award_title: Juventas New Music Ensemble Call for Scores
+    award_rank: Winner
+  - award_year: 2022
+    award_title: Flute New Music Consortium Composition Competition
+    award_rank: Honorable Mention
+  - award_year: 2021
+    award_title: Antonina Styczen Sunbeam Project Call for Scores
+    award_rank: Winner
 youtube:
  - url-code: QQfPi-FyiFY
 recording:

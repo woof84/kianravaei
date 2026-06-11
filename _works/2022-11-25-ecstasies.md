@@ -7,6 +7,12 @@ commissioner: Ben Smolen
 year_composed: 2022
 duration: 10'
 awards:
+    - award_year: 2025
+      award_title: Eugene Difficult Music Ensemble New Music Festival Call for Scores # for Ecstasies
+      award_rank: Winner
+    - award_year: 2025
+      award_title: International Computer Music Conference Call for Scores # for Ecstasies
+      award_rank: Winner
     - award_year: 2023
       award_title: Score Follower Call for Scores
       award_rank: Winner

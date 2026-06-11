@@ -29,6 +29,9 @@ broadcasts:
    station: Performance Today
    url: https://www.yourclassical.org/episode/2025/10/15/pt
 awards:
+    - award_year: 2025
+      award_title: Golden Hornet String Quartet Smackdown IX # for The Little Things, Movements I and II
+      award_rank: Finalist
     - award_year: 2024
       award_title: The ASCAP Foundation Morton Gould Young Composer Award
       award_rank: Winner

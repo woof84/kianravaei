@@ -19,6 +19,10 @@ purchase:
  - title: iPod Variations Score &amp; Parts - Instant PDF Download
    price: $60.00
    product-key: AsKvN
+# awards:
+#   - award_year: 2026
+#     award_title: SEAMUS National Conference Call for Scores # for iPod Variations
+#     award_rank: Winner
 youtube:
  - url-code: 8fB7BhWK9jQ
 # soundcloud: 

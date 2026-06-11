@@ -8,6 +8,10 @@ year_composed: 2025
 duration: 8'
 youtube:
  - url-code: c9hutcVqp0A
+awards:
+  - award_year: 2026
+    award_title: Art Music Society Call for Scores # for Romance (After Layla and Majnun)
+    award_rank: Winner
 purchase:
  - title: Romance (After Layla and Majnun) Score &amp; Part - Instant PDF Download (9 x 12)
    price: $40.00

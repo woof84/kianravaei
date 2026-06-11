@@ -8,6 +8,9 @@ year_composed: 2021
 duration: 5'
 score_url: https://issuu.com/kianravaei/docs/00_chorale_fantasia_-_full_score_-_ed_3
 awards:
+    - award_year: 2026
+      award_title: Metropolitan Youth Symphony Orchestra Student Composition Competition # for Feeling New Strength
+      award_rank: Winner
     - award_year: 2022
       award_title: Tampa Bay Symphony Call for Scores
       award_rank: Semi-Finalist

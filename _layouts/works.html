@@ -95,7 +95,7 @@ header:
                 </p>
             </div>
             <div>
-              <h4>Featured Audio</h4>
+              <h4>Featured Work</h4>
               {% for item in site.data.featuredworks %}
               {% for work in site.works %}
               {% if work.title == item.featured-audio %}
@@ -115,6 +115,25 @@ header:
               {% endif %}
               {% endfor %}
               {% endfor %}
+            </div>
+            <div>
+                <h4>Discography</h4>
+                <div class="row" style="display: flex; flex-wrap: wrap;">
+                    {% for album in site.data.discography %}
+                    <div class="small-6 medium-12 columns" style="margin-bottom: 20px;">
+                        <ul class="no-bullet" style="color: dimgray; margin-bottom: 0;">
+                            <a href="{{ album.link }}" target="_blank" style="display: block; margin-bottom: 8px;">
+                                <img src="/images/{{ album.image }}" alt="{{ album.title }} album artwork" style="width: 100%; height: auto;">
+                            </a>
+                            <li style="line-height: 1.3; margin-bottom: 4px;">
+                                <b><a href="{{ album.link }}" target="_blank">{{ album.title }}</a></b> 
+                                <span>({% if album.label %}{{ album.label }}, {% endif %}{{ album.year }})</span>
+                            </li>
+                            <li style="color: dimgray; line-height: 1.3;">{{ album.artist }}</li>
+                        </ul>
+                    </div>
+                    {% endfor %}
+                </div>
             </div>
         </aside>
     </div><!-- /.medium-4.columns -->

@@ -8,6 +8,12 @@ duration: 10'
 commissioner: Salastina
 score_url: https://issuu.com/kianravaei/docs/00_family_photos_-_score_-_ed_5
 awards:
+    - award_year: 2026
+      award_title: Chamber Music Rochester Howard Hanson Young Composer Competition # for Family Photos
+      award_rank: Winner
+    - award_year: 2025
+      award_title: Hollywood Piano Call for Scores # for Family Photos
+      award_rank: Winner
     - award_year: 2024
       award_title: Zenith Chamber Music Festival Composition Competition
       award_rank: Winner
@@ -44,6 +50,15 @@ purchase:
  - title: Family Photos Score &amp; Parts - Instant PDF Download (9 x 12)
    price: $80.00
    product-key: mHKqt
+# purchase-multi:
+#   - name: Score & Parts
+#     options:
+#       - format: digital
+#         price: $80.00
+#         product-key: mHKqt
+#       - format: physical
+#         price: $100.00
+#         product-key: #####
 movements:
  - movement: I. At the Carnival
  - movement: II. On the Tehran Tower

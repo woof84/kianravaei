@@ -6,8 +6,29 @@ category_music: Large Ensemble
 orchestration: 2(II=p).2.2.2-2.2.0.0-1pc-hp-str
 year_composed: 2024
 duration: 8'
+awards:
+    - award_year: 2025
+      award_title: New England Philharmonic New Music Readings # for Majnun in the Wilderness
+      award_rank: Finalist
+    - award_year: 2025
+      award_title: Memphis Composers Institute Call for Scores # for Majnun in the Wilderness
+      award_rank: Honorable Mention
+    - award_year: 2024
+      award_title: Indiana University Jacobs School of Music New Voices for Orchestra Composition Competition # for Majnun in the Wilderness
+      award_rank: Winner
 youtube:
  - url-code: UeEfTwKJGOE
+# purchase-multi:
+#     - name: Score
+#       options:
+#         - format: digital
+#           price: $20.00
+#           product_code: #####
+#         - format: physical
+#           price: $35.00
+#           product_code: #####
+#     - name: Score & Parts
+#       format: rental
 tags:
  - Iranian Culture
  - Literature

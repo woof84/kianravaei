@@ -8,6 +8,9 @@ commissioner: Copland House
 year_composed: 2022
 duration: 5'
 awards:
+    - award_year: 2025
+      award_title: The Sound Ensemble Composition Competition # for Unstoppable
+      award_rank: Finalist
     - award_year: 2023
       award_title: The American Prize Ernst Bacon Memorial Award for the Performance of American Music (College/University Division)
       award_rank: First Prize
