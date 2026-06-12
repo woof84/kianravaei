@@ -2066,7 +2066,7 @@ header:
 ---
 
 
-<!--Same margins as page-->
+<!--Same margins as  page-->
 
 <div class="row t30">
 	<div class="medium-8 columns medium-offset-2 end">
