@@ -36,6 +36,12 @@ performances:
     city_state: Saint Paul, MN
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 28 NOV 2026
+    performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+    venue: Elbphilharmonie Hamburg
+    performers: Lara Downes, piano
+    city_state: Hamburg, Germany
+    url: https://www.elbphilharmonie.de/en/whats-on/lara-downes-piano/28424
   - performance_date: 4 OCT 2026
     performance_title: New Work
     venue: First Presbyterian Church Concert Series
@@ -82,12 +88,6 @@ performances:
     performers: Sang Mee Lee, violin; Arturo Ziraldo, viola; Marina Hooever, cello; Kuang-Hao Huang, piano
     city_state: Chicago, IL
     url: https://classicalmusicchicago.org/events/sisters-in-sound-3
-  - performance_date: 21 JUN 2026
-    performance_title: Caprice
-    venue: Apple Hill Center for Chamber Music
-    performers: Ralph Allen, violin; Iris Jortner, cello
-    city_state: Nelson, NH
-    url: https://www.eventbrite.com/e/apple-hill-summer-concert-with-kypn-tickets-1991213483130
   - performance_date: 22 JUN 2026
     performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano) (Excerpt)
     venue: Süreyya Operası - Kadıköy Belediyesi
@@ -95,6 +95,12 @@ performances:
     city_state: Istanbul, Turkey
     url: https://sureyyaoperasi.kadikoy.bel.tr/tr/programlar/festival-bulusmasi-906
     ignore_string: Gulistan
+  - performance_date: 21 JUN 2026
+    performance_title: Caprice
+    venue: Apple Hill Center for Chamber Music
+    performers: Ralph Allen, violin; Iris Jortner, cello
+    city_state: Nelson, NH
+    url: https://www.eventbrite.com/e/apple-hill-summer-concert-with-kypn-tickets-1991213483130
   - performance_date: 21 JUN 2026
     performance_title: Chāhār Mezrābe Māhur
     venue: New England Botanic Garden at Tower Hill
