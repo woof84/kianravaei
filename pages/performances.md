@@ -42,6 +42,7 @@ performances:
     performers: Lara Downes, piano
     city_state: Hamburg, Germany
     url: https://www.elbphilharmonie.de/en/whats-on/lara-downes-piano/28424
+    ignore_string: ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 4 OCT 2026
     performance_title: New Work
     venue: First Presbyterian Church Concert Series
