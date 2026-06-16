@@ -22,6 +22,10 @@ awards:
 score_url: https://issuu.com/kianravaei/docs/00_migration_variations_-_full_score
 soundcloud: 
  - url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/780559033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+see_also:
+ - Superhuman
+ - Marvels of Creatures and Strange Things Existing
+ - Gulistan
 tags:
  - Social Justice
 ---

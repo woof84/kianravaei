@@ -1,0 +1,11 @@
+<ul class="side-nav">
+    {% for piece in page.see_also %}
+    {% for post in site.works reversed %}
+    {% if piece == post.title %}
+    {% if post.hide == yes %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><span class="works-list-titles">{{ post.title }}</span><br>{% if post.work_subheading %} <span class="works-list-descriptions">{{ post.work_subheading }}</span>{% else %}<span class="works-list-descriptions">{{ post.year_composed }} / For {{ post.instrumentation }}</span>{% endif %}<span class="works-list-duration">{{ post.duration }}</span></a></li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+</ul>

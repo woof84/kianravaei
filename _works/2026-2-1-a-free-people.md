@@ -11,6 +11,10 @@ movements:
  - movement: II. Indictment
  - movement: III. Of Bondage and Freedom
  - movement: IV. Declaration
+see_also:
+ - The Little Things
+ - Family Photos
+ - Common Folk
 tags: 
  - American Folk Music
  - Social Justice

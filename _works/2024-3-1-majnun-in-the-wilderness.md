@@ -18,17 +18,21 @@ awards:
       award_rank: Winner
 youtube:
  - url-code: UeEfTwKJGOE
-# purchase-multi:
-#     - name: Score
-#       options:
-#         - format: digital
-#           price: $20.00
-#           product_code: #####
-#         - format: physical
-#           price: $35.00
-#           product_code: #####
-#     - name: Score & Parts
-#       format: rental
+purchase-multi:
+    # - name: Score
+    #   options:
+    #     - format: digital
+    #       price: $20.00
+    #       product_code: #####
+    #     - format: physical
+    #       price: $35.00
+    #       product_code: #####
+    - name: Score & Parts
+      format: rental
+see_also:
+ - Love-Drunk Fantasy
+ - Pluck
+ - Feeling New Strength
 tags:
  - Iranian Culture
  - Literature

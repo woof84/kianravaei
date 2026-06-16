@@ -1,6 +1,7 @@
 <ul class="side-nav">
     {% for post in site.works reversed %}
-    {% if post.category_music == page.subheadline %}
+    {% if post.category_music contains page.subheadline %}
+    <!-- {{ post.category_music }} -->
     {% if post.hide == yes %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<span class="works-list-titles">{{ post.title }}{% if post.star %}<i style="float: right; font-size: 75%" class="fa fa-star"></i>{% endif %}</span><br>{% if post.work_subheading %} <span class="works-list-descriptions">{{ post.work_subheading }}</span>{% else %}<span class="works-list-descriptions">{{ post.year_composed }} / For {{ post.instrumentation }}</span>{% endif %}<span class="works-list-duration">{{ post.duration }}</span></a></li>
     {% endif %}

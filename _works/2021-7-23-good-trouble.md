@@ -13,6 +13,10 @@ recording:
  - image: good-trouble_artwork.png
    alt-text: "Good Trouble album art"
    url: https://ffm.to/goodtrouble
+see_also:
+ - On the Road
+ - Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
+ - One Flesh
 tags:
  - Social Justice
 # star: yes

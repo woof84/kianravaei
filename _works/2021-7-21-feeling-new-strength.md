@@ -19,6 +19,10 @@ awards:
       award_rank: Third Prize
 youtube:
  - url-code: _IwKWfA_R3o
+see_also:
+ - Pluck
+ - Majnun in the Wilderness
+ - Love-Drunk Fantasy
 tags:
  - Western Music History
 ---

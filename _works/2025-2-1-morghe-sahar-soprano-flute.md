@@ -20,6 +20,10 @@ awards:
 other-versions:
  - version: Morghe Sahar (Bird of Dawn)
  - version: Morghe Sahar (Bird of Dawn) (Version for Soprano)
+see_also:
+ - Gulistan
+ - I Will Greet the Sun Again
+ - Gelevera Deresi
 tags:
  - Iranian Culture
  - Social Justice

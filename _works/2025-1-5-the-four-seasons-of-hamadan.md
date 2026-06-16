@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "The Four Seasons of Hamadan"
-instrumentation: violin &amp; dancer, or violin alone
+instrumentation: violin &amp; dancer, or solo violin
 year_composed: 2025
 category_music: Solo
 duration: 23'
@@ -34,6 +34,10 @@ broadcasts:
 youtube:
  - url-code: YnM5nxiVw_U
  - url-code: XvjJudx_z2A
+see_also:
+ - Cradle Songs
+ - Chāhār Mezrābe Māhur
+ - Navazi (Version for Violin &amp; Viola)
 tags: 
  - Family
  - Iranian Culture

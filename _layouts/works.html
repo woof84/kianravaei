@@ -116,6 +116,7 @@ header:
               {% endfor %}
               {% endfor %}
             </div>
+            {% if page.subheadline == "All" %}
             <div>
                 <h4>Discography</h4>
                 <div class="row" style="display: flex; flex-wrap: wrap;">
@@ -135,6 +136,7 @@ header:
                     {% endfor %}
                 </div>
             </div>
+            {% endif %}
         </aside>
     </div><!-- /.medium-4.columns -->
     {% endif %}

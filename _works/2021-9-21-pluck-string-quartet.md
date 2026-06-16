@@ -13,7 +13,11 @@ soundcloud:
 #    product-key: GL6kC
 other-versions:
  - version: Pluck
- - version: Pluck (Version for String Quintet) 
+ - version: Pluck (Version for String Quintet)
+see_also:
+ - Family Photos
+ - The Little Things
+ - Common Folk
 tags:
  - Western Music History
  - American Folk Music

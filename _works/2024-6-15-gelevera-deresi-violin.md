@@ -16,6 +16,9 @@ youtube:
  - url-code: l4u7bYhPsOQ
 other-versions:
  - version: Gelevera Deresi
+see_also:
+ - Gulistan
+ - I Will Greet the Sun Again
 tags:
  - Love
  - Mortality

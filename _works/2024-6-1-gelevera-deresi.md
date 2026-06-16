@@ -16,6 +16,10 @@ youtube:
  - url-code: 56tj7Fbvc4I
 other-versions:
  - version: Gelevera Deresi (Version for Mezzo-Soprano, Violin, &amp; Piano)
+see_also:
+ - Gulistan
+ - I Will Greet the Sun Again
+ - Morghe Sahar (Bird of Dawn)
 tags:
  - Love
  - Mortality

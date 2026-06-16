@@ -20,6 +20,7 @@ tags:
  - Poetry
  - Literature
  - Spirituality
+hide: yes
 ---
 
 It is astonishing how aptly these lines of Thomas Nashe, composed over 400 years ago, speak to the condition of humanity in the midst of the COVID-19 pandemic.

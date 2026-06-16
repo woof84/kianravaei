@@ -10,6 +10,21 @@ movements:
  - movement: Part 1 (The Question)
  - movement: Cadenza
  - movement: Part 2 (The Answer)
+purchase-multi:
+    # - name: Score
+    #   options:
+    #     - format: digital
+    #       price: $20.00
+    #       product_code: #####
+    #     - format: physical
+    #       price: $35.00
+    #       product_code: #####
+    - name: Score & Parts
+      format: rental
+see_also:
+ - Majnun in the Wilderness
+ - The Four Seasons of Hamadan
+ - Pluck
 tags:
  - Iranian Culture
  - Poetry

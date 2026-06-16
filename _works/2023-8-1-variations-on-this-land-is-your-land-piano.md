@@ -33,6 +33,10 @@ recording:
  - image: this-land.jpg
    alt-text: "Lara Downes This Land album art"
    url: https://www.pentatonemusic.com/product/this-land/
+see_also:
+ - Good Trouble
+ - Marvels of Creatures and Strange Things Existing
+ - Prelude and Fugue in C-Sharp
 tags: 
  - Social Justice
  - American Folk Music

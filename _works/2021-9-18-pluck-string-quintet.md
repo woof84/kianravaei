@@ -15,6 +15,10 @@ purchase:
 other-versions:
  - version: Pluck
  - version: Pluck (Version for String Quartet) 
+see_also:
+ - Family Photos
+ - The Little Things
+ - Common Folk
 tags:
  - Western Music History
  - American Folk Music

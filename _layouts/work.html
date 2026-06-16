@@ -41,6 +41,27 @@ header:
         {% endif %}
         {% endfor %}
 
+        <!--Press Quote-->
+
+        <!--Press-->
+        {% for entry in site.data.press %}
+            {% if entry.piece == page.title and entry.quote %}
+                <blockquote>
+                <p>
+                <span class="teaser">{{ entry.quote }}</span>
+                <cite><a href="{{ entry.link }}" target="_blank">{{ entry.publication }}</a></cite>
+                </p>
+                </blockquote>
+            {% endif %}
+        {% endfor %}
+
+        <!-- See Also -->
+        {% if page.see_also %}
+        <h4>See Also</h4>
+        {% include _works-list-see-also.html %}
+        <br>
+        {% endif %}
+
     </div><!-- /.medium-8.columns -->
 
 
@@ -125,8 +146,8 @@ header:
             </ul>
         </div>
 
-        <!--Recording-->
-        {% if page.recording %}
+        <!--Recording OLD-->
+        <!-- {% if page.recording %}
         <div class="panel radius">
             <h3>Recordings</h3>
             <ul class="no-bullet">
@@ -136,6 +157,34 @@ header:
                 {% endif %}
                 {% endfor %}
             </ul>
+        </div>
+        {% endif %} -->
+
+        <!--Recording-->
+        {% assign hasrecording = false %}
+        {% for album in site.data.discography %}
+            {% if album.piece == page.title %}
+            {% assign hasrecording = true %}
+            {% endif %}
+        {% endfor %}
+
+        {% if hasrecording == true %}
+        <div class="panel radius">
+            <h3>Recordings</h3>
+            {% for album in site.data.discography %}
+            {% if album.piece == page.title %}
+            <ul class="no-bullet" style="margin-bottom: 0;">
+                <a href="{{ album.link }}" target="_blank" style="display: block; margin-bottom: 8px;">
+                    <img src="/images/{{ album.image }}" alt="{{ album.title }} album artwork" style="width: 100%; height: auto;">
+                </a>
+                <li style="line-height: 1.3; margin-bottom: 4px;">
+                    <b><a href="{{ album.link }}" target="_blank">{{ album.title }}</a></b> 
+                    <span>({% if album.label %}{{ album.label }}, {% endif %}{{ album.year }})</span>
+                </li>
+                <li style="line-height: 1.3;">{{ album.artist }}</li>
+            </ul>
+            {% endif %}
+            {% endfor %}
         </div>
         {% endif %}
 

@@ -13,6 +13,7 @@ youtube:
 tags:
  - Literature
  - Social Justice
+hide: yes
 ---
 
 <blockquote>

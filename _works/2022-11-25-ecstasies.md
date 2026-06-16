@@ -35,6 +35,10 @@ recording:
  - image: ecstasies_artwork.jpg
    alt-text: "Ecstasies album artwork"
    url: https://ffm.to/ecstasies
+see_also:
+ - iPod Variations
+ - California Suite
+ - One Flesh
 tags:
  - Iranian Culture
  - EDM

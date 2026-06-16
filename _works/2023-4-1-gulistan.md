@@ -29,6 +29,11 @@ purchase:
 other-versions:
  - version: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
  - version: Gulistan (Version for Soprano, Cello, &amp; Piano)
+ - version: Gulistan (Version for Mezzo-Soprano &amp; Piano)
+see_also:
+ - I Will Greet the Sun Again
+ - Gelevera Deresi
+ - Morghe Sahar (Bird of Dawn)
 tags: 
  - Poetry
  - Literature

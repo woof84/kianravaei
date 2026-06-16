@@ -15,6 +15,10 @@ movements:
  - movement: III. Ella
 youtube:
  - url-code: 4H27zHCNKHI
+see_also:
+ - Blue
+ - Pluck
+ - Blessed
 tags:
  - American Folk Music
  - Mortality

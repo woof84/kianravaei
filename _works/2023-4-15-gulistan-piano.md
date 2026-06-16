@@ -1,28 +1,26 @@
 ---
 layout: work
-title: "Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)"
-instrumentation: mezzo-soprano, clarinet, &amp; piano
+title: "Gulistan (Version for Mezzo-Soprano &amp; Piano)"
+instrumentation: mezzo-soprano &amp; piano
 category_music: Voice &amp; Instrument(s)
-commissioner: Chamber Music Northwest &amp; String Theory at the Hunter
+commissioner: Chamber Music Northwest
 year_composed: 2023
-duration: 19'
-language: Azerbaijani, English, Persian
-text_writer: Azerbaijani Traditional, Maud Irving, Iranian Traditional, English Traditional
+duration: 10'
+language: Azerbaijani, English
+text_writer: Azerbaijani Traditional, Maud Irving
 movements:
  - movement: Part 1 (Sari Gelin &amp; Wildwood Flower)
- - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
-purchase:
- - title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano) Score &amp; Parts - Instant PDF Download
-   price: $80.00
-   product-key: o8Ocb
+#  - movement: Part 2 (Saye Chaman &amp; Seeds of Love)
+youtube:
+ - url-code: wXxKkiisZNw
 other-versions:
  - version: Gulistan
  - version: Gulistan (Version for Soprano, Cello, &amp; Piano)
- - version: Gulistan (Version for Mezzo-Soprano &amp; Piano)
+ - version: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
 see_also:
- - Zwei Gesänge
  - I Will Greet the Sun Again
- - Unstoppable
+ - Gelevera Deresi
+ - Morghe Sahar (Bird of Dawn)
 tags: 
  - Poetry
  - Literature
@@ -30,11 +28,12 @@ tags:
  - American Folk Music
  - Love
 ---
-
 In _Gulistan_, I bring together traditional songs from my Western and Middle Eastern heritage. The title comes from the thirteenth-century Persian poet Sa'di, whose monumental work _Gulistan_ (“flower garden” in Persian) uses flowers as a metaphor for wisdom. Folk songs may be said to represent the collective wisdom of a culture, preserving generations of values and worldviews. Inspired by Sa'di, I chose folk songs that make reference to flowers, each with different metaphorical implications.
 
 Part 1 combines the traditional Azerbaijani song “Sari Gelin” with the American folk song “Wildwood Flower.” The former describes a man helplessly longing for his distant lover, while the latter tells the story of a heartbroken woman whose lover has abandoned her. I intertwine the songs, suggesting a dialogue between two inconsolable lovers, each pining for the other. 
 
-Part 2 unites two metaphorical commentaries on the nature of love: the traditional Iranian song “Saye Chaman” and the English folk song “Seeds of Love.” I set the Iranian melody in an American folk style, and the English melody in a style evoking Iranian classical music. The melodies are often presented in counterpoint—a kind of musical metaphor for the mixture of cultures in my own life.
+<!-- Part 2 unites two metaphorical commentaries on the nature of love: the traditional Iranian song “Saye Chaman” and the English folk song “Seeds of Love.” I set the Iranian melody in an American folk style, and the English melody in a style evoking Iranian classical music. The melodies are often presented in counterpoint—a kind of musical metaphor for the mixture of cultures in my own life. -->
 
 This work was written expressly for mezzo-soprano Fleur Barron, who shares in common with me a diverse heritage comprising Eastern and Western cultures.
+
+_Note: This version only contains Part 1 (Sari Gelin & Wildwood Flower). Part 2 has not yet been arranged for mezzo-soprano & piano._
