@@ -57,9 +57,11 @@ header:
 
         <!-- See Also -->
         {% if page.see_also %}
+        <div class="hide-for-small-only">
         <h4>See Also</h4>
         {% include _works-list-see-also.html %}
         <br>
+        </div>
         {% endif %}
 
     </div><!-- /.medium-8.columns -->
@@ -373,6 +375,15 @@ header:
             {% endif %}
             {% endfor %}
         </div>
+        {% if page.see_also %}
+        <div class="show-for-small-only">
+            <h4>See Also</h4>
+            {% include _works-list-see-also.html %}
+            <br>
+            
+        </div>
+        {% endif %}
+    
 
     </div><!-- /.row -->
 </div>
