@@ -59,6 +59,11 @@ performances:
     performers: Simone Porter &amp; Jennifer Frautschi, violins, Tim Summers, viola, Raphael Bell, cello
     city_state: Charlottesville, VA
     url: https://www.cvillechambermusic.org/festival-2026.html
+  - performance_date: 15 AUG 2026
+    performance_title: Neverlands
+    venue: Willamette Valley Chamber Music Festival
+    city_state: Dayton, OR
+    url: https://www.eventbrite.com/e/concert-3-mozart-montgomery-liang-and-ravaei-archery-summit-tickets-1991735130391
   - performance_date: 25 JUL 2026
     performance_title: Love-Drunk Fantasy - Premiere
     venue: Musicfest Aberystwyth
