@@ -44,12 +44,12 @@ performances:
     url: https://www.elbphilharmonie.de/en/whats-on/lara-downes-piano/28424
     ignore_string: Variations on &quot;This Land is Your Land&quot;
   - performance_date: 4 OCT 2026
-    performance_title: New Work
+    performance_title: Before Memory
     venue: First Presbyterian Church Concert Series
     performers: Colere Quartet
     city_state: Jonesboro, Arkansas
   - performance_date: 3 OCT 2026
-    performance_title: New Work
+    performance_title: Before Memory - Premiere
     venue: Beethoven Club of Memphis
     performers: Colere Quartet
     city_state: Memphis, Tennessee

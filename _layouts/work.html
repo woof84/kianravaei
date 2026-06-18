@@ -340,41 +340,43 @@ header:
 
         <!--Performances-->
 
+    {% assign hasperformances = false %}
         {% for search in site.pages %}
-        {% if search.title == "Performances" %}
-        {% for item in search.performances %}
-        {% if item.performance_title contains page.title %}
-        {% unless page.title == item.ignore_string %}
+            {% if search.title == "Performances" %}
+                {% for item in search.performances %}
+                    {% if item.performance_title contains page.title %}
+                        {% unless page.title == item.ignore_string %}
+                            {% assign hasperformances = true %}
+                        {% endunless %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+
+        {% if hasperformances == true %}
         <div class="panel radius">
             <h3>Performances</h3>
-            {% break %}
-            {% endunless %}
-            {% endif %}
-            {% endfor %}
-            {% for item in search.performances %}
-            {% if item.performance_title contains page.title %}
-            {% unless page.title == item.ignore_string %}
-            <ul class="no-bullet">
-                <li><strong>{{ item.performance_date }}</strong></li>
-                {% if item.performance_title %}
-                <li>{{ item.performance_title }}</li>
+            {% for search in site.pages %}
+                {% if search.title == "Performances" %}
+                    {% for item in search.performances %}
+                        {% if item.performance_title contains page.title %}
+                            {% unless page.title == item.ignore_string %}
+                            <ul class="no-bullet">
+                                <li><strong>{{ item.performance_date }}</strong></li>
+                                {% if item.performance_title %}<li>{{ item.performance_title }}</li>{% endif %}
+                                {% if item.venue %}<li>{{ item.venue }}</li>{% endif %}
+                                {% if item.city_state %}<li>{{ item.city_state }}</li>{% endif %}
+                                {% if item.performers %}<li>{{ item.performers }}</li>{% endif %}
+                            </ul>
+                            {% endunless %}
+                        {% endif %}
+                    {% endfor %}
                 {% endif %}
-                {% if item.venue %}
-                <li>{{ item.venue }}</li>
-                {% endif %}
-                {% if item.city_state %}
-                <li>{{ item.city_state }}</li>
-                {% endif %}
-                {% if item.performers %}
-                <li>{{ item.performers }}</li>
-                {% endif %}
-            </ul>
-            {% endunless %}
-            {% endif %}
-            {% endfor %}
-            {% endif %}
             {% endfor %}
         </div>
+        {% endif %}
+        
+
         {% if page.see_also %}
         <div class="show-for-small-only">
             <h4 style="margin-top: 0;">See Also</h4>
@@ -382,7 +384,6 @@ header:
             <br>
         </div>
         {% endif %}
-    
 
     </div><!-- /.row -->
 </div>
