@@ -97,7 +97,7 @@ performances:
   - performance_date: 22 JUN 2026
     performance_title: Gulistan (Version for Mezzo-Soprano &amp; Piano) (Excerpt)
     venue: Süreyya Operası - Kadıköy Belediyesi
-    performers: eride Büyükdenktaş, mezzo-soprano; Saskia Giorgini, piano
+    performers: Feride Büyükdenktaş, mezzo-soprano; Saskia Giorgini, piano
     city_state: Istanbul, Turkey
     url: https://sureyyaoperasi.kadikoy.bel.tr/tr/programlar/festival-bulusmasi-906
     ignore_string: Gulistan
