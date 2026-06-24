@@ -59,6 +59,12 @@ performances:
     performers: Simone Porter &amp; Jennifer Frautschi, violins, Tim Summers, viola, Raphael Bell, cello
     city_state: Charlottesville, VA
     url: https://www.cvillechambermusic.org/festival-2026.html
+  - performance_date: 30 AUG 2026
+    performance_title: The Four Seasons of Hamadan (Excerpts)
+    venue: Arava Institute of Environmental Studies
+    city_state: Manchester, VT
+    performers: Joana Genova, violin
+    url: https://arava.org/30th-anniversary-concert/
   - performance_date: 15 AUG 2026
     performance_title: Neverlands
     venue: Willamette Valley Chamber Music Festival
