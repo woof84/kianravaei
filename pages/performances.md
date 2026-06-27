@@ -976,6 +976,11 @@ performances:
     city_state: Central City, IA
     performers: Miera Kim, violin; Carey Bostian, cello
     url: https://redcedar.org/performance-schedule/
+  - performance_date: 24 FEB 2025
+    performance_title: Ecstasies
+    venue: Seventh-day Adventist Church
+    city_state: Belgrade, Serbia
+    performers: Snježana Pavićević, flute
   - performance_date: 22 FEB 2025
     performance_title: The Little Things (excerpt)
     venue: Golden Hornet String Quartet Smackdown IX
