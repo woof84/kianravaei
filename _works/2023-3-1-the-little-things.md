@@ -35,10 +35,19 @@ awards:
     - award_year: 2024
       award_title: The ASCAP Foundation Morton Gould Young Composer Award
       award_rank: Winner
-purchase:
- - title: The Little Things Score &amp; Parts - Instant PDF Download (9 x 12)
-   price: $100.00
-   product-key: bvcL5
+# purchase:
+#  - title: The Little Things Score &amp; Parts - Instant PDF Download (9 x 12)
+#    price: $100.00
+#    product-key: 
+purchase-multi:
+  - name: Score & Parts
+    options:
+      - format: digital
+        price: $100.00
+        product-key: bvcL5
+      - format: physical
+        price: $120.00
+        product-key: P6C1b
 youtube:
  - url-code: qDz1m6paeFs
  - url-code: sOh5QknUOhg

@@ -13,10 +13,19 @@ movements:
  - movement: IV. The Peasant Dance
 youtube:
  - url-code: Tvxk_lTTCQk
-purchase:
- - title: Common Folk Score &amp; Parts - Instant PDF Download
-   price: $80.00
-   product-key: i9m1b
+# purchase:
+#  - title: Common Folk Score &amp; Parts - Instant PDF Download
+#    price: $80.00
+#    product-key: i9m1b
+purchase-multi:
+  - name: Score & Parts
+    options:
+      - format: digital
+        price: $80.00
+        product-key: i9m1b
+      - format: physical
+        price: $100.00
+        product-key: atln1
 see_also:
  - The Little Things
  - Family Photos

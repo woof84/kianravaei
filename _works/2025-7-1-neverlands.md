@@ -17,10 +17,19 @@ movements:
  - movement: VIII. Animalia (Land of Authoritarian Animals)
  - movement: IX. Mechanopolis (Land of Machine Mutiny)
  - movement: X. Homelands Pilgrimage
-purchase:
- - title: Neverlands Score &amp; Parts - Instant PDF Download
-   price: $120.00
-   product-key: L0ntW
+# purchase:
+#  - title: Neverlands Score &amp; Parts - Instant PDF Download
+#    price: $120.00
+#    product-key: L0ntW
+purchase-multi:
+  - name: Score & Parts
+    options:
+      - format: digital
+        price: $120.00
+        product-key: L0ntW
+      - format: physical
+        price: $140.00
+        product-key: PzS8t
 see_also:
  - The Little Things
  - Family Photos
