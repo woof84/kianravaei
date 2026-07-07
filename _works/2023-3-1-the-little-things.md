@@ -38,7 +38,7 @@ awards:
 # purchase:
 #  - title: The Little Things Score &amp; Parts - Instant PDF Download (9 x 12)
 #    price: $100.00
-#    product-key: 
+#    product-key: bvcL5
 purchase-multi:
   - name: Score & Parts
     options:
