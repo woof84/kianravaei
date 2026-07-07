@@ -36,6 +36,12 @@ performances:
     city_state: Saint Paul, MN
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 23 FEB 2027
+    performance_title: New Work
+    venue: Art of Elan
+    performers: WindSync
+    city_state: San Diego, CA
+    url: https://www.eventbrite.com/e/downtown-sounds-featuring-wind-sync-tickets-1993159856786?aff=ebdssbcategorybrowse
   - performance_date: 28 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Elbphilharmonie Hamburg
