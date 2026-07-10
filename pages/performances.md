@@ -93,6 +93,12 @@ performances:
     performers: Thomas Mathias, violin; Aberystwyth Philomusica; Iwan Davies, conductor
     city_state: Aberystwyth, Wales
     url: https://musicfestaberystwyth.org/events/the-land-of-youth/
+  - performance_date: 12 JUL 2026
+    performance_title: Rondo Capriccioso - Premiere
+    venue: Festival Napa Valley
+    performers: Hina &amp; Fiona
+    city_state: Napa, CA
+    url: https://festivalnapavalley.org/calendar/bya-hina-fiona/
   - performance_date: 9 JUL 2026
     performance_title: A Free People
     venue: Seattle Chamber Music Society
