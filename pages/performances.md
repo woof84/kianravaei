@@ -49,16 +49,27 @@ performances:
     city_state: Hamburg, Germany
     url: https://www.elbphilharmonie.de/en/whats-on/lara-downes-piano/28424
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 8 NOV 2026
+    performance_title: Variations on &quot;This Land is Your Land&quot;
+    venue: Blanco Performing Arts
+    performers: Julia Pautz, violin; Tina Chong, piano
+    city_state: Blanco, TX
+    url: https://www.blancoperformingarts.com/
+  - performance_date: 5 NOV 2026
+    performance_title: Variations on &quot;This Land is Your Land&quot;
+    venue: Del Mar Foundation First Thursdays
+    performers: Julia Pautz, violin; Tina Chong, piano
+    city_state: Del Mar, CA
   - performance_date: 4 OCT 2026
     performance_title: Before Memory
     venue: First Presbyterian Church Concert Series
     performers: Colere Quartet
-    city_state: Jonesboro, Arkansas
+    city_state: Jonesboro, AK
   - performance_date: 3 OCT 2026
     performance_title: Before Memory - Premiere
     venue: Beethoven Club of Memphis
     performers: Colere Quartet
-    city_state: Memphis, Tennessee
+    city_state: Memphis, TN
   - performance_date: 17 SEP 2026
     performance_title: A Free People
     venue: Charlottesville Chamber Music Festival
