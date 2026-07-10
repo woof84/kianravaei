@@ -1,3 +1,11 @@
+- title: Visions &amp; Dreams Volume 2
+  artist: Art of Elan Artists
+  year: 2026
+  label: Phenotypic Recordings
+  image: visions-and-dreams.jpg
+  link: https://phenotypicrecordings.bandcamp.com/album/visions-dreams-volume-2
+  piece: Family Photos
+
 - title: A Small Box of Melodies
   artist: Yoshika Masuda, cello; Koki Kuroiwa, piano
   year: 2026
@@ -22,12 +30,12 @@
 #   link: https://open.spotify.com/album/6dvTvstKTyc7JNhkhkZvvC?si=FojsyHGqSC-Kz1SSmIMWUg
 #   piece: The Little Things
 
-- title: Ecstasies
-  artist: Benjamin Smolen, flute
-  year: 2025
-  image: ecstasies_artwork.jpg
-  link: https://ffm.to/ecstasies
-  piece: Ecstasies
+# - title: Ecstasies
+#   artist: Benjamin Smolen, flute
+#   year: 2025
+#   image: ecstasies_artwork.jpg
+#   link: https://ffm.to/ecstasies
+#   piece: Ecstasies
 
 - title: Shapes in Collective Space
   artist: Tallā Rouge, viola duo
