@@ -15,6 +15,12 @@ performances:
     performers: James Austin Smith, oboe
     city_state: New York, NY
     url: https://www.carnegiehall.org/Calendar/2027/04/14/James-Austin-Smith-Oboe-Shai-Wosner-Piano-0730PM
+  - performance_date: 6 MAR 2027
+    performance_title: The Little Things
+    venue: Chamber Music Northwest
+    performers: Viano Quartet
+    city_state: Portland, OR
+    url: https://cmnw.org/concerts-events/2026-27-season/viano-quartet-nina-bernat/2586
   - performance_date: 1 MAR 2027
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Philadelphia Chamber Music Society
