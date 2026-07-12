@@ -35,6 +35,13 @@ performances:
     city_state: Baltimore, MD
     url: https://www.shriverconcerts.org/trioafiori
     ignore_string: Gulistan
+  - performance_date: 27 FEB 2027
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: The 92nd Street Y
+    performers: Trio Afiori (Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano)
+    city_state: New York, NY
+    url: https://www.92ny.org/event/trio-afiori
+    ignore_string: Gulistan
   - performance_date: 23 FEB 2027
     performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
     venue: Schubert Club
