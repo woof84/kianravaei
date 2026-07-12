@@ -73,6 +73,12 @@ performances:
     venue: Del Mar Foundation First Thursdays
     performers: Julia Pautz, violin; Tina Chong, piano
     city_state: Del Mar, CA
+  - performance_date: 4 NOV 2026
+    performance_title: Variations on &quot;This Land is Your Land&quot;
+    venue: Art of Elan
+    performers: Julia Pautz, violin; Tina Chong, piano
+    city_state: San Diego, CA
+    url: https://www.eventbrite.com/e/painted-prayers-tickets-1993158658201
   - performance_date: 4 OCT 2026
     performance_title: Before Memory
     venue: First Presbyterian Church Concert Series
