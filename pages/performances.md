@@ -79,6 +79,18 @@ performances:
     performers: Julia Pautz, violin; Tina Chong, piano
     city_state: San Diego, CA
     url: https://www.eventbrite.com/e/painted-prayers-tickets-1993158658201
+  - performance_date: 11 OCT 2026
+    performance_title: Unstoppable
+    venue: First Parish Sudbury
+    performers: Juventas New Music Ensemble
+    city_state: Sudbury, MA
+    url: https://www.juventasmusic.org/all-we-are
+  - performance_date: 10 OCT 2026
+    performance_title: Unstoppable
+    venue: Multicultural Arts Center
+    performers: Juventas New Music Ensemble
+    city_state: Cambridge, MA
+    url: https://www.juventasmusic.org/all-we-are
   - performance_date: 4 OCT 2026
     performance_title: Before Memory
     venue: First Presbyterian Church Concert Series
@@ -89,6 +101,12 @@ performances:
     venue: Beethoven Club of Memphis
     performers: Colere Quartet
     city_state: Memphis, TN
+  - performance_date: 26 SEP 2026
+    performance_title: Unstoppable
+    venue: Brattleboro Music Center
+    performers: Juventas New Music Ensemble
+    city_state: Brattleboro, VT
+    url: https://www.juventasmusic.org/all-we-are
   - performance_date: 17 SEP 2026
     performance_title: A Free People
     venue: Charlottesville Chamber Music Festival
@@ -101,6 +119,11 @@ performances:
     city_state: Manchester, VT
     performers: Joana Genova, violin
     url: https://arava.org/30th-anniversary-concert/
+  - performance_date: 16 AUG 2026
+    performance_title: Neverlands
+    venue: Willamette Valley Chamber Music Festival
+    city_state: Dayton, OR
+    url: https://www.eventbrite.com/e/mozarts-dissonance-wine-pairing-in-archery-summits-barrel-caves-tickets-1991946080348
   - performance_date: 15 AUG 2026
     performance_title: Neverlands
     venue: Willamette Valley Chamber Music Festival
