@@ -119,6 +119,12 @@ performances:
     city_state: Manchester, VT
     performers: Joana Genova, violin
     url: https://arava.org/30th-anniversary-concert/
+  - performance_date: 30 AUG 2026
+    performance_title: Family Photos (Excerpt)
+    venue: Sierra Madre Playhouse
+    performers: Kyle Gilner &amp; Chad Cannon, violins; Rita Andrade, viola; Niall Taro, cello
+    city_state: Sierra Madre, CA
+    url: https://www.sierramadreplayhouse.org/event/aanmi2026
   - performance_date: 16 AUG 2026
     performance_title: Neverlands
     venue: Willamette Valley Chamber Music Festival
