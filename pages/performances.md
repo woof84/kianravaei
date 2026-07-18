@@ -270,7 +270,7 @@ performances:
     venue: 9th Street Quartet String Quartet Intensive
     performers: James Post &amp; Caitlyn Park, violins; Kweku Adusei-Poku, viola; Ari McCarter, cello
     city_state: Arlington, VA
-  - performance_date: 1 AUG 2025
+  - performance_date: 11 MAY 2026
     performance_title: Pluck (Version for String Quintet)
     venue: The Rady Shell at Jacobs Park
     city_state: San Diego, CA
