@@ -125,6 +125,12 @@ performances:
     performers: Kyle Gilner &amp; Chad Cannon, violins; Rita Andrade, viola; Niall Taro, cello
     city_state: Sierra Madre, CA
     url: https://www.sierramadreplayhouse.org/event/aanmi2026
+  - performance_date: 19 AUG 2026
+    performance_title: iPod Variations
+    venue: Music from Angel Fire
+    performers: Tara Helen O'Connor, flute; Daniel Phillips, violin
+    city_state: Angel Fire, NM
+    url: https://musicfromangelfire.org/festival/2026-concerts/
   - performance_date: 16 AUG 2026
     performance_title: Neverlands
     venue: Willamette Valley Chamber Music Festival
