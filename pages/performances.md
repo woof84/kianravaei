@@ -125,6 +125,18 @@ performances:
     performers: Kyle Gilner &amp; Chad Cannon, violins; Rita Andrade, viola; Niall Taro, cello
     city_state: Sierra Madre, CA
     url: https://www.sierramadreplayhouse.org/event/aanmi2026
+  - performance_date: 29 AUG 2026
+    performance_title: The Little Things (Excerpts)
+    venue: Golden Hour Chamber Music
+    performers: Talon String Quartet
+    city_state: Glendale, CA
+    url: https://www.goldenhourchambermusic.org/concerts/event-one-rg2bh-mx2wm-3ea3j-mm7kw-7rcnt
+  - performance_date: 22 AUG 2026
+    performance_title: The Little Things (Excerpts)
+    venue: Golden Hour Chamber Music
+    performers: Talon String Quartet
+    city_state: Fullerton, CA
+    url: https://www.goldenhourchambermusic.org/concerts/event-one-rg2bh-mx2wm-3ea3j-mm7kw
   - performance_date: 19 AUG 2026
     performance_title: iPod Variations
     venue: Music from Angel Fire
@@ -141,6 +153,12 @@ performances:
     venue: Willamette Valley Chamber Music Festival
     city_state: Dayton, OR
     url: https://www.eventbrite.com/e/concert-3-mozart-montgomery-liang-and-ravaei-archery-summit-tickets-1991735130391
+  - performance_date: 1 AUG 2026
+    performance_title: The Little Things
+    venue: Private Home
+    performers: Talon String Quartet
+    city_state: Tustin, CA
+    url: https://www.instagram.com/p/DbSMlJOpi6D/
   - performance_date: 25 JUL 2026
     performance_title: Love-Drunk Fantasy - Premiere
     venue: Musicfest Aberystwyth
