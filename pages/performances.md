@@ -113,6 +113,12 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Brattleboro, VT
     url: https://www.juventasmusic.org/all-we-are
+  - performance_date: 25 SEP 2026
+    performance_title: iPod Variations
+    venue: Oxford Contemporary Music
+    performers: Standard Issue
+    city_state: Oxford, UK
+    url: https://wegottickets.com/f/23959
   - performance_date: 17 SEP 2026
     performance_title: A Free People
     venue: Charlottesville Chamber Music Festival
