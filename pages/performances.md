@@ -79,6 +79,12 @@ performances:
     performers: Julia Pautz, violin; Tina Chong, piano
     city_state: San Diego, CA
     url: https://www.eventbrite.com/e/painted-prayers-tickets-1993158658201
+  - performance_date: 27 OCT 2026
+    performance_title: Superhuman
+    venue: Willamette University
+    performers: icarus Quartet
+    city_state: Salem, OR
+    url: https://arts.willamette.edu/goudyartistseries/
   - performance_date: 11 OCT 2026
     performance_title: Unstoppable
     venue: First Parish Sudbury
