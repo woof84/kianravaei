@@ -15,6 +15,12 @@ performances:
     performers: James Austin Smith, oboe
     city_state: New York, NY
     url: https://www.carnegiehall.org/Calendar/2027/04/14/James-Austin-Smith-Oboe-Shai-Wosner-Piano-0730PM
+  - performance_date: 3 APR 2027
+    performance_title: The Little Things
+    venue: The Community MusicWorks Center
+    performers: The MusicWorks Collective
+    city_state: Providence, RI
+    url: https://communitymusicworks.org/event/the-musicworks-collective-string-quartets/
   - performance_date: 6 MAR 2027
     performance_title: The Little Things
     venue: Chamber Music Northwest
