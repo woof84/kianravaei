@@ -9,6 +9,11 @@ performances:
     performers: Los Angeles Chamber Orchestra; Jaime Martín, conductor
     city_state: Los Angeles, CA
     url: https://www.laco.org/events/brahms-beethoven-ravaei/
+  - performance_date: 15 MAY 2027
+    performance_title: Everlasting
+    venue: The Well
+    performers: OLEA Ensemble
+    city_state: Cincinnati, OH
   - performance_date: 14 APR 2027
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
@@ -61,6 +66,11 @@ performances:
     performers: WindSync
     city_state: San Diego, CA
     url: https://www.eventbrite.com/e/downtown-sounds-featuring-wind-sync-tickets-1993159856786?aff=ebdssbcategorybrowse
+  - performance_date: 7 FEB 2027
+    performance_title: Everlasting
+    venue: Constellation
+    performers: OLEA Ensemble
+    city_state: Chicago, IL
   - performance_date: 28 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Elbphilharmonie Hamburg
