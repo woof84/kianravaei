@@ -118,6 +118,7 @@ performances:
     venue: First Presbyterian Church Concert Series
     performers: Colere Quartet
     city_state: Jonesboro, AK
+    url: https://colerequartet.com/new-events/2026/8/29/first-presbyterian-church-concert-series
   - performance_date: 3 OCT 2026
     performance_title: Before Memory - Premiere
     venue: Beethoven Club of Memphis
