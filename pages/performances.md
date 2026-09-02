@@ -61,7 +61,7 @@ performances:
     url: https://schubert.org/event/trio-afiori/
     ignore_string: Gulistan
   - performance_date: 23 FEB 2027
-    performance_title: New Work
+    performance_title: Freedom Is the Thing with Feathers
     venue: Art of Elan
     performers: WindSync
     city_state: San Diego, CA
