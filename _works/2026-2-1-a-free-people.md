@@ -4,7 +4,7 @@ title: "A Free People"
 instrumentation: string quartet &amp; narrator
 year_composed: 2026
 category_music: Chamber Ensemble
-duration: 20'
+duration: 21'
 commissioner: Mimir Chamber Music Festival, Seattle Chamber Music Society, and The Charlottesville Chamber Music Festival
 movements:
  - movement: I. Opening
