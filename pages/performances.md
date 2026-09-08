@@ -139,7 +139,7 @@ performances:
   - performance_date: 17 SEP 2026
     performance_title: A Free People
     venue: Charlottesville Chamber Music Festival
-    performers: Simone Porter &amp; Jennifer Frautschi, violins, Tim Summers, viola, Raphael Bell, cello
+    performers: Doug Schneider, narrator; Simone Porter &amp; Jennifer Frautschi, violins, Tim Summers, viola, Raphael Bell, cello
     city_state: Charlottesville, VA
     url: https://www.cvillechambermusic.org/festival-2026.html
   - performance_date: 30 AUG 2026
@@ -208,7 +208,7 @@ performances:
   - performance_date: 9 JUL 2026
     performance_title: A Free People
     venue: Seattle Chamber Music Society
-    performers: Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
+    performers: R. Hamilton Wright, narrator; Amy Schwartz Moretti &amp; Andrew Wan, violins; Milena Pajaro-van de Stadt, viola; Efe Baltacigil, cello
     city_state: Seattle, WA
     url: https://www.seattlechambermusic.org/events/july-9-2026/
   - performance_date: 9 JUL 2026
@@ -220,7 +220,7 @@ performances:
   - performance_date: 3 JUL 2026
     performance_title: A Free People
     venue: Mimir Chamber Music Festival
-    performers: Jun Iwasaki &amp; Curt Thompson, violins; Joan DerHovsepian, viola; Brant Taylor, cello
+    performers: Mike Snyder, narrator; Jun Iwasaki &amp; Curt Thompson, violins; Joan DerHovsepian, viola; Brant Taylor, cello
     city_state: Fort Worth, TX
     url: https://www.mimirfestival.org/event-detail/7-3-2026-123-concert-2.html
   - performance_date: 30 JUN 2026
