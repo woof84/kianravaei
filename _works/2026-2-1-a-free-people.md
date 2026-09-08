@@ -11,6 +11,8 @@ movements:
  - movement: II. Indictment
  - movement: III. Of Bondage and Freedom
  - movement: IV. Declaration
+youtube:
+ - url-code: 4lpP-TRZvaw
 see_also:
  - The Little Things
  - Family Photos
