@@ -139,7 +139,7 @@ performances:
   - performance_date: 17 SEP 2026
     performance_title: A Free People
     venue: Charlottesville Chamber Music Festival
-    performers: Doug Schneider, narrator; Simone Porter &amp; Jennifer Frautschi, violins, Tim Summers, viola, Raphael Bell, cello
+    performers: Doug Schneider, narrator; Simone Porter &amp; Jennifer Frautschi, violins; Tim Summers, viola; Raphael Bell, cello
     city_state: Charlottesville, VA
     url: https://www.cvillechambermusic.org/festival-2026.html
   - performance_date: 30 AUG 2026
