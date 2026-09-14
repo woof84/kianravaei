@@ -84,6 +84,12 @@ performances:
     performers: Julia Pautz, violin; Tina Chong, piano
     city_state: Blanco, TX
     url: https://www.blancoperformingarts.com/
+  - performance_date: 8 NOV 2026
+    performance_title: Ecstasies
+    venue: Zürcher Gallery
+    performers: Eva Ding, flute
+    city_state: New York, NY
+    url: https://www.galeriezurcher.com/november-8-2026-koe-duo
   - performance_date: 5 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot;
     venue: Del Mar Foundation First Thursdays
