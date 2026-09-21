@@ -113,6 +113,11 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Sudbury, MA
     url: https://www.juventasmusic.org/all-we-are
+  - performance_date: 11 OCT 2026
+    performance_title: Navazi
+    venue: Glass Clouds Ensemble
+    performers: Noémie Chemali &amp; Carrie Frey, violas
+    city_state: New York, NY
   - performance_date: 10 OCT 2026
     performance_title: Unstoppable
     venue: Multicultural Arts Center
