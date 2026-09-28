@@ -467,6 +467,11 @@ performances:
     venue: Lewis University
     performers: Metropolitan Youth Symphony Orchestra; Peter Lipari, conductor
     city_state: Romeoville, IL
+  - performance_date: 22 FEB 2026
+    performance_title: Ecstasies
+    venue: Eugene Difficult Music Ensemble
+    performers: Fedor Chayka, Flute
+    city_state: Portland, OR
   - performance_date: 21 FEB 2026
     performance_title: Outcry
     venue: Bowling Green State University Praecepta Mini-Fest
