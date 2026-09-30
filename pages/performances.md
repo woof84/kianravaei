@@ -14,6 +14,18 @@ performances:
     venue: The Well
     performers: OLEA Ensemble
     city_state: Cincinnati, OH
+  - performance_date: 9 MAY 2027
+    performance_title: Romance (After Layla and Majnun)
+    venue: Musica del Vivo
+    performers: Chiara De Santis, cello; Jacopo Feresin, piano
+    city_state: Rome, Italy
+    url: https://www.musicadelvivo.it/evento/tra-memoria-e-metamorfosi/
+  - performance_date: 9 MAY 2027
+    performance_title: Marvels of Creatures and Strange Things Existing (Excerpt)
+    venue: Musica del Vivo
+    performers: Jacopo Feresin, piano
+    city_state: Rome, Italy
+    url: https://www.musicadelvivo.it/evento/tra-memoria-e-metamorfosi/
   - performance_date: 14 APR 2027
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
