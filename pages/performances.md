@@ -26,6 +26,12 @@ performances:
     performers: Jacopo Feresin, piano
     city_state: Rome, Italy
     url: https://www.musicadelvivo.it/evento/tra-memoria-e-metamorfosi/
+  - performance_date: 2 MAY 2027
+    performance_title: Freedom Is the Thing with Feathers
+    venue: Midtown Arts and Theater Center Houston
+    performers: WindSync
+    city_state: Houston, TX
+    url: https://www.windsync.org/houston.html
   - performance_date: 14 APR 2027
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
@@ -205,6 +211,11 @@ performances:
     venue: Willamette Valley Chamber Music Festival
     city_state: Dayton, OR
     url: https://www.eventbrite.com/e/mozarts-dissonance-wine-pairing-in-archery-summits-barrel-caves-tickets-1991946080348
+  - performance_date: 16 AUG 2026
+    performance_title: Neverlands (Excerpts)
+    venue: Tenby International Music Festival
+    city_state: Tenby, Wales
+    performers: Thomas Mathias &amp; Hana Mizuta-Spencer, violins; Gordon Cervoni, viola; Zachary Owen, cello
   - performance_date: 15 AUG 2026
     performance_title: Neverlands
     venue: Willamette Valley Chamber Music Festival
