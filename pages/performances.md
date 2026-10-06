@@ -142,6 +142,16 @@ performances:
     performers: Juventas New Music Ensemble
     city_state: Cambridge, MA
     url: https://www.juventasmusic.org/all-we-are
+  - performance_date: 8 OCT 2026
+    performance_title: Los Angeles Chamber Orchestra Sound Investment Salon 1
+    venue: Los Angeles Chamber Orchestra
+    performers: Kian Ravaei, speaker
+    city_state: Los Angeles, CA
+  - performance_date: 7 OCT 2026
+    performance_title: Ecstasies
+    venue: University of the Pacific
+    performers: Brittany Trotter, flute
+    city_state: Stockton, CA
   - performance_date: 4 OCT 2026
     performance_title: Before Memory
     venue: First Presbyterian Church Concert Series
