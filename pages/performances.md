@@ -84,6 +84,13 @@ performances:
     performers: WindSync
     city_state: San Diego, CA
     url: https://www.eventbrite.com/e/downtown-sounds-featuring-wind-sync-tickets-1993159856786?aff=ebdssbcategorybrowse
+  - performance_date: 21 FEB 2027
+    performance_title: Gulistan (Version for Mezzo-Soprano, Clarinet, &amp; Piano)
+    venue: Howland Chamber Music Circle
+    performers: Trio Afiori (Fleur Barron, mezzo-soprano; Anthony McGill, clarinet; Gloria Chien, piano)
+    city_state: Beacon, NY
+    url: https://howlandmusic.org/events/trio-afiori/
+    ignore_string: Gulistan
   - performance_date: 7 FEB 2027
     performance_title: Everlasting
     venue: Constellation
