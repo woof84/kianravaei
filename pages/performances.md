@@ -89,6 +89,11 @@ performances:
     venue: Constellation
     performers: OLEA Ensemble
     city_state: Chicago, IL
+  - performance_date: 13 DEC 2026
+    performance_title: Parvāneh
+    venue: NuovoSound Ensemble
+    city_state: Fort Worth, TX
+    url: https://www.eventbrite.com/e/fearless-and-festive-nuovosound-ensemble-fall-2026-concert-tickets-2003175994323
   - performance_date: 28 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot; (Version for Solo Piano)
     venue: Elbphilharmonie Hamburg
