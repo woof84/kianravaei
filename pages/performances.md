@@ -137,6 +137,11 @@ performances:
     performers: icarus Quartet
     city_state: Salem, OR
     url: https://arts.willamette.edu/goudyartistseries/
+  - performance_date: 14 OCT 2026
+    performance_title: Navazi
+    venue: Oberlin College &amp; Conservatory
+    performers: Tallā Rouge
+    city_state: Oberlin, OH
   - performance_date: 11 OCT 2026
     performance_title: Unstoppable
     venue: First Parish Sudbury
