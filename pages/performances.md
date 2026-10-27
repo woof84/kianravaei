@@ -142,6 +142,11 @@ performances:
     performers: icarus Quartet
     city_state: Salem, OR
     url: https://arts.willamette.edu/goudyartistseries/
+  - performance_date: 24 OCT 2026
+    performance_title: Ecstasies
+    venue: Flute New Music Consortium New Music Festival
+    performers: Brittany Trotter, Flute
+    city_state: Oklahoma City, OK
   - performance_date: 14 OCT 2026
     performance_title: Navazi
     venue: Oberlin College &amp; Conservatory
