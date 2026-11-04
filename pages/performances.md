@@ -38,6 +38,12 @@ performances:
     performers: James Austin Smith, oboe
     city_state: New York, NY
     url: https://www.carnegiehall.org/Calendar/2027/04/14/James-Austin-Smith-Oboe-Shai-Wosner-Piano-0730PM
+  - performance_date: 11 APR 2027
+    performance_title: Freedom Is the Thing with Feathers
+    venue: Concerts at the Point
+    performers: WindSync
+    city_state: Westport Point, MA
+    url: https://concertsatthepoint.org/product/windsync-wind-quintet-april-11-2027/
   - performance_date: 3 APR 2027
     performance_title: The Little Things
     venue: The Community MusicWorks Center
