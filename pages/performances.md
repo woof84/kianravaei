@@ -119,6 +119,11 @@ performances:
     city_state: Hamburg, Germany
     url: https://www.elbphilharmonie.de/en/whats-on/lara-downes-piano/28424
     ignore_string: Variations on &quot;This Land is Your Land&quot;
+  - performance_date: 19 NOV 2026
+    performance_title: Chāhār Mezrābe Māhur
+    venue: Holy Trinity Lutheran Church
+    performers: Sathvi Ramaseshan, violin; Athos Maelstrom, cello
+    city_state: New York, NY
   - performance_date: 8 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot;
     venue: Blanco Performing Arts
