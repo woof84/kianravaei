@@ -50,6 +50,11 @@ performances:
     performers: The MusicWorks Collective
     city_state: Providence, RI
     url: https://communitymusicworks.org/event/the-musicworks-collective-string-quartets/
+  - performance_date: 14 MAR 2027
+    performance_title: Family Photos
+    venue: Chamber Music Rochester
+    city_state: Rochester, NY
+    url: https://www.chambermusicrochester.org/concerts
   - performance_date: 6 MAR 2027
     performance_title: The Little Things
     venue: Chamber Music Northwest
@@ -124,6 +129,18 @@ performances:
     venue: Holy Trinity Lutheran Church
     performers: Sathvi Ramaseshan, violin; Athos Maelstrom, cello
     city_state: New York, NY
+  - performance_date: 16 NOV 2026
+    performance_title: I Will Greet the Sun Again
+    venue: Festival LIFE Victoria
+    performers: Cameron Shahbazi, countertenor; Jeff Cohen, piano
+    city_state: Barcelona, Spain
+    url: https://www.youtube.com/watch?v=jnSxG_5KW6s
+  - performance_date: 12 NOV 2026
+    performance_title: The Little Things
+    venue: Millennium Stage at The Kennedy Center
+    performers: The U.S. Air Force Band Air Force Strings
+    city_state: Washington, D.C.
+    url: https://www.kennedy-center.org/whats-on/millennium-stage/2026/november/united-states-air-force-band/
   - performance_date: 8 NOV 2026
     performance_title: Variations on &quot;This Land is Your Land&quot;
     venue: Blanco Performing Arts
