@@ -3,6 +3,11 @@ layout: default
 title: "Performances"
 permalink: "/performances/"
 performances:
+  - performance_date: 28 JUL 2027
+    performance_title: Family Photos
+    venue: Anchorage Chamber Music Festival
+    city_state: Anchorage, AK
+    url: https://www.anchoragechambermusicfestival.org/calendar/eastern
   - performance_date: 15 MAY 2027
     performance_title: New Work
     venue: Zipper Hall at the Colburn School
