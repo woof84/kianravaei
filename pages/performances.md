@@ -107,6 +107,11 @@ performances:
     city_state: Beacon, NY
     url: https://howlandmusic.org/events/trio-afiori/
     ignore_string: Gulistan
+  - performance_date: 11 FEB 2027
+    performance_title: Los Angeles Chamber Orchestra Sound Investment Salon 3
+    venue: Los Angeles Chamber Orchestra
+    performers: Kian Ravaei, speaker
+    city_state: Los Angeles, CA
   - performance_date: 7 FEB 2027
     performance_title: Everlasting
     venue: Constellation
