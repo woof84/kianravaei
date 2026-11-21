@@ -37,6 +37,12 @@ performances:
     performers: WindSync
     city_state: Houston, TX
     url: https://www.windsync.org/houston.html
+  - performance_date: 27 APR 2027
+    performance_title: Freedom Is the Thing with Feathers
+    venue: Berkeley Chamber Performances
+    performers: WindSync
+    city_state: Berkeley, CA
+    url: https://www.berkeleychamberperform.org/ensemble-windsync
   - performance_date: 14 APR 2027
     performance_title: New Work
     venue: Weill Recital Hall at Carnegie Hall
